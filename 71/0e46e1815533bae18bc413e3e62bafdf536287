@@ -1,0 +1,31 @@
+tsconfig.tsbuildinfo
+  s_60e7cc864553d3::t_8cefb0d0b5c804 1
+prisma/migrations/20260906181249_init/migration.sql
+  s_60e7cc864553d3::t_6bcfb466dc390f 1-79
+src/app/referees/page.tsx
+  s_60e7cc864553d3::t_3a864a6b5335a9 1-40
+tsconfig.json
+  s_60e7cc864553d3::t_d8c77dea3b7d66 1-41
+package-lock.json
+  s_60e7cc864553d3::t_6ea2af09de126d 1-9405
+prisma/migrations/migration_lock.toml
+  s_60e7cc864553d3::t_ea984fed4162ac 1-3
+prisma/migrations/20260907140044_add_temporada_info/migration.sql
+  s_60e7cc864553d3::t_7452ce92e902e6 1-15
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.2",
+  "base_commit_sha": "710e46e1815533bae18bc413e3e62bafdf536287",
+  "prompts": {},
+  "sessions": {
+    "s_60e7cc864553d3": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "8ca0f30e-8808-40fc-bbf0-e4c1a712076f",
+        "model": "claude-sonnet-5"
+      },
+      "human_author": "Ignacio Torres Ciutat <ignacio.torres@pyara1593.fibertel.com.ar>"
+    }
+  }
+}
