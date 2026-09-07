@@ -1,0 +1,22 @@
+@import "tailwindcss";
+
+:root {
+  color-scheme: light;
+}
+
+/* paleta del club (tomada del escudo real): base blanca limpia, azul como
+   color principal, naranja reservado solo para detalles/acentos puntuales */
+@theme {
+  --color-navy: #003868;
+  --color-navy-dark: #002140;
+  --color-navy-light: #e6edf3;
+  --color-orange: #f89c38;
+  --color-orange-dark: #8a5a12;
+  --color-orange-light: #fdf0da;
+}
+
+html,
+body {
+  background-color: #ffffff;
+  color: var(--color-navy-dark);
+}

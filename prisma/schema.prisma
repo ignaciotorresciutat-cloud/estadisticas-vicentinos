@@ -1,0 +1,100 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+}
+
+model Club {
+  id             Int       @id @default(autoincrement())
+  nombreCanonico String    @unique
+  partidos       Partido[] @relation("Rival")
+}
+
+model Jugador {
+  id              Int             @id @default(autoincrement())
+  nombreCanonico  String          @unique
+  vicentinoN      Int?            @unique
+  camada          Int?
+  // false para entradas placeholder que no son personas reales:
+  // PENAL, SCRUM, TRY PENAL, TRY SCRUM, REUBICACION GRUPO III
+  esJugadorReal   Boolean         @default(true)
+  participaciones Participacion[] @relation("Jugador")
+  reemplazos      Participacion[] @relation("Reemplazo")
+  puntos          Puntuacion[]
+  tarjetas        Tarjeta[]
+}
+
+model Partido {
+  id              Int             @id @default(autoincrement())
+  fecha           DateTime
+  // texto original cuando la fecha traía una anotación en el excel,
+  // ej. "9/3/2024 (FECHA 2 ADELANTADA)"
+  fechaNota       String?
+  temporada       Int
+  rivalId         Int
+  rival           Club            @relation("Rival", fields: [rivalId], references: [id])
+  condicion       String // "LOCAL" | "VISITANTE"
+  resultadoPropio Int
+  resultadoRival  Int
+  cancha          String?
+  clima           String?
+  campoDeJuego    String?
+  referee         String?
+  // sin dato por partido en el excel crudo; nullable a completar a mano si hace falta
+  categoria       String?
+  participaciones Participacion[]
+  puntos          Puntuacion[]
+  tarjetas        Tarjeta[]
+}
+
+model Participacion {
+  id             Int      @id @default(autoincrement())
+  partidoId      Int
+  partido        Partido  @relation(fields: [partidoId], references: [id])
+  jugadorId      Int
+  jugador        Jugador  @relation("Jugador", fields: [jugadorId], references: [id])
+  rol            String // "TITULAR" | "SUPLENTE"
+  numeroCamiseta Int? // 1-15, solo titulares
+  // dato incompleto antes de ~2018 (ver caveats del brief)
+  capitan        Boolean  @default(false)
+  ingresoPorId   Int?
+  ingresoPor     Jugador? @relation("Reemplazo", fields: [ingresoPorId], references: [id])
+
+  @@unique([partidoId, jugadorId])
+}
+
+model Puntuacion {
+  id        Int     @id @default(autoincrement())
+  partidoId Int
+  partido   Partido @relation(fields: [partidoId], references: [id])
+  jugadorId Int
+  jugador   Jugador @relation(fields: [jugadorId], references: [id])
+  tipo      String // "TRY" | "CONVERSION" | "PENAL" | "DROP"
+  cantidad  Int
+}
+
+model Tarjeta {
+  id        Int     @id @default(autoincrement())
+  partidoId Int
+  partido   Partido @relation(fields: [partidoId], references: [id])
+  jugadorId Int
+  jugador   Jugador @relation(fields: [jugadorId], references: [id])
+  tipo      String // "AMARILLA" | "ROJA"
+}
+
+// resultado deportivo de la temporada (torneo, posición, ascensos/descensos).
+// independiente de Partido a propósito: para poder cargar campañas viejas
+// (ej. antes de 2017) aunque no tengamos el detalle partido a partido.
+model TemporadaInfo {
+  id          Int     @id @default(autoincrement())
+  temporada   Int     @unique
+  torneo      String? // "Grupo IV", "Primera C", "Primera B"... null si no hubo torneo (2020, pandemia)
+  posicion    Int? // posición final en la tabla; null si no aplica (ascenso directo 2014-16, pandemia, en curso)
+  rankingUrba Int?
+  campeon     Boolean @default(false)
+  ascenso     Boolean @default(false)
+  descenso    Boolean @default(false)
+  nota        String? // texto libre: "Pandemia", "En curso", etc.
+}

@@ -1,0 +1,17 @@
+/node_modules
+/.next/
+/out/
+/build
+.DS_Store
+*.pem
+.env*.local
+.env
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+.pnpm-debug.log*
+next-env.d.ts
+# dev.db SÍ se versiona/despliega a propósito: es la fuente de datos que
+# lee la app en producción (el sitio nunca escribe en runtime).
+/prisma/dev.db-journal
+.vercel
