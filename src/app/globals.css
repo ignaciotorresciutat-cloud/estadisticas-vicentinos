@@ -1,0 +1,41 @@
+@import url("https://fonts.googleapis.com/css2?family=Archivo:wght@400;500;600;700;800&family=IBM+Plex+Mono:wght@400;600&display=swap");
+@import "tailwindcss";
+
+:root {
+  color-scheme: light;
+}
+
+/* paleta del club (tomada del escudo real): base blanca limpia, azul como
+   color principal, naranja reservado solo para detalles/acentos puntuales.
+   Regla de contraste no negociable: --color-orange solo como fondo, o como
+   texto sobre navy. Para texto naranja sobre blanco, usar --color-orange-dark. */
+@theme {
+  --color-navy: #003868;
+  --color-navy-dark: #002140;
+  --color-navy-light: #e6edf3;
+  --color-orange: #f89c38;
+  --color-orange-dark: #8a5a12;
+  --color-orange-light: #fdf0da;
+  --color-ink: #46658a;
+  --color-derrota: #9c2b1f;
+  --color-empate: #c3d0dd;
+  --color-amarilla: #f2c230;
+  --color-campeon-row: rgba(248, 156, 56, 0.07);
+  --color-border: rgba(0, 56, 104, 0.13);
+  --color-separador: rgba(0, 56, 104, 0.09);
+  --color-table-head: rgba(0, 56, 104, 0.05);
+  --font-sans: "Archivo", ui-sans-serif, system-ui, sans-serif;
+  --font-mono: "IBM Plex Mono", ui-monospace, monospace;
+}
+
+html,
+body {
+  background-color: #ffffff;
+  color: var(--color-navy-dark);
+  font-family: var(--font-sans);
+}
+
+.font-mono,
+.tabular-nums {
+  font-variant-numeric: tabular-nums;
+}

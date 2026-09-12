@@ -1,0 +1,96 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "sqlite"
+}
+
+model Club {
+  id             Int       @id @default(autoincrement())
+  nombreCanonico String    @unique
+  partidos       Partido[] @relation("PartidoRival")
+}
+
+model Jugador {
+  id             Int      @id @default(autoincrement())
+  nombreCanonico String   @unique
+  vicentinoN     Int?     @unique
+  camada         Int?
+  esJugadorReal  Boolean  @default(true)
+
+  participaciones Participacion[] @relation("ParticipacionJugador")
+  ingresosPor     Participacion[] @relation("ParticipacionIngresoPor")
+  puntos          Puntuacion[]
+  tarjetas        Tarjeta[]
+}
+
+model Partido {
+  id              Int      @id @default(autoincrement())
+  fecha           DateTime
+  fechaNota       String?
+  temporada       Int
+  rivalId         Int
+  condicion       String
+  resultadoPropio Int
+  resultadoRival  Int
+  cancha          String?
+  clima           String?
+  campoDeJuego    String?
+  referee         String?
+  categoria       String?
+
+  rival           Club            @relation("PartidoRival", fields: [rivalId], references: [id], onDelete: Restrict, onUpdate: Cascade)
+  participaciones Participacion[]
+  puntos          Puntuacion[]
+  tarjetas        Tarjeta[]
+}
+
+model Participacion {
+  id             Int     @id @default(autoincrement())
+  partidoId      Int
+  jugadorId      Int
+  rol            String
+  numeroCamiseta Int?
+  capitan        Boolean @default(false)
+  ingresoPorId   Int?
+
+  partido    Partido  @relation(fields: [partidoId], references: [id], onDelete: Restrict, onUpdate: Cascade)
+  jugador    Jugador  @relation("ParticipacionJugador", fields: [jugadorId], references: [id], onDelete: Restrict, onUpdate: Cascade)
+  ingresoPor Jugador? @relation("ParticipacionIngresoPor", fields: [ingresoPorId], references: [id], onDelete: SetNull, onUpdate: Cascade)
+
+  @@unique([partidoId, jugadorId])
+}
+
+model Puntuacion {
+  id        Int    @id @default(autoincrement())
+  partidoId Int
+  jugadorId Int
+  tipo      String
+  cantidad  Int
+
+  partido Partido @relation(fields: [partidoId], references: [id], onDelete: Restrict, onUpdate: Cascade)
+  jugador Jugador @relation(fields: [jugadorId], references: [id], onDelete: Restrict, onUpdate: Cascade)
+}
+
+model Tarjeta {
+  id        Int    @id @default(autoincrement())
+  partidoId Int
+  jugadorId Int
+  tipo      String
+
+  partido Partido @relation(fields: [partidoId], references: [id], onDelete: Restrict, onUpdate: Cascade)
+  jugador Jugador @relation(fields: [jugadorId], references: [id], onDelete: Restrict, onUpdate: Cascade)
+}
+
+model TemporadaInfo {
+  id          Int     @id @default(autoincrement())
+  temporada   Int     @unique
+  torneo      String?
+  posicion    Int?
+  rankingUrba Int?
+  campeon     Boolean @default(false)
+  ascenso     Boolean @default(false)
+  descenso    Boolean @default(false)
+  nota        String?
+}
