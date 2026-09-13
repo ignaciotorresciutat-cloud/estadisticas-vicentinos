@@ -4,6 +4,24 @@ El archivo histórico del Club Vicentinos: partido a partido desde 2014, con
 formaciones, anotadores, tarjetas, fichas de jugador, cruces por rival y
 récords del club.
 
+## Empezar de cero
+
+Si esta carpeta no existe (el entorno de trabajo es una carpeta temporal que
+puede perderse entre sesiones):
+
+```bash
+git clone https://github.com/ignaciotorresciutat-cloud/estadisticas-vicentinos.git
+cd estadisticas-vicentinos
+npm install
+npm run build   # reconstruye prisma/dev.db desde data/base/ y compila
+npm run dev
+```
+
+No hace falta pedirle nada a nadie ni reprocesar ningún Excel: todo lo que
+hace falta para tener el sitio completo, con todos los datos, está en este
+repo. `git log` es la bitácora de por qué se tomó cada decisión — antes de
+repetir una discusión, vale la pena mirarlo.
+
 ## Stack
 
 - **Next.js 16** (App Router) + React 19, renderizado en servidor
@@ -81,3 +99,17 @@ En el dataset conviven dos formas de anotar el try penal: como un try solo
 (y entonces vale 7), o como un try más su conversión registrada aparte (5 + 2).
 En los dos casos suma 7 en la cancha. Por eso cualquier validación de
 "la suma de anotadores coincide con el resultado" tiene que aceptar ambas.
+
+## Pendientes conocidos
+
+- **13 partidos cuya suma de anotadores no cierra** con ninguna de las dos
+  reglas de arriba (datos incompletos, probablemente falta cargar algún
+  punto). Se dejó así a propósito el 12/09 para no tocar sin confirmar cada
+  caso con el club. `npm run db:verificar` los lista siempre actualizados,
+  junto con cualquier otro que aparezca — no hace falta buscarlos a mano acá.
+- **3 fechas con dos partidos el mismo día** (típico typo de fecha en la
+  carga original): 2022-07-09, 2025-03-15, 2025-08-02. Mismo estado: sin
+  confirmar con el club todavía, aparecen en `db:verificar`.
+- **`public/temporadas/2025.jpg` pesa 5 MB** (foto de cámara sin comprimir,
+  4284×5712). No afecta datos ni build, sólo el peso de esa página para el
+  visitante. Pendiente de comprimir.
