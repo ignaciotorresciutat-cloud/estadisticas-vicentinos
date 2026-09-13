@@ -1,0 +1,3384 @@
+{
+  "temporada": 2019,
+  "info": {
+    "torneo": "Primera C",
+    "posicion": 9,
+    "rankingUrba": 49,
+    "campeon": false,
+    "ascenso": false,
+    "descenso": false,
+    "nota": null
+  },
+  "partidos": [
+    {
+      "fecha": "2019-03-23",
+      "fechaNota": null,
+      "rival": "OLD GEORGIAN",
+      "condicion": "LOCAL",
+      "resultadoPropio": 13,
+      "resultadoRival": 25,
+      "cancha": "VICENTINOS",
+      "clima": "BUENO",
+      "campoDeJuego": "BUENO",
+      "referee": "CORTES",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "JORGE BENÍTEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "IVAN CARMONA"
+        },
+        {
+          "numero": 3,
+          "jugador": "SEBASTIAN GAUNA"
+        },
+        {
+          "numero": 4,
+          "jugador": "AUGUSTO GALLOTTI"
+        },
+        {
+          "numero": 5,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 6,
+          "jugador": "RODRIGO ESMAYEL"
+        },
+        {
+          "numero": 7,
+          "jugador": "FRANCO CORSI"
+        },
+        {
+          "numero": 8,
+          "jugador": "JOSE GRUBER"
+        },
+        {
+          "numero": 9,
+          "jugador": "MARIANO CETTOUR",
+          "capitan": true
+        },
+        {
+          "numero": 10,
+          "jugador": "MARIANO LIVACHOFF"
+        },
+        {
+          "numero": 11,
+          "jugador": "AGUSTIN TRAYNOR"
+        },
+        {
+          "numero": 12,
+          "jugador": "NICOLAS MARZIALI"
+        },
+        {
+          "numero": 13,
+          "jugador": "IGNACIO TORRES CIUTAT"
+        },
+        {
+          "numero": 14,
+          "jugador": "FRANCISCO OCCHIUZZI"
+        },
+        {
+          "numero": 15,
+          "jugador": "GONZALO GREGORIO"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "PABLO FERREIRA",
+          "entraPor": "JORGE BENÍTEZ"
+        },
+        {
+          "jugador": "SANTIAGO DIAZ",
+          "entraPor": "JOSE GRUBER"
+        },
+        {
+          "jugador": "FRANCO RODRIGUEZ",
+          "entraPor": "SEBASTIAN GAUNA"
+        },
+        {
+          "jugador": "JUAN PABLO BIANCHI",
+          "entraPor": "IVAN CARMONA"
+        },
+        {
+          "jugador": "GUIDO LIVACHOFF",
+          "entraPor": "AGUSTIN TRAYNOR"
+        },
+        {
+          "jugador": "TOBIAS LUCERO",
+          "entraPor": "FRANCO CORSI"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "TOBIAS LUCERO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "GUIDO LIVACHOFF",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "FRANCISCO OCCHIUZZI",
+          "tipo": "PENAL",
+          "cantidad": 1
+        }
+      ],
+      "tarjetas": []
+    },
+    {
+      "fecha": "2019-03-30",
+      "fechaNota": null,
+      "rival": "CLUB ITALIANO",
+      "condicion": "LOCAL",
+      "resultadoPropio": 17,
+      "resultadoRival": 24,
+      "cancha": "VICENTINOS",
+      "clima": "BUENO",
+      "campoDeJuego": "BUENO",
+      "referee": "RUIBAL",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "JORGE BENÍTEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "IVAN CARMONA"
+        },
+        {
+          "numero": 3,
+          "jugador": "SEBASTIAN GAUNA"
+        },
+        {
+          "numero": 4,
+          "jugador": "SANTIAGO DIAZ"
+        },
+        {
+          "numero": 5,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 6,
+          "jugador": "RODRIGO ESMAYEL"
+        },
+        {
+          "numero": 7,
+          "jugador": "AUGUSTO GALLOTTI"
+        },
+        {
+          "numero": 8,
+          "jugador": "JOSE GRUBER"
+        },
+        {
+          "numero": 9,
+          "jugador": "MARIANO CETTOUR",
+          "capitan": true
+        },
+        {
+          "numero": 10,
+          "jugador": "MARIANO LIVACHOFF"
+        },
+        {
+          "numero": 11,
+          "jugador": "GUIDO LIVACHOFF"
+        },
+        {
+          "numero": 12,
+          "jugador": "NICOLAS MARZIALI"
+        },
+        {
+          "numero": 13,
+          "jugador": "IGNACIO TORRES CIUTAT"
+        },
+        {
+          "numero": 14,
+          "jugador": "FRANCISCO OCCHIUZZI"
+        },
+        {
+          "numero": 15,
+          "jugador": "GONZALO GREGORIO"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "PABLO FERREIRA",
+          "entraPor": "JORGE BENÍTEZ"
+        },
+        {
+          "jugador": "TOBIAS LUCERO",
+          "entraPor": "JOSE GRUBER"
+        },
+        {
+          "jugador": "FRANCO CICHERO",
+          "entraPor": "FRANCISCO COMABELLA"
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "entraPor": "NICOLAS MARZIALI"
+        },
+        {
+          "jugador": "JUAN PABLO BIANCHI",
+          "entraPor": "RODRIGO ESMAYEL"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "GUIDO LIVACHOFF",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "FRANCO CICHERO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "MARIANO LIVACHOFF",
+          "tipo": "CONVERSION",
+          "cantidad": 2
+        },
+        {
+          "jugador": "MARIANO LIVACHOFF",
+          "tipo": "PENAL",
+          "cantidad": 1
+        }
+      ],
+      "tarjetas": [
+        {
+          "jugador": "PABLO FERREIRA",
+          "tipo": "AMARILLA"
+        }
+      ]
+    },
+    {
+      "fecha": "2019-04-06",
+      "fechaNota": null,
+      "rival": "ALBATROS",
+      "condicion": "VISITANTE",
+      "resultadoPropio": 17,
+      "resultadoRival": 21,
+      "cancha": "ALBATROS",
+      "clima": "BUENO",
+      "campoDeJuego": "BUENO",
+      "referee": "FRANCISCO",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "IVAN CARMONA"
+        },
+        {
+          "numero": 2,
+          "jugador": "JUAN PABLO BIANCHI"
+        },
+        {
+          "numero": 3,
+          "jugador": "FRANCO RODRIGUEZ"
+        },
+        {
+          "numero": 4,
+          "jugador": "SANTIAGO DIAZ"
+        },
+        {
+          "numero": 5,
+          "jugador": "JOSE GRUBER"
+        },
+        {
+          "numero": 6,
+          "jugador": "RODRIGO ESMAYEL"
+        },
+        {
+          "numero": 7,
+          "jugador": "FRANCO CORSI"
+        },
+        {
+          "numero": 8,
+          "jugador": "TOBIAS LUCERO"
+        },
+        {
+          "numero": 9,
+          "jugador": "MARIANO CETTOUR",
+          "capitan": true
+        },
+        {
+          "numero": 10,
+          "jugador": "MARIANO LIVACHOFF"
+        },
+        {
+          "numero": 11,
+          "jugador": "GUIDO LIVACHOFF"
+        },
+        {
+          "numero": 12,
+          "jugador": "NICOLAS MARZIALI"
+        },
+        {
+          "numero": 13,
+          "jugador": "IGNACIO TORRES CIUTAT"
+        },
+        {
+          "numero": 14,
+          "jugador": "FRANCISCO OCCHIUZZI"
+        },
+        {
+          "numero": 15,
+          "jugador": "GONZALO GREGORIO"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "PABLO FERREIRA",
+          "entraPor": "RODRIGO ESMAYEL"
+        },
+        {
+          "jugador": "FRANCO CICHERO",
+          "entraPor": "IVAN CARMONA"
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "entraPor": "NICOLAS MARZIALI"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "FRANCISCO OCCHIUZZI",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "FRANCO RODRIGUEZ",
+          "tipo": "TRY",
+          "cantidad": 2
+        },
+        {
+          "jugador": "MARIANO LIVACHOFF",
+          "tipo": "CONVERSION",
+          "cantidad": 1
+        }
+      ],
+      "tarjetas": [
+        {
+          "jugador": "RODRIGO ESMAYEL",
+          "tipo": "AMARILLA"
+        }
+      ]
+    },
+    {
+      "fecha": "2019-04-13",
+      "fechaNota": null,
+      "rival": "GEBA",
+      "condicion": "LOCAL",
+      "resultadoPropio": 15,
+      "resultadoRival": 29,
+      "cancha": "VICENTINOS",
+      "clima": "BUENO",
+      "campoDeJuego": "BUENO",
+      "referee": "LALANNE",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "IVAN CARMONA"
+        },
+        {
+          "numero": 2,
+          "jugador": "JUAN PABLO BIANCHI"
+        },
+        {
+          "numero": 3,
+          "jugador": "FRANCO RODRIGUEZ"
+        },
+        {
+          "numero": 4,
+          "jugador": "SANTIAGO DIAZ"
+        },
+        {
+          "numero": 5,
+          "jugador": "JOSE GRUBER"
+        },
+        {
+          "numero": 6,
+          "jugador": "RODRIGO ESMAYEL"
+        },
+        {
+          "numero": 7,
+          "jugador": "FRANCO CICHERO"
+        },
+        {
+          "numero": 8,
+          "jugador": "TOBIAS LUCERO"
+        },
+        {
+          "numero": 9,
+          "jugador": "MARIANO CETTOUR",
+          "capitan": true
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN MATIAS TRAYNOR"
+        },
+        {
+          "numero": 11,
+          "jugador": "GUIDO LIVACHOFF"
+        },
+        {
+          "numero": 12,
+          "jugador": "NICOLAS MARZIALI"
+        },
+        {
+          "numero": 13,
+          "jugador": "MARIANO LIVACHOFF"
+        },
+        {
+          "numero": 14,
+          "jugador": "FRANCISCO OCCHIUZZI"
+        },
+        {
+          "numero": 15,
+          "jugador": "GONZALO GREGORIO"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "entraPor": "NICOLAS MARZIALI"
+        },
+        {
+          "jugador": "HUGO PEDEMONTE",
+          "entraPor": "JUAN PABLO BIANCHI"
+        },
+        {
+          "jugador": "MATIAS TRAYNOR",
+          "entraPor": "IVAN CARMONA"
+        },
+        {
+          "jugador": "JORGE BENÍTEZ",
+          "entraPor": "FRANCO RODRIGUEZ"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "MARIANO LIVACHOFF",
+          "tipo": "TRY",
+          "cantidad": 2
+        },
+        {
+          "jugador": "FRANCISCO OCCHIUZZI",
+          "tipo": "CONVERSION",
+          "cantidad": 1
+        },
+        {
+          "jugador": "FRANCISCO OCCHIUZZI",
+          "tipo": "PENAL",
+          "cantidad": 1
+        }
+      ],
+      "tarjetas": [
+        {
+          "jugador": "MATIAS TRAYNOR",
+          "tipo": "AMARILLA"
+        }
+      ]
+    },
+    {
+      "fecha": "2019-04-27",
+      "fechaNota": null,
+      "rival": "ATLÉTICO Y PROGRESO",
+      "condicion": "VISITANTE",
+      "resultadoPropio": 17,
+      "resultadoRival": 20,
+      "cancha": "AT:Y PROGRESO",
+      "clima": "LLOVIZNA",
+      "campoDeJuego": "BUENO",
+      "referee": "CHIARLO ( reemplaza a ACHAVAL)",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "IVAN CARMONA"
+        },
+        {
+          "numero": 2,
+          "jugador": "JUAN PABLO BIANCHI"
+        },
+        {
+          "numero": 3,
+          "jugador": "FRANCO RODRIGUEZ"
+        },
+        {
+          "numero": 4,
+          "jugador": "SANTIAGO DIAZ"
+        },
+        {
+          "numero": 5,
+          "jugador": "JOSE GRUBER"
+        },
+        {
+          "numero": 6,
+          "jugador": "RODRIGO ESMAYEL"
+        },
+        {
+          "numero": 7,
+          "jugador": "FRANCO CICHERO"
+        },
+        {
+          "numero": 8,
+          "jugador": "TOBIAS LUCERO"
+        },
+        {
+          "numero": 9,
+          "jugador": "MARIANO CETTOUR",
+          "capitan": true
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN MATIAS TRAYNOR"
+        },
+        {
+          "numero": 11,
+          "jugador": "GUIDO LIVACHOFF"
+        },
+        {
+          "numero": 12,
+          "jugador": "NICOLAS MARZIALI"
+        },
+        {
+          "numero": 13,
+          "jugador": "MARIANO LIVACHOFF"
+        },
+        {
+          "numero": 14,
+          "jugador": "FRANCISCO OCCHIUZZI"
+        },
+        {
+          "numero": 15,
+          "jugador": "GONZALO GREGORIO"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "entraPor": "NICOLAS MARZIALI"
+        },
+        {
+          "jugador": "HUGO PEDEMONTE",
+          "entraPor": "FRANCO RODRIGUEZ"
+        },
+        {
+          "jugador": "MATIAS TRAYNOR",
+          "entraPor": "JUAN PABLO BIANCHI"
+        },
+        {
+          "jugador": "JORGE BENÍTEZ",
+          "entraPor": "IVAN CARMONA"
+        },
+        {
+          "jugador": "OCTAVIO TALLARICO",
+          "entraPor": "RODRIGO ESMAYEL"
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "entraPor": "GUIDO LIVACHOFF"
+        },
+        {
+          "jugador": "FEDERICO PITTALA",
+          "entraPor": "MARIANO LIVACHOFF"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "FRANCO CICHERO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "FRANCISCO OCCHIUZZI",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "FRANCISCO OCCHIUZZI",
+          "tipo": "CONVERSION",
+          "cantidad": 2
+        },
+        {
+          "jugador": "FRANCISCO OCCHIUZZI",
+          "tipo": "PENAL",
+          "cantidad": 1
+        }
+      ],
+      "tarjetas": [
+        {
+          "jugador": "FRANCO CICHERO",
+          "tipo": "AMARILLA"
+        }
+      ]
+    },
+    {
+      "fecha": "2019-05-04",
+      "fechaNota": null,
+      "rival": "ST BRENDAN'S",
+      "condicion": "LOCAL",
+      "resultadoPropio": 27,
+      "resultadoRival": 32,
+      "cancha": "VICENTINOS",
+      "clima": "BUENO",
+      "campoDeJuego": "MUY BUENO",
+      "referee": "EUSEBIO",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "IVAN CARMONA"
+        },
+        {
+          "numero": 2,
+          "jugador": "JUAN PABLO BIANCHI"
+        },
+        {
+          "numero": 3,
+          "jugador": "FRANCO RODRIGUEZ"
+        },
+        {
+          "numero": 4,
+          "jugador": "SANTIAGO DIAZ"
+        },
+        {
+          "numero": 5,
+          "jugador": "OCTAVIO TALLARICO"
+        },
+        {
+          "numero": 6,
+          "jugador": "JOSE GRUBER"
+        },
+        {
+          "numero": 7,
+          "jugador": "FRANCO CICHERO"
+        },
+        {
+          "numero": 8,
+          "jugador": "TOBIAS LUCERO"
+        },
+        {
+          "numero": 9,
+          "jugador": "FEDERICO PITTALA"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN PEDRO OCCHIUZZI"
+        },
+        {
+          "numero": 11,
+          "jugador": "GONZALO GREGORIO",
+          "capitan": true
+        },
+        {
+          "numero": 12,
+          "jugador": "NICOLAS MARZIALI"
+        },
+        {
+          "numero": 13,
+          "jugador": "MARIANO LIVACHOFF"
+        },
+        {
+          "numero": 14,
+          "jugador": "FRANCISCO OCCHIUZZI"
+        },
+        {
+          "numero": 15,
+          "jugador": "GUIDO LIVACHOFF"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "entraPor": "NICOLAS MARZIALI"
+        },
+        {
+          "jugador": "FRANCISCO COMABELLA",
+          "entraPor": "OCTAVIO TALLARICO"
+        },
+        {
+          "jugador": "MATIAS TRAYNOR",
+          "entraPor": "FRANCO RODRIGUEZ"
+        },
+        {
+          "jugador": "AGUSTIN TRAYNOR",
+          "entraPor": "EMILIANO MANRIQUEZ"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "FRANCISCO OCCHIUZZI",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "MARIANO LIVACHOFF",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "FRANCO CICHERO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "GUIDO LIVACHOFF",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "tipo": "CONVERSION",
+          "cantidad": 1
+        }
+      ],
+      "tarjetas": [
+        {
+          "jugador": "JUAN PABLO BIANCHI",
+          "tipo": "AMARILLA"
+        }
+      ]
+    },
+    {
+      "fecha": "2019-05-11",
+      "fechaNota": null,
+      "rival": "CENTRO NAVAL",
+      "condicion": "VISITANTE",
+      "resultadoPropio": 13,
+      "resultadoRival": 48,
+      "cancha": "CENTRO NAVAL",
+      "clima": "BUENO",
+      "campoDeJuego": "BUENO",
+      "referee": "FERNANDEZ SALCEDO",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "IVAN CARMONA"
+        },
+        {
+          "numero": 2,
+          "jugador": "JUAN PABLO BIANCHI"
+        },
+        {
+          "numero": 3,
+          "jugador": "HUGO PEDEMONTE"
+        },
+        {
+          "numero": 4,
+          "jugador": "SANTIAGO DIAZ"
+        },
+        {
+          "numero": 5,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 6,
+          "jugador": "JOSE GRUBER"
+        },
+        {
+          "numero": 7,
+          "jugador": "FRANCO CICHERO"
+        },
+        {
+          "numero": 8,
+          "jugador": "TOBIAS LUCERO"
+        },
+        {
+          "numero": 9,
+          "jugador": "FEDERICO PITTALA"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN PEDRO OCCHIUZZI"
+        },
+        {
+          "numero": 11,
+          "jugador": "GONZALO GREGORIO",
+          "capitan": true
+        },
+        {
+          "numero": 12,
+          "jugador": "NICOLAS MARZIALI"
+        },
+        {
+          "numero": 13,
+          "jugador": "MARIANO LIVACHOFF"
+        },
+        {
+          "numero": 14,
+          "jugador": "FRANCISCO OCCHIUZZI"
+        },
+        {
+          "numero": 15,
+          "jugador": "RAMIRO OCCHIUZZI"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "RODRIGO GOMEZ",
+          "entraPor": "HUGO PEDEMONTE"
+        },
+        {
+          "jugador": "OCTAVIO TALLARICO",
+          "entraPor": "FRANCO CICHERO"
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "entraPor": "NICOLAS MARZIALI"
+        },
+        {
+          "jugador": "EZEQUIEL BALESTRA",
+          "entraPor": "JUAN PABLO BIANCHI"
+        },
+        {
+          "jugador": "IGNACIO TORTORELLA",
+          "entraPor": "JOSE GRUBER"
+        },
+        {
+          "jugador": "AGUSTIN TRAYNOR",
+          "entraPor": "FEDERICO PITTALA"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "RAMIRO OCCHIUZZI",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "FRANCISCO OCCHIUZZI",
+          "tipo": "PENAL",
+          "cantidad": 1
+        }
+      ],
+      "tarjetas": [
+        {
+          "jugador": "RAMIRO OCCHIUZZI",
+          "tipo": "AMARILLA"
+        }
+      ]
+    },
+    {
+      "fecha": "2019-05-25",
+      "fechaNota": null,
+      "rival": "DAOM",
+      "condicion": "LOCAL",
+      "resultadoPropio": 36,
+      "resultadoRival": 37,
+      "cancha": "VICENTINOS",
+      "clima": null,
+      "campoDeJuego": null,
+      "referee": "BOUDON",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "IVAN CARMONA"
+        },
+        {
+          "numero": 2,
+          "jugador": "JUAN PABLO BIANCHI"
+        },
+        {
+          "numero": 3,
+          "jugador": "HUGO PEDEMONTE"
+        },
+        {
+          "numero": 4,
+          "jugador": "SANTIAGO DIAZ"
+        },
+        {
+          "numero": 5,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 6,
+          "jugador": "JOSE GRUBER"
+        },
+        {
+          "numero": 7,
+          "jugador": "TOBIAS LUCERO"
+        },
+        {
+          "numero": 8,
+          "jugador": "IGNACIO TORTORELLA"
+        },
+        {
+          "numero": 9,
+          "jugador": "FEDERICO PITTALA"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN PEDRO OCCHIUZZI"
+        },
+        {
+          "numero": 11,
+          "jugador": "GONZALO GREGORIO",
+          "capitan": true
+        },
+        {
+          "numero": 12,
+          "jugador": "NICOLAS MARZIALI"
+        },
+        {
+          "numero": 13,
+          "jugador": "MARIANO LIVACHOFF"
+        },
+        {
+          "numero": 14,
+          "jugador": "FRANCISCO OCCHIUZZI"
+        },
+        {
+          "numero": 15,
+          "jugador": "RAMIRO OCCHIUZZI"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "RODRIGO GOMEZ",
+          "entraPor": "HUGO PEDEMONTE"
+        },
+        {
+          "jugador": "AGUSTIN TRAYNOR",
+          "entraPor": "FEDERICO PITTALA"
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "entraPor": "NICOLAS MARZIALI"
+        },
+        {
+          "jugador": "OCTAVIO TALLARICO",
+          "entraPor": "JOSE GRUBER"
+        },
+        {
+          "jugador": "EZEQUIEL BALESTRA",
+          "entraPor": "JUAN PABLO BIANCHI"
+        },
+        {
+          "jugador": "NICOLAS COMPANYS",
+          "entraPor": "GONZALO GREGORIO"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "MARIANO LIVACHOFF",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "FRANCISCO OCCHIUZZI",
+          "tipo": "TRY",
+          "cantidad": 2
+        },
+        {
+          "jugador": "RAMIRO OCCHIUZZI",
+          "tipo": "TRY",
+          "cantidad": 2
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "tipo": "PENAL",
+          "cantidad": 1
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "tipo": "CONVERSION",
+          "cantidad": 4
+        }
+      ],
+      "tarjetas": [
+        {
+          "jugador": "MARIANO LIVACHOFF",
+          "tipo": "ROJA"
+        }
+      ]
+    },
+    {
+      "fecha": "2019-06-01",
+      "fechaNota": null,
+      "rival": "ARECO",
+      "condicion": "VISITANTE",
+      "resultadoPropio": 32,
+      "resultadoRival": 27,
+      "cancha": "ARECO",
+      "clima": "BUENO",
+      "campoDeJuego": "MUY BUENO",
+      "referee": "PIGRETTI",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "IVAN CARMONA"
+        },
+        {
+          "numero": 2,
+          "jugador": "JUAN PABLO BIANCHI"
+        },
+        {
+          "numero": 3,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 4,
+          "jugador": "SANTIAGO DIAZ"
+        },
+        {
+          "numero": 5,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 6,
+          "jugador": "JOSE GRUBER"
+        },
+        {
+          "numero": 7,
+          "jugador": "RODRIGO RIOS"
+        },
+        {
+          "numero": 8,
+          "jugador": "IGNACIO TORTORELLA"
+        },
+        {
+          "numero": 9,
+          "jugador": "FEDERICO PITTALA"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN PEDRO OCCHIUZZI"
+        },
+        {
+          "numero": 11,
+          "jugador": "GONZALO GREGORIO",
+          "capitan": true
+        },
+        {
+          "numero": 12,
+          "jugador": "NICOLAS MARZIALI"
+        },
+        {
+          "numero": 13,
+          "jugador": "SANTIAGO TRAYNOR"
+        },
+        {
+          "numero": 14,
+          "jugador": "FRANCISCO OCCHIUZZI"
+        },
+        {
+          "numero": 15,
+          "jugador": "RAMIRO OCCHIUZZI"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "EZEQUIEL BALESTRA",
+          "entraPor": "JUAN PABLO BIANCHI"
+        },
+        {
+          "jugador": "OCTAVIO TALLARICO",
+          "entraPor": "RODRIGO RIOS"
+        },
+        {
+          "jugador": "JUAN MATIAS TRAYNOR",
+          "entraPor": "NICOLAS MARZIALI"
+        },
+        {
+          "jugador": "FRANCO RODRIGUEZ",
+          "entraPor": "RODRIGO GOMEZ"
+        },
+        {
+          "jugador": "MATIAS TRAYNOR",
+          "entraPor": "IVAN CARMONA"
+        },
+        {
+          "jugador": "AGUSTIN TRAYNOR",
+          "entraPor": "FEDERICO PITTALA"
+        },
+        {
+          "jugador": "AGUSTIN DOMINGUEZ",
+          "entraPor": "JOSE GRUBER"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "RODRIGO GOMEZ",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "GONZALO GREGORIO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "FRANCISCO OCCHIUZZI",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "tipo": "PENAL",
+          "cantidad": 1
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "tipo": "DROP",
+          "cantidad": 1
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "tipo": "CONVERSION",
+          "cantidad": 3
+        }
+      ],
+      "tarjetas": [
+        {
+          "jugador": "AGUSTIN TRAYNOR",
+          "tipo": "AMARILLA"
+        }
+      ]
+    },
+    {
+      "fecha": "2019-06-08",
+      "fechaNota": null,
+      "rival": "LANUS",
+      "condicion": "LOCAL",
+      "resultadoPropio": 40,
+      "resultadoRival": 35,
+      "cancha": "VICENTINOS",
+      "clima": "BUENO",
+      "campoDeJuego": "MUY BUENO",
+      "referee": "PENOVI",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "IVAN CARMONA"
+        },
+        {
+          "numero": 2,
+          "jugador": "JUAN PABLO BIANCHI"
+        },
+        {
+          "numero": 3,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 4,
+          "jugador": "SANTIAGO DIAZ"
+        },
+        {
+          "numero": 5,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 6,
+          "jugador": "JOSE GRUBER"
+        },
+        {
+          "numero": 7,
+          "jugador": "RODRIGO RIOS"
+        },
+        {
+          "numero": 8,
+          "jugador": "IGNACIO TORTORELLA"
+        },
+        {
+          "numero": 9,
+          "jugador": "FEDERICO PITTALA"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN PEDRO OCCHIUZZI"
+        },
+        {
+          "numero": 11,
+          "jugador": "GONZALO GREGORIO",
+          "capitan": true
+        },
+        {
+          "numero": 12,
+          "jugador": "NICOLAS MARZIALI"
+        },
+        {
+          "numero": 13,
+          "jugador": "SANTIAGO TRAYNOR"
+        },
+        {
+          "numero": 14,
+          "jugador": "FRANCISCO OCCHIUZZI"
+        },
+        {
+          "numero": 15,
+          "jugador": "RAMIRO OCCHIUZZI"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "IGNACIO TORRES CIUTAT",
+          "entraPor": "FEDERICO PITTALA"
+        },
+        {
+          "jugador": "EZEQUIEL BALESTRA",
+          "entraPor": "JUAN PABLO BIANCHI"
+        },
+        {
+          "jugador": "JUAN MATIAS TRAYNOR",
+          "entraPor": "IGNACIO TORRES CIUTAT"
+        },
+        {
+          "jugador": "OCTAVIO TALLARICO",
+          "entraPor": "RODRIGO RIOS"
+        },
+        {
+          "jugador": "MATIAS TRAYNOR",
+          "entraPor": "IVAN CARMONA"
+        },
+        {
+          "jugador": "FRANCO RODRIGUEZ",
+          "entraPor": "RODRIGO GOMEZ"
+        },
+        {
+          "jugador": "AGUSTIN DOMINGUEZ",
+          "entraPor": "JOSE GRUBER"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "JOSE GRUBER",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "FRANCISCO OCCHIUZZI",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "RAMIRO OCCHIUZZI",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "JUAN MATIAS TRAYNOR",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "tipo": "PENAL",
+          "cantidad": 3
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "tipo": "CONVERSION",
+          "cantidad": 3
+        }
+      ],
+      "tarjetas": [
+        {
+          "jugador": "FEDERICO PITTALA",
+          "tipo": "AMARILLA"
+        },
+        {
+          "jugador": "JOSE GRUBER",
+          "tipo": "AMARILLA"
+        }
+      ]
+    },
+    {
+      "fecha": "2019-06-20",
+      "fechaNota": null,
+      "rival": "CASA DE PADUA",
+      "condicion": "VISITANTE",
+      "resultadoPropio": 21,
+      "resultadoRival": 12,
+      "cancha": "CASA DE PADUA",
+      "clima": "BUENO",
+      "campoDeJuego": "MUY BUENO",
+      "referee": "KURILOWICZ",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "IVAN CARMONA"
+        },
+        {
+          "numero": 2,
+          "jugador": "JUAN PABLO BIANCHI"
+        },
+        {
+          "numero": 3,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 4,
+          "jugador": "SANTIAGO DIAZ"
+        },
+        {
+          "numero": 5,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 6,
+          "jugador": "JOSE GRUBER"
+        },
+        {
+          "numero": 7,
+          "jugador": "RODRIGO RIOS"
+        },
+        {
+          "numero": 8,
+          "jugador": "IGNACIO TORTORELLA"
+        },
+        {
+          "numero": 9,
+          "jugador": "FRANCISCO OCCHIUZZI"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN PEDRO OCCHIUZZI"
+        },
+        {
+          "numero": 11,
+          "jugador": "GONZALO GREGORIO",
+          "capitan": true
+        },
+        {
+          "numero": 12,
+          "jugador": "NICOLAS MARZIALI"
+        },
+        {
+          "numero": 13,
+          "jugador": "SANTIAGO TRAYNOR"
+        },
+        {
+          "numero": 14,
+          "jugador": "MAURO CHIRINO"
+        },
+        {
+          "numero": 15,
+          "jugador": "RAMIRO OCCHIUZZI"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "FRANCO RODRIGUEZ",
+          "entraPor": "IVAN CARMONA"
+        },
+        {
+          "jugador": "EZEQUIEL BALESTRA",
+          "entraPor": "JUAN PABLO BIANCHI"
+        },
+        {
+          "jugador": "MATIAS TRAYNOR",
+          "entraPor": "RODRIGO GOMEZ"
+        },
+        {
+          "jugador": "AGUSTIN DOMINGUEZ",
+          "entraPor": "RODRIGO RIOS"
+        },
+        {
+          "jugador": "JUAN MATIAS TRAYNOR",
+          "entraPor": "NICOLAS MARZIALI"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "RAMIRO OCCHIUZZI",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "GONZALO GREGORIO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "tipo": "CONVERSION",
+          "cantidad": 1
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "tipo": "PENAL",
+          "cantidad": 3
+        }
+      ],
+      "tarjetas": [
+        {
+          "jugador": "FRANCISCO COMABELLA",
+          "tipo": "AMARILLA"
+        }
+      ]
+    },
+    {
+      "fecha": "2019-06-27",
+      "fechaNota": null,
+      "rival": "LUJAN",
+      "condicion": "LOCAL",
+      "resultadoPropio": 16,
+      "resultadoRival": 20,
+      "cancha": "VICENTINOS",
+      "clima": "LLOVIZNAS",
+      "campoDeJuego": "BUENO",
+      "referee": "ESTEVEZ",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "IVAN CARMONA"
+        },
+        {
+          "numero": 2,
+          "jugador": "JUAN PABLO BIANCHI"
+        },
+        {
+          "numero": 3,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 4,
+          "jugador": "SANTIAGO DIAZ"
+        },
+        {
+          "numero": 5,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 6,
+          "jugador": "JOSE GRUBER"
+        },
+        {
+          "numero": 7,
+          "jugador": "AGUSTIN DOMINGUEZ"
+        },
+        {
+          "numero": 8,
+          "jugador": "IGNACIO TORTORELLA"
+        },
+        {
+          "numero": 9,
+          "jugador": "FEDERICO PITTALA"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN PEDRO OCCHIUZZI"
+        },
+        {
+          "numero": 11,
+          "jugador": "GONZALO GREGORIO",
+          "capitan": true
+        },
+        {
+          "numero": 12,
+          "jugador": "NICOLAS MARZIALI"
+        },
+        {
+          "numero": 13,
+          "jugador": "SANTIAGO TRAYNOR"
+        },
+        {
+          "numero": 14,
+          "jugador": "FRANCISCO OCCHIUZZI"
+        },
+        {
+          "numero": 15,
+          "jugador": "RAMIRO OCCHIUZZI"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "FRANCO RODRIGUEZ",
+          "entraPor": "IVAN CARMONA"
+        },
+        {
+          "jugador": "EZEQUIEL BALESTRA",
+          "entraPor": "JUAN PABLO BIANCHI"
+        },
+        {
+          "jugador": "MATIAS TRAYNOR",
+          "entraPor": "RODRIGO GOMEZ"
+        },
+        {
+          "jugador": "OCTAVIO TALLARICO",
+          "entraPor": "IGNACIO TORTORELLA"
+        },
+        {
+          "jugador": "MAURO CHIRINO",
+          "entraPor": "FEDERICO PITTALA"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "SCRUM",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "tipo": "CONVERSION",
+          "cantidad": 1
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "tipo": "PENAL",
+          "cantidad": 3
+        }
+      ],
+      "tarjetas": []
+    },
+    {
+      "fecha": "2019-07-06",
+      "fechaNota": null,
+      "rival": "DELTA",
+      "condicion": "VISITANTE",
+      "resultadoPropio": 17,
+      "resultadoRival": 48,
+      "cancha": "DELTA",
+      "clima": "BUENO",
+      "campoDeJuego": "REGULAR",
+      "referee": "VILLALOBOS",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "JUAN PABLO BIANCHI"
+        },
+        {
+          "numero": 3,
+          "jugador": "FRANCO RODRIGUEZ"
+        },
+        {
+          "numero": 4,
+          "jugador": "SANTIAGO DIAZ"
+        },
+        {
+          "numero": 5,
+          "jugador": "OCTAVIO TALLARICO"
+        },
+        {
+          "numero": 6,
+          "jugador": "JOSE GRUBER"
+        },
+        {
+          "numero": 7,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 8,
+          "jugador": "TOBIAS LUCERO"
+        },
+        {
+          "numero": 9,
+          "jugador": "FRANCISCO OCCHIUZZI"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN PEDRO OCCHIUZZI"
+        },
+        {
+          "numero": 11,
+          "jugador": "GONZALO GREGORIO",
+          "capitan": true
+        },
+        {
+          "numero": 12,
+          "jugador": "NICOLAS MARZIALI"
+        },
+        {
+          "numero": 13,
+          "jugador": "SANTIAGO TRAYNOR"
+        },
+        {
+          "numero": 14,
+          "jugador": "MAURO CHIRINO"
+        },
+        {
+          "numero": 15,
+          "jugador": "RAMIRO OCCHIUZZI"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "IVAN IBAÑEZ",
+          "entraPor": "JUAN PEDRO OCCHIUZZI"
+        },
+        {
+          "jugador": "MATIAS TRAYNOR",
+          "entraPor": "RODRIGO GOMEZ"
+        },
+        {
+          "jugador": "EZEQUIEL BALESTRA",
+          "entraPor": "JUAN PABLO BIANCHI"
+        },
+        {
+          "jugador": "IVAN CARMONA",
+          "entraPor": "OCTAVIO TALLARICO"
+        },
+        {
+          "jugador": "JUAN IGNACIO VAZQUEZ",
+          "entraPor": "JOSE GRUBER"
+        },
+        {
+          "jugador": "JUAN MATIAS TRAYNOR",
+          "entraPor": "NICOLAS MARZIALI"
+        },
+        {
+          "jugador": "FRANCO CICHERO",
+          "entraPor": "FRANCO RODRIGUEZ"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "GONZALO GREGORIO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "FRANCISCO COMABELLA",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "FRANCO CICHERO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "CONVERSION",
+          "cantidad": 1
+        }
+      ],
+      "tarjetas": [
+        {
+          "jugador": "TOBIAS LUCERO",
+          "tipo": "AMARILLA"
+        }
+      ]
+    },
+    {
+      "fecha": "2019-07-13",
+      "fechaNota": null,
+      "rival": "OLD GEORGIAN",
+      "condicion": "VISITANTE",
+      "resultadoPropio": 26,
+      "resultadoRival": 38,
+      "cancha": "OLD GEORGIAN",
+      "clima": "BUENO",
+      "campoDeJuego": "PESADO",
+      "referee": "ACHAVAL",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "MATIAS TRAYNOR"
+        },
+        {
+          "numero": 2,
+          "jugador": "JUAN PABLO BIANCHI"
+        },
+        {
+          "numero": 3,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 4,
+          "jugador": "SANTIAGO DIAZ"
+        },
+        {
+          "numero": 5,
+          "jugador": "OCTAVIO TALLARICO"
+        },
+        {
+          "numero": 6,
+          "jugador": "JOSE GRUBER"
+        },
+        {
+          "numero": 7,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 8,
+          "jugador": "TOBIAS LUCERO"
+        },
+        {
+          "numero": 9,
+          "jugador": "MARIANO CETTOUR",
+          "capitan": true
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN MATIAS TRAYNOR"
+        },
+        {
+          "numero": 11,
+          "jugador": "GONZALO GREGORIO"
+        },
+        {
+          "numero": 12,
+          "jugador": "NICOLAS MARZIALI"
+        },
+        {
+          "numero": 13,
+          "jugador": "SANTIAGO TRAYNOR"
+        },
+        {
+          "numero": 14,
+          "jugador": "FRANCISCO OCCHIUZZI"
+        },
+        {
+          "numero": 15,
+          "jugador": "RAMIRO OCCHIUZZI"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "FRANCO RODRIGUEZ",
+          "entraPor": "RODRIGO GOMEZ"
+        },
+        {
+          "jugador": "MAURO CHIRINO",
+          "entraPor": "GONZALO GREGORIO"
+        },
+        {
+          "jugador": "EZEQUIEL BALESTRA",
+          "entraPor": "MATIAS TRAYNOR"
+        },
+        {
+          "jugador": "AUGUSTO GALLOTTI",
+          "entraPor": "JOSE GRUBER"
+        },
+        {
+          "jugador": "FRANCO CICHERO",
+          "entraPor": "OCTAVIO TALLARICO"
+        },
+        {
+          "jugador": "FRANCO POPICA",
+          "entraPor": "FRANCISCO COMABELLA"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "TOBIAS LUCERO",
+          "tipo": "TRY",
+          "cantidad": 2
+        },
+        {
+          "jugador": "FRANCISCO OCCHIUZZI",
+          "tipo": "TRY",
+          "cantidad": 2
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "CONVERSION",
+          "cantidad": 3
+        }
+      ],
+      "tarjetas": [
+        {
+          "jugador": "JUAN MATIAS TRAYNOR",
+          "tipo": "AMARILLA"
+        }
+      ]
+    },
+    {
+      "fecha": "2019-07-27",
+      "fechaNota": null,
+      "rival": "CLUB ITALIANO",
+      "condicion": "VISITANTE",
+      "resultadoPropio": 24,
+      "resultadoRival": 22,
+      "cancha": "ITALIANO",
+      "clima": "BUENO",
+      "campoDeJuego": "REGULAR",
+      "referee": "ROMERO DE HAZ",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "MATIAS TRAYNOR"
+        },
+        {
+          "numero": 2,
+          "jugador": "EZEQUIEL BALESTRA"
+        },
+        {
+          "numero": 3,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 4,
+          "jugador": "SANTIAGO DIAZ"
+        },
+        {
+          "numero": 5,
+          "jugador": "OCTAVIO TALLARICO"
+        },
+        {
+          "numero": 6,
+          "jugador": "JOSE GRUBER"
+        },
+        {
+          "numero": 7,
+          "jugador": "AUGUSTO GALLOTTI"
+        },
+        {
+          "numero": 8,
+          "jugador": "TOBIAS LUCERO"
+        },
+        {
+          "numero": 9,
+          "jugador": "MARIANO CETTOUR",
+          "capitan": true
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN MATIAS TRAYNOR"
+        },
+        {
+          "numero": 11,
+          "jugador": "GONZALO GREGORIO"
+        },
+        {
+          "numero": 12,
+          "jugador": "NICOLAS MARZIALI"
+        },
+        {
+          "numero": 13,
+          "jugador": "SANTIAGO TRAYNOR"
+        },
+        {
+          "numero": 14,
+          "jugador": "FRANCISCO OCCHIUZZI"
+        },
+        {
+          "numero": 15,
+          "jugador": "RAMIRO OCCHIUZZI"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "FRANCO RODRIGUEZ",
+          "entraPor": "RODRIGO GOMEZ"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "FRANCISCO OCCHIUZZI",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "TOBIAS LUCERO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "CONVERSION",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "PENAL",
+          "cantidad": 4
+        }
+      ],
+      "tarjetas": [
+        {
+          "jugador": "TOBIAS LUCERO",
+          "tipo": "AMARILLA"
+        }
+      ]
+    },
+    {
+      "fecha": "2019-08-03",
+      "fechaNota": null,
+      "rival": "ALBATROS",
+      "condicion": "LOCAL",
+      "resultadoPropio": 29,
+      "resultadoRival": 5,
+      "cancha": "VICENTINOS",
+      "clima": "BUENO",
+      "campoDeJuego": "MUY BUENO",
+      "referee": "MUNCAL",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "MATIAS TRAYNOR"
+        },
+        {
+          "numero": 2,
+          "jugador": "EZEQUIEL BALESTRA"
+        },
+        {
+          "numero": 3,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 4,
+          "jugador": "SANTIAGO DIAZ"
+        },
+        {
+          "numero": 5,
+          "jugador": "OCTAVIO TALLARICO"
+        },
+        {
+          "numero": 6,
+          "jugador": "JOSE GRUBER"
+        },
+        {
+          "numero": 7,
+          "jugador": "AUGUSTO GALLOTTI"
+        },
+        {
+          "numero": 8,
+          "jugador": "TOBIAS LUCERO"
+        },
+        {
+          "numero": 9,
+          "jugador": "MARIANO CETTOUR",
+          "capitan": true
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN MATIAS TRAYNOR"
+        },
+        {
+          "numero": 11,
+          "jugador": "GONZALO GREGORIO"
+        },
+        {
+          "numero": 12,
+          "jugador": "NICOLAS MARZIALI"
+        },
+        {
+          "numero": 13,
+          "jugador": "SANTIAGO TRAYNOR"
+        },
+        {
+          "numero": 14,
+          "jugador": "FRANCISCO OCCHIUZZI"
+        },
+        {
+          "numero": 15,
+          "jugador": "RAMIRO OCCHIUZZI"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "FRANCO RODRIGUEZ",
+          "entraPor": "RODRIGO GOMEZ"
+        },
+        {
+          "jugador": "PABLO FERREIRA",
+          "entraPor": "MATIAS TRAYNOR"
+        },
+        {
+          "jugador": "MARIANO LIVACHOFF",
+          "entraPor": "SANTIAGO TRAYNOR"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "FRANCISCO OCCHIUZZI",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "TOBIAS LUCERO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "MARIANO CETTOUR",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "RAMIRO OCCHIUZZI",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "CONVERSION",
+          "cantidad": 2
+        },
+        {
+          "jugador": "FRANCISCO OCCHIUZZI",
+          "tipo": "CONVERSION",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "PENAL",
+          "cantidad": 1
+        }
+      ],
+      "tarjetas": [
+        {
+          "jugador": "MARIANO CETTOUR",
+          "tipo": "AMARILLA"
+        }
+      ]
+    },
+    {
+      "fecha": "2019-08-10",
+      "fechaNota": null,
+      "rival": "GEBA",
+      "condicion": "VISITANTE",
+      "resultadoPropio": 15,
+      "resultadoRival": 23,
+      "cancha": "GEBA",
+      "clima": "BUENO",
+      "campoDeJuego": "BUENO",
+      "referee": "PORTILLO",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "EZEQUIEL BALESTRA"
+        },
+        {
+          "numero": 3,
+          "jugador": "FRANCO RODRIGUEZ"
+        },
+        {
+          "numero": 4,
+          "jugador": "RODRIGO RIOS"
+        },
+        {
+          "numero": 5,
+          "jugador": "OCTAVIO TALLARICO"
+        },
+        {
+          "numero": 6,
+          "jugador": "JOSE GRUBER"
+        },
+        {
+          "numero": 7,
+          "jugador": "AUGUSTO GALLOTTI"
+        },
+        {
+          "numero": 8,
+          "jugador": "TOBIAS LUCERO"
+        },
+        {
+          "numero": 9,
+          "jugador": "MARIANO CETTOUR",
+          "capitan": true
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN MATIAS TRAYNOR"
+        },
+        {
+          "numero": 11,
+          "jugador": "GONZALO GREGORIO"
+        },
+        {
+          "numero": 12,
+          "jugador": "NICOLAS MARZIALI"
+        },
+        {
+          "numero": 13,
+          "jugador": "SANTIAGO TRAYNOR"
+        },
+        {
+          "numero": 14,
+          "jugador": "FRANCISCO OCCHIUZZI"
+        },
+        {
+          "numero": 15,
+          "jugador": "RAMIRO OCCHIUZZI"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "MATIAS TRAYNOR",
+          "entraPor": "FRANCO RODRIGUEZ"
+        },
+        {
+          "jugador": "PABLO FERREIRA",
+          "entraPor": "RODRIGO GOMEZ"
+        },
+        {
+          "jugador": "MARIANO LIVACHOFF",
+          "entraPor": "NICOLAS MARZIALI"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "RAMIRO OCCHIUZZI",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "JUAN MATIAS TRAYNOR",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "CONVERSION",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "PENAL",
+          "cantidad": 1
+        }
+      ],
+      "tarjetas": []
+    },
+    {
+      "fecha": "2019-08-24",
+      "fechaNota": null,
+      "rival": "ATLÉTICO Y PROGRESO",
+      "condicion": "LOCAL",
+      "resultadoPropio": 36,
+      "resultadoRival": 30,
+      "cancha": "VICENTINOS",
+      "clima": "BUENO",
+      "campoDeJuego": "MUY BUENO",
+      "referee": "PENOVI",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "EZEQUIEL BALESTRA"
+        },
+        {
+          "numero": 3,
+          "jugador": "FRANCO RODRIGUEZ"
+        },
+        {
+          "numero": 4,
+          "jugador": "RODRIGO RIOS"
+        },
+        {
+          "numero": 5,
+          "jugador": "OCTAVIO TALLARICO"
+        },
+        {
+          "numero": 6,
+          "jugador": "JOSE GRUBER"
+        },
+        {
+          "numero": 7,
+          "jugador": "AUGUSTO GALLOTTI"
+        },
+        {
+          "numero": 8,
+          "jugador": "TOBIAS LUCERO"
+        },
+        {
+          "numero": 9,
+          "jugador": "MARIANO CETTOUR",
+          "capitan": true
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN MATIAS TRAYNOR"
+        },
+        {
+          "numero": 11,
+          "jugador": "GONZALO GREGORIO"
+        },
+        {
+          "numero": 12,
+          "jugador": "NICOLAS MARZIALI"
+        },
+        {
+          "numero": 13,
+          "jugador": "SANTIAGO TRAYNOR"
+        },
+        {
+          "numero": 14,
+          "jugador": "FRANCISCO OCCHIUZZI"
+        },
+        {
+          "numero": 15,
+          "jugador": "RAMIRO OCCHIUZZI"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "MATIAS TRAYNOR",
+          "entraPor": "EZEQUIEL BALESTRA"
+        },
+        {
+          "jugador": "PABLO FERREIRA",
+          "entraPor": "FRANCO RODRIGUEZ"
+        },
+        {
+          "jugador": "AGUSTIN DOMINGUEZ",
+          "entraPor": "RODRIGO RIOS"
+        },
+        {
+          "jugador": "AGUSTIN TRAYNOR",
+          "entraPor": "MARIANO CETTOUR"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "TRY PENAL",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "GONZALO GREGORIO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "MATIAS TRAYNOR",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "RAMIRO OCCHIUZZI",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "CONVERSION",
+          "cantidad": 4
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "PENAL",
+          "cantidad": 1
+        }
+      ],
+      "tarjetas": [
+        {
+          "jugador": "TOBIAS LUCERO",
+          "tipo": "AMARILLA"
+        },
+        {
+          "jugador": "OCTAVIO TALLARICO",
+          "tipo": "AMARILLA"
+        },
+        {
+          "jugador": "RODRIGO GOMEZ",
+          "tipo": "AMARILLA"
+        }
+      ]
+    },
+    {
+      "fecha": "2019-08-31",
+      "fechaNota": null,
+      "rival": "ST BRENDAN'S",
+      "condicion": "VISITANTE",
+      "resultadoPropio": 55,
+      "resultadoRival": 15,
+      "cancha": "ST.BRENDAN´S",
+      "clima": "BUENO",
+      "campoDeJuego": "BUENO",
+      "referee": "BARCIOCCO",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "MATIAS TRAYNOR"
+        },
+        {
+          "numero": 2,
+          "jugador": "EZEQUIEL BALESTRA"
+        },
+        {
+          "numero": 3,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 4,
+          "jugador": "RODRIGO RIOS"
+        },
+        {
+          "numero": 5,
+          "jugador": "OCTAVIO TALLARICO"
+        },
+        {
+          "numero": 6,
+          "jugador": "JOSE GRUBER"
+        },
+        {
+          "numero": 7,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 8,
+          "jugador": "AGUSTIN DOMINGUEZ"
+        },
+        {
+          "numero": 9,
+          "jugador": "MARIANO CETTOUR",
+          "capitan": true
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN MATIAS TRAYNOR"
+        },
+        {
+          "numero": 11,
+          "jugador": "GONZALO GREGORIO"
+        },
+        {
+          "numero": 12,
+          "jugador": "NICOLAS MARZIALI"
+        },
+        {
+          "numero": 13,
+          "jugador": "SANTIAGO TRAYNOR"
+        },
+        {
+          "numero": 14,
+          "jugador": "FRANCISCO OCCHIUZZI"
+        },
+        {
+          "numero": 15,
+          "jugador": "RAMIRO OCCHIUZZI"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "PABLO FERREIRA",
+          "entraPor": "MATIAS TRAYNOR"
+        },
+        {
+          "jugador": "EZEQUIEL ARIAS",
+          "entraPor": "EZEQUIEL BALESTRA"
+        },
+        {
+          "jugador": "MARIANO LIVACHOFF",
+          "entraPor": "NICOLAS MARZIALI"
+        },
+        {
+          "jugador": "RODRIGO ESMAYEL",
+          "entraPor": "RODRIGO RIOS"
+        },
+        {
+          "jugador": "AGUSTIN TRAYNOR",
+          "entraPor": "MARIANO CETTOUR"
+        },
+        {
+          "jugador": "FEDERICO PITTALA",
+          "entraPor": "SANTIAGO TRAYNOR"
+        },
+        {
+          "jugador": "JUAN IGNACIO VAZQUEZ",
+          "entraPor": "AGUSTIN DOMINGUEZ"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "RAMIRO OCCHIUZZI",
+          "tipo": "TRY",
+          "cantidad": 4
+        },
+        {
+          "jugador": "FRANCISCO OCCHIUZZI",
+          "tipo": "TRY",
+          "cantidad": 2
+        },
+        {
+          "jugador": "JUAN MATIAS TRAYNOR",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "GONZALO GREGORIO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "CONVERSION",
+          "cantidad": 6
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "PENAL",
+          "cantidad": 1
+        }
+      ],
+      "tarjetas": []
+    },
+    {
+      "fecha": "2019-09-07",
+      "fechaNota": null,
+      "rival": "CENTRO NAVAL",
+      "condicion": "LOCAL",
+      "resultadoPropio": 43,
+      "resultadoRival": 14,
+      "cancha": "VICENTINOS",
+      "clima": "BUENO",
+      "campoDeJuego": "MUY BUENO",
+      "referee": "ACHAVAL",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "MATIAS TRAYNOR"
+        },
+        {
+          "numero": 2,
+          "jugador": "EZEQUIEL BALESTRA"
+        },
+        {
+          "numero": 3,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 4,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 5,
+          "jugador": "OCTAVIO TALLARICO"
+        },
+        {
+          "numero": 6,
+          "jugador": "JOSE GRUBER"
+        },
+        {
+          "numero": 7,
+          "jugador": "AGUSTIN DOMINGUEZ"
+        },
+        {
+          "numero": 8,
+          "jugador": "TOBIAS LUCERO"
+        },
+        {
+          "numero": 9,
+          "jugador": "MARIANO CETTOUR",
+          "capitan": true
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN MATIAS TRAYNOR"
+        },
+        {
+          "numero": 11,
+          "jugador": "GONZALO GREGORIO"
+        },
+        {
+          "numero": 12,
+          "jugador": "NICOLAS MARZIALI"
+        },
+        {
+          "numero": 13,
+          "jugador": "SANTIAGO TRAYNOR"
+        },
+        {
+          "numero": 14,
+          "jugador": "FRANCISCO OCCHIUZZI"
+        },
+        {
+          "numero": 15,
+          "jugador": "RAMIRO OCCHIUZZI"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "PABLO FERREIRA",
+          "entraPor": "MATIAS TRAYNOR"
+        },
+        {
+          "jugador": "EZEQUIEL ARIAS",
+          "entraPor": "EZEQUIEL BALESTRA"
+        },
+        {
+          "jugador": "FRANCO RODRIGUEZ",
+          "entraPor": "RODRIGO GOMEZ"
+        },
+        {
+          "jugador": "RODRIGO RIOS",
+          "entraPor": "OCTAVIO TALLARICO"
+        },
+        {
+          "jugador": "SANTIAGO DIAZ",
+          "entraPor": "FRANCISCO COMABELLA"
+        },
+        {
+          "jugador": "MARIANO LIVACHOFF",
+          "entraPor": "NICOLAS MARZIALI"
+        },
+        {
+          "jugador": "MAURO CHIRINO",
+          "entraPor": "RAMIRO OCCHIUZZI"
+        },
+        {
+          "jugador": "AGUSTIN TRAYNOR",
+          "entraPor": "MARIANO CETTOUR"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "TOBIAS LUCERO",
+          "tipo": "TRY",
+          "cantidad": 2
+        },
+        {
+          "jugador": "FRANCISCO OCCHIUZZI",
+          "tipo": "TRY",
+          "cantidad": 2
+        },
+        {
+          "jugador": "MARIANO CETTOUR",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "OCTAVIO TALLARICO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "CONVERSION",
+          "cantidad": 4
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "PENAL",
+          "cantidad": 1
+        }
+      ],
+      "tarjetas": []
+    },
+    {
+      "fecha": "2019-09-14",
+      "fechaNota": null,
+      "rival": "DAOM",
+      "condicion": "VISITANTE",
+      "resultadoPropio": 38,
+      "resultadoRival": 40,
+      "cancha": "DAOM",
+      "clima": "BUENO",
+      "campoDeJuego": "BUENO",
+      "referee": "KURYLOWICZ",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "MATIAS TRAYNOR"
+        },
+        {
+          "numero": 2,
+          "jugador": "EZEQUIEL BALESTRA"
+        },
+        {
+          "numero": 3,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 4,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 5,
+          "jugador": "OCTAVIO TALLARICO"
+        },
+        {
+          "numero": 6,
+          "jugador": "JOSE GRUBER"
+        },
+        {
+          "numero": 7,
+          "jugador": "AGUSTIN DOMINGUEZ"
+        },
+        {
+          "numero": 8,
+          "jugador": "TOBIAS LUCERO"
+        },
+        {
+          "numero": 9,
+          "jugador": "MARIANO CETTOUR",
+          "capitan": true
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN MATIAS TRAYNOR"
+        },
+        {
+          "numero": 11,
+          "jugador": "GONZALO GREGORIO"
+        },
+        {
+          "numero": 12,
+          "jugador": "NICOLAS MARZIALI"
+        },
+        {
+          "numero": 13,
+          "jugador": "SANTIAGO TRAYNOR"
+        },
+        {
+          "numero": 14,
+          "jugador": "FRANCISCO OCCHIUZZI"
+        },
+        {
+          "numero": 15,
+          "jugador": "RAMIRO OCCHIUZZI"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "PABLO FERREIRA",
+          "entraPor": "MATIAS TRAYNOR"
+        },
+        {
+          "jugador": "FRANCO RODRIGUEZ",
+          "entraPor": "RODRIGO GOMEZ"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "FRANCISCO OCCHIUZZI",
+          "tipo": "TRY",
+          "cantidad": 2
+        },
+        {
+          "jugador": "GONZALO GREGORIO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "RAMIRO OCCHIUZZI",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "TOBIAS LUCERO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "FRANCISCO COMABELLA",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "CONVERSION",
+          "cantidad": 4
+        }
+      ],
+      "tarjetas": [
+        {
+          "jugador": "FRANCISCO COMABELLA",
+          "tipo": "AMARILLA"
+        }
+      ]
+    },
+    {
+      "fecha": "2019-09-21",
+      "fechaNota": null,
+      "rival": "ARECO",
+      "condicion": "LOCAL",
+      "resultadoPropio": 14,
+      "resultadoRival": 19,
+      "cancha": "VICENTINOS",
+      "clima": "BUENO - VENTOSO",
+      "campoDeJuego": "MUY BUENO",
+      "referee": "PORCU",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "MATIAS TRAYNOR"
+        },
+        {
+          "numero": 2,
+          "jugador": "EZEQUIEL BALESTRA"
+        },
+        {
+          "numero": 3,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 4,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 5,
+          "jugador": "OCTAVIO TALLARICO"
+        },
+        {
+          "numero": 6,
+          "jugador": "JOSE GRUBER"
+        },
+        {
+          "numero": 7,
+          "jugador": "RODRIGO RIOS"
+        },
+        {
+          "numero": 8,
+          "jugador": "TOBIAS LUCERO"
+        },
+        {
+          "numero": 9,
+          "jugador": "MARIANO CETTOUR",
+          "capitan": true
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN MATIAS TRAYNOR"
+        },
+        {
+          "numero": 11,
+          "jugador": "GONZALO GREGORIO"
+        },
+        {
+          "numero": 12,
+          "jugador": "NICOLAS MARZIALI"
+        },
+        {
+          "numero": 13,
+          "jugador": "SANTIAGO TRAYNOR"
+        },
+        {
+          "numero": 14,
+          "jugador": "FRANCISCO OCCHIUZZI"
+        },
+        {
+          "numero": 15,
+          "jugador": "RAMIRO OCCHIUZZI"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "PABLO FERREIRA",
+          "entraPor": "EZEQUIEL BALESTRA"
+        },
+        {
+          "jugador": "FRANCO RODRIGUEZ",
+          "entraPor": "RODRIGO GOMEZ"
+        },
+        {
+          "jugador": "AGUSTIN TRAYNOR",
+          "entraPor": "MARIANO CETTOUR"
+        },
+        {
+          "jugador": "MARIANO LIVACHOFF",
+          "entraPor": "NICOLAS MARZIALI"
+        },
+        {
+          "jugador": "JUAN IGNACIO VAZQUEZ",
+          "entraPor": "RODRIGO RIOS"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "TOBIAS LUCERO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "JUAN MATIAS TRAYNOR",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "CONVERSION",
+          "cantidad": 2
+        }
+      ],
+      "tarjetas": [
+        {
+          "jugador": "OCTAVIO TALLARICO",
+          "tipo": "AMARILLA"
+        }
+      ]
+    },
+    {
+      "fecha": "2019-10-14",
+      "fechaNota": null,
+      "rival": "LANUS",
+      "condicion": "VISITANTE",
+      "resultadoPropio": 33,
+      "resultadoRival": 15,
+      "cancha": "LANUS",
+      "clima": "NUBLADO",
+      "campoDeJuego": "BUENO",
+      "referee": "IGARZABAL",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "MATIAS TRAYNOR"
+        },
+        {
+          "numero": 2,
+          "jugador": "EZEQUIEL BALESTRA"
+        },
+        {
+          "numero": 3,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 4,
+          "jugador": "RODRIGO RIOS"
+        },
+        {
+          "numero": 5,
+          "jugador": "OCTAVIO TALLARICO"
+        },
+        {
+          "numero": 6,
+          "jugador": "JOSE GRUBER"
+        },
+        {
+          "numero": 7,
+          "jugador": "RODRIGO ESMAYEL"
+        },
+        {
+          "numero": 8,
+          "jugador": "TOBIAS LUCERO"
+        },
+        {
+          "numero": 9,
+          "jugador": "AGUSTIN TRAYNOR"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN MATIAS TRAYNOR"
+        },
+        {
+          "numero": 11,
+          "jugador": "GONZALO GREGORIO",
+          "capitan": true
+        },
+        {
+          "numero": 12,
+          "jugador": "NICOLAS MARZIALI"
+        },
+        {
+          "numero": 13,
+          "jugador": "SANTIAGO TRAYNOR"
+        },
+        {
+          "numero": 14,
+          "jugador": "FRANCISCO OCCHIUZZI"
+        },
+        {
+          "numero": 15,
+          "jugador": "RAMIRO OCCHIUZZI"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "FRANCO RODRIGUEZ",
+          "entraPor": "RODRIGO GOMEZ"
+        },
+        {
+          "jugador": "FRANCISCO COMABELLA",
+          "entraPor": "OCTAVIO TALLARICO"
+        },
+        {
+          "jugador": "MARIANO CETTOUR",
+          "entraPor": "AGUSTIN TRAYNOR"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "FRANCISCO OCCHIUZZI",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "GONZALO GREGORIO",
+          "tipo": "TRY",
+          "cantidad": 2
+        },
+        {
+          "jugador": "MARIANO CETTOUR",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "CONVERSION",
+          "cantidad": 2
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "PENAL",
+          "cantidad": 3
+        }
+      ],
+      "tarjetas": [
+        {
+          "jugador": "RODRIGO RIOS",
+          "tipo": "AMARILLA"
+        },
+        {
+          "jugador": "RODRIGO ESMAYEL",
+          "tipo": "AMARILLA"
+        }
+      ]
+    },
+    {
+      "fecha": "2019-10-19",
+      "fechaNota": null,
+      "rival": "CASA DE PADUA",
+      "condicion": "LOCAL",
+      "resultadoPropio": 27,
+      "resultadoRival": 36,
+      "cancha": "VICENTINOS",
+      "clima": "BUENO",
+      "campoDeJuego": "MUY BUENO",
+      "referee": "ACHAVAL",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "MATIAS TRAYNOR"
+        },
+        {
+          "numero": 2,
+          "jugador": "EZEQUIEL BALESTRA"
+        },
+        {
+          "numero": 3,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 4,
+          "jugador": "OCTAVIO TALLARICO"
+        },
+        {
+          "numero": 5,
+          "jugador": "RODRIGO RIOS"
+        },
+        {
+          "numero": 6,
+          "jugador": "RODRIGO ESMAYEL"
+        },
+        {
+          "numero": 7,
+          "jugador": "JOSE GRUBER"
+        },
+        {
+          "numero": 8,
+          "jugador": "TOBIAS LUCERO"
+        },
+        {
+          "numero": 9,
+          "jugador": "AGUSTIN TRAYNOR"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN MATIAS TRAYNOR"
+        },
+        {
+          "numero": 11,
+          "jugador": "GONZALO GREGORIO",
+          "capitan": true
+        },
+        {
+          "numero": 12,
+          "jugador": "NICOLAS MARZIALI"
+        },
+        {
+          "numero": 13,
+          "jugador": "SANTIAGO TRAYNOR"
+        },
+        {
+          "numero": 14,
+          "jugador": "FRANCISCO OCCHIUZZI"
+        },
+        {
+          "numero": 15,
+          "jugador": "RAMIRO OCCHIUZZI"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "PABLO FERREIRA",
+          "entraPor": "RODRIGO GOMEZ"
+        },
+        {
+          "jugador": "FRANCISCO COMABELLA",
+          "entraPor": "RODRIGO ESMAYEL"
+        },
+        {
+          "jugador": "SANTIAGO DIAZ",
+          "entraPor": "OCTAVIO TALLARICO"
+        },
+        {
+          "jugador": "MARIANO CETTOUR",
+          "entraPor": "AGUSTIN TRAYNOR"
+        },
+        {
+          "jugador": "FRANCO RODRIGUEZ",
+          "entraPor": "MATIAS TRAYNOR"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "TRY",
+          "cantidad": 2
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "CONVERSION",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "PENAL",
+          "cantidad": 5
+        }
+      ],
+      "tarjetas": [
+        {
+          "jugador": "PABLO FERREIRA",
+          "tipo": "AMARILLA"
+        }
+      ]
+    },
+    {
+      "fecha": "2019-10-26",
+      "fechaNota": null,
+      "rival": "LUJAN",
+      "condicion": "VISITANTE",
+      "resultadoPropio": 45,
+      "resultadoRival": 5,
+      "cancha": "LUJAN",
+      "clima": "BUENO",
+      "campoDeJuego": "MUY BUENO",
+      "referee": "BELTRAMINO",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "MATIAS TRAYNOR"
+        },
+        {
+          "numero": 2,
+          "jugador": "EZEQUIEL BALESTRA"
+        },
+        {
+          "numero": 3,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 4,
+          "jugador": "OCTAVIO TALLARICO"
+        },
+        {
+          "numero": 5,
+          "jugador": "SANTIAGO DIAZ"
+        },
+        {
+          "numero": 6,
+          "jugador": "RODRIGO RIOS"
+        },
+        {
+          "numero": 7,
+          "jugador": "JOSE GRUBER"
+        },
+        {
+          "numero": 8,
+          "jugador": "TOBIAS LUCERO"
+        },
+        {
+          "numero": 9,
+          "jugador": "MARIANO CETTOUR",
+          "capitan": true
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN MATIAS TRAYNOR"
+        },
+        {
+          "numero": 11,
+          "jugador": "FRANCISCO OCCHIUZZI"
+        },
+        {
+          "numero": 12,
+          "jugador": "NICOLAS MARZIALI"
+        },
+        {
+          "numero": 13,
+          "jugador": "SANTIAGO TRAYNOR"
+        },
+        {
+          "numero": 14,
+          "jugador": "GONZALO GREGORIO"
+        },
+        {
+          "numero": 15,
+          "jugador": "RAMIRO OCCHIUZZI"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "FRANCO RODRIGUEZ",
+          "entraPor": "RODRIGO GOMEZ"
+        },
+        {
+          "jugador": "HUGO PEDEMONTE",
+          "entraPor": "EZEQUIEL BALESTRA"
+        },
+        {
+          "jugador": "MARIANO LIVACHOFF",
+          "entraPor": "GONZALO GREGORIO"
+        },
+        {
+          "jugador": "AGUSTIN TRAYNOR",
+          "entraPor": "MARIANO CETTOUR"
+        },
+        {
+          "jugador": "RODRIGO ESMAYEL",
+          "entraPor": "TOBIAS LUCERO"
+        },
+        {
+          "jugador": "FRANCO CICHERO",
+          "entraPor": "RODRIGO RIOS"
+        },
+        {
+          "jugador": "FEDERICO PITTALA",
+          "entraPor": "MARIANO CETTOUR"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "JOSE GRUBER",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "MARIANO LIVACHOFF",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "MARIANO CETTOUR",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "TOBIAS LUCERO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "RAMIRO OCCHIUZZI",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "CONVERSION",
+          "cantidad": 6
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "PENAL",
+          "cantidad": 1
+        }
+      ],
+      "tarjetas": [
+        {
+          "jugador": "SANTIAGO DIAZ",
+          "tipo": "AMARILLA"
+        }
+      ]
+    },
+    {
+      "fecha": "2019-11-10",
+      "fechaNota": null,
+      "rival": "DELTA",
+      "condicion": "LOCAL",
+      "resultadoPropio": 31,
+      "resultadoRival": 52,
+      "cancha": "VICENTINOS",
+      "clima": "BUENO",
+      "campoDeJuego": "MUY BUENO",
+      "referee": "VILLALBOS",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "MATIAS TRAYNOR"
+        },
+        {
+          "numero": 2,
+          "jugador": "EZEQUIEL BALESTRA"
+        },
+        {
+          "numero": 3,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 4,
+          "jugador": "OCTAVIO TALLARICO"
+        },
+        {
+          "numero": 5,
+          "jugador": "SANTIAGO DIAZ"
+        },
+        {
+          "numero": 6,
+          "jugador": "RODRIGO RIOS"
+        },
+        {
+          "numero": 7,
+          "jugador": "JOSE GRUBER"
+        },
+        {
+          "numero": 8,
+          "jugador": "TOBIAS LUCERO"
+        },
+        {
+          "numero": 9,
+          "jugador": "MARIANO CETTOUR",
+          "capitan": true
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN MATIAS TRAYNOR"
+        },
+        {
+          "numero": 11,
+          "jugador": "FRANCISCO OCCHIUZZI"
+        },
+        {
+          "numero": 12,
+          "jugador": "MARIANO LIVACHOFF"
+        },
+        {
+          "numero": 13,
+          "jugador": "SANTIAGO TRAYNOR"
+        },
+        {
+          "numero": 14,
+          "jugador": "MAURO CHIRINO"
+        },
+        {
+          "numero": 15,
+          "jugador": "RAMIRO OCCHIUZZI"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "FRANCISCO COMABELLA",
+          "entraPor": "JOSE GRUBER"
+        },
+        {
+          "jugador": "RODRIGO ESMAYEL",
+          "entraPor": "RODRIGO RIOS"
+        },
+        {
+          "jugador": "FRANCO RODRIGUEZ",
+          "entraPor": "RODRIGO GOMEZ"
+        },
+        {
+          "jugador": "AGUSTIN TRAYNOR",
+          "entraPor": "MAURO CHIRINO"
+        },
+        {
+          "jugador": "FRANCO CICHERO",
+          "entraPor": "OCTAVIO TALLARICO"
+        },
+        {
+          "jugador": "HUGO PEDEMONTE",
+          "entraPor": "EZEQUIEL BALESTRA"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "TOBIAS LUCERO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "FRANCISCO OCCHIUZZI",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "TRY PENAL",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "RAMIRO OCCHIUZZI",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "AGUSTIN TRAYNOR",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "CONVERSION",
+          "cantidad": 3
+        }
+      ],
+      "tarjetas": []
+    }
+  ]
+}

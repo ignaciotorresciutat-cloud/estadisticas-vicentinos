@@ -1,0 +1,3394 @@
+{
+  "temporada": 2024,
+  "info": {
+    "torneo": "Primera C",
+    "posicion": 9,
+    "rankingUrba": 49,
+    "campeon": false,
+    "ascenso": false,
+    "descenso": false,
+    "nota": null
+  },
+  "partidos": [
+    {
+      "fecha": "2024-03-09",
+      "fechaNota": "9/3/2024 (FECHA 2 ADELANTADA)",
+      "rival": "MERCEDES",
+      "condicion": "VISITANTE",
+      "resultadoPropio": 19,
+      "resultadoRival": 15,
+      "cancha": "MERCEDES",
+      "clima": "BUENO",
+      "campoDeJuego": "BUENO",
+      "referee": "TAUSCH",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "JOAQUIN TRAYNOR"
+        },
+        {
+          "numero": 3,
+          "jugador": "FEDERICO MARTINEZ"
+        },
+        {
+          "numero": 4,
+          "jugador": "RODRIGO RIOS"
+        },
+        {
+          "numero": 5,
+          "jugador": "FRANCISCO COMABELLA",
+          "capitan": true
+        },
+        {
+          "numero": 6,
+          "jugador": "MARIANO LIVACHOFF"
+        },
+        {
+          "numero": 7,
+          "jugador": "GERÓNIMO RÍOS"
+        },
+        {
+          "numero": 8,
+          "jugador": "PEDRO MONTENEGRO"
+        },
+        {
+          "numero": 9,
+          "jugador": "AGUSTIN TRAYNOR"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN PEDRO OCCHIUZZI"
+        },
+        {
+          "numero": 11,
+          "jugador": "IAN MARTÍNEZ OLIVER"
+        },
+        {
+          "numero": 12,
+          "jugador": "FEDERICO PITTALA"
+        },
+        {
+          "numero": 13,
+          "jugador": "JUAN MATIAS TRAYNOR"
+        },
+        {
+          "numero": 14,
+          "jugador": "MARIANO TRAYNOR"
+        },
+        {
+          "numero": 15,
+          "jugador": "ENZO CORSI"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "EZEQUIEL BALESTRA",
+          "entraPor": "JOAQUIN TRAYNOR"
+        },
+        {
+          "jugador": "MATIAS TRAYNOR",
+          "entraPor": "RODRIGO GOMEZ"
+        },
+        {
+          "jugador": "JORGE BENÍTEZ",
+          "entraPor": "FEDERICO MARTINEZ"
+        },
+        {
+          "jugador": "ESTEBAN GONZALEZ",
+          "entraPor": "RODRIGO RIOS"
+        },
+        {
+          "jugador": "THOMAS TEVES",
+          "entraPor": "IAN MARTÍNEZ OLIVER"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "GERÓNIMO RÍOS",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "JUAN MATIAS TRAYNOR",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "TRY SCRUM",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "tipo": "CONVERSION",
+          "cantidad": 2
+        }
+      ],
+      "tarjetas": [
+        {
+          "jugador": "MARIANO TRAYNOR",
+          "tipo": "AMARILLA"
+        },
+        {
+          "jugador": "RODRIGO RIOS",
+          "tipo": "AMARILLA"
+        }
+      ]
+    },
+    {
+      "fecha": "2024-03-16",
+      "fechaNota": null,
+      "rival": "EL RETIRO",
+      "condicion": "LOCAL",
+      "resultadoPropio": 20,
+      "resultadoRival": 18,
+      "cancha": "VICENTINOS",
+      "clima": "BUENO",
+      "campoDeJuego": "PESADO",
+      "referee": "DÍAZ",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "JOAQUIN TRAYNOR"
+        },
+        {
+          "numero": 3,
+          "jugador": "FEDERICO MARTINEZ"
+        },
+        {
+          "numero": 4,
+          "jugador": "RODRIGO RIOS"
+        },
+        {
+          "numero": 5,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 6,
+          "jugador": "MARIANO LIVACHOFF"
+        },
+        {
+          "numero": 7,
+          "jugador": "GERÓNIMO RÍOS"
+        },
+        {
+          "numero": 8,
+          "jugador": "PEDRO MONTENEGRO"
+        },
+        {
+          "numero": 9,
+          "jugador": "AGUSTIN TRAYNOR"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN PEDRO OCCHIUZZI"
+        },
+        {
+          "numero": 11,
+          "jugador": "FRANCISCO OCCHIUZZI"
+        },
+        {
+          "numero": 12,
+          "jugador": "SANTIAGO TRAYNOR",
+          "capitan": true
+        },
+        {
+          "numero": 13,
+          "jugador": "JUAN MATIAS TRAYNOR"
+        },
+        {
+          "numero": 14,
+          "jugador": "MARIANO TRAYNOR"
+        },
+        {
+          "numero": 15,
+          "jugador": "ENZO CORSI"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "EZEQUIEL BALESTRA",
+          "entraPor": "JOAQUIN TRAYNOR"
+        },
+        {
+          "jugador": "MATIAS TRAYNOR",
+          "entraPor": "RODRIGO GOMEZ"
+        },
+        {
+          "jugador": "JORGE BENÍTEZ",
+          "entraPor": "FEDERICO MARTINEZ"
+        },
+        {
+          "jugador": "NICOLÁS CABRERA",
+          "entraPor": "GERÓNIMO RÍOS"
+        },
+        {
+          "jugador": "THOMAS TEVES",
+          "entraPor": "AGUSTIN TRAYNOR"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "MARIANO TRAYNOR",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "TRY PENAL",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "JOAQUIN TRAYNOR",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "tipo": "PENAL",
+          "cantidad": 1
+        }
+      ],
+      "tarjetas": [
+        {
+          "jugador": "JOAQUIN TRAYNOR",
+          "tipo": "AMARILLA"
+        },
+        {
+          "jugador": "THOMAS TEVES",
+          "tipo": "AMARILLA"
+        }
+      ]
+    },
+    {
+      "fecha": "2024-04-06",
+      "fechaNota": null,
+      "rival": "ARECO",
+      "condicion": "LOCAL",
+      "resultadoPropio": 23,
+      "resultadoRival": 18,
+      "cancha": "VICENTINOS",
+      "clima": "BUENO",
+      "campoDeJuego": "BUENO",
+      "referee": null,
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "JOAQUIN TRAYNOR"
+        },
+        {
+          "numero": 3,
+          "jugador": "FEDERICO MARTINEZ"
+        },
+        {
+          "numero": 4,
+          "jugador": "RODRIGO RIOS"
+        },
+        {
+          "numero": 5,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 6,
+          "jugador": "MARIANO LIVACHOFF"
+        },
+        {
+          "numero": 7,
+          "jugador": "NICOLÁS CABRERA"
+        },
+        {
+          "numero": 8,
+          "jugador": "PEDRO MONTENEGRO"
+        },
+        {
+          "numero": 9,
+          "jugador": "AGUSTIN TRAYNOR"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN PEDRO OCCHIUZZI"
+        },
+        {
+          "numero": 11,
+          "jugador": "FRANCISCO OCCHIUZZI"
+        },
+        {
+          "numero": 12,
+          "jugador": "SANTIAGO TRAYNOR",
+          "capitan": true
+        },
+        {
+          "numero": 13,
+          "jugador": "JUAN MATIAS TRAYNOR"
+        },
+        {
+          "numero": 14,
+          "jugador": "MARIANO TRAYNOR"
+        },
+        {
+          "numero": 15,
+          "jugador": "ENZO CORSI"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "EZEQUIEL BALESTRA",
+          "entraPor": "JOAQUIN TRAYNOR"
+        },
+        {
+          "jugador": "MATIAS TRAYNOR",
+          "entraPor": "RODRIGO GOMEZ"
+        },
+        {
+          "jugador": "JORGE BENÍTEZ",
+          "entraPor": "FEDERICO MARTINEZ"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "JOAQUIN TRAYNOR",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "FRANCISCO OCCHIUZZI",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "AGUSTIN TRAYNOR",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "CONVERSION",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "PENAL",
+          "cantidad": 1
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "tipo": "DROP",
+          "cantidad": 1
+        }
+      ],
+      "tarjetas": [
+        {
+          "jugador": "RODRIGO GOMEZ",
+          "tipo": "AMARILLA"
+        }
+      ]
+    },
+    {
+      "fecha": "2024-04-13",
+      "fechaNota": null,
+      "rival": "CIUDAD DE BS.AS.",
+      "condicion": "LOCAL",
+      "resultadoPropio": 26,
+      "resultadoRival": 25,
+      "cancha": "VICENTINOS",
+      "clima": "LLOVIZNAS",
+      "campoDeJuego": "PESADO",
+      "referee": null,
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "JOAQUIN TRAYNOR"
+        },
+        {
+          "numero": 3,
+          "jugador": "FEDERICO MARTINEZ"
+        },
+        {
+          "numero": 4,
+          "jugador": "RODRIGO RIOS"
+        },
+        {
+          "numero": 5,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 6,
+          "jugador": "MARIANO LIVACHOFF"
+        },
+        {
+          "numero": 7,
+          "jugador": "NICOLÁS CABRERA"
+        },
+        {
+          "numero": 8,
+          "jugador": "PEDRO MONTENEGRO"
+        },
+        {
+          "numero": 9,
+          "jugador": "AGUSTIN TRAYNOR"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN PEDRO OCCHIUZZI"
+        },
+        {
+          "numero": 11,
+          "jugador": "FRANCISCO OCCHIUZZI"
+        },
+        {
+          "numero": 12,
+          "jugador": "SANTIAGO TRAYNOR",
+          "capitan": true
+        },
+        {
+          "numero": 13,
+          "jugador": "JUAN MATIAS TRAYNOR"
+        },
+        {
+          "numero": 14,
+          "jugador": "MARIANO TRAYNOR"
+        },
+        {
+          "numero": 15,
+          "jugador": "ENZO CORSI"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "EZEQUIEL BALESTRA",
+          "entraPor": "JOAQUIN TRAYNOR"
+        },
+        {
+          "jugador": "MATIAS TRAYNOR",
+          "entraPor": "RODRIGO GOMEZ"
+        },
+        {
+          "jugador": "JORGE BENÍTEZ",
+          "entraPor": "FEDERICO MARTINEZ"
+        },
+        {
+          "jugador": "FEDERICO PITTALA",
+          "entraPor": "JUAN MATIAS TRAYNOR"
+        },
+        {
+          "jugador": "GERÓNIMO RÍOS",
+          "entraPor": "NICOLÁS CABRERA"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "TRY PENAL",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "CONVERSION",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "PENAL",
+          "cantidad": 3
+        },
+        {
+          "jugador": "FRANCISCO OCCHIUZZI",
+          "tipo": "DROP",
+          "cantidad": 1
+        }
+      ],
+      "tarjetas": [
+        {
+          "jugador": "FRANCISCO COMABELLA",
+          "tipo": "AMARILLA"
+        },
+        {
+          "jugador": "AGUSTIN TRAYNOR",
+          "tipo": "AMARILLA"
+        },
+        {
+          "jugador": "FEDERICO PITTALA",
+          "tipo": "AMARILLA"
+        },
+        {
+          "jugador": "GERÓNIMO RÍOS",
+          "tipo": "AMARILLA"
+        }
+      ]
+    },
+    {
+      "fecha": "2024-04-20",
+      "fechaNota": null,
+      "rival": "DEL SUR",
+      "condicion": "VISITANTE",
+      "resultadoPropio": 24,
+      "resultadoRival": 23,
+      "cancha": "DEL SUR",
+      "clima": "BUENO",
+      "campoDeJuego": "BUENO",
+      "referee": null,
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "JOAQUIN TRAYNOR"
+        },
+        {
+          "numero": 3,
+          "jugador": "FEDERICO MARTINEZ"
+        },
+        {
+          "numero": 4,
+          "jugador": "RODRIGO RIOS"
+        },
+        {
+          "numero": 5,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 6,
+          "jugador": "MARIANO LIVACHOFF"
+        },
+        {
+          "numero": 7,
+          "jugador": "NICOLÁS CABRERA"
+        },
+        {
+          "numero": 8,
+          "jugador": "PEDRO MONTENEGRO"
+        },
+        {
+          "numero": 9,
+          "jugador": "AGUSTIN TRAYNOR"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN PEDRO OCCHIUZZI"
+        },
+        {
+          "numero": 11,
+          "jugador": "FRANCISCO OCCHIUZZI"
+        },
+        {
+          "numero": 12,
+          "jugador": "SANTIAGO TRAYNOR",
+          "capitan": true
+        },
+        {
+          "numero": 13,
+          "jugador": "JUAN MATIAS TRAYNOR"
+        },
+        {
+          "numero": 14,
+          "jugador": "MARIANO TRAYNOR"
+        },
+        {
+          "numero": 15,
+          "jugador": "ENZO CORSI"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "EZEQUIEL BALESTRA",
+          "entraPor": "JOAQUIN TRAYNOR"
+        },
+        {
+          "jugador": "MATIAS TRAYNOR",
+          "entraPor": "RODRIGO GOMEZ"
+        },
+        {
+          "jugador": "JORGE BENÍTEZ",
+          "entraPor": "FEDERICO MARTINEZ"
+        },
+        {
+          "jugador": "GERÓNIMO RÍOS",
+          "entraPor": "NICOLÁS CABRERA"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "PEDRO MONTENEGRO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "TRY PENAL",
+          "tipo": "TRY",
+          "cantidad": 2
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "CONVERSION",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "PENAL",
+          "cantidad": 1
+        }
+      ],
+      "tarjetas": [
+        {
+          "jugador": "NICOLÁS CABRERA",
+          "tipo": "AMARILLA"
+        }
+      ]
+    },
+    {
+      "fecha": "2024-04-27",
+      "fechaNota": null,
+      "rival": "SITAS",
+      "condicion": "LOCAL",
+      "resultadoPropio": 13,
+      "resultadoRival": 10,
+      "cancha": "VICENTINOS",
+      "clima": "NUBLADO",
+      "campoDeJuego": "BARROSO",
+      "referee": null,
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "JOAQUIN TRAYNOR"
+        },
+        {
+          "numero": 3,
+          "jugador": "FEDERICO MARTINEZ"
+        },
+        {
+          "numero": 4,
+          "jugador": "RODRIGO RIOS"
+        },
+        {
+          "numero": 5,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 6,
+          "jugador": "MARIANO LIVACHOFF"
+        },
+        {
+          "numero": 7,
+          "jugador": "GERÓNIMO RÍOS"
+        },
+        {
+          "numero": 8,
+          "jugador": "PEDRO MONTENEGRO"
+        },
+        {
+          "numero": 9,
+          "jugador": "AGUSTIN TRAYNOR"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN PEDRO OCCHIUZZI"
+        },
+        {
+          "numero": 11,
+          "jugador": "FRANCISCO OCCHIUZZI"
+        },
+        {
+          "numero": 12,
+          "jugador": "SANTIAGO TRAYNOR",
+          "capitan": true
+        },
+        {
+          "numero": 13,
+          "jugador": "JUAN MATIAS TRAYNOR"
+        },
+        {
+          "numero": 14,
+          "jugador": "MARIANO TRAYNOR"
+        },
+        {
+          "numero": 15,
+          "jugador": "ENZO CORSI"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "EZEQUIEL BALESTRA",
+          "entraPor": "JOAQUIN TRAYNOR"
+        },
+        {
+          "jugador": "MATIAS TRAYNOR",
+          "entraPor": "RODRIGO GOMEZ"
+        },
+        {
+          "jugador": "JORGE BENÍTEZ",
+          "entraPor": "FEDERICO MARTINEZ"
+        },
+        {
+          "jugador": "JUAN MARTÍN TURKOWSKY",
+          "entraPor": "RODRIGO RIOS"
+        },
+        {
+          "jugador": "AGUSTIN MARZIALI",
+          "entraPor": "JUAN MATIAS TRAYNOR"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "MATIAS TRAYNOR",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "CONVERSION",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "PENAL",
+          "cantidad": 2
+        }
+      ],
+      "tarjetas": [
+        {
+          "jugador": "MARIANO TRAYNOR",
+          "tipo": "AMARILLA"
+        }
+      ]
+    },
+    {
+      "fecha": "2024-05-11",
+      "fechaNota": null,
+      "rival": "CENTRO NAVAL",
+      "condicion": "VISITANTE",
+      "resultadoPropio": 14,
+      "resultadoRival": 15,
+      "cancha": "CENTRO NAVAL",
+      "clima": "BUENO",
+      "campoDeJuego": "MUY BUENO",
+      "referee": null,
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "JOAQUIN TRAYNOR"
+        },
+        {
+          "numero": 3,
+          "jugador": "FEDERICO MARTINEZ"
+        },
+        {
+          "numero": 4,
+          "jugador": "JUAN MARTÍN TURKOWSKY"
+        },
+        {
+          "numero": 5,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 6,
+          "jugador": "MARIANO LIVACHOFF"
+        },
+        {
+          "numero": 7,
+          "jugador": "GERÓNIMO RÍOS"
+        },
+        {
+          "numero": 8,
+          "jugador": "PEDRO MONTENEGRO"
+        },
+        {
+          "numero": 9,
+          "jugador": "AGUSTIN TRAYNOR"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN PEDRO OCCHIUZZI"
+        },
+        {
+          "numero": 11,
+          "jugador": "AGUSTIN MARZIALI"
+        },
+        {
+          "numero": 12,
+          "jugador": "SANTIAGO TRAYNOR",
+          "capitan": true
+        },
+        {
+          "numero": 13,
+          "jugador": "FRANCISCO OCCHIUZZI"
+        },
+        {
+          "numero": 14,
+          "jugador": "MARIANO TRAYNOR"
+        },
+        {
+          "numero": 15,
+          "jugador": "ENZO CORSI"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "EZEQUIEL BALESTRA",
+          "entraPor": "JOAQUIN TRAYNOR"
+        },
+        {
+          "jugador": "MATIAS TRAYNOR",
+          "entraPor": "RODRIGO GOMEZ"
+        },
+        {
+          "jugador": "JORGE BENÍTEZ",
+          "entraPor": "FEDERICO MARTINEZ"
+        },
+        {
+          "jugador": "PATRICIO TRAYNOR",
+          "entraPor": "MARIANO TRAYNOR"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "JORGE BENÍTEZ",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "PENAL",
+          "cantidad": 3
+        }
+      ],
+      "tarjetas": [
+        {
+          "jugador": "FRANCISCO COMABELLA",
+          "tipo": "AMARILLA"
+        }
+      ]
+    },
+    {
+      "fecha": "2024-05-18",
+      "fechaNota": null,
+      "rival": "MONTE GRANDE",
+      "condicion": "LOCAL",
+      "resultadoPropio": 16,
+      "resultadoRival": 38,
+      "cancha": "VICENTINOS",
+      "clima": "BUENO",
+      "campoDeJuego": "BUENO",
+      "referee": null,
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "JOAQUIN TRAYNOR"
+        },
+        {
+          "numero": 3,
+          "jugador": "FEDERICO MARTINEZ"
+        },
+        {
+          "numero": 4,
+          "jugador": "RODRIGO RIOS"
+        },
+        {
+          "numero": 5,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 6,
+          "jugador": "MARIANO LIVACHOFF"
+        },
+        {
+          "numero": 7,
+          "jugador": "GERÓNIMO RÍOS"
+        },
+        {
+          "numero": 8,
+          "jugador": "PEDRO MONTENEGRO"
+        },
+        {
+          "numero": 9,
+          "jugador": "AGUSTIN TRAYNOR"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN PEDRO OCCHIUZZI"
+        },
+        {
+          "numero": 11,
+          "jugador": "AGUSTIN MARZIALI"
+        },
+        {
+          "numero": 12,
+          "jugador": "SANTIAGO TRAYNOR",
+          "capitan": true
+        },
+        {
+          "numero": 13,
+          "jugador": "FRANCISCO OCCHIUZZI"
+        },
+        {
+          "numero": 14,
+          "jugador": "MARIANO TRAYNOR"
+        },
+        {
+          "numero": 15,
+          "jugador": "ENZO CORSI"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "EZEQUIEL BALESTRA",
+          "entraPor": "JOAQUIN TRAYNOR"
+        },
+        {
+          "jugador": "MATIAS TRAYNOR",
+          "entraPor": "RODRIGO GOMEZ"
+        },
+        {
+          "jugador": "JORGE BENÍTEZ",
+          "entraPor": "FEDERICO MARTINEZ"
+        },
+        {
+          "jugador": "PATRICIO TRAYNOR",
+          "entraPor": "MARIANO TRAYNOR"
+        },
+        {
+          "jugador": "AGUSTIN DOMINGUEZ",
+          "entraPor": "GERÓNIMO RÍOS"
+        },
+        {
+          "jugador": "ESTEBAN GONZALEZ",
+          "entraPor": "MARIANO LIVACHOFF"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "FRANCISCO COMABELLA",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "CONVERSION",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "PENAL",
+          "cantidad": 3
+        }
+      ],
+      "tarjetas": [
+        {
+          "jugador": "MATIAS TRAYNOR",
+          "tipo": "AMARILLA"
+        },
+        {
+          "jugador": "EZEQUIEL BALESTRA",
+          "tipo": "AMARILLA"
+        }
+      ]
+    },
+    {
+      "fecha": "2024-05-25",
+      "fechaNota": null,
+      "rival": "CAR",
+      "condicion": "VISITANTE",
+      "resultadoPropio": 19,
+      "resultadoRival": 62,
+      "cancha": "CAR",
+      "clima": "BUENO",
+      "campoDeJuego": "REGULAR",
+      "referee": null,
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "JOAQUIN TRAYNOR"
+        },
+        {
+          "numero": 3,
+          "jugador": "JORGE BENÍTEZ"
+        },
+        {
+          "numero": 4,
+          "jugador": "RODRIGO RIOS"
+        },
+        {
+          "numero": 5,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 6,
+          "jugador": "MARIANO LIVACHOFF"
+        },
+        {
+          "numero": 7,
+          "jugador": "GERÓNIMO RÍOS"
+        },
+        {
+          "numero": 8,
+          "jugador": "PEDRO MONTENEGRO"
+        },
+        {
+          "numero": 9,
+          "jugador": "AGUSTIN TRAYNOR"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN PEDRO OCCHIUZZI"
+        },
+        {
+          "numero": 11,
+          "jugador": "AGUSTIN MARZIALI"
+        },
+        {
+          "numero": 12,
+          "jugador": "SANTIAGO TRAYNOR",
+          "capitan": true
+        },
+        {
+          "numero": 13,
+          "jugador": "FRANCISCO OCCHIUZZI"
+        },
+        {
+          "numero": 14,
+          "jugador": "PATRICIO TRAYNOR"
+        },
+        {
+          "numero": 15,
+          "jugador": "ENZO CORSI"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "EZEQUIEL BALESTRA",
+          "entraPor": "JOAQUIN TRAYNOR"
+        },
+        {
+          "jugador": "MATIAS TRAYNOR",
+          "entraPor": "RODRIGO GOMEZ"
+        },
+        {
+          "jugador": "FEDERICO MARTINEZ",
+          "entraPor": "JORGE BENÍTEZ"
+        },
+        {
+          "jugador": "MARIANO TRAYNOR",
+          "entraPor": "ENZO CORSI"
+        },
+        {
+          "jugador": "AGUSTIN DOMINGUEZ",
+          "entraPor": "MARIANO LIVACHOFF"
+        },
+        {
+          "jugador": "SANTIAGO QUAGLIATA",
+          "entraPor": "AGUSTIN TRAYNOR"
+        },
+        {
+          "jugador": "FEDERICO PITTALA",
+          "entraPor": "PATRICIO TRAYNOR"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "ENZO CORSI",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "JOAQUIN TRAYNOR",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "TRY PENAL",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "CONVERSION",
+          "cantidad": 1
+        }
+      ],
+      "tarjetas": []
+    },
+    {
+      "fecha": "2024-06-01",
+      "fechaNota": null,
+      "rival": "DAOM",
+      "condicion": "LOCAL",
+      "resultadoPropio": 37,
+      "resultadoRival": 30,
+      "cancha": "VICENTINOS",
+      "clima": "BUENO",
+      "campoDeJuego": "BUENO",
+      "referee": null,
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "JOAQUIN TRAYNOR"
+        },
+        {
+          "numero": 3,
+          "jugador": "JORGE BENÍTEZ"
+        },
+        {
+          "numero": 4,
+          "jugador": "RODRIGO RIOS"
+        },
+        {
+          "numero": 5,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 6,
+          "jugador": "MARIANO LIVACHOFF"
+        },
+        {
+          "numero": 7,
+          "jugador": "GERÓNIMO RÍOS"
+        },
+        {
+          "numero": 8,
+          "jugador": "PEDRO MONTENEGRO"
+        },
+        {
+          "numero": 9,
+          "jugador": "AGUSTIN TRAYNOR"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN PEDRO OCCHIUZZI"
+        },
+        {
+          "numero": 11,
+          "jugador": "AGUSTIN MARZIALI"
+        },
+        {
+          "numero": 12,
+          "jugador": "SANTIAGO TRAYNOR",
+          "capitan": true
+        },
+        {
+          "numero": 13,
+          "jugador": "FRANCISCO OCCHIUZZI"
+        },
+        {
+          "numero": 14,
+          "jugador": "PATRICIO TRAYNOR"
+        },
+        {
+          "numero": 15,
+          "jugador": "ENZO CORSI"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "THIAGO GÓMEZ",
+          "entraPor": "JOAQUIN TRAYNOR"
+        },
+        {
+          "jugador": "MATIAS TRAYNOR",
+          "entraPor": "RODRIGO GOMEZ"
+        },
+        {
+          "jugador": "FEDERICO MARTINEZ",
+          "entraPor": "JORGE BENÍTEZ"
+        },
+        {
+          "jugador": "MARIANO TRAYNOR",
+          "entraPor": "PATRICIO TRAYNOR"
+        },
+        {
+          "jugador": "RODRIGO ESMAYEL",
+          "entraPor": "MARIANO LIVACHOFF"
+        },
+        {
+          "jugador": "SANTIAGO QUAGLIATA",
+          "entraPor": "AGUSTIN TRAYNOR"
+        },
+        {
+          "jugador": "RAMIRO OCCHIUZZI",
+          "entraPor": "JUAN PEDRO OCCHIUZZI"
+        },
+        {
+          "jugador": "TOBIAS LUCERO",
+          "entraPor": "RODRIGO RIOS"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "FRANCISCO OCCHIUZZI",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "JOAQUIN TRAYNOR",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "MARIANO LIVACHOFF",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "AGUSTIN MARZIALI",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "MATIAS TRAYNOR",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "CONVERSION",
+          "cantidad": 3
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "PENAL",
+          "cantidad": 1
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "tipo": "DROP",
+          "cantidad": 1
+        }
+      ],
+      "tarjetas": []
+    },
+    {
+      "fecha": "2024-06-08",
+      "fechaNota": null,
+      "rival": "LANUS",
+      "condicion": "VISITANTE",
+      "resultadoPropio": 33,
+      "resultadoRival": 40,
+      "cancha": "LANÚS",
+      "clima": "BUENO",
+      "campoDeJuego": "REGULAR",
+      "referee": null,
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "JOAQUIN TRAYNOR"
+        },
+        {
+          "numero": 3,
+          "jugador": "JORGE BENÍTEZ"
+        },
+        {
+          "numero": 4,
+          "jugador": "RODRIGO RIOS"
+        },
+        {
+          "numero": 5,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 6,
+          "jugador": "MARIANO LIVACHOFF"
+        },
+        {
+          "numero": 7,
+          "jugador": "GERÓNIMO RÍOS"
+        },
+        {
+          "numero": 8,
+          "jugador": "PEDRO MONTENEGRO"
+        },
+        {
+          "numero": 9,
+          "jugador": "AGUSTIN TRAYNOR"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN PEDRO OCCHIUZZI"
+        },
+        {
+          "numero": 11,
+          "jugador": "AGUSTIN MARZIALI"
+        },
+        {
+          "numero": 12,
+          "jugador": "SANTIAGO TRAYNOR",
+          "capitan": true
+        },
+        {
+          "numero": 13,
+          "jugador": "FRANCISCO OCCHIUZZI"
+        },
+        {
+          "numero": 14,
+          "jugador": "PATRICIO TRAYNOR"
+        },
+        {
+          "numero": 15,
+          "jugador": "ENZO CORSI"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "THIAGO GÓMEZ",
+          "entraPor": "JOAQUIN TRAYNOR"
+        },
+        {
+          "jugador": "MATIAS TRAYNOR",
+          "entraPor": "RODRIGO GOMEZ"
+        },
+        {
+          "jugador": "FEDERICO MARTINEZ",
+          "entraPor": "JORGE BENÍTEZ"
+        },
+        {
+          "jugador": "FRANCO TORRES",
+          "entraPor": "FRANCISCO OCCHIUZZI"
+        },
+        {
+          "jugador": "RODRIGO ESMAYEL",
+          "entraPor": "GERÓNIMO RÍOS"
+        },
+        {
+          "jugador": "SANTIAGO QUAGLIATA",
+          "entraPor": "AGUSTIN TRAYNOR"
+        },
+        {
+          "jugador": "RAMIRO OCCHIUZZI",
+          "entraPor": "FRANCO TORRES"
+        },
+        {
+          "jugador": "TOBIAS LUCERO",
+          "entraPor": "PEDRO MONTENEGRO"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "MARIANO LIVACHOFF",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "JOAQUIN TRAYNOR",
+          "tipo": "TRY",
+          "cantidad": 2
+        },
+        {
+          "jugador": "PEDRO MONTENEGRO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "CONVERSION",
+          "cantidad": 4
+        }
+      ],
+      "tarjetas": [
+        {
+          "jugador": "FRANCISCO COMABELLA",
+          "tipo": "AMARILLA"
+        }
+      ]
+    },
+    {
+      "fecha": "2024-06-22",
+      "fechaNota": null,
+      "rival": "LUJAN",
+      "condicion": "LOCAL",
+      "resultadoPropio": 30,
+      "resultadoRival": 41,
+      "cancha": "VICENTINOS",
+      "clima": "NUBLADO",
+      "campoDeJuego": "BUENO",
+      "referee": null,
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "JOAQUIN TRAYNOR"
+        },
+        {
+          "numero": 3,
+          "jugador": "FEDERICO MARTINEZ"
+        },
+        {
+          "numero": 4,
+          "jugador": "RODRIGO RIOS"
+        },
+        {
+          "numero": 5,
+          "jugador": "PEDRO MONTENEGRO"
+        },
+        {
+          "numero": 6,
+          "jugador": "MARIANO LIVACHOFF"
+        },
+        {
+          "numero": 7,
+          "jugador": "GERÓNIMO RÍOS"
+        },
+        {
+          "numero": 8,
+          "jugador": "TOBIAS LUCERO"
+        },
+        {
+          "numero": 9,
+          "jugador": "AGUSTIN TRAYNOR"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN PEDRO OCCHIUZZI"
+        },
+        {
+          "numero": 11,
+          "jugador": "AGUSTIN MARZIALI"
+        },
+        {
+          "numero": 12,
+          "jugador": "SANTIAGO TRAYNOR",
+          "capitan": true
+        },
+        {
+          "numero": 13,
+          "jugador": "FRANCISCO OCCHIUZZI"
+        },
+        {
+          "numero": 14,
+          "jugador": "PATRICIO TRAYNOR"
+        },
+        {
+          "numero": 15,
+          "jugador": "ENZO CORSI"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "MATIAS TRAYNOR",
+          "entraPor": "RODRIGO GOMEZ"
+        },
+        {
+          "jugador": "THIAGO GÓMEZ",
+          "entraPor": "JOAQUIN TRAYNOR"
+        },
+        {
+          "jugador": "JORGE BENÍTEZ",
+          "entraPor": "FEDERICO MARTINEZ"
+        },
+        {
+          "jugador": "SANTIAGO QUAGLIATA",
+          "entraPor": "AGUSTIN TRAYNOR"
+        },
+        {
+          "jugador": "MARIANO TRAYNOR",
+          "entraPor": "FRANCISCO OCCHIUZZI"
+        },
+        {
+          "jugador": "RAMIRO OCCHIUZZI",
+          "entraPor": "PATRICIO TRAYNOR"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "FEDERICO MARTINEZ",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "AGUSTIN TRAYNOR",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "TOBIAS LUCERO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "CONVERSION",
+          "cantidad": 3
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "PENAL",
+          "cantidad": 3
+        }
+      ],
+      "tarjetas": []
+    },
+    {
+      "fecha": "2024-06-29",
+      "fechaNota": null,
+      "rival": "CASA DE PADUA",
+      "condicion": "VISITANTE",
+      "resultadoPropio": 42,
+      "resultadoRival": 20,
+      "cancha": "CASA DE PADUA",
+      "clima": "BUENO",
+      "campoDeJuego": "BUENO",
+      "referee": null,
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "JOAQUIN TRAYNOR"
+        },
+        {
+          "numero": 3,
+          "jugador": "FEDERICO MARTINEZ"
+        },
+        {
+          "numero": 4,
+          "jugador": "RODRIGO RIOS"
+        },
+        {
+          "numero": 5,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 6,
+          "jugador": "MARIANO LIVACHOFF"
+        },
+        {
+          "numero": 7,
+          "jugador": "GERÓNIMO RÍOS"
+        },
+        {
+          "numero": 8,
+          "jugador": "PEDRO MONTENEGRO"
+        },
+        {
+          "numero": 9,
+          "jugador": "AGUSTIN TRAYNOR"
+        },
+        {
+          "numero": 10,
+          "jugador": "RAMIRO OCCHIUZZI"
+        },
+        {
+          "numero": 11,
+          "jugador": "FRANCO TORRES"
+        },
+        {
+          "numero": 12,
+          "jugador": "SANTIAGO TRAYNOR",
+          "capitan": true
+        },
+        {
+          "numero": 13,
+          "jugador": "AGUSTIN MARZIALI"
+        },
+        {
+          "numero": 14,
+          "jugador": "PATRICIO TRAYNOR"
+        },
+        {
+          "numero": 15,
+          "jugador": "ENZO CORSI"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "MATIAS TRAYNOR",
+          "entraPor": "RODRIGO GOMEZ"
+        },
+        {
+          "jugador": "THIAGO GÓMEZ",
+          "entraPor": "JOAQUIN TRAYNOR"
+        },
+        {
+          "jugador": "MIGUEL ALMIRÓN",
+          "entraPor": "FEDERICO MARTINEZ"
+        },
+        {
+          "jugador": "SANTIAGO QUAGLIATA",
+          "entraPor": "AGUSTIN TRAYNOR"
+        },
+        {
+          "jugador": "TOBIAS LUCERO",
+          "entraPor": "PEDRO MONTENEGRO"
+        },
+        {
+          "jugador": "RODRIGO ESMAYEL",
+          "entraPor": "MARIANO LIVACHOFF"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "FRANCISCO COMABELLA",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "PEDRO MONTENEGRO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "TRY PENAL",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "JOAQUIN TRAYNOR",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "ENZO CORSI",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "CONVERSION",
+          "cantidad": 3
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "PENAL",
+          "cantidad": 3
+        }
+      ],
+      "tarjetas": []
+    },
+    {
+      "fecha": "2024-07-06",
+      "fechaNota": null,
+      "rival": "EL RETIRO",
+      "condicion": "VISITANTE",
+      "resultadoPropio": 21,
+      "resultadoRival": 24,
+      "cancha": "RETIRO",
+      "clima": "BUENO",
+      "campoDeJuego": "BUENO",
+      "referee": null,
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "JOAQUIN TRAYNOR"
+        },
+        {
+          "numero": 3,
+          "jugador": "FEDERICO MARTINEZ"
+        },
+        {
+          "numero": 4,
+          "jugador": "RODRIGO RIOS"
+        },
+        {
+          "numero": 5,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 6,
+          "jugador": "MARIANO LIVACHOFF"
+        },
+        {
+          "numero": 7,
+          "jugador": "GERÓNIMO RÍOS"
+        },
+        {
+          "numero": 8,
+          "jugador": "TOBIAS LUCERO"
+        },
+        {
+          "numero": 9,
+          "jugador": "AGUSTIN TRAYNOR"
+        },
+        {
+          "numero": 10,
+          "jugador": "RAMIRO OCCHIUZZI"
+        },
+        {
+          "numero": 11,
+          "jugador": "FRANCO TORRES"
+        },
+        {
+          "numero": 12,
+          "jugador": "SANTIAGO TRAYNOR",
+          "capitan": true
+        },
+        {
+          "numero": 13,
+          "jugador": "AGUSTIN MARZIALI"
+        },
+        {
+          "numero": 14,
+          "jugador": "PATRICIO TRAYNOR"
+        },
+        {
+          "numero": 15,
+          "jugador": "MARIANO TRAYNOR"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "MATIAS TRAYNOR",
+          "entraPor": "RODRIGO GOMEZ"
+        },
+        {
+          "jugador": "THIAGO GÓMEZ",
+          "entraPor": "JOAQUIN TRAYNOR"
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "entraPor": "MARIANO TRAYNOR"
+        },
+        {
+          "jugador": "JUAN MATIAS TRAYNOR",
+          "entraPor": "PATRICIO TRAYNOR"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "RAMIRO OCCHIUZZI",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "MARIANO LIVACHOFF",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "MARIANO TRAYNOR",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "CONVERSION",
+          "cantidad": 3
+        }
+      ],
+      "tarjetas": []
+    },
+    {
+      "fecha": "2024-07-14",
+      "fechaNota": null,
+      "rival": "MERCEDES",
+      "condicion": "LOCAL",
+      "resultadoPropio": 46,
+      "resultadoRival": 23,
+      "cancha": "VICENTINOS",
+      "clima": "BUENO",
+      "campoDeJuego": "BUENO",
+      "referee": null,
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "JOAQUIN TRAYNOR"
+        },
+        {
+          "numero": 3,
+          "jugador": "FEDERICO MARTINEZ"
+        },
+        {
+          "numero": 4,
+          "jugador": "RODRIGO RIOS"
+        },
+        {
+          "numero": 5,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 6,
+          "jugador": "MARIANO LIVACHOFF"
+        },
+        {
+          "numero": 7,
+          "jugador": "GERÓNIMO RÍOS"
+        },
+        {
+          "numero": 8,
+          "jugador": "TOBIAS LUCERO"
+        },
+        {
+          "numero": 9,
+          "jugador": "SANTIAGO QUAGLIATA"
+        },
+        {
+          "numero": 10,
+          "jugador": "RAMIRO OCCHIUZZI"
+        },
+        {
+          "numero": 11,
+          "jugador": "AGUSTIN MARZIALI"
+        },
+        {
+          "numero": 12,
+          "jugador": "SANTIAGO TRAYNOR",
+          "capitan": true
+        },
+        {
+          "numero": 13,
+          "jugador": "JUAN MATIAS TRAYNOR"
+        },
+        {
+          "numero": 14,
+          "jugador": "PATRICIO TRAYNOR"
+        },
+        {
+          "numero": 15,
+          "jugador": "MARIANO TRAYNOR"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "MATIAS TRAYNOR",
+          "entraPor": "RODRIGO GOMEZ"
+        },
+        {
+          "jugador": "THIAGO GÓMEZ",
+          "entraPor": "JOAQUIN TRAYNOR"
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "entraPor": "MARIANO TRAYNOR"
+        },
+        {
+          "jugador": "FRANCO TORRES",
+          "entraPor": "AGUSTIN MARZIALI"
+        },
+        {
+          "jugador": "MIGUEL ALMIRÓN",
+          "entraPor": "FEDERICO MARTINEZ"
+        },
+        {
+          "jugador": "PEDRO MONTENEGRO",
+          "entraPor": "RODRIGO RIOS"
+        },
+        {
+          "jugador": "AGUSTIN TRAYNOR",
+          "entraPor": "SANTIAGO QUAGLIATA"
+        },
+        {
+          "jugador": "RODRIGO ESMAYEL",
+          "entraPor": "MARIANO LIVACHOFF"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "RODRIGO GOMEZ",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "AGUSTIN MARZIALI",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "TOBIAS LUCERO",
+          "tipo": "TRY",
+          "cantidad": 4
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "CONVERSION",
+          "cantidad": 4
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "PENAL",
+          "cantidad": 1
+        }
+      ],
+      "tarjetas": [
+        {
+          "jugador": "MARIANO LIVACHOFF",
+          "tipo": "AMARILLA"
+        },
+        {
+          "jugador": "GERÓNIMO RÍOS",
+          "tipo": "AMARILLA"
+        }
+      ]
+    },
+    {
+      "fecha": "2024-08-03",
+      "fechaNota": null,
+      "rival": "ARECO",
+      "condicion": "VISITANTE",
+      "resultadoPropio": 31,
+      "resultadoRival": 26,
+      "cancha": "ARECO",
+      "clima": "BUENO",
+      "campoDeJuego": "MUY BUENO",
+      "referee": null,
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "JOAQUIN TRAYNOR"
+        },
+        {
+          "numero": 3,
+          "jugador": "FEDERICO MARTINEZ"
+        },
+        {
+          "numero": 4,
+          "jugador": "RODRIGO RIOS"
+        },
+        {
+          "numero": 5,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 6,
+          "jugador": "MARIANO LIVACHOFF"
+        },
+        {
+          "numero": 7,
+          "jugador": "GERÓNIMO RÍOS"
+        },
+        {
+          "numero": 8,
+          "jugador": "PEDRO MONTENEGRO"
+        },
+        {
+          "numero": 9,
+          "jugador": "SANTIAGO QUAGLIATA"
+        },
+        {
+          "numero": 10,
+          "jugador": "RAMIRO OCCHIUZZI"
+        },
+        {
+          "numero": 11,
+          "jugador": "AGUSTIN MARZIALI"
+        },
+        {
+          "numero": 12,
+          "jugador": "SANTIAGO TRAYNOR",
+          "capitan": true
+        },
+        {
+          "numero": 13,
+          "jugador": "JUAN MATIAS TRAYNOR"
+        },
+        {
+          "numero": 14,
+          "jugador": "GONZALO GREGORIO"
+        },
+        {
+          "numero": 15,
+          "jugador": "JUAN PEDRO OCCHIUZZI"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "JORGE BENÍTEZ",
+          "entraPor": "RODRIGO GOMEZ"
+        },
+        {
+          "jugador": "THIAGO GÓMEZ",
+          "entraPor": "JOAQUIN TRAYNOR"
+        },
+        {
+          "jugador": "MIGUEL ALMIRÓN",
+          "entraPor": "FEDERICO MARTINEZ"
+        },
+        {
+          "jugador": "AGUSTIN TRAYNOR",
+          "entraPor": "SANTIAGO QUAGLIATA"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "PEDRO MONTENEGRO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "TRY PENAL",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "FRANCISCO COMABELLA",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "CONVERSION",
+          "cantidad": 2
+        }
+      ],
+      "tarjetas": [
+        {
+          "jugador": "RAMIRO OCCHIUZZI",
+          "tipo": "AMARILLA"
+        },
+        {
+          "jugador": "FRANCISCO COMABELLA",
+          "tipo": "AMARILLA"
+        }
+      ]
+    },
+    {
+      "fecha": "2024-08-10",
+      "fechaNota": null,
+      "rival": "CIUDAD DE BS.AS.",
+      "condicion": "VISITANTE",
+      "resultadoPropio": 15,
+      "resultadoRival": 24,
+      "cancha": "CIUDAD DE BS.AS.",
+      "clima": "BUENO",
+      "campoDeJuego": "REGULAR",
+      "referee": null,
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "MATIAS TRAYNOR"
+        },
+        {
+          "numero": 2,
+          "jugador": "JOAQUIN TRAYNOR"
+        },
+        {
+          "numero": 3,
+          "jugador": "JORGE BENÍTEZ"
+        },
+        {
+          "numero": 4,
+          "jugador": "RODRIGO RIOS"
+        },
+        {
+          "numero": 5,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 6,
+          "jugador": "MARIANO LIVACHOFF"
+        },
+        {
+          "numero": 7,
+          "jugador": "GERÓNIMO RÍOS"
+        },
+        {
+          "numero": 8,
+          "jugador": "PEDRO MONTENEGRO"
+        },
+        {
+          "numero": 9,
+          "jugador": "SANTIAGO QUAGLIATA"
+        },
+        {
+          "numero": 10,
+          "jugador": "RAMIRO OCCHIUZZI"
+        },
+        {
+          "numero": 11,
+          "jugador": "AGUSTIN MARZIALI"
+        },
+        {
+          "numero": 12,
+          "jugador": "SANTIAGO TRAYNOR",
+          "capitan": true
+        },
+        {
+          "numero": 13,
+          "jugador": "JUAN MATIAS TRAYNOR"
+        },
+        {
+          "numero": 14,
+          "jugador": "FRANCISCO OCCHIUZZI"
+        },
+        {
+          "numero": 15,
+          "jugador": "JUAN PEDRO OCCHIUZZI"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "MIGUEL ALMIRÓN",
+          "entraPor": "JORGE BENÍTEZ"
+        },
+        {
+          "jugador": "THIAGO GÓMEZ",
+          "entraPor": "JOAQUIN TRAYNOR"
+        },
+        {
+          "jugador": "FRANCO TORRES",
+          "entraPor": "AGUSTIN MARZIALI"
+        },
+        {
+          "jugador": "AGUSTIN TRAYNOR",
+          "entraPor": "SANTIAGO QUAGLIATA"
+        },
+        {
+          "jugador": "TOBIAS LUCERO",
+          "entraPor": "RODRIGO RIOS"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "JOAQUIN TRAYNOR",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "TOBIAS LUCERO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "CONVERSION",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "PENAL",
+          "cantidad": 1
+        }
+      ],
+      "tarjetas": []
+    },
+    {
+      "fecha": "2024-08-17",
+      "fechaNota": null,
+      "rival": "DEL SUR",
+      "condicion": "VISITANTE",
+      "resultadoPropio": 3,
+      "resultadoRival": 22,
+      "cancha": "DEL SUR (pérdida de localía por sanción)",
+      "clima": "NUBLADO",
+      "campoDeJuego": "REGULAR",
+      "referee": null,
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "MATIAS TRAYNOR"
+        },
+        {
+          "numero": 2,
+          "jugador": "JOAQUIN TRAYNOR"
+        },
+        {
+          "numero": 3,
+          "jugador": "JORGE BENÍTEZ"
+        },
+        {
+          "numero": 4,
+          "jugador": "RODRIGO RIOS"
+        },
+        {
+          "numero": 5,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 6,
+          "jugador": "MARIANO LIVACHOFF"
+        },
+        {
+          "numero": 7,
+          "jugador": "GERÓNIMO RÍOS"
+        },
+        {
+          "numero": 8,
+          "jugador": "PEDRO MONTENEGRO"
+        },
+        {
+          "numero": 9,
+          "jugador": "SANTIAGO QUAGLIATA"
+        },
+        {
+          "numero": 10,
+          "jugador": "RAMIRO OCCHIUZZI"
+        },
+        {
+          "numero": 11,
+          "jugador": "AGUSTIN MARZIALI"
+        },
+        {
+          "numero": 12,
+          "jugador": "SANTIAGO TRAYNOR",
+          "capitan": true
+        },
+        {
+          "numero": 13,
+          "jugador": "JUAN MATIAS TRAYNOR"
+        },
+        {
+          "numero": 14,
+          "jugador": "FRANCO TORRES"
+        },
+        {
+          "numero": 15,
+          "jugador": "FRANCISCO OCCHIUZZI"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "THIAGO GÓMEZ",
+          "entraPor": "JOAQUIN TRAYNOR"
+        },
+        {
+          "jugador": "TOBIAS LUCERO",
+          "entraPor": "PEDRO MONTENEGRO"
+        },
+        {
+          "jugador": "RODRIGO ESMAYEL",
+          "entraPor": "MARIANO LIVACHOFF"
+        },
+        {
+          "jugador": "AGUSTIN TRAYNOR",
+          "entraPor": "SANTIAGO QUAGLIATA"
+        },
+        {
+          "jugador": "ENZO CORSI",
+          "entraPor": "FRANCO TORRES"
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "entraPor": "AGUSTIN MARZIALI"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "PENAL",
+          "cantidad": 1
+        }
+      ],
+      "tarjetas": [
+        {
+          "jugador": "GERÓNIMO RÍOS",
+          "tipo": "AMARILLA"
+        },
+        {
+          "jugador": "FRANCISCO OCCHIUZZI",
+          "tipo": "AMARILLA"
+        }
+      ]
+    },
+    {
+      "fecha": "2024-08-24",
+      "fechaNota": null,
+      "rival": "SITAS",
+      "condicion": "VISITANTE",
+      "resultadoPropio": 14,
+      "resultadoRival": 52,
+      "cancha": "SITAS",
+      "clima": "NUBLADO",
+      "campoDeJuego": "REGULAR",
+      "referee": null,
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "MATIAS TRAYNOR"
+        },
+        {
+          "numero": 2,
+          "jugador": "JOAQUIN TRAYNOR"
+        },
+        {
+          "numero": 3,
+          "jugador": "JORGE BENÍTEZ"
+        },
+        {
+          "numero": 4,
+          "jugador": "RODRIGO RIOS"
+        },
+        {
+          "numero": 5,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 6,
+          "jugador": "MARIANO LIVACHOFF"
+        },
+        {
+          "numero": 7,
+          "jugador": "RODRIGO ESMAYEL"
+        },
+        {
+          "numero": 8,
+          "jugador": "TOBIAS LUCERO"
+        },
+        {
+          "numero": 9,
+          "jugador": "SANTIAGO QUAGLIATA"
+        },
+        {
+          "numero": 10,
+          "jugador": "RAMIRO OCCHIUZZI"
+        },
+        {
+          "numero": 11,
+          "jugador": "AGUSTIN MARZIALI"
+        },
+        {
+          "numero": 12,
+          "jugador": "SANTIAGO TRAYNOR",
+          "capitan": true
+        },
+        {
+          "numero": 13,
+          "jugador": "JUAN MATIAS TRAYNOR"
+        },
+        {
+          "numero": 14,
+          "jugador": "FRANCISCO OCCHIUZZI"
+        },
+        {
+          "numero": 15,
+          "jugador": "JUAN PEDRO OCCHIUZZI"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "THIAGO GÓMEZ",
+          "entraPor": "JOAQUIN TRAYNOR"
+        },
+        {
+          "jugador": "RODRIGO GOMEZ",
+          "entraPor": "MATIAS TRAYNOR"
+        },
+        {
+          "jugador": "EZEQUIEL BALESTRA",
+          "entraPor": "JORGE BENÍTEZ"
+        },
+        {
+          "jugador": "PEDRO MONTENEGRO",
+          "entraPor": "RODRIGO RIOS"
+        },
+        {
+          "jugador": "AGUSTIN DOMINGUEZ",
+          "entraPor": "MARIANO LIVACHOFF"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "AGUSTIN MARZIALI",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "PENAL",
+          "cantidad": 3
+        }
+      ],
+      "tarjetas": [
+        {
+          "jugador": "SANTIAGO QUAGLIATA",
+          "tipo": "AMARILLA"
+        }
+      ]
+    },
+    {
+      "fecha": "2024-09-07",
+      "fechaNota": null,
+      "rival": "CENTRO NAVAL",
+      "condicion": "LOCAL",
+      "resultadoPropio": 17,
+      "resultadoRival": 29,
+      "cancha": "VICENTINOS",
+      "clima": "BUENO",
+      "campoDeJuego": "BUENO",
+      "referee": null,
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "MATIAS TRAYNOR"
+        },
+        {
+          "numero": 2,
+          "jugador": "JOAQUIN TRAYNOR"
+        },
+        {
+          "numero": 3,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 4,
+          "jugador": "RODRIGO RIOS"
+        },
+        {
+          "numero": 5,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 6,
+          "jugador": "GERÓNIMO RÍOS"
+        },
+        {
+          "numero": 7,
+          "jugador": "RODRIGO ESMAYEL"
+        },
+        {
+          "numero": 8,
+          "jugador": "TOBIAS LUCERO"
+        },
+        {
+          "numero": 9,
+          "jugador": "SANTIAGO QUAGLIATA"
+        },
+        {
+          "numero": 10,
+          "jugador": "RAMIRO OCCHIUZZI"
+        },
+        {
+          "numero": 11,
+          "jugador": "AGUSTIN MARZIALI"
+        },
+        {
+          "numero": 12,
+          "jugador": "SANTIAGO TRAYNOR",
+          "capitan": true
+        },
+        {
+          "numero": 13,
+          "jugador": "JUAN MATIAS TRAYNOR"
+        },
+        {
+          "numero": 14,
+          "jugador": "FRANCISCO OCCHIUZZI"
+        },
+        {
+          "numero": 15,
+          "jugador": "JUAN PEDRO OCCHIUZZI"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "THIAGO GÓMEZ",
+          "entraPor": "JOAQUIN TRAYNOR"
+        },
+        {
+          "jugador": "JORGE BENÍTEZ",
+          "entraPor": "MATIAS TRAYNOR"
+        },
+        {
+          "jugador": "PEDRO MONTENEGRO",
+          "entraPor": "TOBIAS LUCERO"
+        },
+        {
+          "jugador": "MARIANO LIVACHOFF",
+          "entraPor": "GERÓNIMO RÍOS"
+        },
+        {
+          "jugador": "EZEQUIEL BALESTRA",
+          "entraPor": "RODRIGO GOMEZ"
+        },
+        {
+          "jugador": "FRANCO TORRES",
+          "entraPor": "AGUSTIN MARZIALI"
+        },
+        {
+          "jugador": "MARIANO TRAYNOR",
+          "entraPor": "SANTIAGO QUAGLIATA"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "PENAL",
+          "cantidad": 4
+        }
+      ],
+      "tarjetas": [
+        {
+          "jugador": "RODRIGO GOMEZ",
+          "tipo": "AMARILLA"
+        },
+        {
+          "jugador": "RODRIGO RIOS",
+          "tipo": "AMARILLA"
+        }
+      ]
+    },
+    {
+      "fecha": "2024-09-14",
+      "fechaNota": null,
+      "rival": "MONTE GRANDE",
+      "condicion": "VISITANTE",
+      "resultadoPropio": 13,
+      "resultadoRival": 17,
+      "cancha": "MONTE GRANDE",
+      "clima": "BUENO",
+      "campoDeJuego": "MUY BUENO",
+      "referee": null,
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "MATIAS TRAYNOR"
+        },
+        {
+          "numero": 2,
+          "jugador": "JOAQUIN TRAYNOR"
+        },
+        {
+          "numero": 3,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 4,
+          "jugador": "RODRIGO RIOS"
+        },
+        {
+          "numero": 5,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 6,
+          "jugador": "MARIANO LIVACHOFF"
+        },
+        {
+          "numero": 7,
+          "jugador": "RODRIGO ESMAYEL"
+        },
+        {
+          "numero": 8,
+          "jugador": "TOBIAS LUCERO"
+        },
+        {
+          "numero": 9,
+          "jugador": "AGUSTIN TRAYNOR"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN PEDRO OCCHIUZZI"
+        },
+        {
+          "numero": 11,
+          "jugador": "AGUSTIN MARZIALI"
+        },
+        {
+          "numero": 12,
+          "jugador": "SANTIAGO TRAYNOR",
+          "capitan": true
+        },
+        {
+          "numero": 13,
+          "jugador": "JUAN MATIAS TRAYNOR"
+        },
+        {
+          "numero": 14,
+          "jugador": "FRANCISCO OCCHIUZZI"
+        },
+        {
+          "numero": 15,
+          "jugador": "ENZO CORSI"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "THIAGO GÓMEZ",
+          "entraPor": "JOAQUIN TRAYNOR"
+        },
+        {
+          "jugador": "JORGE BENÍTEZ",
+          "entraPor": "MATIAS TRAYNOR"
+        },
+        {
+          "jugador": "GERÓNIMO RÍOS",
+          "entraPor": "MARIANO LIVACHOFF"
+        },
+        {
+          "jugador": "GONZALO GREGORIO",
+          "entraPor": "JUAN MATIAS TRAYNOR"
+        },
+        {
+          "jugador": "RAMIRO OCCHIUZZI",
+          "entraPor": "JUAN PEDRO OCCHIUZZI"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "FRANCISCO OCCHIUZZI",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "PENAL",
+          "cantidad": 1
+        }
+      ],
+      "tarjetas": [
+        {
+          "jugador": "MARIANO LIVACHOFF",
+          "tipo": "AMARILLA"
+        }
+      ]
+    },
+    {
+      "fecha": "2024-09-21",
+      "fechaNota": null,
+      "rival": "CAR",
+      "condicion": "LOCAL",
+      "resultadoPropio": 26,
+      "resultadoRival": 49,
+      "cancha": "VICENTINOS",
+      "clima": "BUENO",
+      "campoDeJuego": "MUY BUENO",
+      "referee": null,
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "JOAQUIN TRAYNOR"
+        },
+        {
+          "numero": 3,
+          "jugador": "JORGE BENÍTEZ"
+        },
+        {
+          "numero": 4,
+          "jugador": "RODRIGO RIOS"
+        },
+        {
+          "numero": 5,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 6,
+          "jugador": "GERÓNIMO RÍOS"
+        },
+        {
+          "numero": 7,
+          "jugador": "MARIANO LIVACHOFF"
+        },
+        {
+          "numero": 8,
+          "jugador": "TOBIAS LUCERO"
+        },
+        {
+          "numero": 9,
+          "jugador": "SANTIAGO QUAGLIATA"
+        },
+        {
+          "numero": 10,
+          "jugador": "RAMIRO OCCHIUZZI"
+        },
+        {
+          "numero": 11,
+          "jugador": "AGUSTIN MARZIALI"
+        },
+        {
+          "numero": 12,
+          "jugador": "SANTIAGO TRAYNOR",
+          "capitan": true
+        },
+        {
+          "numero": 13,
+          "jugador": "JUAN MATIAS TRAYNOR"
+        },
+        {
+          "numero": 14,
+          "jugador": "FRANCISCO OCCHIUZZI"
+        },
+        {
+          "numero": 15,
+          "jugador": "JUAN PEDRO OCCHIUZZI"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "THIAGO GÓMEZ",
+          "entraPor": "JOAQUIN TRAYNOR"
+        },
+        {
+          "jugador": "MATIAS TRAYNOR",
+          "entraPor": "JORGE BENÍTEZ"
+        },
+        {
+          "jugador": "PEDRO MONTENEGRO",
+          "entraPor": "TOBIAS LUCERO"
+        },
+        {
+          "jugador": "MIGUEL ALMIRÓN",
+          "entraPor": "RODRIGO GOMEZ"
+        },
+        {
+          "jugador": "AGUSTIN TRAYNOR",
+          "entraPor": "SANTIAGO QUAGLIATA"
+        },
+        {
+          "jugador": "ENZO CORSI",
+          "entraPor": "RAMIRO OCCHIUZZI"
+        },
+        {
+          "jugador": "ESTEBAN GONZALEZ",
+          "entraPor": "RODRIGO RIOS"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "TOBIAS LUCERO",
+          "tipo": "TRY",
+          "cantidad": 2
+        },
+        {
+          "jugador": "ENZO CORSI",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "CONVERSION",
+          "cantidad": 3
+        }
+      ],
+      "tarjetas": []
+    },
+    {
+      "fecha": "2024-09-28",
+      "fechaNota": null,
+      "rival": "DAOM",
+      "condicion": "VISITANTE",
+      "resultadoPropio": 23,
+      "resultadoRival": 31,
+      "cancha": "DAOM",
+      "clima": "BUENO",
+      "campoDeJuego": "MUY BUENO",
+      "referee": null,
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "THIAGO GÓMEZ"
+        },
+        {
+          "numero": 3,
+          "jugador": "JORGE BENÍTEZ"
+        },
+        {
+          "numero": 4,
+          "jugador": "RODRIGO RIOS"
+        },
+        {
+          "numero": 5,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 6,
+          "jugador": "GERÓNIMO RÍOS"
+        },
+        {
+          "numero": 7,
+          "jugador": "RODRIGO ESMAYEL"
+        },
+        {
+          "numero": 8,
+          "jugador": "PEDRO MONTENEGRO"
+        },
+        {
+          "numero": 9,
+          "jugador": "SANTIAGO QUAGLIATA"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN PEDRO OCCHIUZZI"
+        },
+        {
+          "numero": 11,
+          "jugador": "AGUSTIN MARZIALI"
+        },
+        {
+          "numero": 12,
+          "jugador": "SANTIAGO TRAYNOR",
+          "capitan": true
+        },
+        {
+          "numero": 13,
+          "jugador": "JUAN MATIAS TRAYNOR"
+        },
+        {
+          "numero": 14,
+          "jugador": "FRANCISCO OCCHIUZZI"
+        },
+        {
+          "numero": 15,
+          "jugador": "ENZO CORSI"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "JOAQUIN TRAYNOR",
+          "entraPor": "THIAGO GÓMEZ"
+        },
+        {
+          "jugador": "MATIAS TRAYNOR",
+          "entraPor": "RODRIGO GOMEZ"
+        },
+        {
+          "jugador": "AGUSTIN DOMINGUEZ",
+          "entraPor": "PEDRO MONTENEGRO"
+        },
+        {
+          "jugador": "GABRIEL RUBIRA",
+          "entraPor": "JORGE BENÍTEZ"
+        },
+        {
+          "jugador": "AGUSTIN TRAYNOR",
+          "entraPor": "SANTIAGO QUAGLIATA"
+        },
+        {
+          "jugador": "RAMIRO OCCHIUZZI",
+          "entraPor": "ENZO CORSI"
+        },
+        {
+          "jugador": "GONZALO GREGORIO",
+          "entraPor": "SANTIAGO TRAYNOR"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "THIAGO GÓMEZ",
+          "tipo": "TRY",
+          "cantidad": 2
+        },
+        {
+          "jugador": "FRANCISCO OCCHIUZZI",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "tipo": "CONVERSION",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "PENAL",
+          "cantidad": 2
+        }
+      ],
+      "tarjetas": []
+    },
+    {
+      "fecha": "2024-10-05",
+      "fechaNota": null,
+      "rival": "LANUS",
+      "condicion": "LOCAL",
+      "resultadoPropio": 25,
+      "resultadoRival": 27,
+      "cancha": "VICENTINOS",
+      "clima": "BUENO",
+      "campoDeJuego": "MUY BUENO",
+      "referee": null,
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "MATIAS TRAYNOR"
+        },
+        {
+          "numero": 2,
+          "jugador": "THIAGO GÓMEZ"
+        },
+        {
+          "numero": 3,
+          "jugador": "JORGE BENÍTEZ"
+        },
+        {
+          "numero": 4,
+          "jugador": "RODRIGO RIOS"
+        },
+        {
+          "numero": 5,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 6,
+          "jugador": "GERÓNIMO RÍOS"
+        },
+        {
+          "numero": 7,
+          "jugador": "RODRIGO ESMAYEL"
+        },
+        {
+          "numero": 8,
+          "jugador": "MARIANO LIVACHOFF"
+        },
+        {
+          "numero": 9,
+          "jugador": "SANTIAGO QUAGLIATA"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN PEDRO OCCHIUZZI"
+        },
+        {
+          "numero": 11,
+          "jugador": "AGUSTIN MARZIALI"
+        },
+        {
+          "numero": 12,
+          "jugador": "SANTIAGO TRAYNOR",
+          "capitan": true
+        },
+        {
+          "numero": 13,
+          "jugador": "JUAN MATIAS TRAYNOR"
+        },
+        {
+          "numero": 14,
+          "jugador": "AGUSTIN TRAYNOR"
+        },
+        {
+          "numero": 15,
+          "jugador": "ENZO CORSI"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "JOAQUIN TRAYNOR",
+          "entraPor": "THIAGO GÓMEZ"
+        },
+        {
+          "jugador": "GABRIEL RUBIRA",
+          "entraPor": "MATIAS TRAYNOR"
+        },
+        {
+          "jugador": "EZEQUIEL BALESTRA",
+          "entraPor": "JORGE BENÍTEZ"
+        },
+        {
+          "jugador": "PEDRO MONTENEGRO",
+          "entraPor": "RODRIGO RIOS"
+        },
+        {
+          "jugador": "AGUSTIN DOMINGUEZ",
+          "entraPor": "MARIANO LIVACHOFF"
+        },
+        {
+          "jugador": "FRANCISCO OCCHIUZZI",
+          "entraPor": "JUAN MATIAS TRAYNOR"
+        },
+        {
+          "jugador": "RAMIRO OCCHIUZZI",
+          "entraPor": "SANTIAGO QUAGLIATA"
+        },
+        {
+          "jugador": "PATRICIO TRAYNOR",
+          "entraPor": "AGUSTIN DOMINGUEZ"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "THIAGO GÓMEZ",
+          "tipo": "TRY",
+          "cantidad": 2
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "CONVERSION",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "PENAL",
+          "cantidad": 1
+        }
+      ],
+      "tarjetas": [
+        {
+          "jugador": "FRANCISCO COMABELLA",
+          "tipo": "AMARILLA"
+        },
+        {
+          "jugador": "EZEQUIEL BALESTRA",
+          "tipo": "AMARILLA"
+        }
+      ]
+    },
+    {
+      "fecha": "2024-10-12",
+      "fechaNota": null,
+      "rival": "LUJAN",
+      "condicion": "VISITANTE",
+      "resultadoPropio": 15,
+      "resultadoRival": 17,
+      "cancha": "LUJÁN",
+      "clima": "BUENO",
+      "campoDeJuego": "MUY BUENO",
+      "referee": null,
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "MATIAS TRAYNOR"
+        },
+        {
+          "numero": 2,
+          "jugador": "THIAGO GÓMEZ"
+        },
+        {
+          "numero": 3,
+          "jugador": "GABRIEL RUBIRA"
+        },
+        {
+          "numero": 4,
+          "jugador": "RODRIGO RIOS"
+        },
+        {
+          "numero": 5,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 6,
+          "jugador": "GERÓNIMO RÍOS"
+        },
+        {
+          "numero": 7,
+          "jugador": "RODRIGO ESMAYEL"
+        },
+        {
+          "numero": 8,
+          "jugador": "MARIANO LIVACHOFF"
+        },
+        {
+          "numero": 9,
+          "jugador": "SANTIAGO QUAGLIATA"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN PEDRO OCCHIUZZI"
+        },
+        {
+          "numero": 11,
+          "jugador": "AGUSTIN MARZIALI"
+        },
+        {
+          "numero": 12,
+          "jugador": "SANTIAGO TRAYNOR",
+          "capitan": true
+        },
+        {
+          "numero": 13,
+          "jugador": "FRANCISCO OCCHIUZZI"
+        },
+        {
+          "numero": 14,
+          "jugador": "AGUSTIN TRAYNOR"
+        },
+        {
+          "numero": 15,
+          "jugador": "ENZO CORSI"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "JORGE BENÍTEZ",
+          "entraPor": "GABRIEL RUBIRA"
+        },
+        {
+          "jugador": "RODRIGO GOMEZ",
+          "entraPor": "MATIAS TRAYNOR"
+        },
+        {
+          "jugador": "GONZALO BURGARDT",
+          "entraPor": "GERÓNIMO RÍOS"
+        },
+        {
+          "jugador": "RAMIRO OCCHIUZZI",
+          "entraPor": "SANTIAGO QUAGLIATA"
+        },
+        {
+          "jugador": "MARIANO TRAYNOR",
+          "entraPor": "AGUSTIN TRAYNOR"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "TRY",
+          "cantidad": 2
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "CONVERSION",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "PENAL",
+          "cantidad": 1
+        }
+      ],
+      "tarjetas": []
+    },
+    {
+      "fecha": "2024-10-19",
+      "fechaNota": null,
+      "rival": "CASA DE PADUA",
+      "condicion": "LOCAL",
+      "resultadoPropio": 36,
+      "resultadoRival": 29,
+      "cancha": "VICENTINOS",
+      "clima": "BUENO",
+      "campoDeJuego": "MUY BUENO",
+      "referee": null,
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "JORGE BENÍTEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "THIAGO GÓMEZ"
+        },
+        {
+          "numero": 3,
+          "jugador": "GABRIEL RUBIRA"
+        },
+        {
+          "numero": 4,
+          "jugador": "RODRIGO RIOS"
+        },
+        {
+          "numero": 5,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 6,
+          "jugador": "GERÓNIMO RÍOS"
+        },
+        {
+          "numero": 7,
+          "jugador": "RODRIGO ESMAYEL"
+        },
+        {
+          "numero": 8,
+          "jugador": "MARIANO LIVACHOFF"
+        },
+        {
+          "numero": 9,
+          "jugador": "FRANCISCO OCCHIUZZI"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN PEDRO OCCHIUZZI"
+        },
+        {
+          "numero": 11,
+          "jugador": "AGUSTIN MARZIALI"
+        },
+        {
+          "numero": 12,
+          "jugador": "SANTIAGO TRAYNOR",
+          "capitan": true
+        },
+        {
+          "numero": 13,
+          "jugador": "JUAN MATIAS TRAYNOR"
+        },
+        {
+          "numero": 14,
+          "jugador": "GONZALO GREGORIO"
+        },
+        {
+          "numero": 15,
+          "jugador": "ENZO CORSI"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "FEDERICO MARTINEZ",
+          "entraPor": "GABRIEL RUBIRA"
+        },
+        {
+          "jugador": "MATIAS TRAYNOR",
+          "entraPor": "JORGE BENÍTEZ"
+        },
+        {
+          "jugador": "GONZALO BURGARDT",
+          "entraPor": "MARIANO LIVACHOFF"
+        },
+        {
+          "jugador": "RAMIRO OCCHIUZZI",
+          "entraPor": "JUAN PEDRO OCCHIUZZI"
+        },
+        {
+          "jugador": "MARIANO TRAYNOR",
+          "entraPor": "GONZALO GREGORIO"
+        },
+        {
+          "jugador": "JOAQUIN TRAYNOR",
+          "entraPor": "THIAGO GÓMEZ"
+        },
+        {
+          "jugador": "ESTEBAN GONZALEZ",
+          "entraPor": "RODRIGO RIOS"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "AGUSTIN MARZIALI",
+          "tipo": "TRY",
+          "cantidad": 2
+        },
+        {
+          "jugador": "RODRIGO ESMAYEL",
+          "tipo": "TRY",
+          "cantidad": 2
+        },
+        {
+          "jugador": "JUAN MATIAS TRAYNOR",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "CONVERSION",
+          "cantidad": 4
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "PENAL",
+          "cantidad": 1
+        }
+      ],
+      "tarjetas": [
+        {
+          "jugador": "FRANCISCO COMABELLA",
+          "tipo": "AMARILLA"
+        }
+      ]
+    }
+  ]
+}

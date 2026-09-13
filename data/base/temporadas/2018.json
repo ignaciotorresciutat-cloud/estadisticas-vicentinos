@@ -1,0 +1,3378 @@
+{
+  "temporada": 2018,
+  "info": {
+    "torneo": "Primera C",
+    "posicion": 6,
+    "rankingUrba": 46,
+    "campeon": false,
+    "ascenso": false,
+    "descenso": false,
+    "nota": null
+  },
+  "partidos": [
+    {
+      "fecha": "2018-04-07",
+      "fechaNota": null,
+      "rival": "ALBATROS",
+      "condicion": "VISITANTE",
+      "resultadoPropio": 25,
+      "resultadoRival": 8,
+      "cancha": "ALBATROS",
+      "clima": "NUBLADO",
+      "campoDeJuego": "BUENO",
+      "referee": "TERRERA",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "JORGE BENÍTEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "RODRIGO ESMAYEL"
+        },
+        {
+          "numero": 3,
+          "jugador": "JUAN JOSE MONEA"
+        },
+        {
+          "numero": 4,
+          "jugador": "OCTAVIO TALLARICO"
+        },
+        {
+          "numero": 5,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 6,
+          "jugador": "MARTIN APOLO"
+        },
+        {
+          "numero": 7,
+          "jugador": "JOSE GRUBER"
+        },
+        {
+          "numero": 8,
+          "jugador": "IGNACIO TORTORELLA"
+        },
+        {
+          "numero": 9,
+          "jugador": "IVAN IBAÑEZ"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN PEDRO OCCHIUZZI"
+        },
+        {
+          "numero": 11,
+          "jugador": "MAXIMILIANO SOLIVELLAS"
+        },
+        {
+          "numero": 12,
+          "jugador": "NICOLAS MARZIALI",
+          "capitan": true
+        },
+        {
+          "numero": 13,
+          "jugador": "MARIANO LIVACHOFF"
+        },
+        {
+          "numero": 14,
+          "jugador": "GONZALO GREGORIO"
+        },
+        {
+          "numero": 15,
+          "jugador": "EMILIANO MANRIQUEZ"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "IVAN CARMONA",
+          "entraPor": "JORGE BENÍTEZ"
+        },
+        {
+          "jugador": "HUGO PEDEMONTE",
+          "entraPor": "JUAN JOSE MONEA"
+        },
+        {
+          "jugador": "NICOLAS ALTAMIRANO",
+          "entraPor": "OCTAVIO TALLARICO"
+        },
+        {
+          "jugador": "ESTEBAN GONZALEZ",
+          "entraPor": "JOSE GRUBER"
+        },
+        {
+          "jugador": "AGUSTIN MARZIALI",
+          "entraPor": "NICOLAS MARZIALI"
+        },
+        {
+          "jugador": "FRANCISCO OCCHIUZZI",
+          "entraPor": "IVAN IBAÑEZ"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "EMILIANO MANRIQUEZ",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "IVAN IBAÑEZ",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "GONZALO GREGORIO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "tipo": "CONVERSION",
+          "cantidad": 2
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "tipo": "PENAL",
+          "cantidad": 2
+        }
+      ],
+      "tarjetas": [
+        {
+          "jugador": "FRANCISCO COMABELLA",
+          "tipo": "AMARILLA"
+        }
+      ]
+    },
+    {
+      "fecha": "2018-04-14",
+      "fechaNota": null,
+      "rival": "MONTE GRANDE",
+      "condicion": "LOCAL",
+      "resultadoPropio": 23,
+      "resultadoRival": 37,
+      "cancha": "VICENTINOS",
+      "clima": "BUENO",
+      "campoDeJuego": "BUENO",
+      "referee": "LALANNE",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "JORGE BENÍTEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "RODRIGO ESMAYEL"
+        },
+        {
+          "numero": 3,
+          "jugador": "JUAN JOSE MONEA"
+        },
+        {
+          "numero": 4,
+          "jugador": "NICOLAS ALTAMIRANO"
+        },
+        {
+          "numero": 5,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 6,
+          "jugador": "MARTIN APOLO"
+        },
+        {
+          "numero": 7,
+          "jugador": "JOSE GRUBER"
+        },
+        {
+          "numero": 8,
+          "jugador": "IGNACIO TORTORELLA"
+        },
+        {
+          "numero": 9,
+          "jugador": "IVAN IBAÑEZ"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN PEDRO OCCHIUZZI"
+        },
+        {
+          "numero": 11,
+          "jugador": "MAXIMILIANO SOLIVELLAS"
+        },
+        {
+          "numero": 12,
+          "jugador": "NICOLAS MARZIALI",
+          "capitan": true
+        },
+        {
+          "numero": 13,
+          "jugador": "MARIANO LIVACHOFF"
+        },
+        {
+          "numero": 14,
+          "jugador": "GONZALO GREGORIO"
+        },
+        {
+          "numero": 15,
+          "jugador": "EMILIANO MANRIQUEZ"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "RODRIGO GOMEZ",
+          "entraPor": "JORGE BENÍTEZ"
+        },
+        {
+          "jugador": "IVAN CARMONA",
+          "entraPor": "RODRIGO ESMAYEL"
+        },
+        {
+          "jugador": "HUGO PEDEMONTE",
+          "entraPor": "JUAN JOSE MONEA"
+        },
+        {
+          "jugador": "ESTEBAN GONZALEZ",
+          "entraPor": "JOSE GRUBER"
+        },
+        {
+          "jugador": "FRANCISCO OCCHIUZZI",
+          "entraPor": "IVAN IBAÑEZ"
+        },
+        {
+          "jugador": "AGUSTIN MARZIALI",
+          "entraPor": "MAXIMILIANO SOLIVELLAS"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "MARTIN APOLO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "IGNACIO TORTORELLA",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "tipo": "CONVERSION",
+          "cantidad": 1
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "tipo": "PENAL",
+          "cantidad": 2
+        }
+      ],
+      "tarjetas": []
+    },
+    {
+      "fecha": "2018-04-21",
+      "fechaNota": null,
+      "rival": "LANUS",
+      "condicion": "VISITANTE",
+      "resultadoPropio": 25,
+      "resultadoRival": 20,
+      "cancha": "LANUS",
+      "clima": "NUBLADO",
+      "campoDeJuego": "PESADO",
+      "referee": "BAECK",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "JORGE BENÍTEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "RODRIGO ESMAYEL"
+        },
+        {
+          "numero": 3,
+          "jugador": "HUGO PEDEMONTE"
+        },
+        {
+          "numero": 4,
+          "jugador": "NICOLAS ALTAMIRANO"
+        },
+        {
+          "numero": 5,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 6,
+          "jugador": "MARTIN APOLO"
+        },
+        {
+          "numero": 7,
+          "jugador": "JOSE GRUBER"
+        },
+        {
+          "numero": 8,
+          "jugador": "IGNACIO TORTORELLA"
+        },
+        {
+          "numero": 9,
+          "jugador": "IVAN IBAÑEZ"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN PEDRO OCCHIUZZI"
+        },
+        {
+          "numero": 11,
+          "jugador": "FRANCISCO OCCHIUZZI"
+        },
+        {
+          "numero": 12,
+          "jugador": "NICOLAS MARZIALI",
+          "capitan": true
+        },
+        {
+          "numero": 13,
+          "jugador": "MARIANO LIVACHOFF"
+        },
+        {
+          "numero": 14,
+          "jugador": "AGUSTIN MARZIALI"
+        },
+        {
+          "numero": 15,
+          "jugador": "GONZALO GREGORIO"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "MATIAS TRAYNOR",
+          "entraPor": "JORGE BENÍTEZ"
+        },
+        {
+          "jugador": "IVAN CARMONA",
+          "entraPor": "RODRIGO ESMAYEL"
+        },
+        {
+          "jugador": "FRANCO POPICA",
+          "entraPor": "HUGO PEDEMONTE"
+        },
+        {
+          "jugador": "JUAN IGNACIO VAZQUEZ",
+          "entraPor": "MARTIN APOLO"
+        },
+        {
+          "jugador": "AGUSTIN DOMINGUEZ",
+          "entraPor": "JOSE GRUBER"
+        },
+        {
+          "jugador": "AUGUSTO GALLOTTI",
+          "entraPor": "AGUSTIN DOMINGUEZ"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "FRANCISCO OCCHIUZZI",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "GONZALO GREGORIO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "MATIAS TRAYNOR",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "tipo": "CONVERSION",
+          "cantidad": 2
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "tipo": "PENAL",
+          "cantidad": 2
+        }
+      ],
+      "tarjetas": []
+    },
+    {
+      "fecha": "2018-05-05",
+      "fechaNota": null,
+      "rival": "CLUB ITALIANO",
+      "condicion": "VISITANTE",
+      "resultadoPropio": 20,
+      "resultadoRival": 27,
+      "cancha": "ITALIANO",
+      "clima": "NUBLADO",
+      "campoDeJuego": "REGULAR",
+      "referee": "RUIBAL",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "JORGE BENÍTEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "RODRIGO ESMAYEL"
+        },
+        {
+          "numero": 3,
+          "jugador": "HUGO PEDEMONTE"
+        },
+        {
+          "numero": 4,
+          "jugador": "OCTAVIO TALLARICO"
+        },
+        {
+          "numero": 5,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 6,
+          "jugador": "NICOLAS ALTAMIRANO"
+        },
+        {
+          "numero": 7,
+          "jugador": "JOSE GRUBER"
+        },
+        {
+          "numero": 8,
+          "jugador": "IGNACIO TORTORELLA"
+        },
+        {
+          "numero": 9,
+          "jugador": "IVAN IBAÑEZ"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN PEDRO OCCHIUZZI"
+        },
+        {
+          "numero": 11,
+          "jugador": "FRANCISCO OCCHIUZZI"
+        },
+        {
+          "numero": 12,
+          "jugador": "NICOLAS MARZIALI",
+          "capitan": true
+        },
+        {
+          "numero": 13,
+          "jugador": "MARIANO LIVACHOFF"
+        },
+        {
+          "numero": 14,
+          "jugador": "AGUSTIN MARZIALI"
+        },
+        {
+          "numero": 15,
+          "jugador": "GONZALO GREGORIO"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "EZEQUIEL BALESTRA",
+          "entraPor": "JORGE BENÍTEZ"
+        },
+        {
+          "jugador": "MATIAS TRAYNOR",
+          "entraPor": "RODRIGO ESMAYEL"
+        },
+        {
+          "jugador": "FRANCO POPICA",
+          "entraPor": "HUGO PEDEMONTE"
+        },
+        {
+          "jugador": "JUAN IGNACIO VAZQUEZ",
+          "entraPor": "OCTAVIO TALLARICO"
+        },
+        {
+          "jugador": "AGUSTIN DOMINGUEZ",
+          "entraPor": "JOSE GRUBER"
+        },
+        {
+          "jugador": "CHRISTIAN MONZON",
+          "entraPor": "FRANCISCO OCCHIUZZI"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "FRANCISCO OCCHIUZZI",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "tipo": "CONVERSION",
+          "cantidad": 2
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "tipo": "PENAL",
+          "cantidad": 2
+        }
+      ],
+      "tarjetas": [
+        {
+          "jugador": "IVAN IBAÑEZ",
+          "tipo": "AMARILLA"
+        }
+      ]
+    },
+    {
+      "fecha": "2018-05-12",
+      "fechaNota": null,
+      "rival": "LOS CEDROS",
+      "condicion": "LOCAL",
+      "resultadoPropio": 26,
+      "resultadoRival": 24,
+      "cancha": "VICENTINOS",
+      "clima": "BUENO",
+      "campoDeJuego": "PESADO POR LLUVIAS PREVIAS",
+      "referee": "LALANNE",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "JORGE BENÍTEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "MATIAS TRAYNOR"
+        },
+        {
+          "numero": 3,
+          "jugador": "HUGO PEDEMONTE"
+        },
+        {
+          "numero": 4,
+          "jugador": "OCTAVIO TALLARICO"
+        },
+        {
+          "numero": 5,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 6,
+          "jugador": "AGUSTIN DOMINGUEZ"
+        },
+        {
+          "numero": 7,
+          "jugador": "JOSE GRUBER"
+        },
+        {
+          "numero": 8,
+          "jugador": "IGNACIO TORTORELLA"
+        },
+        {
+          "numero": 9,
+          "jugador": "IVAN IBAÑEZ"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN PEDRO OCCHIUZZI"
+        },
+        {
+          "numero": 11,
+          "jugador": "FRANCISCO OCCHIUZZI"
+        },
+        {
+          "numero": 12,
+          "jugador": "NICOLAS MARZIALI",
+          "capitan": true
+        },
+        {
+          "numero": 13,
+          "jugador": "MARIANO LIVACHOFF"
+        },
+        {
+          "numero": 14,
+          "jugador": "AGUSTIN MARZIALI"
+        },
+        {
+          "numero": 15,
+          "jugador": "GONZALO GREGORIO"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "EZEQUIEL BALESTRA",
+          "entraPor": "JORGE BENÍTEZ"
+        },
+        {
+          "jugador": "FRANCO POPICA",
+          "entraPor": "HUGO PEDEMONTE"
+        },
+        {
+          "jugador": "AUGUSTO GALLOTTI",
+          "entraPor": "AGUSTIN DOMINGUEZ"
+        },
+        {
+          "jugador": "NICOLAS ALTAMIRANO",
+          "entraPor": "OCTAVIO TALLARICO"
+        },
+        {
+          "jugador": "JUAN IGNACIO VAZQUEZ",
+          "entraPor": "JOSE GRUBER"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "IVAN IBAÑEZ",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "AGUSTIN MARZIALI",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "MATIAS TRAYNOR",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "IGNACIO TORTORELLA",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "tipo": "CONVERSION",
+          "cantidad": 3
+        }
+      ],
+      "tarjetas": [
+        {
+          "jugador": "FRANCISCO OCCHIUZZI",
+          "tipo": "AMARILLA"
+        },
+        {
+          "jugador": "JORGE BENÍTEZ",
+          "tipo": "AMARILLA"
+        }
+      ]
+    },
+    {
+      "fecha": "2018-05-19",
+      "fechaNota": null,
+      "rival": "LUJAN",
+      "condicion": "VISITANTE",
+      "resultadoPropio": 27,
+      "resultadoRival": 31,
+      "cancha": "LUJAN",
+      "clima": "NUBLADO",
+      "campoDeJuego": "REGULAR",
+      "referee": "PIOTROWSKY",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "JORGE BENÍTEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "EZEQUIEL BALESTRA"
+        },
+        {
+          "numero": 3,
+          "jugador": "HUGO PEDEMONTE"
+        },
+        {
+          "numero": 4,
+          "jugador": "OCTAVIO TALLARICO"
+        },
+        {
+          "numero": 5,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 6,
+          "jugador": "NICOLAS ALTAMIRANO"
+        },
+        {
+          "numero": 7,
+          "jugador": "JOSE GRUBER"
+        },
+        {
+          "numero": 8,
+          "jugador": "IGNACIO TORTORELLA"
+        },
+        {
+          "numero": 9,
+          "jugador": "IVAN IBAÑEZ"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN PEDRO OCCHIUZZI"
+        },
+        {
+          "numero": 11,
+          "jugador": "EMILIANO MANRIQUEZ"
+        },
+        {
+          "numero": 12,
+          "jugador": "NICOLAS MARZIALI",
+          "capitan": true
+        },
+        {
+          "numero": 13,
+          "jugador": "MARIANO LIVACHOFF"
+        },
+        {
+          "numero": 14,
+          "jugador": "AGUSTIN MARZIALI"
+        },
+        {
+          "numero": 15,
+          "jugador": "GONZALO GREGORIO"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "JUAN JOSE MONEA",
+          "entraPor": "HUGO PEDEMONTE"
+        },
+        {
+          "jugador": "FRANCO CORSI",
+          "entraPor": "OCTAVIO TALLARICO"
+        },
+        {
+          "jugador": "AUGUSTO GALLOTTI",
+          "entraPor": "NICOLAS ALTAMIRANO"
+        },
+        {
+          "jugador": "AGUSTIN TRAYNOR",
+          "entraPor": "EMILIANO MANRIQUEZ"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "NICOLAS MARZIALI",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "EMILIANO MANRIQUEZ",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "IGNACIO TORTORELLA",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "tipo": "PENAL",
+          "cantidad": 2
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "tipo": "CONVERSION",
+          "cantidad": 3
+        }
+      ],
+      "tarjetas": [
+        {
+          "jugador": "IGNACIO TORTORELLA",
+          "tipo": "AMARILLA"
+        }
+      ]
+    },
+    {
+      "fecha": "2018-06-02",
+      "fechaNota": null,
+      "rival": "ST BRENDAN'S",
+      "condicion": "LOCAL",
+      "resultadoPropio": 21,
+      "resultadoRival": 28,
+      "cancha": "VICENTINOS",
+      "clima": "BUENO",
+      "campoDeJuego": "BUENO",
+      "referee": "VILLALOBOS",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "JORGE BENÍTEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "EZEQUIEL BALESTRA"
+        },
+        {
+          "numero": 3,
+          "jugador": "JUAN JOSE MONEA"
+        },
+        {
+          "numero": 4,
+          "jugador": "OCTAVIO TALLARICO"
+        },
+        {
+          "numero": 5,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 6,
+          "jugador": "AUGUSTO GALLOTTI"
+        },
+        {
+          "numero": 7,
+          "jugador": "JOSE GRUBER"
+        },
+        {
+          "numero": 8,
+          "jugador": "IGNACIO TORTORELLA"
+        },
+        {
+          "numero": 9,
+          "jugador": "IVAN IBAÑEZ"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN PEDRO OCCHIUZZI"
+        },
+        {
+          "numero": 11,
+          "jugador": "AGUSTIN TRAYNOR"
+        },
+        {
+          "numero": 12,
+          "jugador": "NICOLAS MARZIALI",
+          "capitan": true
+        },
+        {
+          "numero": 13,
+          "jugador": "MARIANO LIVACHOFF"
+        },
+        {
+          "numero": 14,
+          "jugador": "AGUSTIN MARZIALI"
+        },
+        {
+          "numero": 15,
+          "jugador": "GONZALO GREGORIO"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "FRANCO POPICA",
+          "entraPor": "JORGE BENÍTEZ"
+        },
+        {
+          "jugador": "HUGO PEDEMONTE",
+          "entraPor": "JUAN JOSE MONEA"
+        },
+        {
+          "jugador": "NICOLAS ALTAMIRANO",
+          "entraPor": "OCTAVIO TALLARICO"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "AGUSTIN TRAYNOR",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "MARIANO LIVACHOFF",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "FRANCISCO COMABELLA",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "tipo": "CONVERSION",
+          "cantidad": 3
+        }
+      ],
+      "tarjetas": []
+    },
+    {
+      "fecha": "2018-06-09",
+      "fechaNota": null,
+      "rival": "ATLETICO CHASCOMUS",
+      "condicion": "VISITANTE",
+      "resultadoPropio": 17,
+      "resultadoRival": 25,
+      "cancha": "CHASCOMUS",
+      "clima": "BUENO",
+      "campoDeJuego": "BUENO",
+      "referee": "CONTI",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "JORGE BENÍTEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "EZEQUIEL BALESTRA"
+        },
+        {
+          "numero": 3,
+          "jugador": "HUGO PEDEMONTE"
+        },
+        {
+          "numero": 4,
+          "jugador": "OCTAVIO TALLARICO"
+        },
+        {
+          "numero": 5,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 6,
+          "jugador": "AUGUSTO GALLOTTI"
+        },
+        {
+          "numero": 7,
+          "jugador": "JOSE GRUBER"
+        },
+        {
+          "numero": 8,
+          "jugador": "IGNACIO TORTORELLA"
+        },
+        {
+          "numero": 9,
+          "jugador": "AGUSTIN TRAYNOR"
+        },
+        {
+          "numero": 10,
+          "jugador": "IVAN IBAÑEZ"
+        },
+        {
+          "numero": 11,
+          "jugador": "GONZALO GREGORIO"
+        },
+        {
+          "numero": 12,
+          "jugador": "NICOLAS MARZIALI",
+          "capitan": true
+        },
+        {
+          "numero": 13,
+          "jugador": "MARIANO LIVACHOFF"
+        },
+        {
+          "numero": 14,
+          "jugador": "AGUSTIN MARZIALI"
+        },
+        {
+          "numero": 15,
+          "jugador": "JUAN PEDRO OCCHIUZZI"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "NICOLAS ALTAMIRANO",
+          "entraPor": "OCTAVIO TALLARICO"
+        },
+        {
+          "jugador": "ANDRES BIRELLO",
+          "entraPor": "JOSE GRUBER"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "MARIANO LIVACHOFF",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "IGNACIO TORTORELLA",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "tipo": "PENAL",
+          "cantidad": 1
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "tipo": "CONVERSION",
+          "cantidad": 2
+        }
+      ],
+      "tarjetas": []
+    },
+    {
+      "fecha": "2018-06-16",
+      "fechaNota": null,
+      "rival": "CENTRO NAVAL",
+      "condicion": "LOCAL",
+      "resultadoPropio": 22,
+      "resultadoRival": 24,
+      "cancha": "VICENTINOS",
+      "clima": "BUENO",
+      "campoDeJuego": "BUENO",
+      "referee": "HUBER",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "JORGE BENÍTEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "EZEQUIEL BALESTRA"
+        },
+        {
+          "numero": 3,
+          "jugador": "HUGO PEDEMONTE"
+        },
+        {
+          "numero": 4,
+          "jugador": "OCTAVIO TALLARICO"
+        },
+        {
+          "numero": 5,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 6,
+          "jugador": "AUGUSTO GALLOTTI"
+        },
+        {
+          "numero": 7,
+          "jugador": "JOSE GRUBER"
+        },
+        {
+          "numero": 8,
+          "jugador": "IGNACIO TORTORELLA"
+        },
+        {
+          "numero": 9,
+          "jugador": "AGUSTIN TRAYNOR"
+        },
+        {
+          "numero": 10,
+          "jugador": "IVAN IBAÑEZ"
+        },
+        {
+          "numero": 11,
+          "jugador": "GONZALO GREGORIO"
+        },
+        {
+          "numero": 12,
+          "jugador": "NICOLAS MARZIALI",
+          "capitan": true
+        },
+        {
+          "numero": 13,
+          "jugador": "MARIANO LIVACHOFF"
+        },
+        {
+          "numero": 14,
+          "jugador": "AGUSTIN MARZIALI"
+        },
+        {
+          "numero": 15,
+          "jugador": "JUAN PEDRO OCCHIUZZI"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "NICOLAS ALTAMIRANO",
+          "entraPor": "OCTAVIO TALLARICO"
+        },
+        {
+          "jugador": "ANDRES BIRELLO",
+          "entraPor": "JOSE GRUBER"
+        },
+        {
+          "jugador": "MATIAS TRAYNOR",
+          "entraPor": "HUGO PEDEMONTE"
+        },
+        {
+          "jugador": "MARIANO CETTOUR",
+          "entraPor": "AGUSTIN TRAYNOR"
+        },
+        {
+          "jugador": "MATIAS ALTAMIRANO",
+          "entraPor": "IVAN IBAÑEZ"
+        },
+        {
+          "jugador": "EMILIANO MANRIQUEZ",
+          "entraPor": "AGUSTIN MARZIALI"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "EZEQUIEL BALESTRA",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "FRANCISCO COMABELLA",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "MARIANO LIVACHOFF",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "tipo": "PENAL",
+          "cantidad": 1
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "tipo": "CONVERSION",
+          "cantidad": 2
+        }
+      ],
+      "tarjetas": []
+    },
+    {
+      "fecha": "2018-06-23",
+      "fechaNota": null,
+      "rival": "SAN ANDRES",
+      "condicion": "VISITANTE",
+      "resultadoPropio": 25,
+      "resultadoRival": 38,
+      "cancha": "SAN ANDRES",
+      "clima": "BUENO",
+      "campoDeJuego": "BUENO",
+      "referee": "DEGREEF",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "JORGE BENÍTEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "EZEQUIEL BALESTRA"
+        },
+        {
+          "numero": 3,
+          "jugador": "MATIAS TRAYNOR"
+        },
+        {
+          "numero": 4,
+          "jugador": "OCTAVIO TALLARICO"
+        },
+        {
+          "numero": 5,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 6,
+          "jugador": "ANDRES BIRELLO"
+        },
+        {
+          "numero": 7,
+          "jugador": "JOSE GRUBER"
+        },
+        {
+          "numero": 8,
+          "jugador": "IGNACIO TORTORELLA"
+        },
+        {
+          "numero": 9,
+          "jugador": "MARIANO CETTOUR"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN PEDRO OCCHIUZZI"
+        },
+        {
+          "numero": 11,
+          "jugador": "AGUSTIN TRAYNOR"
+        },
+        {
+          "numero": 12,
+          "jugador": "NICOLAS MARZIALI",
+          "capitan": true
+        },
+        {
+          "numero": 13,
+          "jugador": "MARIANO LIVACHOFF"
+        },
+        {
+          "numero": 14,
+          "jugador": "AGUSTIN MARZIALI"
+        },
+        {
+          "numero": 15,
+          "jugador": "GONZALO GREGORIO"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "NICOLAS ALTAMIRANO",
+          "entraPor": "OCTAVIO TALLARICO"
+        },
+        {
+          "jugador": "AUGUSTO GALLOTTI",
+          "entraPor": "JOSE GRUBER"
+        },
+        {
+          "jugador": "FRANCISCO OCCHIUZZI",
+          "entraPor": "AGUSTIN TRAYNOR"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "AGUSTIN MARZIALI",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "GONZALO GREGORIO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "MATIAS TRAYNOR",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "tipo": "DROP",
+          "cantidad": 1
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "tipo": "CONVERSION",
+          "cantidad": 1
+        }
+      ],
+      "tarjetas": []
+    },
+    {
+      "fecha": "2018-07-07",
+      "fechaNota": null,
+      "rival": "DAOM",
+      "condicion": "LOCAL",
+      "resultadoPropio": 26,
+      "resultadoRival": 21,
+      "cancha": "VICENTINOS",
+      "clima": "NUBLADO",
+      "campoDeJuego": "BUENO",
+      "referee": "RUIBAL",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "JORGE BENÍTEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "EZEQUIEL BALESTRA"
+        },
+        {
+          "numero": 3,
+          "jugador": "MATIAS TRAYNOR"
+        },
+        {
+          "numero": 4,
+          "jugador": "OCTAVIO TALLARICO"
+        },
+        {
+          "numero": 5,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 6,
+          "jugador": "ANDRES BIRELLO"
+        },
+        {
+          "numero": 7,
+          "jugador": "JOSE GRUBER"
+        },
+        {
+          "numero": 8,
+          "jugador": "IGNACIO TORTORELLA"
+        },
+        {
+          "numero": 9,
+          "jugador": "MARIANO CETTOUR"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN PEDRO OCCHIUZZI"
+        },
+        {
+          "numero": 11,
+          "jugador": "AGUSTIN TRAYNOR"
+        },
+        {
+          "numero": 12,
+          "jugador": "NICOLAS MARZIALI",
+          "capitan": true
+        },
+        {
+          "numero": 13,
+          "jugador": "MARIANO LIVACHOFF"
+        },
+        {
+          "numero": 14,
+          "jugador": "AGUSTIN MARZIALI"
+        },
+        {
+          "numero": 15,
+          "jugador": "GONZALO GREGORIO"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "RODRIGO GOMEZ",
+          "entraPor": "JORGE BENÍTEZ"
+        },
+        {
+          "jugador": "NICOLAS ALTAMIRANO",
+          "entraPor": "OCTAVIO TALLARICO"
+        },
+        {
+          "jugador": "AGUSTIN DOMINGUEZ",
+          "entraPor": "JOSE GRUBER"
+        },
+        {
+          "jugador": "FRANCISCO OCCHIUZZI",
+          "entraPor": "AGUSTIN TRAYNOR"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "AGUSTIN MARZIALI",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "MARIANO CETTOUR",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "IGNACIO TORTORELLA",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "tipo": "CONVERSION",
+          "cantidad": 1
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "tipo": "PENAL",
+          "cantidad": 3
+        }
+      ],
+      "tarjetas": [
+        {
+          "jugador": "IGNACIO TORTORELLA",
+          "tipo": "AMARILLA"
+        },
+        {
+          "jugador": "FRANCISCO COMABELLA",
+          "tipo": "AMARILLA"
+        }
+      ]
+    },
+    {
+      "fecha": "2018-07-14",
+      "fechaNota": null,
+      "rival": "GEI",
+      "condicion": "VISITANTE",
+      "resultadoPropio": 36,
+      "resultadoRival": 16,
+      "cancha": "GEI",
+      "clima": "BUENO",
+      "campoDeJuego": "BUENO",
+      "referee": "CORTES",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "JORGE BENÍTEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "EZEQUIEL BALESTRA"
+        },
+        {
+          "numero": 3,
+          "jugador": "MATIAS TRAYNOR"
+        },
+        {
+          "numero": 4,
+          "jugador": "OCTAVIO TALLARICO"
+        },
+        {
+          "numero": 5,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 6,
+          "jugador": "AGUSTIN DOMINGUEZ"
+        },
+        {
+          "numero": 7,
+          "jugador": "JOSE GRUBER"
+        },
+        {
+          "numero": 8,
+          "jugador": "IGNACIO TORTORELLA"
+        },
+        {
+          "numero": 9,
+          "jugador": "MARIANO CETTOUR"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN PEDRO OCCHIUZZI"
+        },
+        {
+          "numero": 11,
+          "jugador": "AGUSTIN TRAYNOR"
+        },
+        {
+          "numero": 12,
+          "jugador": "NICOLAS MARZIALI",
+          "capitan": true
+        },
+        {
+          "numero": 13,
+          "jugador": "MARIANO LIVACHOFF"
+        },
+        {
+          "numero": 14,
+          "jugador": "AGUSTIN MARZIALI"
+        },
+        {
+          "numero": 15,
+          "jugador": "GONZALO GREGORIO"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "IVAN CARMONA",
+          "entraPor": "JORGE BENÍTEZ"
+        },
+        {
+          "jugador": "RODRIGO ESMAYEL",
+          "entraPor": "EZEQUIEL BALESTRA"
+        },
+        {
+          "jugador": "RODRIGO GOMEZ",
+          "entraPor": "MATIAS TRAYNOR"
+        },
+        {
+          "jugador": "NICOLAS ALTAMIRANO",
+          "entraPor": "OCTAVIO TALLARICO"
+        },
+        {
+          "jugador": "AUGUSTO GALLOTTI",
+          "entraPor": "JOSE GRUBER"
+        },
+        {
+          "jugador": "IVAN IBAÑEZ",
+          "entraPor": "MARIANO CETTOUR"
+        },
+        {
+          "jugador": "JUAN MATIAS TRAYNOR",
+          "entraPor": "NICOLAS MARZIALI"
+        },
+        {
+          "jugador": "FRANCISCO OCCHIUZZI",
+          "entraPor": "AGUSTIN TRAYNOR"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "MARIANO LIVACHOFF",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "JOSE GRUBER",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "AGUSTIN MARZIALI",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "FRANCISCO OCCHIUZZI",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "JUAN MATIAS TRAYNOR",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "tipo": "CONVERSION",
+          "cantidad": 4
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "tipo": "PENAL",
+          "cantidad": 1
+        }
+      ],
+      "tarjetas": [
+        {
+          "jugador": "IVAN CARMONA",
+          "tipo": "AMARILLA"
+        }
+      ]
+    },
+    {
+      "fecha": "2018-07-28",
+      "fechaNota": null,
+      "rival": "CASA DE PADUA",
+      "condicion": "LOCAL",
+      "resultadoPropio": 22,
+      "resultadoRival": 17,
+      "cancha": "VICENTINOS",
+      "clima": "LLOVIZNAS",
+      "campoDeJuego": "PESADO",
+      "referee": "DEGREEF",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "JORGE BENÍTEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "EZEQUIEL BALESTRA"
+        },
+        {
+          "numero": 3,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 4,
+          "jugador": "OCTAVIO TALLARICO"
+        },
+        {
+          "numero": 5,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 6,
+          "jugador": "AGUSTIN DOMINGUEZ"
+        },
+        {
+          "numero": 7,
+          "jugador": "JOSE GRUBER"
+        },
+        {
+          "numero": 8,
+          "jugador": "IGNACIO TORTORELLA"
+        },
+        {
+          "numero": 9,
+          "jugador": "MARIANO CETTOUR"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN PEDRO OCCHIUZZI"
+        },
+        {
+          "numero": 11,
+          "jugador": "FRANCISCO OCCHIUZZI"
+        },
+        {
+          "numero": 12,
+          "jugador": "NICOLAS MARZIALI",
+          "capitan": true
+        },
+        {
+          "numero": 13,
+          "jugador": "MARIANO LIVACHOFF"
+        },
+        {
+          "numero": 14,
+          "jugador": "AGUSTIN MARZIALI"
+        },
+        {
+          "numero": 15,
+          "jugador": "GONZALO GREGORIO"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "NICOLAS ALTAMIRANO",
+          "entraPor": "OCTAVIO TALLARICO"
+        },
+        {
+          "jugador": "ANDRES BIRELLO",
+          "entraPor": "JOSE GRUBER"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "RODRIGO GOMEZ",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "JOSE GRUBER",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "GONZALO GREGORIO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "FRANCISCO OCCHIUZZI",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "tipo": "CONVERSION",
+          "cantidad": 1
+        }
+      ],
+      "tarjetas": []
+    },
+    {
+      "fecha": "2018-08-04",
+      "fechaNota": null,
+      "rival": "ALBATROS",
+      "condicion": "LOCAL",
+      "resultadoPropio": 41,
+      "resultadoRival": 12,
+      "cancha": "VICENTINOS",
+      "clima": "BUENO",
+      "campoDeJuego": "BUENO",
+      "referee": "NUÑEZ",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "JORGE BENÍTEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "EZEQUIEL BALESTRA"
+        },
+        {
+          "numero": 3,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 4,
+          "jugador": "OCTAVIO TALLARICO"
+        },
+        {
+          "numero": 5,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 6,
+          "jugador": "AGUSTIN DOMINGUEZ"
+        },
+        {
+          "numero": 7,
+          "jugador": "JOSE GRUBER"
+        },
+        {
+          "numero": 8,
+          "jugador": "IGNACIO TORTORELLA"
+        },
+        {
+          "numero": 9,
+          "jugador": "MARIANO CETTOUR"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN PEDRO OCCHIUZZI"
+        },
+        {
+          "numero": 11,
+          "jugador": "FRANCISCO OCCHIUZZI"
+        },
+        {
+          "numero": 12,
+          "jugador": "NICOLAS MARZIALI",
+          "capitan": true
+        },
+        {
+          "numero": 13,
+          "jugador": "MARIANO LIVACHOFF"
+        },
+        {
+          "numero": 14,
+          "jugador": "AGUSTIN MARZIALI"
+        },
+        {
+          "numero": 15,
+          "jugador": "GONZALO GREGORIO"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "NICOLAS ALTAMIRANO",
+          "entraPor": "AGUSTIN DOMINGUEZ"
+        },
+        {
+          "jugador": "NICOLAS DOMINGUEZ",
+          "entraPor": "IGNACIO TORTORELLA"
+        },
+        {
+          "jugador": "AUGUSTO GALLOTTI",
+          "entraPor": "OCTAVIO TALLARICO"
+        },
+        {
+          "jugador": "JUAN MATIAS TRAYNOR",
+          "entraPor": "NICOLAS MARZIALI"
+        },
+        {
+          "jugador": "FEDERICO FERRARI",
+          "entraPor": "GONZALO GREGORIO"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "IGNACIO TORTORELLA",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "AGUSTIN MARZIALI",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "NICOLAS MARZIALI",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "FRANCISCO OCCHIUZZI",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "FRANCISCO COMABELLA",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "MARIANO LIVACHOFF",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "tipo": "CONVERSION",
+          "cantidad": 4
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "tipo": "PENAL",
+          "cantidad": 1
+        }
+      ],
+      "tarjetas": [
+        {
+          "jugador": "NICOLAS ALTAMIRANO",
+          "tipo": "AMARILLA"
+        },
+        {
+          "jugador": "MARIANO LIVACHOFF",
+          "tipo": "AMARILLA"
+        }
+      ]
+    },
+    {
+      "fecha": "2018-08-11",
+      "fechaNota": null,
+      "rival": "MONTE GRANDE",
+      "condicion": "VISITANTE",
+      "resultadoPropio": 20,
+      "resultadoRival": 27,
+      "cancha": "MONTE GRANDE",
+      "clima": "NUBLADO",
+      "campoDeJuego": "BUENO",
+      "referee": "COLLADO",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "JORGE BENÍTEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "EZEQUIEL BALESTRA"
+        },
+        {
+          "numero": 3,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 4,
+          "jugador": "OCTAVIO TALLARICO"
+        },
+        {
+          "numero": 5,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 6,
+          "jugador": "ANDRES BIRELLO"
+        },
+        {
+          "numero": 7,
+          "jugador": "JOSE GRUBER"
+        },
+        {
+          "numero": 8,
+          "jugador": "IGNACIO TORTORELLA"
+        },
+        {
+          "numero": 9,
+          "jugador": "MARIANO CETTOUR"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN PEDRO OCCHIUZZI"
+        },
+        {
+          "numero": 11,
+          "jugador": "FRANCISCO OCCHIUZZI"
+        },
+        {
+          "numero": 12,
+          "jugador": "NICOLAS MARZIALI",
+          "capitan": true
+        },
+        {
+          "numero": 13,
+          "jugador": "MARIANO LIVACHOFF"
+        },
+        {
+          "numero": 14,
+          "jugador": "AGUSTIN MARZIALI"
+        },
+        {
+          "numero": 15,
+          "jugador": "GONZALO GREGORIO"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "NICOLAS ALTAMIRANO",
+          "entraPor": "JOSE GRUBER"
+        },
+        {
+          "jugador": "HUGO PEDEMONTE",
+          "entraPor": "JORGE BENÍTEZ"
+        },
+        {
+          "jugador": "PABLO FERREIRA",
+          "entraPor": "EZEQUIEL BALESTRA"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "JOSE GRUBER",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "GONZALO GREGORIO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "TRY PENAL",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "tipo": "CONVERSION",
+          "cantidad": 1
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "tipo": "PENAL",
+          "cantidad": 1
+        }
+      ],
+      "tarjetas": [
+        {
+          "jugador": "OCTAVIO TALLARICO",
+          "tipo": "AMARILLA"
+        },
+        {
+          "jugador": "FRANCISCO COMABELLA",
+          "tipo": "AMARILLA"
+        }
+      ]
+    },
+    {
+      "fecha": "2018-08-18",
+      "fechaNota": null,
+      "rival": "LANUS",
+      "condicion": "LOCAL",
+      "resultadoPropio": 29,
+      "resultadoRival": 14,
+      "cancha": "VICENTINOS",
+      "clima": "NUBLADO/LLUVIA",
+      "campoDeJuego": "BUENO",
+      "referee": "TERRERA",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "JORGE BENÍTEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "EZEQUIEL BALESTRA"
+        },
+        {
+          "numero": 3,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 4,
+          "jugador": "OCTAVIO TALLARICO"
+        },
+        {
+          "numero": 5,
+          "jugador": "NICOLAS ALTAMIRANO"
+        },
+        {
+          "numero": 6,
+          "jugador": "AUGUSTO GALLOTTI"
+        },
+        {
+          "numero": 7,
+          "jugador": "JOSE GRUBER"
+        },
+        {
+          "numero": 8,
+          "jugador": "IGNACIO TORTORELLA"
+        },
+        {
+          "numero": 9,
+          "jugador": "MARIANO CETTOUR"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN PEDRO OCCHIUZZI"
+        },
+        {
+          "numero": 11,
+          "jugador": "FRANCISCO OCCHIUZZI"
+        },
+        {
+          "numero": 12,
+          "jugador": "NICOLAS MARZIALI",
+          "capitan": true
+        },
+        {
+          "numero": 13,
+          "jugador": "MARIANO LIVACHOFF"
+        },
+        {
+          "numero": 14,
+          "jugador": "AGUSTIN MARZIALI"
+        },
+        {
+          "numero": 15,
+          "jugador": "GONZALO GREGORIO"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "FRANCISCO COMABELLA",
+          "entraPor": "OCTAVIO TALLARICO"
+        },
+        {
+          "jugador": "SANTIAGO DOMINGUEZ",
+          "entraPor": "JUAN PEDRO OCCHIUZZI"
+        },
+        {
+          "jugador": "PABLO FERREIRA",
+          "entraPor": "JORGE BENÍTEZ"
+        },
+        {
+          "jugador": "IVAN IBAÑEZ",
+          "entraPor": "MARIANO LIVACHOFF"
+        },
+        {
+          "jugador": "NICOLAS COMPANYS",
+          "entraPor": "SANTIAGO DOMINGUEZ"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "JOSE GRUBER",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "MARIANO LIVACHOFF",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "MARIANO CETTOUR",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "NICOLAS MARZIALI",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "IGNACIO TORTORELLA",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "tipo": "CONVERSION",
+          "cantidad": 1
+        },
+        {
+          "jugador": "FRANCISCO OCCHIUZZI",
+          "tipo": "CONVERSION",
+          "cantidad": 1
+        }
+      ],
+      "tarjetas": [
+        {
+          "jugador": "MARIANO CETTOUR",
+          "tipo": "AMARILLA"
+        }
+      ]
+    },
+    {
+      "fecha": "2018-09-01",
+      "fechaNota": null,
+      "rival": "CLUB ITALIANO",
+      "condicion": "LOCAL",
+      "resultadoPropio": 32,
+      "resultadoRival": 33,
+      "cancha": "VICENTINOS",
+      "clima": "NUBLADO",
+      "campoDeJuego": "BUENO",
+      "referee": "ACHAVAL S.",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "JORGE BENÍTEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "EZEQUIEL BALESTRA"
+        },
+        {
+          "numero": 3,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 4,
+          "jugador": "OCTAVIO TALLARICO"
+        },
+        {
+          "numero": 5,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 6,
+          "jugador": "AUGUSTO GALLOTTI"
+        },
+        {
+          "numero": 7,
+          "jugador": "JOSE GRUBER"
+        },
+        {
+          "numero": 8,
+          "jugador": "IGNACIO TORTORELLA"
+        },
+        {
+          "numero": 9,
+          "jugador": "MARIANO CETTOUR"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN PEDRO OCCHIUZZI"
+        },
+        {
+          "numero": 11,
+          "jugador": "FRANCISCO OCCHIUZZI"
+        },
+        {
+          "numero": 12,
+          "jugador": "NICOLAS MARZIALI",
+          "capitan": true
+        },
+        {
+          "numero": 13,
+          "jugador": "MARIANO LIVACHOFF"
+        },
+        {
+          "numero": 14,
+          "jugador": "AGUSTIN MARZIALI"
+        },
+        {
+          "numero": 15,
+          "jugador": "GONZALO GREGORIO"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "MATIAS TRAYNOR",
+          "entraPor": "JORGE BENÍTEZ"
+        },
+        {
+          "jugador": "PABLO FERREIRA",
+          "entraPor": "RODRIGO GOMEZ"
+        },
+        {
+          "jugador": "NICOLAS ALTAMIRANO",
+          "entraPor": "OCTAVIO TALLARICO"
+        },
+        {
+          "jugador": "AGUSTIN DOMINGUEZ",
+          "entraPor": "JOSE GRUBER"
+        },
+        {
+          "jugador": "IVAN IBAÑEZ",
+          "entraPor": "MARIANO CETTOUR"
+        },
+        {
+          "jugador": "SANTIAGO DOMINGUEZ",
+          "entraPor": "NICOLAS MARZIALI"
+        },
+        {
+          "jugador": "RODRIGO ESMAYEL",
+          "entraPor": "NICOLAS ALTAMIRANO"
+        },
+        {
+          "jugador": "NICOLAS COMPANYS",
+          "entraPor": "IVAN IBAÑEZ"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "MARIANO LIVACHOFF",
+          "tipo": "TRY",
+          "cantidad": 2
+        },
+        {
+          "jugador": "FRANCISCO OCCHIUZZI",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "PABLO FERREIRA",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "tipo": "CONVERSION",
+          "cantidad": 3
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "tipo": "PENAL",
+          "cantidad": 2
+        }
+      ],
+      "tarjetas": [
+        {
+          "jugador": "RODRIGO ESMAYEL",
+          "tipo": "AMARILLA"
+        }
+      ]
+    },
+    {
+      "fecha": "2018-09-08",
+      "fechaNota": null,
+      "rival": "LOS CEDROS",
+      "condicion": "VISITANTE",
+      "resultadoPropio": 35,
+      "resultadoRival": 9,
+      "cancha": "LOS CEDROS",
+      "clima": "BUENO",
+      "campoDeJuego": "REGULAR",
+      "referee": "TRIAS",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "JORGE BENÍTEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "EZEQUIEL BALESTRA"
+        },
+        {
+          "numero": 3,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 4,
+          "jugador": "OCTAVIO TALLARICO"
+        },
+        {
+          "numero": 5,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 6,
+          "jugador": "AGUSTIN DOMINGUEZ"
+        },
+        {
+          "numero": 7,
+          "jugador": "JOSE GRUBER"
+        },
+        {
+          "numero": 8,
+          "jugador": "IGNACIO TORTORELLA"
+        },
+        {
+          "numero": 9,
+          "jugador": "MARIANO CETTOUR"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN PEDRO OCCHIUZZI"
+        },
+        {
+          "numero": 11,
+          "jugador": "FRANCISCO OCCHIUZZI"
+        },
+        {
+          "numero": 12,
+          "jugador": "NICOLAS MARZIALI",
+          "capitan": true
+        },
+        {
+          "numero": 13,
+          "jugador": "MARIANO LIVACHOFF"
+        },
+        {
+          "numero": 14,
+          "jugador": "AGUSTIN MARZIALI"
+        },
+        {
+          "numero": 15,
+          "jugador": "GONZALO GREGORIO"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "MATIAS TRAYNOR",
+          "entraPor": "EZEQUIEL BALESTRA"
+        },
+        {
+          "jugador": "PABLO FERREIRA",
+          "entraPor": "JORGE BENÍTEZ"
+        },
+        {
+          "jugador": "NICOLAS ALTAMIRANO",
+          "entraPor": "OCTAVIO TALLARICO"
+        },
+        {
+          "jugador": "AGUSTIN TRAYNOR",
+          "entraPor": "MARIANO CETTOUR"
+        },
+        {
+          "jugador": "SANTIAGO DOMINGUEZ",
+          "entraPor": "NICOLAS MARZIALI"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "JORGE BENÍTEZ",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "FRANCISCO OCCHIUZZI",
+          "tipo": "TRY",
+          "cantidad": 2
+        },
+        {
+          "jugador": "GONZALO GREGORIO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "NICOLAS MARZIALI",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "tipo": "CONVERSION",
+          "cantidad": 2
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "tipo": "PENAL",
+          "cantidad": 2
+        }
+      ],
+      "tarjetas": [
+        {
+          "jugador": "SANTIAGO DOMINGUEZ",
+          "tipo": "AMARILLA"
+        }
+      ]
+    },
+    {
+      "fecha": "2018-09-15",
+      "fechaNota": null,
+      "rival": "LUJAN",
+      "condicion": "LOCAL",
+      "resultadoPropio": 19,
+      "resultadoRival": 17,
+      "cancha": "VICENTINOS",
+      "clima": "NUBLADO/LLOVIZNAS",
+      "campoDeJuego": "BUENO",
+      "referee": "VILLALOBOS",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "JORGE BENÍTEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "MATIAS TRAYNOR"
+        },
+        {
+          "numero": 3,
+          "jugador": "PABLO FERREIRA"
+        },
+        {
+          "numero": 4,
+          "jugador": "OCTAVIO TALLARICO"
+        },
+        {
+          "numero": 5,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 6,
+          "jugador": "AGUSTIN DOMINGUEZ"
+        },
+        {
+          "numero": 7,
+          "jugador": "JOSE GRUBER"
+        },
+        {
+          "numero": 8,
+          "jugador": "IGNACIO TORTORELLA"
+        },
+        {
+          "numero": 9,
+          "jugador": "AGUSTIN TRAYNOR"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN PEDRO OCCHIUZZI"
+        },
+        {
+          "numero": 11,
+          "jugador": "FRANCISCO OCCHIUZZI"
+        },
+        {
+          "numero": 12,
+          "jugador": "NICOLAS MARZIALI",
+          "capitan": true
+        },
+        {
+          "numero": 13,
+          "jugador": "MARIANO LIVACHOFF"
+        },
+        {
+          "numero": 14,
+          "jugador": "AGUSTIN MARZIALI"
+        },
+        {
+          "numero": 15,
+          "jugador": "GONZALO GREGORIO"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "EZEQUIEL BALESTRA",
+          "entraPor": "MATIAS TRAYNOR"
+        },
+        {
+          "jugador": "RODRIGO GOMEZ",
+          "entraPor": "JORGE BENÍTEZ"
+        },
+        {
+          "jugador": "AUGUSTO GALLOTTI",
+          "entraPor": "OCTAVIO TALLARICO"
+        },
+        {
+          "jugador": "NICOLAS COMPANYS",
+          "entraPor": "AGUSTIN TRAYNOR"
+        },
+        {
+          "jugador": "EMILIANO MANRIQUEZ",
+          "entraPor": "NICOLAS MARZIALI"
+        },
+        {
+          "jugador": "SANTIAGO DOMINGUEZ",
+          "entraPor": "MARIANO LIVACHOFF"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "FRANCISCO OCCHIUZZI",
+          "tipo": "TRY",
+          "cantidad": 2
+        },
+        {
+          "jugador": "GONZALO GREGORIO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "tipo": "CONVERSION",
+          "cantidad": 2
+        }
+      ],
+      "tarjetas": [
+        {
+          "jugador": "AGUSTIN DOMINGUEZ",
+          "tipo": "AMARILLA"
+        }
+      ]
+    },
+    {
+      "fecha": "2018-09-22",
+      "fechaNota": null,
+      "rival": "ST BRENDAN'S",
+      "condicion": "VISITANTE",
+      "resultadoPropio": 43,
+      "resultadoRival": 14,
+      "cancha": "ST BRENDAN´S",
+      "clima": "NUBLADO",
+      "campoDeJuego": "MUY BUENO",
+      "referee": "BELTRAMINO",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "EZEQUIEL BALESTRA"
+        },
+        {
+          "numero": 3,
+          "jugador": "PABLO FERREIRA"
+        },
+        {
+          "numero": 4,
+          "jugador": "OCTAVIO TALLARICO"
+        },
+        {
+          "numero": 5,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 6,
+          "jugador": "AGUSTIN DOMINGUEZ"
+        },
+        {
+          "numero": 7,
+          "jugador": "JOSE GRUBER"
+        },
+        {
+          "numero": 8,
+          "jugador": "IGNACIO TORTORELLA",
+          "capitan": true
+        },
+        {
+          "numero": 9,
+          "jugador": "MARIANO CETTOUR"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN PEDRO OCCHIUZZI"
+        },
+        {
+          "numero": 11,
+          "jugador": "FRANCISCO OCCHIUZZI"
+        },
+        {
+          "numero": 12,
+          "jugador": "SANTIAGO DOMINGUEZ"
+        },
+        {
+          "numero": 13,
+          "jugador": "MARIANO LIVACHOFF"
+        },
+        {
+          "numero": 14,
+          "jugador": "AGUSTIN MARZIALI"
+        },
+        {
+          "numero": 15,
+          "jugador": "GONZALO GREGORIO"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "MATIAS TRAYNOR",
+          "entraPor": "EZEQUIEL BALESTRA"
+        },
+        {
+          "jugador": "JORGE BENÍTEZ",
+          "entraPor": "RODRIGO GOMEZ"
+        },
+        {
+          "jugador": "NICOLAS ALTAMIRANO",
+          "entraPor": "OCTAVIO TALLARICO"
+        },
+        {
+          "jugador": "NICOLAS COMPANYS",
+          "entraPor": "MARIANO CETTOUR"
+        },
+        {
+          "jugador": "JUAN PABLO BIANCHI",
+          "entraPor": "PABLO FERREIRA"
+        },
+        {
+          "jugador": "AUGUSTO GALLOTTI",
+          "entraPor": "FRANCISCO COMABELLA"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "FRANCISCO OCCHIUZZI",
+          "tipo": "TRY",
+          "cantidad": 3
+        },
+        {
+          "jugador": "GONZALO GREGORIO",
+          "tipo": "TRY",
+          "cantidad": 2
+        },
+        {
+          "jugador": "MARIANO LIVACHOFF",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "AGUSTIN DOMINGUEZ",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "tipo": "CONVERSION",
+          "cantidad": 4
+        }
+      ],
+      "tarjetas": [
+        {
+          "jugador": "FRANCISCO COMABELLA",
+          "tipo": "AMARILLA"
+        }
+      ]
+    },
+    {
+      "fecha": "2018-10-07",
+      "fechaNota": null,
+      "rival": "ATLETICO CHASCOMUS",
+      "condicion": "LOCAL",
+      "resultadoPropio": 48,
+      "resultadoRival": 30,
+      "cancha": "VICENTINOS",
+      "clima": "BUENO",
+      "campoDeJuego": "MUY BUENO",
+      "referee": "LARRUBIA",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "MATIAS TRAYNOR"
+        },
+        {
+          "numero": 2,
+          "jugador": "EZEQUIEL BALESTRA"
+        },
+        {
+          "numero": 3,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 4,
+          "jugador": "OCTAVIO TALLARICO"
+        },
+        {
+          "numero": 5,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 6,
+          "jugador": "AGUSTIN DOMINGUEZ"
+        },
+        {
+          "numero": 7,
+          "jugador": "JOSE GRUBER"
+        },
+        {
+          "numero": 8,
+          "jugador": "IGNACIO TORTORELLA",
+          "capitan": true
+        },
+        {
+          "numero": 9,
+          "jugador": "MARIANO CETTOUR"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN PEDRO OCCHIUZZI"
+        },
+        {
+          "numero": 11,
+          "jugador": "FRANCISCO OCCHIUZZI"
+        },
+        {
+          "numero": 12,
+          "jugador": "SANTIAGO DOMINGUEZ"
+        },
+        {
+          "numero": 13,
+          "jugador": "MARIANO LIVACHOFF"
+        },
+        {
+          "numero": 14,
+          "jugador": "AGUSTIN MARZIALI"
+        },
+        {
+          "numero": 15,
+          "jugador": "GONZALO GREGORIO"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "JUAN PABLO BIANCHI",
+          "entraPor": "MATIAS TRAYNOR"
+        },
+        {
+          "jugador": "PABLO FERREIRA",
+          "entraPor": "EZEQUIEL BALESTRA"
+        },
+        {
+          "jugador": "JORGE BENÍTEZ",
+          "entraPor": "RODRIGO GOMEZ"
+        },
+        {
+          "jugador": "NICOLAS ALTAMIRANO",
+          "entraPor": "OCTAVIO TALLARICO"
+        },
+        {
+          "jugador": "ANDRES BIRELLO",
+          "entraPor": "JOSE GRUBER"
+        },
+        {
+          "jugador": "NICOLAS COMPANYS",
+          "entraPor": "MARIANO CETTOUR"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "FRANCISCO OCCHIUZZI",
+          "tipo": "TRY",
+          "cantidad": 2
+        },
+        {
+          "jugador": "GONZALO GREGORIO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "IGNACIO TORTORELLA",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "TRY SCRUM",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "PABLO FERREIRA",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "AGUSTIN MARZIALI",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "tipo": "CONVERSION",
+          "cantidad": 4
+        }
+      ],
+      "tarjetas": []
+    },
+    {
+      "fecha": "2018-10-14",
+      "fechaNota": null,
+      "rival": "CENTRO NAVAL",
+      "condicion": "VISITANTE",
+      "resultadoPropio": 30,
+      "resultadoRival": 24,
+      "cancha": "CENTRO NAVAL",
+      "clima": "BUENO",
+      "campoDeJuego": "MUY BUENO",
+      "referee": "REINOSO",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "MATIAS TRAYNOR"
+        },
+        {
+          "numero": 3,
+          "jugador": "PABLO FERREIRA"
+        },
+        {
+          "numero": 4,
+          "jugador": "AUGUSTO GALLOTTI"
+        },
+        {
+          "numero": 5,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 6,
+          "jugador": "AGUSTIN DOMINGUEZ"
+        },
+        {
+          "numero": 7,
+          "jugador": "JOSE GRUBER"
+        },
+        {
+          "numero": 8,
+          "jugador": "IGNACIO TORTORELLA",
+          "capitan": true
+        },
+        {
+          "numero": 9,
+          "jugador": "NICOLAS COMPANYS"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN PEDRO OCCHIUZZI"
+        },
+        {
+          "numero": 11,
+          "jugador": "FEDERICO FERRARI"
+        },
+        {
+          "numero": 12,
+          "jugador": "SANTIAGO DOMINGUEZ"
+        },
+        {
+          "numero": 13,
+          "jugador": "MARIANO LIVACHOFF"
+        },
+        {
+          "numero": 14,
+          "jugador": "AGUSTIN MARZIALI"
+        },
+        {
+          "numero": 15,
+          "jugador": "GONZALO GREGORIO"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "EZEQUIEL BALESTRA",
+          "entraPor": "MATIAS TRAYNOR"
+        },
+        {
+          "jugador": "OCTAVIO TALLARICO",
+          "entraPor": "AUGUSTO GALLOTTI"
+        },
+        {
+          "jugador": "NICOLAS ALTAMIRANO",
+          "entraPor": "JOSE GRUBER"
+        },
+        {
+          "jugador": "NICOLAS MARZIALI",
+          "entraPor": "SANTIAGO DOMINGUEZ"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "AGUSTIN DOMINGUEZ",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "IGNACIO TORTORELLA",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "EZEQUIEL BALESTRA",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "tipo": "CONVERSION",
+          "cantidad": 2
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "tipo": "PENAL",
+          "cantidad": 2
+        }
+      ],
+      "tarjetas": []
+    },
+    {
+      "fecha": "2018-10-21",
+      "fechaNota": null,
+      "rival": "SAN ANDRES",
+      "condicion": "LOCAL",
+      "resultadoPropio": 19,
+      "resultadoRival": 63,
+      "cancha": "VICENTINOS",
+      "clima": "NUBLADO",
+      "campoDeJuego": "MUY BUENO",
+      "referee": "RUIBAL",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "MATIAS TRAYNOR"
+        },
+        {
+          "numero": 2,
+          "jugador": "EZEQUIEL BALESTRA"
+        },
+        {
+          "numero": 3,
+          "jugador": "PABLO FERREIRA"
+        },
+        {
+          "numero": 4,
+          "jugador": "OCTAVIO TALLARICO"
+        },
+        {
+          "numero": 5,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 6,
+          "jugador": "AGUSTIN DOMINGUEZ"
+        },
+        {
+          "numero": 7,
+          "jugador": "JOSE GRUBER"
+        },
+        {
+          "numero": 8,
+          "jugador": "IGNACIO TORTORELLA"
+        },
+        {
+          "numero": 9,
+          "jugador": "NICOLAS COMPANYS"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN PEDRO OCCHIUZZI"
+        },
+        {
+          "numero": 11,
+          "jugador": "FRANCISCO OCCHIUZZI"
+        },
+        {
+          "numero": 12,
+          "jugador": "NICOLAS MARZIALI",
+          "capitan": true
+        },
+        {
+          "numero": 13,
+          "jugador": "MARIANO LIVACHOFF"
+        },
+        {
+          "numero": 14,
+          "jugador": "AGUSTIN MARZIALI"
+        },
+        {
+          "numero": 15,
+          "jugador": "GONZALO GREGORIO"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "RODRIGO GOMEZ",
+          "entraPor": "MATIAS TRAYNOR"
+        },
+        {
+          "jugador": "JUAN PABLO BIANCHI",
+          "entraPor": "EZEQUIEL BALESTRA"
+        },
+        {
+          "jugador": "JORGE BENÍTEZ",
+          "entraPor": "PABLO FERREIRA"
+        },
+        {
+          "jugador": "NICOLAS ALTAMIRANO",
+          "entraPor": "OCTAVIO TALLARICO"
+        },
+        {
+          "jugador": "EMILIANO MANRIQUEZ",
+          "entraPor": "FRANCISCO OCCHIUZZI"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "FRANCISCO OCCHIUZZI",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "IGNACIO TORTORELLA",
+          "tipo": "TRY",
+          "cantidad": 2
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "tipo": "CONVERSION",
+          "cantidad": 2
+        }
+      ],
+      "tarjetas": []
+    },
+    {
+      "fecha": "2018-10-28",
+      "fechaNota": null,
+      "rival": "DAOM",
+      "condicion": "VISITANTE",
+      "resultadoPropio": 8,
+      "resultadoRival": 39,
+      "cancha": "DAOM",
+      "clima": "BUENO",
+      "campoDeJuego": "BUENO",
+      "referee": "HOUGHTON",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "MATIAS TRAYNOR"
+        },
+        {
+          "numero": 2,
+          "jugador": "JUAN PABLO BIANCHI"
+        },
+        {
+          "numero": 3,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 4,
+          "jugador": "OCTAVIO TALLARICO"
+        },
+        {
+          "numero": 5,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 6,
+          "jugador": "AUGUSTO GALLOTTI"
+        },
+        {
+          "numero": 7,
+          "jugador": "JOSE GRUBER"
+        },
+        {
+          "numero": 8,
+          "jugador": "IGNACIO TORTORELLA"
+        },
+        {
+          "numero": 9,
+          "jugador": "AGUSTIN TRAYNOR"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN PEDRO OCCHIUZZI"
+        },
+        {
+          "numero": 11,
+          "jugador": "EMILIANO MANRIQUEZ"
+        },
+        {
+          "numero": 12,
+          "jugador": "NICOLAS MARZIALI",
+          "capitan": true
+        },
+        {
+          "numero": 13,
+          "jugador": "MARIANO LIVACHOFF"
+        },
+        {
+          "numero": 14,
+          "jugador": "AGUSTIN MARZIALI"
+        },
+        {
+          "numero": 15,
+          "jugador": "GONZALO GREGORIO"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "MAXIMILIANO SOLIVELLAS",
+          "entraPor": "AGUSTIN MARZIALI"
+        },
+        {
+          "jugador": "PABLO FERREIRA",
+          "entraPor": "MATIAS TRAYNOR"
+        },
+        {
+          "jugador": "EZEQUIEL BALESTRA",
+          "entraPor": "RODRIGO GOMEZ"
+        },
+        {
+          "jugador": "JORGE BENÍTEZ",
+          "entraPor": "JUAN PABLO BIANCHI"
+        },
+        {
+          "jugador": "JUAN MATIAS TRAYNOR",
+          "entraPor": "MARIANO LIVACHOFF"
+        },
+        {
+          "jugador": "NICOLAS COMPANYS",
+          "entraPor": "EMILIANO MANRIQUEZ"
+        },
+        {
+          "jugador": "IVAN CARMONA",
+          "entraPor": "OCTAVIO TALLARICO"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "JOSE GRUBER",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "tipo": "PENAL",
+          "cantidad": 1
+        }
+      ],
+      "tarjetas": []
+    },
+    {
+      "fecha": "2018-11-03",
+      "fechaNota": null,
+      "rival": "GEI",
+      "condicion": "LOCAL",
+      "resultadoPropio": 43,
+      "resultadoRival": 0,
+      "cancha": "VICENTINOS",
+      "clima": "BUENO",
+      "campoDeJuego": "MUY BUENO",
+      "referee": "PIGRETTI",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "MATIAS TRAYNOR"
+        },
+        {
+          "numero": 2,
+          "jugador": "JUAN PABLO BIANCHI"
+        },
+        {
+          "numero": 3,
+          "jugador": "PABLO FERREIRA"
+        },
+        {
+          "numero": 4,
+          "jugador": "AUGUSTO GALLOTTI"
+        },
+        {
+          "numero": 5,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 6,
+          "jugador": "NICOLAS DOMINGUEZ"
+        },
+        {
+          "numero": 7,
+          "jugador": "JOSE GRUBER"
+        },
+        {
+          "numero": 8,
+          "jugador": "IGNACIO TORTORELLA"
+        },
+        {
+          "numero": 9,
+          "jugador": "AGUSTIN TRAYNOR"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN PEDRO OCCHIUZZI"
+        },
+        {
+          "numero": 11,
+          "jugador": "FRANCISCO OCCHIUZZI"
+        },
+        {
+          "numero": 12,
+          "jugador": "NICOLAS MARZIALI",
+          "capitan": true
+        },
+        {
+          "numero": 13,
+          "jugador": "MARIANO LIVACHOFF"
+        },
+        {
+          "numero": 14,
+          "jugador": "AGUSTIN MARZIALI"
+        },
+        {
+          "numero": 15,
+          "jugador": "GONZALO GREGORIO"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "JORGE BENÍTEZ",
+          "entraPor": "MATIAS TRAYNOR"
+        },
+        {
+          "jugador": "EZEQUIEL BALESTRA",
+          "entraPor": "JUAN PABLO BIANCHI"
+        },
+        {
+          "jugador": "RODRIGO GOMEZ",
+          "entraPor": "PABLO FERREIRA"
+        },
+        {
+          "jugador": "OCTAVIO TALLARICO",
+          "entraPor": "AUGUSTO GALLOTTI"
+        },
+        {
+          "jugador": "MATIAS ALTAMIRANO",
+          "entraPor": "JUAN PEDRO OCCHIUZZI"
+        },
+        {
+          "jugador": "JUAN MATIAS TRAYNOR",
+          "entraPor": "NICOLAS MARZIALI"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "IGNACIO TORTORELLA",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "MATIAS TRAYNOR",
+          "tipo": "TRY",
+          "cantidad": 2
+        },
+        {
+          "jugador": "FRANCISCO OCCHIUZZI",
+          "tipo": "TRY",
+          "cantidad": 2
+        },
+        {
+          "jugador": "MARIANO LIVACHOFF",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "TRY SCRUM",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "tipo": "CONVERSION",
+          "cantidad": 3
+        },
+        {
+          "jugador": "MATIAS ALTAMIRANO",
+          "tipo": "CONVERSION",
+          "cantidad": 1
+        }
+      ],
+      "tarjetas": []
+    },
+    {
+      "fecha": "2018-11-10",
+      "fechaNota": null,
+      "rival": "CASA DE PADUA",
+      "condicion": "VISITANTE",
+      "resultadoPropio": 16,
+      "resultadoRival": 22,
+      "cancha": "CASA DE PADUA",
+      "clima": "LLUVIOSO",
+      "campoDeJuego": "PESADO",
+      "referee": "FERNANDEZ SALCEDO",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "JORGE BENÍTEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "JUAN PABLO BIANCHI"
+        },
+        {
+          "numero": 3,
+          "jugador": "MATIAS TRAYNOR"
+        },
+        {
+          "numero": 4,
+          "jugador": "AUGUSTO GALLOTTI"
+        },
+        {
+          "numero": 5,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 6,
+          "jugador": "NICOLAS DOMINGUEZ"
+        },
+        {
+          "numero": 7,
+          "jugador": "JOSE GRUBER"
+        },
+        {
+          "numero": 8,
+          "jugador": "IGNACIO TORTORELLA"
+        },
+        {
+          "numero": 9,
+          "jugador": "AGUSTIN TRAYNOR"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN PEDRO OCCHIUZZI"
+        },
+        {
+          "numero": 11,
+          "jugador": "FRANCISCO OCCHIUZZI"
+        },
+        {
+          "numero": 12,
+          "jugador": "NICOLAS MARZIALI",
+          "capitan": true
+        },
+        {
+          "numero": 13,
+          "jugador": "MARIANO LIVACHOFF"
+        },
+        {
+          "numero": 14,
+          "jugador": "AGUSTIN MARZIALI"
+        },
+        {
+          "numero": 15,
+          "jugador": "GONZALO GREGORIO"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "OCTAVIO TALLARICO",
+          "entraPor": "AUGUSTO GALLOTTI"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "AGUSTIN MARZIALI",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "FRANCISCO COMABELLA",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "tipo": "PENAL",
+          "cantidad": 2
+        }
+      ],
+      "tarjetas": []
+    }
+  ]
+}

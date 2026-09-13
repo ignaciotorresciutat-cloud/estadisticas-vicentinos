@@ -4,17 +4,20 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
-    "build": "prisma generate && next build --webpack",
+    "build": "npm run db:build && prisma generate && next build --webpack",
     "start": "next start",
     "lint": "eslint",
+    "db:build": "node --import tsx scripts/db-build.ts",
+    "db:verificar": "node --import tsx scripts/db-verificar.ts",
+    "db:export": "node --import tsx scripts/db-export.ts",
+    "db:comparar": "node --import tsx scripts/db-comparar.ts prisma/dev.db.bak prisma/dev.db",
     "prisma:generate": "prisma generate",
     "prisma:migrate": "prisma migrate dev",
     "prisma:studio": "prisma studio",
-    "migrate:excel": "node --import tsx scripts/migrate.ts",
-    "seed:temporadas-info": "node --import tsx scripts/seed-temporadas-info.ts",
-    "corregir:resultados": "node --import tsx scripts/aplicar-correcciones-resultado.ts",
-    "corregir:participaciones": "node --import tsx scripts/aplicar-correcciones-participacion.ts",
-    "analizar:resultados": "node --import tsx scripts/analyze-resultados.ts"
+    "archivo:migrate-excel": "node --import tsx scripts/migrate.ts",
+    "archivo:corregir-resultados": "node --import tsx scripts/aplicar-correcciones-resultado.ts",
+    "archivo:corregir-participaciones": "node --import tsx scripts/aplicar-correcciones-participacion.ts",
+    "archivo:analizar-resultados": "node --import tsx scripts/analyze-resultados.ts"
   },
   "dependencies": {
     "@prisma/adapter-better-sqlite3": "^7.10.0",
@@ -27,6 +30,7 @@
   "devDependencies": {
     "@eslint/eslintrc": "^3",
     "@tailwindcss/postcss": "4.3.3",
+    "@types/better-sqlite3": "^9.6.0",
     "@types/node": "^24",
     "@types/react": "^19",
     "@types/react-dom": "^19",

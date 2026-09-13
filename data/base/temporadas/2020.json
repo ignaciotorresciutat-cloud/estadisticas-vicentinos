@@ -1,0 +1,13 @@
+{
+  "temporada": 2020,
+  "info": {
+    "torneo": null,
+    "posicion": null,
+    "rankingUrba": null,
+    "campeon": false,
+    "ascenso": false,
+    "descenso": false,
+    "nota": "Pandemia"
+  },
+  "partidos": []
+}

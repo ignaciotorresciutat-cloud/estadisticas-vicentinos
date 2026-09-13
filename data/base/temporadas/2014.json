@@ -1,0 +1,2710 @@
+{
+  "temporada": 2014,
+  "info": {
+    "torneo": "Grupo IV",
+    "posicion": null,
+    "rankingUrba": 59,
+    "campeon": false,
+    "ascenso": true,
+    "descenso": false,
+    "nota": null
+  },
+  "partidos": [
+    {
+      "fecha": "2014-04-05",
+      "fechaNota": null,
+      "rival": "SAN JOSE",
+      "condicion": "VISITANTE",
+      "resultadoPropio": 15,
+      "resultadoRival": 8,
+      "cancha": "SAN JOSE",
+      "clima": "LLUVIOSO",
+      "campoDeJuego": "BARROSO",
+      "referee": "GALAN",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "MATIAS BOCO"
+        },
+        {
+          "numero": 3,
+          "jugador": "PABLO FERREIRA",
+          "capitan": true
+        },
+        {
+          "numero": 4,
+          "jugador": "MARTIN APOLO"
+        },
+        {
+          "numero": 5,
+          "jugador": "OCTAVIO TALLARICO"
+        },
+        {
+          "numero": 6,
+          "jugador": "EZEQUIEL BALESTRA"
+        },
+        {
+          "numero": 7,
+          "jugador": "NICOLAS ALTAMIRANO"
+        },
+        {
+          "numero": 8,
+          "jugador": "AGUSTIN DOMINGUEZ"
+        },
+        {
+          "numero": 9,
+          "jugador": "MARIANO CETTOUR"
+        },
+        {
+          "numero": 10,
+          "jugador": "NICOLAS MARZIALI"
+        },
+        {
+          "numero": 11,
+          "jugador": "MANUEL ALTAMIRANO"
+        },
+        {
+          "numero": 12,
+          "jugador": "SANTIAGO DOMINGUEZ"
+        },
+        {
+          "numero": 13,
+          "jugador": "MARIANO LIVACHOFF"
+        },
+        {
+          "numero": 14,
+          "jugador": "AGUSTIN MARZIALI"
+        },
+        {
+          "numero": 15,
+          "jugador": "GUIDO LIVACHOFF"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "IGNACIO TORTORELLA",
+          "entraPor": "NICOLAS ALTAMIRANO"
+        },
+        {
+          "jugador": "MAXIMILIANO SOLIVELLAS",
+          "entraPor": "SANTIAGO DOMINGUEZ"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "GUIDO LIVACHOFF",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "NICOLAS MARZIALI",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "MARIANO LIVACHOFF",
+          "tipo": "CONVERSION",
+          "cantidad": 1
+        },
+        {
+          "jugador": "MARIANO LIVACHOFF",
+          "tipo": "PENAL",
+          "cantidad": 1
+        }
+      ],
+      "tarjetas": [
+        {
+          "jugador": "MARIANO CETTOUR",
+          "tipo": "AMARILLA"
+        }
+      ]
+    },
+    {
+      "fecha": "2014-04-12",
+      "fechaNota": null,
+      "rival": "ATLETICO CHASCOMUS",
+      "condicion": "VISITANTE",
+      "resultadoPropio": 11,
+      "resultadoRival": 8,
+      "cancha": "LOS MATREROS",
+      "clima": "MUY VENTOSO",
+      "campoDeJuego": "BUENO",
+      "referee": "SALA",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "MATIAS BOCO"
+        },
+        {
+          "numero": 3,
+          "jugador": "PABLO FERREIRA",
+          "capitan": true
+        },
+        {
+          "numero": 4,
+          "jugador": "MARTIN APOLO"
+        },
+        {
+          "numero": 5,
+          "jugador": "OCTAVIO TALLARICO"
+        },
+        {
+          "numero": 6,
+          "jugador": "EZEQUIEL BALESTRA"
+        },
+        {
+          "numero": 7,
+          "jugador": "NICOLAS ALTAMIRANO"
+        },
+        {
+          "numero": 8,
+          "jugador": "AGUSTIN DOMINGUEZ"
+        },
+        {
+          "numero": 9,
+          "jugador": "MARIANO CETTOUR"
+        },
+        {
+          "numero": 10,
+          "jugador": "NICOLAS MARZIALI"
+        },
+        {
+          "numero": 11,
+          "jugador": "MANUEL ALTAMIRANO"
+        },
+        {
+          "numero": 12,
+          "jugador": "SANTIAGO DOMINGUEZ"
+        },
+        {
+          "numero": 13,
+          "jugador": "MARIANO LIVACHOFF"
+        },
+        {
+          "numero": 14,
+          "jugador": "AGUSTIN MARZIALI"
+        },
+        {
+          "numero": 15,
+          "jugador": "GUIDO LIVACHOFF"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "IGNACIO TORTORELLA",
+          "entraPor": "OCTAVIO TALLARICO"
+        },
+        {
+          "jugador": "MAXIMILIANO SOLIVELLAS",
+          "entraPor": "MARIANO CETTOUR"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "AGUSTIN DOMINGUEZ",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "MARIANO LIVACHOFF",
+          "tipo": "PENAL",
+          "cantidad": 2
+        }
+      ],
+      "tarjetas": [
+        {
+          "jugador": "SANTIAGO DOMINGUEZ",
+          "tipo": "AMARILLA"
+        }
+      ]
+    },
+    {
+      "fecha": "2014-04-26",
+      "fechaNota": null,
+      "rival": "PORTEÑO",
+      "condicion": "VISITANTE",
+      "resultadoPropio": 65,
+      "resultadoRival": 10,
+      "cancha": "PORTEÑO",
+      "clima": "BUENO",
+      "campoDeJuego": "BUENO",
+      "referee": "RUFFINI",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "PABLO FERREIRA",
+          "capitan": true
+        },
+        {
+          "numero": 3,
+          "jugador": "JUAN JOSE MONEA"
+        },
+        {
+          "numero": 4,
+          "jugador": "EZEQUIEL BALESTRA"
+        },
+        {
+          "numero": 5,
+          "jugador": "SANTIAGO DIAZ"
+        },
+        {
+          "numero": 6,
+          "jugador": "NICOLAS ALTAMIRANO"
+        },
+        {
+          "numero": 7,
+          "jugador": "IGNACIO TORTORELLA"
+        },
+        {
+          "numero": 8,
+          "jugador": "AGUSTIN DOMINGUEZ"
+        },
+        {
+          "numero": 9,
+          "jugador": "MARIANO CETTOUR"
+        },
+        {
+          "numero": 10,
+          "jugador": "NICOLAS MARZIALI"
+        },
+        {
+          "numero": 11,
+          "jugador": "MANUEL ALTAMIRANO"
+        },
+        {
+          "numero": 12,
+          "jugador": "SANTIAGO DOMINGUEZ"
+        },
+        {
+          "numero": 13,
+          "jugador": "MARIANO LIVACHOFF"
+        },
+        {
+          "numero": 14,
+          "jugador": "AGUSTIN MARZIALI"
+        },
+        {
+          "numero": 15,
+          "jugador": "JOSE GRUBER"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "MATIAS BOCO",
+          "entraPor": "JUAN JOSE MONEA"
+        },
+        {
+          "jugador": "MARTIN APOLO",
+          "entraPor": "SANTIAGO DIAZ"
+        },
+        {
+          "jugador": "MAXIMILIANO SOLIVELLAS",
+          "entraPor": "AGUSTIN MARZIALI"
+        },
+        {
+          "jugador": "MATIAS HERNANDO",
+          "entraPor": "AGUSTIN DOMINGUEZ"
+        },
+        {
+          "jugador": "NICOLAS DOMINGUEZ",
+          "entraPor": "SANTIAGO DOMINGUEZ"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "AGUSTIN DOMINGUEZ",
+          "tipo": "TRY",
+          "cantidad": 2
+        },
+        {
+          "jugador": "MANUEL ALTAMIRANO",
+          "tipo": "TRY",
+          "cantidad": 2
+        },
+        {
+          "jugador": "AGUSTIN MARZIALI",
+          "tipo": "TRY",
+          "cantidad": 2
+        },
+        {
+          "jugador": "IGNACIO TORTORELLA",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "MARIANO CETTOUR",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "MARIANO LIVACHOFF",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "PABLO FERREIRA",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "MARIANO LIVACHOFF",
+          "tipo": "CONVERSION",
+          "cantidad": 6
+        },
+        {
+          "jugador": "MARIANO LIVACHOFF",
+          "tipo": "PENAL",
+          "cantidad": 1
+        }
+      ],
+      "tarjetas": []
+    },
+    {
+      "fecha": "2014-05-03",
+      "fechaNota": null,
+      "rival": "TF BARADERO",
+      "condicion": "VISITANTE",
+      "resultadoPropio": 36,
+      "resultadoRival": 29,
+      "cancha": "LOS MATREROS",
+      "clima": "NUBLADO",
+      "campoDeJuego": "BUENO",
+      "referee": "ALBERRO",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "PABLO FERREIRA",
+          "capitan": true
+        },
+        {
+          "numero": 3,
+          "jugador": "JUAN JOSE MONEA"
+        },
+        {
+          "numero": 4,
+          "jugador": "EZEQUIEL BALESTRA"
+        },
+        {
+          "numero": 5,
+          "jugador": "MARTIN APOLO"
+        },
+        {
+          "numero": 6,
+          "jugador": "NICOLAS ALTAMIRANO"
+        },
+        {
+          "numero": 7,
+          "jugador": "IGNACIO TORTORELLA"
+        },
+        {
+          "numero": 8,
+          "jugador": "AGUSTIN DOMINGUEZ"
+        },
+        {
+          "numero": 9,
+          "jugador": "MARIANO CETTOUR"
+        },
+        {
+          "numero": 10,
+          "jugador": "NICOLAS MARZIALI"
+        },
+        {
+          "numero": 11,
+          "jugador": "MAXIMILIANO SOLIVELLAS"
+        },
+        {
+          "numero": 12,
+          "jugador": "SANTIAGO DOMINGUEZ"
+        },
+        {
+          "numero": 13,
+          "jugador": "MARIANO LIVACHOFF"
+        },
+        {
+          "numero": 14,
+          "jugador": "AGUSTIN MARZIALI"
+        },
+        {
+          "numero": 15,
+          "jugador": "MANUEL ALTAMIRANO"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "JORGE SEIB",
+          "entraPor": "JUAN JOSE MONEA"
+        },
+        {
+          "jugador": "SANTIAGO DIAZ",
+          "entraPor": "EZEQUIEL BALESTRA"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "RODRIGO GOMEZ",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "MANUEL ALTAMIRANO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "MAXIMILIANO SOLIVELLAS",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "IGNACIO TORTORELLA",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "MARIANO CETTOUR",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "MARIANO LIVACHOFF",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "MARIANO LIVACHOFF",
+          "tipo": "CONVERSION",
+          "cantidad": 3
+        }
+      ],
+      "tarjetas": [
+        {
+          "jugador": "EZEQUIEL BALESTRA",
+          "tipo": "AMARILLA"
+        },
+        {
+          "jugador": "MAXIMILIANO SOLIVELLAS",
+          "tipo": "AMARILLA"
+        },
+        {
+          "jugador": "JORGE SEIB",
+          "tipo": "AMARILLA"
+        }
+      ]
+    },
+    {
+      "fecha": "2014-05-10",
+      "fechaNota": null,
+      "rival": "EZEIZA",
+      "condicion": "VISITANTE",
+      "resultadoPropio": 80,
+      "resultadoRival": 0,
+      "cancha": "LOS MATREROS",
+      "clima": "BUENO",
+      "campoDeJuego": "BUENO",
+      "referee": "OPPENHEIMER",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "MATIAS BOCO"
+        },
+        {
+          "numero": 3,
+          "jugador": "PABLO FERREIRA",
+          "capitan": true
+        },
+        {
+          "numero": 4,
+          "jugador": "EZEQUIEL BALESTRA"
+        },
+        {
+          "numero": 5,
+          "jugador": "MARTIN APOLO"
+        },
+        {
+          "numero": 6,
+          "jugador": "NICOLAS ALTAMIRANO"
+        },
+        {
+          "numero": 7,
+          "jugador": "IGNACIO TORTORELLA"
+        },
+        {
+          "numero": 8,
+          "jugador": "AGUSTIN DOMINGUEZ"
+        },
+        {
+          "numero": 9,
+          "jugador": "MARIANO CETTOUR"
+        },
+        {
+          "numero": 10,
+          "jugador": "NICOLAS MARZIALI"
+        },
+        {
+          "numero": 11,
+          "jugador": "MAXIMILIANO SOLIVELLAS"
+        },
+        {
+          "numero": 12,
+          "jugador": "AGUSTIN MARZIALI"
+        },
+        {
+          "numero": 13,
+          "jugador": "MARIANO LIVACHOFF"
+        },
+        {
+          "numero": 14,
+          "jugador": "NICOLAS CUPO"
+        },
+        {
+          "numero": 15,
+          "jugador": "MANUEL ALTAMIRANO"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "JUAN JOSE MONEA",
+          "entraPor": "PABLO FERREIRA"
+        },
+        {
+          "jugador": "SANTIAGO DIAZ",
+          "entraPor": "EZEQUIEL BALESTRA"
+        },
+        {
+          "jugador": "MATIAS HERNANDO",
+          "entraPor": "IGNACIO TORTORELLA"
+        },
+        {
+          "jugador": "LUCIANO JAR",
+          "entraPor": "MAXIMILIANO SOLIVELLAS"
+        },
+        {
+          "jugador": "MATIAS TRAYNOR",
+          "entraPor": "RODRIGO GOMEZ"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "MAXIMILIANO SOLIVELLAS",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "MANUEL ALTAMIRANO",
+          "tipo": "TRY",
+          "cantidad": 4
+        },
+        {
+          "jugador": "MATIAS BOCO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "AGUSTIN MARZIALI",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "NICOLAS ALTAMIRANO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "IGNACIO TORTORELLA",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "MARIANO CETTOUR",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "MARIANO LIVACHOFF",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "AGUSTIN DOMINGUEZ",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "MARIANO LIVACHOFF",
+          "tipo": "CONVERSION",
+          "cantidad": 10
+        }
+      ],
+      "tarjetas": []
+    },
+    {
+      "fecha": "2014-05-17",
+      "fechaNota": null,
+      "rival": "DEF.DE GLEW",
+      "condicion": "VISITANTE",
+      "resultadoPropio": 62,
+      "resultadoRival": 0,
+      "cancha": "LOS MATREROS",
+      "clima": "BUENO",
+      "campoDeJuego": "BUENO",
+      "referee": "PARDINI",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "MATIAS BOCO"
+        },
+        {
+          "numero": 3,
+          "jugador": "JUAN JOSE MONEA"
+        },
+        {
+          "numero": 4,
+          "jugador": "EZEQUIEL BALESTRA"
+        },
+        {
+          "numero": 5,
+          "jugador": "MARTIN APOLO"
+        },
+        {
+          "numero": 6,
+          "jugador": "NICOLAS ALTAMIRANO"
+        },
+        {
+          "numero": 7,
+          "jugador": "IGNACIO TORTORELLA"
+        },
+        {
+          "numero": 8,
+          "jugador": "AGUSTIN DOMINGUEZ"
+        },
+        {
+          "numero": 9,
+          "jugador": "MARIANO CETTOUR"
+        },
+        {
+          "numero": 10,
+          "jugador": "NICOLAS MARZIALI"
+        },
+        {
+          "numero": 11,
+          "jugador": "MAXIMILIANO SOLIVELLAS"
+        },
+        {
+          "numero": 12,
+          "jugador": "AGUSTIN MARZIALI"
+        },
+        {
+          "numero": 13,
+          "jugador": "MARIANO LIVACHOFF"
+        },
+        {
+          "numero": 14,
+          "jugador": "NICOLAS CUPO"
+        },
+        {
+          "numero": 15,
+          "jugador": "MANUEL ALTAMIRANO"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "MATIAS TRAYNOR",
+          "entraPor": "JUAN JOSE MONEA"
+        },
+        {
+          "jugador": "SANTIAGO DIAZ",
+          "entraPor": "MARTIN APOLO"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "MAXIMILIANO SOLIVELLAS",
+          "tipo": "TRY",
+          "cantidad": 2
+        },
+        {
+          "jugador": "MANUEL ALTAMIRANO",
+          "tipo": "TRY",
+          "cantidad": 3
+        },
+        {
+          "jugador": "MARTIN APOLO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "AGUSTIN MARZIALI",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "IGNACIO TORTORELLA",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "MARIANO LIVACHOFF",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "MARIANO LIVACHOFF",
+          "tipo": "CONVERSION",
+          "cantidad": 7
+        },
+        {
+          "jugador": "MARIANO LIVACHOFF",
+          "tipo": "PENAL",
+          "cantidad": 1
+        }
+      ],
+      "tarjetas": []
+    },
+    {
+      "fecha": "2014-05-31",
+      "fechaNota": null,
+      "rival": "FLORESTA",
+      "condicion": "VISITANTE",
+      "resultadoPropio": 105,
+      "resultadoRival": 5,
+      "cancha": "CLUB ITALIANO",
+      "clima": "NUBLADO",
+      "campoDeJuego": "REGULAR",
+      "referee": "BARBERO",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "JUAN JOSE MONEA"
+        },
+        {
+          "numero": 2,
+          "jugador": "MATIAS BOCO"
+        },
+        {
+          "numero": 3,
+          "jugador": "PABLO FERREIRA"
+        },
+        {
+          "numero": 4,
+          "jugador": "EZEQUIEL BALESTRA"
+        },
+        {
+          "numero": 5,
+          "jugador": "MARTIN APOLO"
+        },
+        {
+          "numero": 6,
+          "jugador": "NICOLAS ALTAMIRANO"
+        },
+        {
+          "numero": 7,
+          "jugador": "IGNACIO TORTORELLA"
+        },
+        {
+          "numero": 8,
+          "jugador": "AGUSTIN DOMINGUEZ"
+        },
+        {
+          "numero": 9,
+          "jugador": "MARIANO CETTOUR"
+        },
+        {
+          "numero": 10,
+          "jugador": "NICOLAS MARZIALI"
+        },
+        {
+          "numero": 11,
+          "jugador": "MAXIMILIANO SOLIVELLAS"
+        },
+        {
+          "numero": 12,
+          "jugador": "SANTIAGO DOMINGUEZ"
+        },
+        {
+          "numero": 13,
+          "jugador": "MARIANO LIVACHOFF"
+        },
+        {
+          "numero": 14,
+          "jugador": "NICOLAS CUPO"
+        },
+        {
+          "numero": 15,
+          "jugador": "MANUEL ALTAMIRANO"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "RODRIGO GOMEZ",
+          "entraPor": "JUAN JOSE MONEA"
+        },
+        {
+          "jugador": "LUCIANO JAR",
+          "entraPor": "NICOLAS CUPO"
+        },
+        {
+          "jugador": "NICOLAS DOMINGUEZ",
+          "entraPor": "SANTIAGO DOMINGUEZ"
+        },
+        {
+          "jugador": "SANTIAGO DIAZ",
+          "entraPor": "NICOLAS ALTAMIRANO"
+        },
+        {
+          "jugador": "MATIAS HERNANDO",
+          "entraPor": "IGNACIO TORTORELLA"
+        },
+        {
+          "jugador": "MATIAS TRAYNOR",
+          "entraPor": "MATIAS BOCO"
+        },
+        {
+          "jugador": "WALTER PRETZ",
+          "entraPor": "EZEQUIEL BALESTRA"
+        },
+        {
+          "jugador": "GONZALO MARTINEZ",
+          "entraPor": "NICOLAS MARZIALI"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "MAXIMILIANO SOLIVELLAS",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "MANUEL ALTAMIRANO",
+          "tipo": "TRY",
+          "cantidad": 2
+        },
+        {
+          "jugador": "MARTIN APOLO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "MATIAS TRAYNOR",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "IGNACIO TORTORELLA",
+          "tipo": "TRY",
+          "cantidad": 2
+        },
+        {
+          "jugador": "MARIANO LIVACHOFF",
+          "tipo": "TRY",
+          "cantidad": 2
+        },
+        {
+          "jugador": "RODRIGO GOMEZ",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "PABLO FERREIRA",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "LUCIANO JAR",
+          "tipo": "TRY",
+          "cantidad": 4
+        },
+        {
+          "jugador": "SANTIAGO DOMINGUEZ",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "AGUSTIN DOMINGUEZ",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "MARIANO LIVACHOFF",
+          "tipo": "CONVERSION",
+          "cantidad": 10
+        }
+      ],
+      "tarjetas": []
+    },
+    {
+      "fecha": "2014-06-08",
+      "fechaNota": null,
+      "rival": "BERAZATEGUI",
+      "condicion": "VISITANTE",
+      "resultadoPropio": 88,
+      "resultadoRival": 10,
+      "cancha": "LOS MATREROS",
+      "clima": "BUENO",
+      "campoDeJuego": "REGULAR",
+      "referee": "NAVARRO",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "MATIAS BOCO"
+        },
+        {
+          "numero": 3,
+          "jugador": "PABLO FERREIRA"
+        },
+        {
+          "numero": 4,
+          "jugador": "EZEQUIEL BALESTRA"
+        },
+        {
+          "numero": 5,
+          "jugador": "MARTIN APOLO"
+        },
+        {
+          "numero": 6,
+          "jugador": "NICOLAS ALTAMIRANO"
+        },
+        {
+          "numero": 7,
+          "jugador": "IGNACIO TORTORELLA"
+        },
+        {
+          "numero": 8,
+          "jugador": "AGUSTIN DOMINGUEZ"
+        },
+        {
+          "numero": 9,
+          "jugador": "MARIANO CETTOUR"
+        },
+        {
+          "numero": 10,
+          "jugador": "NICOLAS MARZIALI"
+        },
+        {
+          "numero": 11,
+          "jugador": "MAXIMILIANO SOLIVELLAS"
+        },
+        {
+          "numero": 12,
+          "jugador": "SANTIAGO DOMINGUEZ"
+        },
+        {
+          "numero": 13,
+          "jugador": "MARIANO LIVACHOFF"
+        },
+        {
+          "numero": 14,
+          "jugador": "LUCIANO JAR"
+        },
+        {
+          "numero": 15,
+          "jugador": "MANUEL ALTAMIRANO"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "SANTIAGO DIAZ",
+          "entraPor": "IGNACIO TORTORELLA"
+        },
+        {
+          "jugador": "MATIAS TRAYNOR",
+          "entraPor": "MATIAS BOCO"
+        },
+        {
+          "jugador": "NICOLAS DOMINGUEZ",
+          "entraPor": "MARIANO LIVACHOFF"
+        },
+        {
+          "jugador": "WALTER PRETZ",
+          "entraPor": "MARTIN APOLO"
+        },
+        {
+          "jugador": "MATIAS HERNANDO",
+          "entraPor": "AGUSTIN DOMINGUEZ"
+        },
+        {
+          "jugador": "NICOLAS CUPO",
+          "entraPor": "LUCIANO JAR"
+        },
+        {
+          "jugador": "JORGE SEIB",
+          "entraPor": "RODRIGO GOMEZ"
+        },
+        {
+          "jugador": "GONZALO MARTINEZ",
+          "entraPor": "MARIANO CETTOUR"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "MAXIMILIANO SOLIVELLAS",
+          "tipo": "TRY",
+          "cantidad": 2
+        },
+        {
+          "jugador": "MANUEL ALTAMIRANO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "IGNACIO TORTORELLA",
+          "tipo": "TRY",
+          "cantidad": 2
+        },
+        {
+          "jugador": "MARIANO LIVACHOFF",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "MARIANO CETTOUR",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "PABLO FERREIRA",
+          "tipo": "TRY",
+          "cantidad": 3
+        },
+        {
+          "jugador": "LUCIANO JAR",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO DOMINGUEZ",
+          "tipo": "TRY",
+          "cantidad": 3
+        },
+        {
+          "jugador": "MARIANO LIVACHOFF",
+          "tipo": "CONVERSION",
+          "cantidad": 9
+        }
+      ],
+      "tarjetas": []
+    },
+    {
+      "fecha": "2014-06-15",
+      "fechaNota": null,
+      "rival": "LOS PINOS",
+      "condicion": "VISITANTE",
+      "resultadoPropio": 80,
+      "resultadoRival": 5,
+      "cancha": "LOS PINOS",
+      "clima": "NUBLADO",
+      "campoDeJuego": "REGULAR",
+      "referee": "FRANK",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "MATIAS BOCO"
+        },
+        {
+          "numero": 3,
+          "jugador": "PABLO FERREIRA"
+        },
+        {
+          "numero": 4,
+          "jugador": "EZEQUIEL BALESTRA"
+        },
+        {
+          "numero": 5,
+          "jugador": "MARTIN APOLO"
+        },
+        {
+          "numero": 6,
+          "jugador": "NICOLAS ALTAMIRANO"
+        },
+        {
+          "numero": 7,
+          "jugador": "IGNACIO TORTORELLA"
+        },
+        {
+          "numero": 8,
+          "jugador": "AGUSTIN DOMINGUEZ"
+        },
+        {
+          "numero": 9,
+          "jugador": "MARIANO CETTOUR"
+        },
+        {
+          "numero": 10,
+          "jugador": "NICOLAS MARZIALI"
+        },
+        {
+          "numero": 11,
+          "jugador": "MAXIMILIANO SOLIVELLAS"
+        },
+        {
+          "numero": 12,
+          "jugador": "SANTIAGO DOMINGUEZ"
+        },
+        {
+          "numero": 13,
+          "jugador": "MARIANO LIVACHOFF"
+        },
+        {
+          "numero": 14,
+          "jugador": "LUCIANO JAR"
+        },
+        {
+          "numero": 15,
+          "jugador": "MANUEL ALTAMIRANO"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "SANTIAGO DIAZ",
+          "entraPor": "EZEQUIEL BALESTRA"
+        },
+        {
+          "jugador": "MATIAS TRAYNOR",
+          "entraPor": "MATIAS BOCO"
+        },
+        {
+          "jugador": "GONZALO MARTINEZ",
+          "entraPor": "MARIANO LIVACHOFF"
+        },
+        {
+          "jugador": "NICOLAS CUPO",
+          "entraPor": "LUCIANO JAR"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "MAXIMILIANO SOLIVELLAS",
+          "tipo": "TRY",
+          "cantidad": 2
+        },
+        {
+          "jugador": "MANUEL ALTAMIRANO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "IGNACIO TORTORELLA",
+          "tipo": "TRY",
+          "cantidad": 2
+        },
+        {
+          "jugador": "MARIANO LIVACHOFF",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "MARIANO CETTOUR",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "PABLO FERREIRA",
+          "tipo": "TRY",
+          "cantidad": 2
+        },
+        {
+          "jugador": "RODRIGO GOMEZ",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO DOMINGUEZ",
+          "tipo": "TRY",
+          "cantidad": 2
+        },
+        {
+          "jugador": "NICOLAS MARZIALI",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "TRY PENAL",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO DOMINGUEZ",
+          "tipo": "CONVERSION",
+          "cantidad": 5
+        }
+      ],
+      "tarjetas": []
+    },
+    {
+      "fecha": "2014-06-20",
+      "fechaNota": null,
+      "rival": "OBRAS SANITARIAS",
+      "condicion": "VISITANTE",
+      "resultadoPropio": 58,
+      "resultadoRival": 0,
+      "cancha": "LOS MATREROS",
+      "clima": "BUENO",
+      "campoDeJuego": "BUENO",
+      "referee": "JAPAS",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "MATIAS BOCO"
+        },
+        {
+          "numero": 3,
+          "jugador": "PABLO FERREIRA"
+        },
+        {
+          "numero": 4,
+          "jugador": "EZEQUIEL BALESTRA"
+        },
+        {
+          "numero": 5,
+          "jugador": "MARTIN APOLO"
+        },
+        {
+          "numero": 6,
+          "jugador": "NICOLAS ALTAMIRANO"
+        },
+        {
+          "numero": 7,
+          "jugador": "IGNACIO TORTORELLA"
+        },
+        {
+          "numero": 8,
+          "jugador": "AGUSTIN DOMINGUEZ"
+        },
+        {
+          "numero": 9,
+          "jugador": "MARIANO CETTOUR"
+        },
+        {
+          "numero": 10,
+          "jugador": "NICOLAS MARZIALI"
+        },
+        {
+          "numero": 11,
+          "jugador": "MAXIMILIANO SOLIVELLAS"
+        },
+        {
+          "numero": 12,
+          "jugador": "SANTIAGO DOMINGUEZ"
+        },
+        {
+          "numero": 13,
+          "jugador": "MARIANO LIVACHOFF"
+        },
+        {
+          "numero": 14,
+          "jugador": "AGUSTIN MARZIALI"
+        },
+        {
+          "numero": 15,
+          "jugador": "MANUEL ALTAMIRANO"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "LUCIANO JAR",
+          "entraPor": "SANTIAGO DOMINGUEZ"
+        },
+        {
+          "jugador": "JUAN JOSE MONEA",
+          "entraPor": "RODRIGO GOMEZ"
+        },
+        {
+          "jugador": "SANTIAGO DIAZ",
+          "entraPor": "PABLO FERREIRA"
+        },
+        {
+          "jugador": "WALTER PRETZ",
+          "entraPor": "IGNACIO TORTORELLA"
+        },
+        {
+          "jugador": "JORGE SEIB",
+          "entraPor": "JUAN JOSE MONEA"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "MAXIMILIANO SOLIVELLAS",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "MANUEL ALTAMIRANO",
+          "tipo": "TRY",
+          "cantidad": 2
+        },
+        {
+          "jugador": "IGNACIO TORTORELLA",
+          "tipo": "TRY",
+          "cantidad": 2
+        },
+        {
+          "jugador": "MARIANO LIVACHOFF",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "EZEQUIEL BALESTRA",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "AGUSTIN DOMINGUEZ",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO DOMINGUEZ",
+          "tipo": "TRY",
+          "cantidad": 2
+        },
+        {
+          "jugador": "SANTIAGO DOMINGUEZ",
+          "tipo": "CONVERSION",
+          "cantidad": 4
+        }
+      ],
+      "tarjetas": []
+    },
+    {
+      "fecha": "2014-07-12",
+      "fechaNota": null,
+      "rival": "ARECO",
+      "condicion": "VISITANTE",
+      "resultadoPropio": 13,
+      "resultadoRival": 13,
+      "cancha": "ARECO",
+      "clima": "LLUVIOSO",
+      "campoDeJuego": "BUENO CON MUCHA AGUA",
+      "referee": "RUFFINI",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "MATIAS BOCO"
+        },
+        {
+          "numero": 3,
+          "jugador": "PABLO FERREIRA"
+        },
+        {
+          "numero": 4,
+          "jugador": "EZEQUIEL BALESTRA"
+        },
+        {
+          "numero": 5,
+          "jugador": "MARTIN APOLO"
+        },
+        {
+          "numero": 6,
+          "jugador": "NICOLAS ALTAMIRANO"
+        },
+        {
+          "numero": 7,
+          "jugador": "IGNACIO TORTORELLA"
+        },
+        {
+          "numero": 8,
+          "jugador": "AGUSTIN DOMINGUEZ"
+        },
+        {
+          "numero": 9,
+          "jugador": "MARIANO CETTOUR"
+        },
+        {
+          "numero": 10,
+          "jugador": "NICOLAS MARZIALI"
+        },
+        {
+          "numero": 11,
+          "jugador": "MAXIMILIANO SOLIVELLAS"
+        },
+        {
+          "numero": 12,
+          "jugador": "AGUSTIN MARZIALI"
+        },
+        {
+          "numero": 13,
+          "jugador": "MARIANO LIVACHOFF"
+        },
+        {
+          "numero": 14,
+          "jugador": "LUCIANO JAR"
+        },
+        {
+          "numero": 15,
+          "jugador": "MANUEL ALTAMIRANO"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "MATIAS TRAYNOR",
+          "entraPor": "LUCIANO JAR"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "IGNACIO TORTORELLA",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "TRY SCRUM",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "MARIANO LIVACHOFF",
+          "tipo": "PENAL",
+          "cantidad": 1
+        }
+      ],
+      "tarjetas": [
+        {
+          "jugador": "MATIAS BOCO",
+          "tipo": "AMARILLA"
+        }
+      ]
+    },
+    {
+      "fecha": "2014-07-19",
+      "fechaNota": null,
+      "rival": "MERCEDES",
+      "condicion": "VISITANTE",
+      "resultadoPropio": 46,
+      "resultadoRival": 7,
+      "cancha": "LOS MATREROS",
+      "clima": "BUENO",
+      "campoDeJuego": "BUENO",
+      "referee": "WINGER",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "MATIAS BOCO"
+        },
+        {
+          "numero": 3,
+          "jugador": "PABLO FERREIRA"
+        },
+        {
+          "numero": 4,
+          "jugador": "EZEQUIEL BALESTRA"
+        },
+        {
+          "numero": 5,
+          "jugador": "MARTIN APOLO"
+        },
+        {
+          "numero": 6,
+          "jugador": "NICOLAS ALTAMIRANO"
+        },
+        {
+          "numero": 7,
+          "jugador": "IGNACIO TORTORELLA"
+        },
+        {
+          "numero": 8,
+          "jugador": "AGUSTIN DOMINGUEZ"
+        },
+        {
+          "numero": 9,
+          "jugador": "MARIANO CETTOUR"
+        },
+        {
+          "numero": 10,
+          "jugador": "NICOLAS MARZIALI"
+        },
+        {
+          "numero": 11,
+          "jugador": "MAXIMILIANO SOLIVELLAS"
+        },
+        {
+          "numero": 12,
+          "jugador": "AGUSTIN MARZIALI"
+        },
+        {
+          "numero": 13,
+          "jugador": "MARIANO LIVACHOFF"
+        },
+        {
+          "numero": 14,
+          "jugador": "LUCIANO JAR"
+        },
+        {
+          "numero": 15,
+          "jugador": "MANUEL ALTAMIRANO"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "MAURO CHIRINO",
+          "entraPor": "MAXIMILIANO SOLIVELLAS"
+        },
+        {
+          "jugador": "MATIAS TRAYNOR",
+          "entraPor": "MATIAS BOCO"
+        },
+        {
+          "jugador": "SANTIAGO DIAZ",
+          "entraPor": "NICOLAS ALTAMIRANO"
+        },
+        {
+          "jugador": "GUIDO LIVACHOFF",
+          "entraPor": "LUCIANO JAR"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "IGNACIO TORTORELLA",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "MANUEL ALTAMIRANO",
+          "tipo": "TRY",
+          "cantidad": 3
+        },
+        {
+          "jugador": "AGUSTIN DOMINGUEZ",
+          "tipo": "TRY",
+          "cantidad": 2
+        },
+        {
+          "jugador": "MARIANO CETTOUR",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "LUCIANO JAR",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "MARIANO LIVACHOFF",
+          "tipo": "CONVERSION",
+          "cantidad": 3
+        }
+      ],
+      "tarjetas": []
+    },
+    {
+      "fecha": "2014-07-26",
+      "fechaNota": null,
+      "rival": "VICENTE LOPEZ",
+      "condicion": "VISITANTE",
+      "resultadoPropio": 22,
+      "resultadoRival": 15,
+      "cancha": "VICENTE LOPEZ",
+      "clima": "BUENO - FRIO",
+      "campoDeJuego": "REGULAR",
+      "referee": "FRANK",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "MATIAS BOCO"
+        },
+        {
+          "numero": 3,
+          "jugador": "PABLO FERREIRA"
+        },
+        {
+          "numero": 4,
+          "jugador": "EZEQUIEL BALESTRA"
+        },
+        {
+          "numero": 5,
+          "jugador": "MARTIN APOLO"
+        },
+        {
+          "numero": 6,
+          "jugador": "NICOLAS ALTAMIRANO"
+        },
+        {
+          "numero": 7,
+          "jugador": "SANTIAGO DIAZ"
+        },
+        {
+          "numero": 8,
+          "jugador": "AGUSTIN DOMINGUEZ"
+        },
+        {
+          "numero": 9,
+          "jugador": "MARIANO CETTOUR"
+        },
+        {
+          "numero": 10,
+          "jugador": "NICOLAS MARZIALI"
+        },
+        {
+          "numero": 11,
+          "jugador": "MAXIMILIANO SOLIVELLAS"
+        },
+        {
+          "numero": 12,
+          "jugador": "SANTIAGO DOMINGUEZ"
+        },
+        {
+          "numero": 13,
+          "jugador": "MARIANO LIVACHOFF"
+        },
+        {
+          "numero": 14,
+          "jugador": "AGUSTIN MARZIALI"
+        },
+        {
+          "numero": 15,
+          "jugador": "MANUEL ALTAMIRANO"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "MAURO CHIRINO",
+          "entraPor": "NICOLAS MARZIALI"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "SANTIAGO DOMINGUEZ",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "MANUEL ALTAMIRANO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "PABLO FERREIRA",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "MARIANO CETTOUR",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "MARIANO LIVACHOFF",
+          "tipo": "CONVERSION",
+          "cantidad": 1
+        }
+      ],
+      "tarjetas": []
+    },
+    {
+      "fecha": "2014-08-02",
+      "fechaNota": null,
+      "rival": "TIRO FEDERAL SAN PEDRO",
+      "condicion": "VISITANTE",
+      "resultadoPropio": 39,
+      "resultadoRival": 7,
+      "cancha": "LOS MATREROS",
+      "clima": "NUBLADO",
+      "campoDeJuego": "REGULAR",
+      "referee": "SALA",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "MATIAS BOCO"
+        },
+        {
+          "numero": 3,
+          "jugador": "PABLO FERREIRA"
+        },
+        {
+          "numero": 4,
+          "jugador": "EZEQUIEL BALESTRA"
+        },
+        {
+          "numero": 5,
+          "jugador": "MARTIN APOLO"
+        },
+        {
+          "numero": 6,
+          "jugador": "NICOLAS ALTAMIRANO"
+        },
+        {
+          "numero": 7,
+          "jugador": "AGUSTIN DOMINGUEZ"
+        },
+        {
+          "numero": 8,
+          "jugador": "IGNACIO TORTORELLA"
+        },
+        {
+          "numero": 9,
+          "jugador": "MARIANO CETTOUR"
+        },
+        {
+          "numero": 10,
+          "jugador": "MARIANO LIVACHOFF"
+        },
+        {
+          "numero": 11,
+          "jugador": "MANUEL ALTAMIRANO"
+        },
+        {
+          "numero": 12,
+          "jugador": "SANTIAGO DOMINGUEZ"
+        },
+        {
+          "numero": 13,
+          "jugador": "AGUSTIN MARZIALI"
+        },
+        {
+          "numero": 14,
+          "jugador": "MAXIMILIANO SOLIVELLAS"
+        },
+        {
+          "numero": 15,
+          "jugador": "GUIDO LIVACHOFF"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "MAURO CHIRINO",
+          "entraPor": "GUIDO LIVACHOFF"
+        },
+        {
+          "jugador": "OCTAVIO TALLARICO",
+          "entraPor": "EZEQUIEL BALESTRA"
+        },
+        {
+          "jugador": "MATIAS TRAYNOR",
+          "entraPor": "MATIAS BOCO"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "SANTIAGO DOMINGUEZ",
+          "tipo": "TRY",
+          "cantidad": 2
+        },
+        {
+          "jugador": "MAXIMILIANO SOLIVELLAS",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SCRUM",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "PENAL",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO DOMINGUEZ",
+          "tipo": "CONVERSION",
+          "cantidad": 4
+        },
+        {
+          "jugador": "SANTIAGO DOMINGUEZ",
+          "tipo": "PENAL",
+          "cantidad": 2
+        }
+      ],
+      "tarjetas": []
+    },
+    {
+      "fecha": "2014-08-09",
+      "fechaNota": null,
+      "rival": "LUJAN",
+      "condicion": "VISITANTE",
+      "resultadoPropio": 5,
+      "resultadoRival": 21,
+      "cancha": "LUJAN",
+      "clima": "BUENO",
+      "campoDeJuego": "BUENO",
+      "referee": "FRANZANTE",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "MATIAS BOCO"
+        },
+        {
+          "numero": 3,
+          "jugador": "PABLO FERREIRA"
+        },
+        {
+          "numero": 4,
+          "jugador": "EZEQUIEL BALESTRA"
+        },
+        {
+          "numero": 5,
+          "jugador": "MARTIN APOLO"
+        },
+        {
+          "numero": 6,
+          "jugador": "NICOLAS ALTAMIRANO"
+        },
+        {
+          "numero": 7,
+          "jugador": "AGUSTIN DOMINGUEZ"
+        },
+        {
+          "numero": 8,
+          "jugador": "IGNACIO TORTORELLA"
+        },
+        {
+          "numero": 9,
+          "jugador": "MARIANO CETTOUR"
+        },
+        {
+          "numero": 10,
+          "jugador": "NICOLAS MARZIALI"
+        },
+        {
+          "numero": 11,
+          "jugador": "AGUSTIN MARZIALI"
+        },
+        {
+          "numero": 12,
+          "jugador": "SANTIAGO DOMINGUEZ"
+        },
+        {
+          "numero": 13,
+          "jugador": "MARIANO LIVACHOFF"
+        },
+        {
+          "numero": 14,
+          "jugador": "MAXIMILIANO SOLIVELLAS"
+        },
+        {
+          "numero": 15,
+          "jugador": "MANUEL ALTAMIRANO"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "SANTIAGO DIAZ",
+          "entraPor": "NICOLAS ALTAMIRANO"
+        },
+        {
+          "jugador": "JUAN JOSE MONEA",
+          "entraPor": "RODRIGO GOMEZ"
+        },
+        {
+          "jugador": "ANDRES BIRELLO",
+          "entraPor": "SANTIAGO DIAZ"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "MAXIMILIANO SOLIVELLAS",
+          "tipo": "TRY",
+          "cantidad": 1
+        }
+      ],
+      "tarjetas": []
+    },
+    {
+      "fecha": "2014-08-16",
+      "fechaNota": null,
+      "rival": "ZARATE",
+      "condicion": "VISITANTE",
+      "resultadoPropio": 30,
+      "resultadoRival": 31,
+      "cancha": "LOS MATREROS",
+      "clima": "BUENO",
+      "campoDeJuego": "REGULAR",
+      "referee": "GIMENEZ NATALE",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "MATIAS BOCO"
+        },
+        {
+          "numero": 3,
+          "jugador": "PABLO FERREIRA"
+        },
+        {
+          "numero": 4,
+          "jugador": "NICOLAS ALTAMIRANO"
+        },
+        {
+          "numero": 5,
+          "jugador": "MARTIN APOLO"
+        },
+        {
+          "numero": 6,
+          "jugador": "SANTIAGO DIAZ"
+        },
+        {
+          "numero": 7,
+          "jugador": "AGUSTIN DOMINGUEZ"
+        },
+        {
+          "numero": 8,
+          "jugador": "IGNACIO TORTORELLA"
+        },
+        {
+          "numero": 9,
+          "jugador": "MARIANO CETTOUR"
+        },
+        {
+          "numero": 10,
+          "jugador": "NICOLAS MARZIALI"
+        },
+        {
+          "numero": 11,
+          "jugador": "AGUSTIN MARZIALI"
+        },
+        {
+          "numero": 12,
+          "jugador": "SANTIAGO DOMINGUEZ"
+        },
+        {
+          "numero": 13,
+          "jugador": "MARIANO LIVACHOFF"
+        },
+        {
+          "numero": 14,
+          "jugador": "MAXIMILIANO SOLIVELLAS"
+        },
+        {
+          "numero": 15,
+          "jugador": "MANUEL ALTAMIRANO"
+        }
+      ],
+      "cambios": [],
+      "puntos": [
+        {
+          "jugador": "MAXIMILIANO SOLIVELLAS",
+          "tipo": "TRY",
+          "cantidad": 2
+        },
+        {
+          "jugador": "IGNACIO TORTORELLA",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "AGUSTIN MARZIALI",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO DOMINGUEZ",
+          "tipo": "CONVERSION",
+          "cantidad": 2
+        },
+        {
+          "jugador": "SANTIAGO DOMINGUEZ",
+          "tipo": "PENAL",
+          "cantidad": 2
+        }
+      ],
+      "tarjetas": []
+    },
+    {
+      "fecha": "2014-08-30",
+      "fechaNota": null,
+      "rival": "SAN JOSE",
+      "condicion": "VISITANTE",
+      "resultadoPropio": 45,
+      "resultadoRival": 19,
+      "cancha": "SAN JOSE",
+      "clima": "BUENO",
+      "campoDeJuego": "BUENO",
+      "referee": "FRANCISCO",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "MATIAS BOCO"
+        },
+        {
+          "numero": 3,
+          "jugador": "PABLO FERREIRA"
+        },
+        {
+          "numero": 4,
+          "jugador": "EZEQUIEL BALESTRA"
+        },
+        {
+          "numero": 5,
+          "jugador": "MARTIN APOLO"
+        },
+        {
+          "numero": 6,
+          "jugador": "NICOLAS ALTAMIRANO"
+        },
+        {
+          "numero": 7,
+          "jugador": "AGUSTIN DOMINGUEZ"
+        },
+        {
+          "numero": 8,
+          "jugador": "IGNACIO TORTORELLA"
+        },
+        {
+          "numero": 9,
+          "jugador": "MARIANO CETTOUR"
+        },
+        {
+          "numero": 10,
+          "jugador": "NICOLAS MARZIALI"
+        },
+        {
+          "numero": 11,
+          "jugador": "AGUSTIN MARZIALI"
+        },
+        {
+          "numero": 12,
+          "jugador": "SANTIAGO DOMINGUEZ"
+        },
+        {
+          "numero": 13,
+          "jugador": "MARIANO LIVACHOFF"
+        },
+        {
+          "numero": 14,
+          "jugador": "MANUEL ALTAMIRANO"
+        },
+        {
+          "numero": 15,
+          "jugador": "GUIDO LIVACHOFF"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "MATIAS TRAYNOR",
+          "entraPor": "MATIAS BOCO"
+        },
+        {
+          "jugador": "ANDRES BIRELLO",
+          "entraPor": "AGUSTIN DOMINGUEZ"
+        },
+        {
+          "jugador": "SANTIAGO DIAZ",
+          "entraPor": "EZEQUIEL BALESTRA"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "NICOLAS MARZIALI",
+          "tipo": "TRY",
+          "cantidad": 2
+        },
+        {
+          "jugador": "MARIANO LIVACHOFF",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "AGUSTIN MARZIALI",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "GUIDO LIVACHOFF",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "AGUSTIN DOMINGUEZ",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "TRY PENAL",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO DOMINGUEZ",
+          "tipo": "CONVERSION",
+          "cantidad": 5
+        }
+      ],
+      "tarjetas": [
+        {
+          "jugador": "AGUSTIN DOMINGUEZ",
+          "tipo": "AMARILLA"
+        }
+      ]
+    },
+    {
+      "fecha": "2014-09-06",
+      "fechaNota": null,
+      "rival": "EL RETIRO",
+      "condicion": "VISITANTE",
+      "resultadoPropio": 30,
+      "resultadoRival": 23,
+      "cancha": "LOS MATREROS",
+      "clima": "BUENO - VENTOSO",
+      "campoDeJuego": "REGULAR",
+      "referee": "GHINSON",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "MATIAS BOCO"
+        },
+        {
+          "numero": 3,
+          "jugador": "PABLO FERREIRA"
+        },
+        {
+          "numero": 4,
+          "jugador": "EZEQUIEL BALESTRA"
+        },
+        {
+          "numero": 5,
+          "jugador": "MARTIN APOLO"
+        },
+        {
+          "numero": 6,
+          "jugador": "NICOLAS ALTAMIRANO"
+        },
+        {
+          "numero": 7,
+          "jugador": "AGUSTIN DOMINGUEZ"
+        },
+        {
+          "numero": 8,
+          "jugador": "IGNACIO TORTORELLA"
+        },
+        {
+          "numero": 9,
+          "jugador": "MARIANO CETTOUR"
+        },
+        {
+          "numero": 10,
+          "jugador": "NICOLAS MARZIALI"
+        },
+        {
+          "numero": 11,
+          "jugador": "MANUEL ALTAMIRANO"
+        },
+        {
+          "numero": 12,
+          "jugador": "MARIANO LIVACHOFF"
+        },
+        {
+          "numero": 13,
+          "jugador": "AGUSTIN MARZIALI"
+        },
+        {
+          "numero": 14,
+          "jugador": "MAXIMILIANO SOLIVELLAS"
+        },
+        {
+          "numero": 15,
+          "jugador": "GUIDO LIVACHOFF"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "MATIAS TRAYNOR",
+          "entraPor": "MATIAS BOCO"
+        },
+        {
+          "jugador": "ANDRES BIRELLO",
+          "entraPor": "EZEQUIEL BALESTRA"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "AGUSTIN MARZIALI",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "MARIANO CETTOUR",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "AGUSTIN DOMINGUEZ",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "TRY SCRUM",
+          "tipo": "TRY",
+          "cantidad": 2
+        },
+        {
+          "jugador": "MARIANO LIVACHOFF",
+          "tipo": "CONVERSION",
+          "cantidad": 1
+        },
+        {
+          "jugador": "MARIANO LIVACHOFF",
+          "tipo": "PENAL",
+          "cantidad": 1
+        }
+      ],
+      "tarjetas": [
+        {
+          "jugador": "AGUSTIN DOMINGUEZ",
+          "tipo": "AMARILLA"
+        },
+        {
+          "jugador": "MARIANO LIVACHOFF",
+          "tipo": "AMARILLA"
+        }
+      ]
+    },
+    {
+      "fecha": "2014-09-13",
+      "fechaNota": null,
+      "rival": "TF BARADERO",
+      "condicion": "VISITANTE",
+      "resultadoPropio": 36,
+      "resultadoRival": 6,
+      "cancha": "BARADERO",
+      "clima": "NUBLADO",
+      "campoDeJuego": "REGULAR",
+      "referee": "REINOSO",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "MATIAS BOCO"
+        },
+        {
+          "numero": 3,
+          "jugador": "PABLO FERREIRA"
+        },
+        {
+          "numero": 4,
+          "jugador": "EZEQUIEL BALESTRA"
+        },
+        {
+          "numero": 5,
+          "jugador": "MARTIN APOLO"
+        },
+        {
+          "numero": 6,
+          "jugador": "NICOLAS ALTAMIRANO"
+        },
+        {
+          "numero": 7,
+          "jugador": "AGUSTIN DOMINGUEZ"
+        },
+        {
+          "numero": 8,
+          "jugador": "IGNACIO TORTORELLA"
+        },
+        {
+          "numero": 9,
+          "jugador": "MARIANO CETTOUR"
+        },
+        {
+          "numero": 10,
+          "jugador": "NICOLAS MARZIALI"
+        },
+        {
+          "numero": 11,
+          "jugador": "MANUEL ALTAMIRANO"
+        },
+        {
+          "numero": 12,
+          "jugador": "MARIANO LIVACHOFF"
+        },
+        {
+          "numero": 13,
+          "jugador": "AGUSTIN MARZIALI"
+        },
+        {
+          "numero": 14,
+          "jugador": "MAXIMILIANO SOLIVELLAS"
+        },
+        {
+          "numero": 15,
+          "jugador": "GUIDO LIVACHOFF"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "MATIAS TRAYNOR",
+          "entraPor": "MATIAS BOCO"
+        },
+        {
+          "jugador": "ANDRES BIRELLO",
+          "entraPor": "NICOLAS ALTAMIRANO"
+        },
+        {
+          "jugador": "SANTIAGO DIAZ",
+          "entraPor": "AGUSTIN DOMINGUEZ"
+        },
+        {
+          "jugador": "LUCAS MORON",
+          "entraPor": "RODRIGO GOMEZ"
+        },
+        {
+          "jugador": "OCTAVIO TALLARICO",
+          "entraPor": "EZEQUIEL BALESTRA"
+        },
+        {
+          "jugador": "MATIAS ALTAMIRANO",
+          "entraPor": "GUIDO LIVACHOFF"
+        },
+        {
+          "jugador": "MAURO CHIRINO",
+          "entraPor": "MAXIMILIANO SOLIVELLAS"
+        },
+        {
+          "jugador": "GONZALO MARTINEZ",
+          "entraPor": "AGUSTIN MARZIALI"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "GUIDO LIVACHOFF",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "ANDRES BIRELLO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "IGNACIO TORTORELLA",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "MANUEL ALTAMIRANO",
+          "tipo": "TRY",
+          "cantidad": 3
+        },
+        {
+          "jugador": "MARIANO LIVACHOFF",
+          "tipo": "CONVERSION",
+          "cantidad": 3
+        }
+      ],
+      "tarjetas": []
+    },
+    {
+      "fecha": "2014-09-20",
+      "fechaNota": null,
+      "rival": "BEROMAMA",
+      "condicion": "VISITANTE",
+      "resultadoPropio": 64,
+      "resultadoRival": 20,
+      "cancha": "LOS MATREROS",
+      "clima": "BUENO",
+      "campoDeJuego": "REGULAR",
+      "referee": "RUFFINI",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "MATIAS BOCO"
+        },
+        {
+          "numero": 3,
+          "jugador": "PABLO FERREIRA"
+        },
+        {
+          "numero": 4,
+          "jugador": "EZEQUIEL BALESTRA"
+        },
+        {
+          "numero": 5,
+          "jugador": "MARTIN APOLO"
+        },
+        {
+          "numero": 6,
+          "jugador": "NICOLAS ALTAMIRANO"
+        },
+        {
+          "numero": 7,
+          "jugador": "AGUSTIN DOMINGUEZ"
+        },
+        {
+          "numero": 8,
+          "jugador": "IGNACIO TORTORELLA"
+        },
+        {
+          "numero": 9,
+          "jugador": "MARIANO CETTOUR"
+        },
+        {
+          "numero": 10,
+          "jugador": "NICOLAS MARZIALI"
+        },
+        {
+          "numero": 11,
+          "jugador": "MANUEL ALTAMIRANO"
+        },
+        {
+          "numero": 12,
+          "jugador": "MARIANO LIVACHOFF"
+        },
+        {
+          "numero": 13,
+          "jugador": "AGUSTIN MARZIALI"
+        },
+        {
+          "numero": 14,
+          "jugador": "MAXIMILIANO SOLIVELLAS"
+        },
+        {
+          "numero": 15,
+          "jugador": "GUIDO LIVACHOFF"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "MATIAS TRAYNOR",
+          "entraPor": "MATIAS BOCO"
+        },
+        {
+          "jugador": "SANTIAGO DIAZ",
+          "entraPor": "NICOLAS ALTAMIRANO"
+        },
+        {
+          "jugador": "ANDRES BIRELLO",
+          "entraPor": "AGUSTIN DOMINGUEZ"
+        },
+        {
+          "jugador": "JUAN JOSE MONEA",
+          "entraPor": "PABLO FERREIRA"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "GUIDO LIVACHOFF",
+          "tipo": "TRY",
+          "cantidad": 2
+        },
+        {
+          "jugador": "MAXIMILIANO SOLIVELLAS",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "MARIANO LIVACHOFF",
+          "tipo": "TRY",
+          "cantidad": 5
+        },
+        {
+          "jugador": "MANUEL ALTAMIRANO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "AGUSTIN DOMINGUEZ",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "MARIANO LIVACHOFF",
+          "tipo": "CONVERSION",
+          "cantidad": 7
+        }
+      ],
+      "tarjetas": []
+    },
+    {
+      "fecha": "2014-10-04",
+      "fechaNota": null,
+      "rival": "CENTRO NAVAL",
+      "condicion": "VISITANTE",
+      "resultadoPropio": 12,
+      "resultadoRival": 33,
+      "cancha": "CENTRO NAVAL",
+      "clima": "INESTABLE",
+      "campoDeJuego": "MUY BUENO",
+      "referee": "BASILIO",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "MATIAS BOCO"
+        },
+        {
+          "numero": 3,
+          "jugador": "PABLO FERREIRA"
+        },
+        {
+          "numero": 4,
+          "jugador": "OCTAVIO TALLARICO"
+        },
+        {
+          "numero": 5,
+          "jugador": "MARTIN APOLO"
+        },
+        {
+          "numero": 6,
+          "jugador": "NICOLAS ALTAMIRANO"
+        },
+        {
+          "numero": 7,
+          "jugador": "AGUSTIN DOMINGUEZ"
+        },
+        {
+          "numero": 8,
+          "jugador": "IGNACIO TORTORELLA"
+        },
+        {
+          "numero": 9,
+          "jugador": "MARIANO CETTOUR"
+        },
+        {
+          "numero": 10,
+          "jugador": "NICOLAS MARZIALI"
+        },
+        {
+          "numero": 11,
+          "jugador": "MANUEL ALTAMIRANO"
+        },
+        {
+          "numero": 12,
+          "jugador": "SANTIAGO DOMINGUEZ"
+        },
+        {
+          "numero": 13,
+          "jugador": "MARIANO LIVACHOFF"
+        },
+        {
+          "numero": 14,
+          "jugador": "AGUSTIN MARZIALI"
+        },
+        {
+          "numero": 15,
+          "jugador": "GUIDO LIVACHOFF"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "MATIAS TRAYNOR",
+          "entraPor": "MATIAS BOCO"
+        },
+        {
+          "jugador": "EZEQUIEL BALESTRA",
+          "entraPor": "OCTAVIO TALLARICO"
+        },
+        {
+          "jugador": "MAXIMILIANO SOLIVELLAS",
+          "entraPor": "SANTIAGO DOMINGUEZ"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "MANUEL ALTAMIRANO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "AGUSTIN DOMINGUEZ",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO DOMINGUEZ",
+          "tipo": "CONVERSION",
+          "cantidad": 1
+        }
+      ],
+      "tarjetas": [
+        {
+          "jugador": "IGNACIO TORTORELLA",
+          "tipo": "AMARILLA"
+        }
+      ]
+    }
+  ]
+}

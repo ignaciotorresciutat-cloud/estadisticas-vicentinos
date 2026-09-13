@@ -1,0 +1,3512 @@
+{
+  "temporada": 2023,
+  "info": {
+    "torneo": "Primera C",
+    "posicion": 5,
+    "rankingUrba": 45,
+    "campeon": false,
+    "ascenso": false,
+    "descenso": false,
+    "nota": null
+  },
+  "partidos": [
+    {
+      "fecha": "2023-03-18",
+      "fechaNota": null,
+      "rival": "MONTE GRANDE",
+      "condicion": "VISITANTE",
+      "resultadoPropio": 12,
+      "resultadoRival": 52,
+      "cancha": "MONTE GRANDE",
+      "clima": "BUENO",
+      "campoDeJuego": "REGULAR",
+      "referee": "BARCIOCCO",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "JOAQUIN TRAYNOR"
+        },
+        {
+          "numero": 3,
+          "jugador": "FEDERICO MARTINEZ"
+        },
+        {
+          "numero": 4,
+          "jugador": "RODRIGO RIOS"
+        },
+        {
+          "numero": 5,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 6,
+          "jugador": "RODRIGO ESMAYEL"
+        },
+        {
+          "numero": 7,
+          "jugador": "JUAN PABLO GAUTO"
+        },
+        {
+          "numero": 8,
+          "jugador": "IGNACIO TORTORELLA"
+        },
+        {
+          "numero": 9,
+          "jugador": "RAMIRO OCCHIUZZI"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN PEDRO OCCHIUZZI"
+        },
+        {
+          "numero": 11,
+          "jugador": "NICOLÁS LOZANO"
+        },
+        {
+          "numero": 12,
+          "jugador": "FRANCISCO OCCHIUZZI"
+        },
+        {
+          "numero": 13,
+          "jugador": "GONZALO GREGORIO"
+        },
+        {
+          "numero": 14,
+          "jugador": "ANDRÉS BUSTAMANTE"
+        },
+        {
+          "numero": 15,
+          "jugador": "SANTIAGO TRAYNOR",
+          "capitan": true
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "JORGE BENÍTEZ",
+          "entraPor": "RODRIGO GOMEZ"
+        },
+        {
+          "jugador": "JUAN MATIAS TRAYNOR",
+          "entraPor": "JUAN PEDRO OCCHIUZZI"
+        },
+        {
+          "jugador": "IGNACIO TORRES CIUTAT",
+          "entraPor": "NICOLÁS LOZANO"
+        },
+        {
+          "jugador": "TOBIAS LUCERO",
+          "entraPor": "RODRIGO ESMAYEL"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "IGNACIO TORRES CIUTAT",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "TOBIAS LUCERO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "CONVERSION",
+          "cantidad": 1
+        }
+      ],
+      "tarjetas": [
+        {
+          "jugador": "FRANCISCO COMABELLA",
+          "tipo": "AMARILLA"
+        }
+      ]
+    },
+    {
+      "fecha": "2023-03-25",
+      "fechaNota": null,
+      "rival": "EL RETIRO",
+      "condicion": "VISITANTE",
+      "resultadoPropio": 20,
+      "resultadoRival": 21,
+      "cancha": "RETIRO",
+      "clima": "BUENO",
+      "campoDeJuego": "BUENO",
+      "referee": "SOCORRO",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "EZEQUIEL BALESTRA"
+        },
+        {
+          "numero": 2,
+          "jugador": "JOAQUIN TRAYNOR"
+        },
+        {
+          "numero": 3,
+          "jugador": "FEDERICO MARTINEZ"
+        },
+        {
+          "numero": 4,
+          "jugador": "RODRIGO RIOS"
+        },
+        {
+          "numero": 5,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 6,
+          "jugador": "RODRIGO ESMAYEL"
+        },
+        {
+          "numero": 7,
+          "jugador": "JUAN PABLO GAUTO"
+        },
+        {
+          "numero": 8,
+          "jugador": "IGNACIO TORTORELLA"
+        },
+        {
+          "numero": 9,
+          "jugador": "RAMIRO OCCHIUZZI"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN MATIAS TRAYNOR"
+        },
+        {
+          "numero": 11,
+          "jugador": "NICOLÁS LOZANO"
+        },
+        {
+          "numero": 12,
+          "jugador": "IGNACIO TORRES CIUTAT"
+        },
+        {
+          "numero": 13,
+          "jugador": "GONZALO GREGORIO"
+        },
+        {
+          "numero": 14,
+          "jugador": "FRANCISCO OCCHIUZZI"
+        },
+        {
+          "numero": 15,
+          "jugador": "SANTIAGO TRAYNOR",
+          "capitan": true
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "JORGE BENÍTEZ",
+          "entraPor": "JOAQUIN TRAYNOR"
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "entraPor": "NICOLÁS LOZANO"
+        },
+        {
+          "jugador": "JUAN MARTÍN TURKOWSKY",
+          "entraPor": "RODRIGO RIOS"
+        },
+        {
+          "jugador": "TOBIAS LUCERO",
+          "entraPor": "JUAN PABLO GAUTO"
+        },
+        {
+          "jugador": "GERÓNIMO RÍOS",
+          "entraPor": "RODRIGO ESMAYEL"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "IGNACIO TORTORELLA",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "FRANCISCO OCCHIUZZI",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "CONVERSION",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "PENAL",
+          "cantidad": 1
+        }
+      ],
+      "tarjetas": [
+        {
+          "jugador": "JUAN PABLO GAUTO",
+          "tipo": "AMARILLA"
+        }
+      ]
+    },
+    {
+      "fecha": "2023-04-01",
+      "fechaNota": null,
+      "rival": "CENTRO NAVAL",
+      "condicion": "LOCAL",
+      "resultadoPropio": 25,
+      "resultadoRival": 27,
+      "cancha": "VICENTINOS",
+      "clima": "BUENO",
+      "campoDeJuego": "BUENO",
+      "referee": "BENVENUTTI",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "JORGE BENÍTEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "JOAQUIN TRAYNOR"
+        },
+        {
+          "numero": 3,
+          "jugador": "FEDERICO MARTINEZ"
+        },
+        {
+          "numero": 4,
+          "jugador": "JUAN MARTÍN TURKOWSKY"
+        },
+        {
+          "numero": 5,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 6,
+          "jugador": "GERÓNIMO RÍOS"
+        },
+        {
+          "numero": 7,
+          "jugador": "JUAN PABLO GAUTO"
+        },
+        {
+          "numero": 8,
+          "jugador": "IGNACIO TORTORELLA"
+        },
+        {
+          "numero": 9,
+          "jugador": "RAMIRO OCCHIUZZI"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN PEDRO OCCHIUZZI"
+        },
+        {
+          "numero": 11,
+          "jugador": "TOMÁS BIANCHI"
+        },
+        {
+          "numero": 12,
+          "jugador": "JUAN MATIAS TRAYNOR"
+        },
+        {
+          "numero": 13,
+          "jugador": "FRANCISCO OCCHIUZZI"
+        },
+        {
+          "numero": 14,
+          "jugador": "GONZALO GREGORIO"
+        },
+        {
+          "numero": 15,
+          "jugador": "SANTIAGO TRAYNOR",
+          "capitan": true
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "TOBIAS LUCERO",
+          "entraPor": "IGNACIO TORTORELLA"
+        },
+        {
+          "jugador": "PEDRO MONTENEGRO",
+          "entraPor": "JUAN PABLO GAUTO"
+        },
+        {
+          "jugador": "AGUSTIN TRAYNOR",
+          "entraPor": "RAMIRO OCCHIUZZI"
+        },
+        {
+          "jugador": "NICOLÁS LOZANO",
+          "entraPor": "TOMÁS BIANCHI"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "TOBIAS LUCERO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "TOMÁS BIANCHI",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "CONVERSION",
+          "cantidad": 2
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "PENAL",
+          "cantidad": 2
+        }
+      ],
+      "tarjetas": []
+    },
+    {
+      "fecha": "2023-04-15",
+      "fechaNota": null,
+      "rival": "CLUB ITALIANO",
+      "condicion": "VISITANTE",
+      "resultadoPropio": 39,
+      "resultadoRival": 36,
+      "cancha": "ITALIANO",
+      "clima": "BUENO",
+      "campoDeJuego": "BUENO",
+      "referee": "RANALLI",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "JORGE BENÍTEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "JOAQUIN TRAYNOR"
+        },
+        {
+          "numero": 3,
+          "jugador": "FEDERICO MARTINEZ"
+        },
+        {
+          "numero": 4,
+          "jugador": "JUAN MARTÍN TURKOWSKY"
+        },
+        {
+          "numero": 5,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 6,
+          "jugador": "GERÓNIMO RÍOS"
+        },
+        {
+          "numero": 7,
+          "jugador": "IGNACIO TORTORELLA"
+        },
+        {
+          "numero": 8,
+          "jugador": "TOBIAS LUCERO"
+        },
+        {
+          "numero": 9,
+          "jugador": "AGUSTIN TRAYNOR"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN PEDRO OCCHIUZZI"
+        },
+        {
+          "numero": 11,
+          "jugador": "RAMIRO OCCHIUZZI"
+        },
+        {
+          "numero": 12,
+          "jugador": "JUAN MATIAS TRAYNOR"
+        },
+        {
+          "numero": 13,
+          "jugador": "FRANCISCO OCCHIUZZI"
+        },
+        {
+          "numero": 14,
+          "jugador": "GONZALO GREGORIO"
+        },
+        {
+          "numero": 15,
+          "jugador": "SANTIAGO TRAYNOR",
+          "capitan": true
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "FRANCO RODRIGUEZ",
+          "entraPor": "FEDERICO MARTINEZ"
+        },
+        {
+          "jugador": "PEDRO MONTENEGRO",
+          "entraPor": "IGNACIO TORTORELLA"
+        },
+        {
+          "jugador": "RODRIGO GOMEZ",
+          "entraPor": "JORGE BENÍTEZ"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "GONZALO GREGORIO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "RAMIRO OCCHIUZZI",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "AGUSTIN TRAYNOR",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "TRY PENAL",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "CONVERSION",
+          "cantidad": 3
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "PENAL",
+          "cantidad": 1
+        }
+      ],
+      "tarjetas": []
+    },
+    {
+      "fecha": "2023-04-22",
+      "fechaNota": null,
+      "rival": "CASA DE PADUA",
+      "condicion": "LOCAL",
+      "resultadoPropio": 27,
+      "resultadoRival": 15,
+      "cancha": "VICENTINOS",
+      "clima": "BUENO",
+      "campoDeJuego": "BUENO",
+      "referee": "SOCORRO",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "JORGE BENÍTEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "JOAQUIN TRAYNOR"
+        },
+        {
+          "numero": 3,
+          "jugador": "FEDERICO MARTINEZ"
+        },
+        {
+          "numero": 4,
+          "jugador": "JUAN MARTÍN TURKOWSKY"
+        },
+        {
+          "numero": 5,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 6,
+          "jugador": "GERÓNIMO RÍOS"
+        },
+        {
+          "numero": 7,
+          "jugador": "IGNACIO TORTORELLA"
+        },
+        {
+          "numero": 8,
+          "jugador": "TOBIAS LUCERO"
+        },
+        {
+          "numero": 9,
+          "jugador": "AGUSTIN TRAYNOR"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN PEDRO OCCHIUZZI"
+        },
+        {
+          "numero": 11,
+          "jugador": "RAMIRO OCCHIUZZI"
+        },
+        {
+          "numero": 12,
+          "jugador": "JUAN MATIAS TRAYNOR"
+        },
+        {
+          "numero": 13,
+          "jugador": "FRANCISCO OCCHIUZZI"
+        },
+        {
+          "numero": 14,
+          "jugador": "GONZALO GREGORIO"
+        },
+        {
+          "numero": 15,
+          "jugador": "SANTIAGO TRAYNOR",
+          "capitan": true
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "PEDRO MONTENEGRO",
+          "entraPor": "IGNACIO TORTORELLA"
+        },
+        {
+          "jugador": "RODRIGO GOMEZ",
+          "entraPor": "JORGE BENÍTEZ"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "GONZALO GREGORIO",
+          "tipo": "TRY",
+          "cantidad": 2
+        },
+        {
+          "jugador": "FRANCISCO OCCHIUZZI",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "GERÓNIMO RÍOS",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "TRY PENAL",
+          "tipo": "TRY",
+          "cantidad": 1
+        }
+      ],
+      "tarjetas": []
+    },
+    {
+      "fecha": "2023-04-29",
+      "fechaNota": null,
+      "rival": "ATLÉTICO Y PROGRESO",
+      "condicion": "VISITANTE",
+      "resultadoPropio": 38,
+      "resultadoRival": 33,
+      "cancha": "AT.Y PROGRESO",
+      "clima": "BUENO",
+      "campoDeJuego": "REGULAR",
+      "referee": "IGARZÁBAL",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "JORGE BENÍTEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "JOAQUIN TRAYNOR"
+        },
+        {
+          "numero": 3,
+          "jugador": "FEDERICO MARTINEZ"
+        },
+        {
+          "numero": 4,
+          "jugador": "JUAN MARTÍN TURKOWSKY"
+        },
+        {
+          "numero": 5,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 6,
+          "jugador": "GERÓNIMO RÍOS"
+        },
+        {
+          "numero": 7,
+          "jugador": "IGNACIO TORTORELLA"
+        },
+        {
+          "numero": 8,
+          "jugador": "TOBIAS LUCERO"
+        },
+        {
+          "numero": 9,
+          "jugador": "AGUSTIN TRAYNOR"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN PEDRO OCCHIUZZI"
+        },
+        {
+          "numero": 11,
+          "jugador": "RAMIRO OCCHIUZZI"
+        },
+        {
+          "numero": 12,
+          "jugador": "JUAN MATIAS TRAYNOR"
+        },
+        {
+          "numero": 13,
+          "jugador": "FRANCISCO OCCHIUZZI"
+        },
+        {
+          "numero": 14,
+          "jugador": "GONZALO GREGORIO"
+        },
+        {
+          "numero": 15,
+          "jugador": "SANTIAGO TRAYNOR",
+          "capitan": true
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "RODRIGO GOMEZ",
+          "entraPor": "JORGE BENÍTEZ"
+        },
+        {
+          "jugador": "PEDRO MONTENEGRO",
+          "entraPor": "GERÓNIMO RÍOS"
+        },
+        {
+          "jugador": "ENZO CORSI",
+          "entraPor": "RAMIRO OCCHIUZZI"
+        },
+        {
+          "jugador": "MATÍAS COMPANYS",
+          "entraPor": "AGUSTIN TRAYNOR"
+        },
+        {
+          "jugador": "TOMÁS BIANCHI",
+          "entraPor": "FRANCISCO OCCHIUZZI"
+        },
+        {
+          "jugador": "EZEQUIEL BALESTRA",
+          "entraPor": "JOAQUIN TRAYNOR"
+        },
+        {
+          "jugador": "FRANCO RODRIGUEZ",
+          "entraPor": "FEDERICO MARTINEZ"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "JUAN MARTÍN TURKOWSKY",
+          "tipo": "TRY",
+          "cantidad": 2
+        },
+        {
+          "jugador": "GONZALO GREGORIO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "IGNACIO TORTORELLA",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "RAMIRO OCCHIUZZI",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "TOBIAS LUCERO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "CONVERSION",
+          "cantidad": 4
+        }
+      ],
+      "tarjetas": [
+        {
+          "jugador": "TOBIAS LUCERO",
+          "tipo": "AMARILLA"
+        },
+        {
+          "jugador": "JUAN MATIAS TRAYNOR",
+          "tipo": "AMARILLA"
+        }
+      ]
+    },
+    {
+      "fecha": "2023-05-06",
+      "fechaNota": null,
+      "rival": "LANUS",
+      "condicion": "LOCAL",
+      "resultadoPropio": 27,
+      "resultadoRival": 7,
+      "cancha": "VICENTINOS",
+      "clima": "LLOVIZNAS",
+      "campoDeJuego": "MUY BUENO",
+      "referee": "RUIBAL",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "JOAQUIN TRAYNOR"
+        },
+        {
+          "numero": 3,
+          "jugador": "FEDERICO MARTINEZ"
+        },
+        {
+          "numero": 4,
+          "jugador": "JUAN MARTÍN TURKOWSKY"
+        },
+        {
+          "numero": 5,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 6,
+          "jugador": "GERÓNIMO RÍOS"
+        },
+        {
+          "numero": 7,
+          "jugador": "IGNACIO TORTORELLA"
+        },
+        {
+          "numero": 8,
+          "jugador": "PEDRO MONTENEGRO"
+        },
+        {
+          "numero": 9,
+          "jugador": "AGUSTIN TRAYNOR"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN PEDRO OCCHIUZZI"
+        },
+        {
+          "numero": 11,
+          "jugador": "ENZO CORSI"
+        },
+        {
+          "numero": 12,
+          "jugador": "JUAN MATIAS TRAYNOR"
+        },
+        {
+          "numero": 13,
+          "jugador": "FRANCISCO OCCHIUZZI"
+        },
+        {
+          "numero": 14,
+          "jugador": "GONZALO GREGORIO"
+        },
+        {
+          "numero": 15,
+          "jugador": "SANTIAGO TRAYNOR",
+          "capitan": true
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "JORGE BENÍTEZ",
+          "entraPor": "RODRIGO GOMEZ"
+        },
+        {
+          "jugador": "TOBIAS LUCERO",
+          "entraPor": "GERÓNIMO RÍOS"
+        },
+        {
+          "jugador": "MATÍAS COMPANYS",
+          "entraPor": "AGUSTIN TRAYNOR"
+        },
+        {
+          "jugador": "RODRIGO ESMAYEL",
+          "entraPor": "PEDRO MONTENEGRO"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "FRANCISCO COMABELLA",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "IGNACIO TORTORELLA",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "TOBIAS LUCERO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "CONVERSION",
+          "cantidad": 3
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "PENAL",
+          "cantidad": 2
+        }
+      ],
+      "tarjetas": [
+        {
+          "jugador": "RODRIGO GOMEZ",
+          "tipo": "AMARILLA"
+        }
+      ]
+    },
+    {
+      "fecha": "2023-05-13",
+      "fechaNota": null,
+      "rival": "ST BRENDAN'S",
+      "condicion": "VISITANTE",
+      "resultadoPropio": 35,
+      "resultadoRival": 26,
+      "cancha": "ST.BRENDANS",
+      "clima": "BUENO",
+      "campoDeJuego": "BUENO",
+      "referee": "AROCENA",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "JOAQUIN TRAYNOR"
+        },
+        {
+          "numero": 3,
+          "jugador": "FEDERICO MARTINEZ"
+        },
+        {
+          "numero": 4,
+          "jugador": "PEDRO MONTENEGRO"
+        },
+        {
+          "numero": 5,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 6,
+          "jugador": "JUAN MARTÍN TURKOWSKY"
+        },
+        {
+          "numero": 7,
+          "jugador": "IGNACIO TORTORELLA"
+        },
+        {
+          "numero": 8,
+          "jugador": "TOBIAS LUCERO"
+        },
+        {
+          "numero": 9,
+          "jugador": "AGUSTIN TRAYNOR"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN PEDRO OCCHIUZZI"
+        },
+        {
+          "numero": 11,
+          "jugador": "ENZO CORSI"
+        },
+        {
+          "numero": 12,
+          "jugador": "JUAN MATIAS TRAYNOR"
+        },
+        {
+          "numero": 13,
+          "jugador": "FRANCISCO OCCHIUZZI"
+        },
+        {
+          "numero": 14,
+          "jugador": "GONZALO GREGORIO"
+        },
+        {
+          "numero": 15,
+          "jugador": "SANTIAGO TRAYNOR",
+          "capitan": true
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "JORGE BENÍTEZ",
+          "entraPor": "RODRIGO GOMEZ"
+        },
+        {
+          "jugador": "SANTINO GEREZ",
+          "entraPor": "JUAN MATIAS TRAYNOR"
+        },
+        {
+          "jugador": "MATÍAS COMPANYS",
+          "entraPor": "AGUSTIN TRAYNOR"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "TRY SCRUM",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "IGNACIO TORTORELLA",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "GONZALO GREGORIO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTINO GEREZ",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "CONVERSION",
+          "cantidad": 5
+        }
+      ],
+      "tarjetas": []
+    },
+    {
+      "fecha": "2023-05-20",
+      "fechaNota": null,
+      "rival": "CAR",
+      "condicion": "LOCAL",
+      "resultadoPropio": 41,
+      "resultadoRival": 33,
+      "cancha": "VICENTINOS",
+      "clima": "NUBLADO",
+      "campoDeJuego": "PESADO",
+      "referee": "RANALLI",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "JOAQUIN TRAYNOR"
+        },
+        {
+          "numero": 3,
+          "jugador": "FEDERICO MARTINEZ"
+        },
+        {
+          "numero": 4,
+          "jugador": "PEDRO MONTENEGRO"
+        },
+        {
+          "numero": 5,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 6,
+          "jugador": "JUAN MARTÍN TURKOWSKY"
+        },
+        {
+          "numero": 7,
+          "jugador": "IGNACIO TORTORELLA"
+        },
+        {
+          "numero": 8,
+          "jugador": "TOBIAS LUCERO"
+        },
+        {
+          "numero": 9,
+          "jugador": "AGUSTIN TRAYNOR"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN PEDRO OCCHIUZZI"
+        },
+        {
+          "numero": 11,
+          "jugador": "ENZO CORSI"
+        },
+        {
+          "numero": 12,
+          "jugador": "SANTINO GEREZ"
+        },
+        {
+          "numero": 13,
+          "jugador": "FRANCISCO OCCHIUZZI"
+        },
+        {
+          "numero": 14,
+          "jugador": "GONZALO GREGORIO"
+        },
+        {
+          "numero": 15,
+          "jugador": "SANTIAGO TRAYNOR",
+          "capitan": true
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "JORGE BENÍTEZ",
+          "entraPor": "FEDERICO MARTINEZ"
+        },
+        {
+          "jugador": "EZEQUIEL BALESTRA",
+          "entraPor": "RODRIGO GOMEZ"
+        },
+        {
+          "jugador": "MATÍAS COMPANYS",
+          "entraPor": "AGUSTIN TRAYNOR"
+        },
+        {
+          "jugador": "ANDRÉS BUSTAMANTE",
+          "entraPor": "GONZALO GREGORIO"
+        },
+        {
+          "jugador": "GERÓNIMO RÍOS",
+          "entraPor": "PEDRO MONTENEGRO"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "FRANCISCO COMABELLA",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "IGNACIO TORTORELLA",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "PEDRO MONTENEGRO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "GONZALO GREGORIO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "JOAQUIN TRAYNOR",
+          "tipo": "TRY",
+          "cantidad": 2
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "CONVERSION",
+          "cantidad": 4
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "PENAL",
+          "cantidad": 1
+        }
+      ],
+      "tarjetas": []
+    },
+    {
+      "fecha": "2023-06-03",
+      "fechaNota": null,
+      "rival": "LICEO MILITAR",
+      "condicion": "VISITANTE",
+      "resultadoPropio": 28,
+      "resultadoRival": 31,
+      "cancha": "LICEO MILITAR",
+      "clima": "BUENO",
+      "campoDeJuego": "MUY BUENO",
+      "referee": "AROCENA",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "JORGE BENÍTEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "JOAQUIN TRAYNOR"
+        },
+        {
+          "numero": 3,
+          "jugador": "FEDERICO MARTINEZ"
+        },
+        {
+          "numero": 4,
+          "jugador": "PEDRO MONTENEGRO"
+        },
+        {
+          "numero": 5,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 6,
+          "jugador": "JUAN MARTÍN TURKOWSKY"
+        },
+        {
+          "numero": 7,
+          "jugador": "GERÓNIMO RÍOS"
+        },
+        {
+          "numero": 8,
+          "jugador": "TOBIAS LUCERO"
+        },
+        {
+          "numero": 9,
+          "jugador": "AGUSTIN TRAYNOR"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN PEDRO OCCHIUZZI"
+        },
+        {
+          "numero": 11,
+          "jugador": "ENZO CORSI"
+        },
+        {
+          "numero": 12,
+          "jugador": "SANTINO GEREZ"
+        },
+        {
+          "numero": 13,
+          "jugador": "FRANCISCO OCCHIUZZI"
+        },
+        {
+          "numero": 14,
+          "jugador": "GONZALO GREGORIO"
+        },
+        {
+          "numero": 15,
+          "jugador": "SANTIAGO TRAYNOR",
+          "capitan": true
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "RODRIGO GOMEZ",
+          "entraPor": "JORGE BENÍTEZ"
+        },
+        {
+          "jugador": "JUAN MATIAS TRAYNOR",
+          "entraPor": "JUAN PEDRO OCCHIUZZI"
+        },
+        {
+          "jugador": "MATÍAS COMPANYS",
+          "entraPor": "AGUSTIN TRAYNOR"
+        },
+        {
+          "jugador": "ANDRÉS BUSTAMANTE",
+          "entraPor": "ENZO CORSI"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "JOAQUIN TRAYNOR",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "MATÍAS COMPANYS",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "TOBIAS LUCERO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "CONVERSION",
+          "cantidad": 2
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "PENAL",
+          "cantidad": 3
+        }
+      ],
+      "tarjetas": [
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "tipo": "AMARILLA"
+        }
+      ]
+    },
+    {
+      "fecha": "2023-06-10",
+      "fechaNota": null,
+      "rival": "LUJAN",
+      "condicion": "LOCAL",
+      "resultadoPropio": 25,
+      "resultadoRival": 19,
+      "cancha": "VICENTINOS",
+      "clima": "NUBLADO",
+      "campoDeJuego": "BUENO",
+      "referee": "RUIBAL",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "JOAQUIN TRAYNOR"
+        },
+        {
+          "numero": 3,
+          "jugador": "FEDERICO MARTINEZ"
+        },
+        {
+          "numero": 4,
+          "jugador": "PEDRO MONTENEGRO"
+        },
+        {
+          "numero": 5,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 6,
+          "jugador": "JUAN MARTÍN TURKOWSKY"
+        },
+        {
+          "numero": 7,
+          "jugador": "GERÓNIMO RÍOS"
+        },
+        {
+          "numero": 8,
+          "jugador": "TOBIAS LUCERO"
+        },
+        {
+          "numero": 9,
+          "jugador": "AGUSTIN TRAYNOR"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN PEDRO OCCHIUZZI"
+        },
+        {
+          "numero": 11,
+          "jugador": "ENZO CORSI"
+        },
+        {
+          "numero": 12,
+          "jugador": "SANTINO GEREZ"
+        },
+        {
+          "numero": 13,
+          "jugador": "FRANCISCO OCCHIUZZI"
+        },
+        {
+          "numero": 14,
+          "jugador": "GONZALO GREGORIO"
+        },
+        {
+          "numero": 15,
+          "jugador": "SANTIAGO TRAYNOR",
+          "capitan": true
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "ANDRÉS BUSTAMANTE",
+          "entraPor": "GONZALO GREGORIO"
+        },
+        {
+          "jugador": "MATÍAS COMPANYS",
+          "entraPor": "AGUSTIN TRAYNOR"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "PEDRO MONTENEGRO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "TRY PENAL",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "CONVERSION",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "PENAL",
+          "cantidad": 2
+        }
+      ],
+      "tarjetas": [
+        {
+          "jugador": "AGUSTIN TRAYNOR",
+          "tipo": "AMARILLA"
+        }
+      ]
+    },
+    {
+      "fecha": "2023-06-24",
+      "fechaNota": null,
+      "rival": "ARECO",
+      "condicion": "VISITANTE",
+      "resultadoPropio": 41,
+      "resultadoRival": 33,
+      "cancha": "ARECO",
+      "clima": "NUBLADO",
+      "campoDeJuego": "BUENO",
+      "referee": "SANTILLÁN",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "JORGE BENÍTEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "JOAQUIN TRAYNOR"
+        },
+        {
+          "numero": 3,
+          "jugador": "FEDERICO MARTINEZ"
+        },
+        {
+          "numero": 4,
+          "jugador": "PEDRO MONTENEGRO"
+        },
+        {
+          "numero": 5,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 6,
+          "jugador": "JUAN MARTÍN TURKOWSKY"
+        },
+        {
+          "numero": 7,
+          "jugador": "GERÓNIMO RÍOS"
+        },
+        {
+          "numero": 8,
+          "jugador": "TOBIAS LUCERO"
+        },
+        {
+          "numero": 9,
+          "jugador": "AGUSTIN TRAYNOR"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN PEDRO OCCHIUZZI"
+        },
+        {
+          "numero": 11,
+          "jugador": "ENZO CORSI"
+        },
+        {
+          "numero": 12,
+          "jugador": "JUAN MATIAS TRAYNOR"
+        },
+        {
+          "numero": 13,
+          "jugador": "FRANCISCO OCCHIUZZI"
+        },
+        {
+          "numero": 14,
+          "jugador": "ANDRÉS BUSTAMANTE"
+        },
+        {
+          "numero": 15,
+          "jugador": "SANTIAGO TRAYNOR",
+          "capitan": true
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "NICOLÁS LOZANO",
+          "entraPor": "JUAN MATIAS TRAYNOR"
+        },
+        {
+          "jugador": "IGNACIO TORTORELLA",
+          "entraPor": "TOBIAS LUCERO"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "JUAN MATIAS TRAYNOR",
+          "tipo": "TRY",
+          "cantidad": 2
+        },
+        {
+          "jugador": "JOAQUIN TRAYNOR",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "AGUSTIN TRAYNOR",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "CONVERSION",
+          "cantidad": 5
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "PENAL",
+          "cantidad": 2
+        }
+      ],
+      "tarjetas": [
+        {
+          "jugador": "JUAN MARTÍN TURKOWSKY",
+          "tipo": "AMARILLA"
+        }
+      ]
+    },
+    {
+      "fecha": "2023-07-01",
+      "fechaNota": null,
+      "rival": "DAOM",
+      "condicion": "LOCAL",
+      "resultadoPropio": 37,
+      "resultadoRival": 25,
+      "cancha": "VICENTINOS",
+      "clima": "BUENO",
+      "campoDeJuego": "BUENO",
+      "referee": "MADRID",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "JORGE BENÍTEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "JOAQUIN TRAYNOR"
+        },
+        {
+          "numero": 3,
+          "jugador": "FEDERICO MARTINEZ"
+        },
+        {
+          "numero": 4,
+          "jugador": "PEDRO MONTENEGRO"
+        },
+        {
+          "numero": 5,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 6,
+          "jugador": "JUAN MARTÍN TURKOWSKY"
+        },
+        {
+          "numero": 7,
+          "jugador": "GERÓNIMO RÍOS"
+        },
+        {
+          "numero": 8,
+          "jugador": "TOBIAS LUCERO"
+        },
+        {
+          "numero": 9,
+          "jugador": "AGUSTIN TRAYNOR"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN PEDRO OCCHIUZZI"
+        },
+        {
+          "numero": 11,
+          "jugador": "ENZO CORSI"
+        },
+        {
+          "numero": 12,
+          "jugador": "JUAN MATIAS TRAYNOR"
+        },
+        {
+          "numero": 13,
+          "jugador": "FRANCISCO OCCHIUZZI"
+        },
+        {
+          "numero": 14,
+          "jugador": "ANDRÉS BUSTAMANTE"
+        },
+        {
+          "numero": 15,
+          "jugador": "SANTIAGO TRAYNOR",
+          "capitan": true
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "RODRIGO GOMEZ",
+          "entraPor": "JORGE BENÍTEZ"
+        },
+        {
+          "jugador": "IGNACIO TORTORELLA",
+          "entraPor": "PEDRO MONTENEGRO"
+        },
+        {
+          "jugador": "RODRIGO ESMAYEL",
+          "entraPor": "GERÓNIMO RÍOS"
+        },
+        {
+          "jugador": "EZEQUIEL BALESTRA",
+          "entraPor": "JOAQUIN TRAYNOR"
+        },
+        {
+          "jugador": "MATÍAS COMPANYS",
+          "entraPor": "AGUSTIN TRAYNOR"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "ANDRÉS BUSTAMANTE",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "TOBIAS LUCERO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "FRANCISCO OCCHIUZZI",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "CONVERSION",
+          "cantidad": 4
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "PENAL",
+          "cantidad": 3
+        }
+      ],
+      "tarjetas": []
+    },
+    {
+      "fecha": "2023-07-08",
+      "fechaNota": null,
+      "rival": "MONTE GRANDE",
+      "condicion": "LOCAL",
+      "resultadoPropio": 28,
+      "resultadoRival": 22,
+      "cancha": "VICENTINOS",
+      "clima": "NUBLADO",
+      "campoDeJuego": "BUENO",
+      "referee": "ESPINOSA",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "JOAQUIN TRAYNOR"
+        },
+        {
+          "numero": 3,
+          "jugador": "FEDERICO MARTINEZ"
+        },
+        {
+          "numero": 4,
+          "jugador": "JUAN MARTÍN TURKOWSKY"
+        },
+        {
+          "numero": 5,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 6,
+          "jugador": "IGNACIO TORTORELLA"
+        },
+        {
+          "numero": 7,
+          "jugador": "GERÓNIMO RÍOS"
+        },
+        {
+          "numero": 8,
+          "jugador": "PEDRO MONTENEGRO"
+        },
+        {
+          "numero": 9,
+          "jugador": "AGUSTIN TRAYNOR"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN PEDRO OCCHIUZZI"
+        },
+        {
+          "numero": 11,
+          "jugador": "ENZO CORSI"
+        },
+        {
+          "numero": 12,
+          "jugador": "JUAN MATIAS TRAYNOR"
+        },
+        {
+          "numero": 13,
+          "jugador": "FRANCISCO OCCHIUZZI"
+        },
+        {
+          "numero": 14,
+          "jugador": "ANDRÉS BUSTAMANTE"
+        },
+        {
+          "numero": 15,
+          "jugador": "SANTIAGO TRAYNOR",
+          "capitan": true
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "JORGE BENÍTEZ",
+          "entraPor": "RODRIGO GOMEZ"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "FRANCISCO OCCHIUZZI",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "GERÓNIMO RÍOS",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "JOAQUIN TRAYNOR",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "CONVERSION",
+          "cantidad": 4
+        }
+      ],
+      "tarjetas": [
+        {
+          "jugador": "FRANCISCO COMABELLA",
+          "tipo": "AMARILLA"
+        },
+        {
+          "jugador": "GERÓNIMO RÍOS",
+          "tipo": "AMARILLA"
+        }
+      ]
+    },
+    {
+      "fecha": "2023-07-15",
+      "fechaNota": null,
+      "rival": "EL RETIRO",
+      "condicion": "LOCAL",
+      "resultadoPropio": 29,
+      "resultadoRival": 0,
+      "cancha": "VICENTINOS",
+      "clima": "NUBLADO",
+      "campoDeJuego": "REGULAR",
+      "referee": "AROCENA",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "JOAQUIN TRAYNOR"
+        },
+        {
+          "numero": 3,
+          "jugador": "FEDERICO MARTINEZ"
+        },
+        {
+          "numero": 4,
+          "jugador": "JUAN MARTÍN TURKOWSKY"
+        },
+        {
+          "numero": 5,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 6,
+          "jugador": "IGNACIO TORTORELLA"
+        },
+        {
+          "numero": 7,
+          "jugador": "GERÓNIMO RÍOS"
+        },
+        {
+          "numero": 8,
+          "jugador": "PEDRO MONTENEGRO"
+        },
+        {
+          "numero": 9,
+          "jugador": "AGUSTIN TRAYNOR"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN PEDRO OCCHIUZZI"
+        },
+        {
+          "numero": 11,
+          "jugador": "ENZO CORSI"
+        },
+        {
+          "numero": 12,
+          "jugador": "JUAN MATIAS TRAYNOR"
+        },
+        {
+          "numero": 13,
+          "jugador": "FRANCISCO OCCHIUZZI"
+        },
+        {
+          "numero": 14,
+          "jugador": "ANDRÉS BUSTAMANTE"
+        },
+        {
+          "numero": 15,
+          "jugador": "SANTIAGO TRAYNOR",
+          "capitan": true
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "JORGE BENÍTEZ",
+          "entraPor": "FEDERICO MARTINEZ"
+        },
+        {
+          "jugador": "EZEQUIEL BALESTRA",
+          "entraPor": "JOAQUIN TRAYNOR"
+        },
+        {
+          "jugador": "MATÍAS COMPANYS",
+          "entraPor": "AGUSTIN TRAYNOR"
+        },
+        {
+          "jugador": "RODRIGO ESMAYEL",
+          "entraPor": "GERÓNIMO RÍOS"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "IGNACIO TORTORELLA",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "FRANCISCO COMABELLA",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "JUAN MATIAS TRAYNOR",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "CONVERSION",
+          "cantidad": 3
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "PENAL",
+          "cantidad": 1
+        }
+      ],
+      "tarjetas": [
+        {
+          "jugador": "IGNACIO TORTORELLA",
+          "tipo": "AMARILLA"
+        }
+      ]
+    },
+    {
+      "fecha": "2023-07-22",
+      "fechaNota": null,
+      "rival": "CENTRO NAVAL",
+      "condicion": "VISITANTE",
+      "resultadoPropio": 21,
+      "resultadoRival": 14,
+      "cancha": "CENTRO NAVAL",
+      "clima": "NUBLADO",
+      "campoDeJuego": "BUENO",
+      "referee": "RANALLI",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "JOAQUIN TRAYNOR"
+        },
+        {
+          "numero": 3,
+          "jugador": "FEDERICO MARTINEZ"
+        },
+        {
+          "numero": 4,
+          "jugador": "JUAN MARTÍN TURKOWSKY"
+        },
+        {
+          "numero": 5,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 6,
+          "jugador": "IGNACIO TORTORELLA"
+        },
+        {
+          "numero": 7,
+          "jugador": "GERÓNIMO RÍOS"
+        },
+        {
+          "numero": 8,
+          "jugador": "PEDRO MONTENEGRO"
+        },
+        {
+          "numero": 9,
+          "jugador": "AGUSTIN TRAYNOR"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN PEDRO OCCHIUZZI"
+        },
+        {
+          "numero": 11,
+          "jugador": "ENZO CORSI"
+        },
+        {
+          "numero": 12,
+          "jugador": "JUAN MATIAS TRAYNOR"
+        },
+        {
+          "numero": 13,
+          "jugador": "FRANCISCO OCCHIUZZI"
+        },
+        {
+          "numero": 14,
+          "jugador": "ANDRÉS BUSTAMANTE"
+        },
+        {
+          "numero": 15,
+          "jugador": "SANTIAGO TRAYNOR",
+          "capitan": true
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "JORGE BENÍTEZ",
+          "entraPor": "FEDERICO MARTINEZ"
+        },
+        {
+          "jugador": "EZEQUIEL BALESTRA",
+          "entraPor": "JOAQUIN TRAYNOR"
+        },
+        {
+          "jugador": "MATÍAS COMPANYS",
+          "entraPor": "AGUSTIN TRAYNOR"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "JOAQUIN TRAYNOR",
+          "tipo": "TRY",
+          "cantidad": 2
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "CONVERSION",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "PENAL",
+          "cantidad": 2
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "tipo": "DROP",
+          "cantidad": 1
+        }
+      ],
+      "tarjetas": []
+    },
+    {
+      "fecha": "2023-07-29",
+      "fechaNota": null,
+      "rival": "CLUB ITALIANO",
+      "condicion": "VISITANTE",
+      "resultadoPropio": 15,
+      "resultadoRival": 14,
+      "cancha": "VICENTNOS",
+      "clima": "BUENO",
+      "campoDeJuego": "BUENO",
+      "referee": "LARRUBIA",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "JOAQUIN TRAYNOR"
+        },
+        {
+          "numero": 3,
+          "jugador": "FEDERICO MARTINEZ"
+        },
+        {
+          "numero": 4,
+          "jugador": "JUAN MARTÍN TURKOWSKY"
+        },
+        {
+          "numero": 5,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 6,
+          "jugador": "IGNACIO TORTORELLA"
+        },
+        {
+          "numero": 7,
+          "jugador": "GERÓNIMO RÍOS"
+        },
+        {
+          "numero": 8,
+          "jugador": "PEDRO MONTENEGRO"
+        },
+        {
+          "numero": 9,
+          "jugador": "AGUSTIN TRAYNOR"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN PEDRO OCCHIUZZI"
+        },
+        {
+          "numero": 11,
+          "jugador": "ENZO CORSI"
+        },
+        {
+          "numero": 12,
+          "jugador": "JUAN MATIAS TRAYNOR"
+        },
+        {
+          "numero": 13,
+          "jugador": "FRANCISCO OCCHIUZZI"
+        },
+        {
+          "numero": 14,
+          "jugador": "ANDRÉS BUSTAMANTE"
+        },
+        {
+          "numero": 15,
+          "jugador": "SANTIAGO TRAYNOR",
+          "capitan": true
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "JORGE BENÍTEZ",
+          "entraPor": "FEDERICO MARTINEZ"
+        },
+        {
+          "jugador": "EZEQUIEL BALESTRA",
+          "entraPor": "JOAQUIN TRAYNOR"
+        },
+        {
+          "jugador": "MATÍAS COMPANYS",
+          "entraPor": "AGUSTIN TRAYNOR"
+        },
+        {
+          "jugador": "GONZALO GREGORIO",
+          "entraPor": "ANDRÉS BUSTAMANTE"
+        },
+        {
+          "jugador": "TOBIAS LUCERO",
+          "entraPor": "GERÓNIMO RÍOS"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "RODRIGO GOMEZ",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "JORGE BENÍTEZ",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "CONVERSION",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "PENAL",
+          "cantidad": 1
+        }
+      ],
+      "tarjetas": [
+        {
+          "jugador": "JUAN MATIAS TRAYNOR",
+          "tipo": "AMARILLA"
+        }
+      ]
+    },
+    {
+      "fecha": "2023-08-12",
+      "fechaNota": null,
+      "rival": "CASA DE PADUA",
+      "condicion": "VISITANTE",
+      "resultadoPropio": 26,
+      "resultadoRival": 10,
+      "cancha": "CASA DE PADUA",
+      "clima": "BUENO",
+      "campoDeJuego": "BUENO",
+      "referee": "TERRERA",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "JORGE BENÍTEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "JOAQUIN TRAYNOR"
+        },
+        {
+          "numero": 3,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 4,
+          "jugador": "JUAN MARTÍN TURKOWSKY"
+        },
+        {
+          "numero": 5,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 6,
+          "jugador": "IGNACIO TORTORELLA"
+        },
+        {
+          "numero": 7,
+          "jugador": "GERÓNIMO RÍOS"
+        },
+        {
+          "numero": 8,
+          "jugador": "PEDRO MONTENEGRO"
+        },
+        {
+          "numero": 9,
+          "jugador": "AGUSTIN TRAYNOR"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN PEDRO OCCHIUZZI"
+        },
+        {
+          "numero": 11,
+          "jugador": "ENZO CORSI"
+        },
+        {
+          "numero": 12,
+          "jugador": "JUAN MATIAS TRAYNOR"
+        },
+        {
+          "numero": 13,
+          "jugador": "FRANCISCO OCCHIUZZI"
+        },
+        {
+          "numero": 14,
+          "jugador": "ANDRÉS BUSTAMANTE"
+        },
+        {
+          "numero": 15,
+          "jugador": "SANTIAGO TRAYNOR",
+          "capitan": true
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "FRANCO RODRIGUEZ",
+          "entraPor": "RODRIGO GOMEZ"
+        },
+        {
+          "jugador": "EZEQUIEL BALESTRA",
+          "entraPor": "JOAQUIN TRAYNOR"
+        },
+        {
+          "jugador": "MATÍAS COMPANYS",
+          "entraPor": "AGUSTIN TRAYNOR"
+        },
+        {
+          "jugador": "GONZALO GREGORIO",
+          "entraPor": "ANDRÉS BUSTAMANTE"
+        },
+        {
+          "jugador": "TOBIAS LUCERO",
+          "entraPor": "GERÓNIMO RÍOS"
+        },
+        {
+          "jugador": "MIGUEL ALMIRÓN",
+          "entraPor": "JORGE BENÍTEZ"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "IGNACIO TORTORELLA",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "ENZO CORSI",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "TOBIAS LUCERO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "CONVERSION",
+          "cantidad": 3
+        }
+      ],
+      "tarjetas": [
+        {
+          "jugador": "FRANCISCO COMABELLA",
+          "tipo": "AMARILLA"
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "AMARILLA"
+        }
+      ]
+    },
+    {
+      "fecha": "2023-08-19",
+      "fechaNota": null,
+      "rival": "ATLÉTICO Y PROGRESO",
+      "condicion": "LOCAL",
+      "resultadoPropio": 29,
+      "resultadoRival": 15,
+      "cancha": "VICENTINOS",
+      "clima": "NUBLADO",
+      "campoDeJuego": "BUENO",
+      "referee": "RUIBAL",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "JORGE BENÍTEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "JOAQUIN TRAYNOR"
+        },
+        {
+          "numero": 3,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 4,
+          "jugador": "PEDRO MONTENEGRO"
+        },
+        {
+          "numero": 5,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 6,
+          "jugador": "IGNACIO TORTORELLA"
+        },
+        {
+          "numero": 7,
+          "jugador": "JUAN MARTÍN TURKOWSKY"
+        },
+        {
+          "numero": 8,
+          "jugador": "TOBIAS LUCERO"
+        },
+        {
+          "numero": 9,
+          "jugador": "AGUSTIN TRAYNOR"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN PEDRO OCCHIUZZI"
+        },
+        {
+          "numero": 11,
+          "jugador": "ENZO CORSI"
+        },
+        {
+          "numero": 12,
+          "jugador": "JUAN MATIAS TRAYNOR"
+        },
+        {
+          "numero": 13,
+          "jugador": "FRANCISCO OCCHIUZZI"
+        },
+        {
+          "numero": 14,
+          "jugador": "ANDRÉS BUSTAMANTE"
+        },
+        {
+          "numero": 15,
+          "jugador": "SANTIAGO TRAYNOR",
+          "capitan": true
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "FRANCO RODRIGUEZ",
+          "entraPor": "JORGE BENÍTEZ"
+        },
+        {
+          "jugador": "EZEQUIEL BALESTRA",
+          "entraPor": "JOAQUIN TRAYNOR"
+        },
+        {
+          "jugador": "MATÍAS COMPANYS",
+          "entraPor": "AGUSTIN TRAYNOR"
+        },
+        {
+          "jugador": "GONZALO GREGORIO",
+          "entraPor": "ANDRÉS BUSTAMANTE"
+        },
+        {
+          "jugador": "GERÓNIMO RÍOS",
+          "entraPor": "IGNACIO TORTORELLA"
+        },
+        {
+          "jugador": "MIGUEL ALMIRÓN",
+          "entraPor": "FRANCO RODRIGUEZ"
+        },
+        {
+          "jugador": "RODRIGO ESMAYEL",
+          "entraPor": "JUAN MARTÍN TURKOWSKY"
+        },
+        {
+          "jugador": "FEDERICO PITTALA",
+          "entraPor": "JUAN PEDRO OCCHIUZZI"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "IGNACIO TORTORELLA",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "JOAQUIN TRAYNOR",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "TRY PENAL",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "FRANCISCO OCCHIUZZI",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "CONVERSION",
+          "cantidad": 2
+        }
+      ],
+      "tarjetas": [
+        {
+          "jugador": "ANDRÉS BUSTAMANTE",
+          "tipo": "AMARILLA"
+        },
+        {
+          "jugador": "RODRIGO GOMEZ",
+          "tipo": "AMARILLA"
+        },
+        {
+          "jugador": "AGUSTIN TRAYNOR",
+          "tipo": "AMARILLA"
+        }
+      ]
+    },
+    {
+      "fecha": "2023-08-26",
+      "fechaNota": null,
+      "rival": "LANUS",
+      "condicion": "VISITANTE",
+      "resultadoPropio": 30,
+      "resultadoRival": 28,
+      "cancha": "LANÚS",
+      "clima": "BUENO",
+      "campoDeJuego": "BUENO",
+      "referee": "MEDINA",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "JORGE BENÍTEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "JOAQUIN TRAYNOR"
+        },
+        {
+          "numero": 3,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 4,
+          "jugador": "PEDRO MONTENEGRO"
+        },
+        {
+          "numero": 5,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 6,
+          "jugador": "IGNACIO TORTORELLA"
+        },
+        {
+          "numero": 7,
+          "jugador": "JUAN MARTÍN TURKOWSKY"
+        },
+        {
+          "numero": 8,
+          "jugador": "TOBIAS LUCERO"
+        },
+        {
+          "numero": 9,
+          "jugador": "AGUSTIN TRAYNOR"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN PEDRO OCCHIUZZI"
+        },
+        {
+          "numero": 11,
+          "jugador": "ENZO CORSI"
+        },
+        {
+          "numero": 12,
+          "jugador": "JUAN MATIAS TRAYNOR"
+        },
+        {
+          "numero": 13,
+          "jugador": "FRANCISCO OCCHIUZZI"
+        },
+        {
+          "numero": 14,
+          "jugador": "ANDRÉS BUSTAMANTE"
+        },
+        {
+          "numero": 15,
+          "jugador": "SANTIAGO TRAYNOR",
+          "capitan": true
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "FEDERICO MARTINEZ",
+          "entraPor": "RODRIGO GOMEZ"
+        },
+        {
+          "jugador": "EZEQUIEL BALESTRA",
+          "entraPor": "JOAQUIN TRAYNOR"
+        },
+        {
+          "jugador": "GONZALO GREGORIO",
+          "entraPor": "JUAN MATIAS TRAYNOR"
+        },
+        {
+          "jugador": "GERÓNIMO RÍOS",
+          "entraPor": "PEDRO MONTENEGRO"
+        },
+        {
+          "jugador": "JUAN PABLO GAUTO",
+          "entraPor": "TOBIAS LUCERO"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "TOBIAS LUCERO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "ENZO CORSI",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "CONVERSION",
+          "cantidad": 2
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "PENAL",
+          "cantidad": 2
+        }
+      ],
+      "tarjetas": []
+    },
+    {
+      "fecha": "2023-09-02",
+      "fechaNota": null,
+      "rival": "ST BRENDAN'S",
+      "condicion": "LOCAL",
+      "resultadoPropio": 32,
+      "resultadoRival": 17,
+      "cancha": "VICENTINOS",
+      "clima": "NUBLADO",
+      "campoDeJuego": "BUENO",
+      "referee": "MADRID",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "JOAQUIN TRAYNOR"
+        },
+        {
+          "numero": 3,
+          "jugador": "FEDERICO MARTINEZ"
+        },
+        {
+          "numero": 4,
+          "jugador": "JUAN MARTÍN TURKOWSKY"
+        },
+        {
+          "numero": 5,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 6,
+          "jugador": "IGNACIO TORTORELLA"
+        },
+        {
+          "numero": 7,
+          "jugador": "GERÓNIMO RÍOS"
+        },
+        {
+          "numero": 8,
+          "jugador": "TOBIAS LUCERO"
+        },
+        {
+          "numero": 9,
+          "jugador": "AGUSTIN TRAYNOR"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN PEDRO OCCHIUZZI"
+        },
+        {
+          "numero": 11,
+          "jugador": "ENZO CORSI"
+        },
+        {
+          "numero": 12,
+          "jugador": "FRANCISCO OCCHIUZZI"
+        },
+        {
+          "numero": 13,
+          "jugador": "GONZALO GREGORIO"
+        },
+        {
+          "numero": 14,
+          "jugador": "ANDRÉS BUSTAMANTE"
+        },
+        {
+          "numero": 15,
+          "jugador": "SANTIAGO TRAYNOR",
+          "capitan": true
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "MIGUEL ALMIRÓN",
+          "entraPor": "FEDERICO MARTINEZ"
+        },
+        {
+          "jugador": "EZEQUIEL BALESTRA",
+          "entraPor": "JOAQUIN TRAYNOR"
+        },
+        {
+          "jugador": "RODRIGO ESMAYEL",
+          "entraPor": "GERÓNIMO RÍOS"
+        },
+        {
+          "jugador": "MATÍAS COMPANYS",
+          "entraPor": "AGUSTIN TRAYNOR"
+        },
+        {
+          "jugador": "IGNACIO TORRES CIUTAT",
+          "entraPor": "FRANCISCO OCCHIUZZI"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "TOBIAS LUCERO",
+          "tipo": "TRY",
+          "cantidad": 2
+        },
+        {
+          "jugador": "IGNACIO TORTORELLA",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "CONVERSION",
+          "cantidad": 3
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "PENAL",
+          "cantidad": 2
+        }
+      ],
+      "tarjetas": [
+        {
+          "jugador": "MIGUEL ALMIRÓN",
+          "tipo": "AMARILLA"
+        }
+      ]
+    },
+    {
+      "fecha": "2023-09-16",
+      "fechaNota": null,
+      "rival": "CAR",
+      "condicion": "VISITANTE",
+      "resultadoPropio": 33,
+      "resultadoRival": 36,
+      "cancha": "CAR",
+      "clima": "BUENO",
+      "campoDeJuego": "BUENO",
+      "referee": "MUNCAL",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "JOAQUIN TRAYNOR"
+        },
+        {
+          "numero": 3,
+          "jugador": "FEDERICO MARTINEZ"
+        },
+        {
+          "numero": 4,
+          "jugador": "PEDRO MONTENEGRO"
+        },
+        {
+          "numero": 5,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 6,
+          "jugador": "IGNACIO TORTORELLA"
+        },
+        {
+          "numero": 7,
+          "jugador": "JUAN MARTÍN TURKOWSKY"
+        },
+        {
+          "numero": 8,
+          "jugador": "TOBIAS LUCERO"
+        },
+        {
+          "numero": 9,
+          "jugador": "AGUSTIN TRAYNOR"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN PEDRO OCCHIUZZI"
+        },
+        {
+          "numero": 11,
+          "jugador": "ENZO CORSI"
+        },
+        {
+          "numero": 12,
+          "jugador": "JUAN MATIAS TRAYNOR"
+        },
+        {
+          "numero": 13,
+          "jugador": "FRANCISCO OCCHIUZZI"
+        },
+        {
+          "numero": 14,
+          "jugador": "GONZALO GREGORIO"
+        },
+        {
+          "numero": 15,
+          "jugador": "SANTIAGO TRAYNOR",
+          "capitan": true
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "JORGE BENÍTEZ",
+          "entraPor": "FEDERICO MARTINEZ"
+        },
+        {
+          "jugador": "EZEQUIEL BALESTRA",
+          "entraPor": "JOAQUIN TRAYNOR"
+        },
+        {
+          "jugador": "IGNACIO TORRES CIUTAT",
+          "entraPor": "JUAN MATIAS TRAYNOR"
+        },
+        {
+          "jugador": "GERÓNIMO RÍOS",
+          "entraPor": "TOBIAS LUCERO"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "TOBIAS LUCERO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "IGNACIO TORTORELLA",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "TRY PENAL",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "FRANCISCO OCCHIUZZI",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "ENZO CORSI",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "CONVERSION",
+          "cantidad": 3
+        }
+      ],
+      "tarjetas": [
+        {
+          "jugador": "AGUSTIN TRAYNOR",
+          "tipo": "AMARILLA"
+        }
+      ]
+    },
+    {
+      "fecha": "2023-09-23",
+      "fechaNota": null,
+      "rival": "LICEO MILITAR",
+      "condicion": "LOCAL",
+      "resultadoPropio": 13,
+      "resultadoRival": 23,
+      "cancha": "VICENTINOS",
+      "clima": "NUBLADO",
+      "campoDeJuego": "BUENO",
+      "referee": "RUIBAL",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "JOAQUIN TRAYNOR"
+        },
+        {
+          "numero": 3,
+          "jugador": "FEDERICO MARTINEZ"
+        },
+        {
+          "numero": 4,
+          "jugador": "JUAN MARTÍN TURKOWSKY"
+        },
+        {
+          "numero": 5,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 6,
+          "jugador": "IGNACIO TORTORELLA"
+        },
+        {
+          "numero": 7,
+          "jugador": "JUAN PABLO GAUTO"
+        },
+        {
+          "numero": 8,
+          "jugador": "TOBIAS LUCERO"
+        },
+        {
+          "numero": 9,
+          "jugador": "AGUSTIN TRAYNOR"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN PEDRO OCCHIUZZI"
+        },
+        {
+          "numero": 11,
+          "jugador": "ENZO CORSI"
+        },
+        {
+          "numero": 12,
+          "jugador": "IGNACIO TORRES CIUTAT"
+        },
+        {
+          "numero": 13,
+          "jugador": "FRANCISCO OCCHIUZZI"
+        },
+        {
+          "numero": 14,
+          "jugador": "GONZALO GREGORIO"
+        },
+        {
+          "numero": 15,
+          "jugador": "SANTIAGO TRAYNOR",
+          "capitan": true
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "JORGE BENÍTEZ",
+          "entraPor": "FEDERICO MARTINEZ"
+        },
+        {
+          "jugador": "EZEQUIEL BALESTRA",
+          "entraPor": "JOAQUIN TRAYNOR"
+        },
+        {
+          "jugador": "MIGUEL ALMIRÓN",
+          "entraPor": "RODRIGO GOMEZ"
+        },
+        {
+          "jugador": "PEDRO MONTENEGRO",
+          "entraPor": "TOBIAS LUCERO"
+        },
+        {
+          "jugador": "MATÍAS COMPANYS",
+          "entraPor": "AGUSTIN TRAYNOR"
+        },
+        {
+          "jugador": "GERÓNIMO RÍOS",
+          "entraPor": "PEDRO MONTENEGRO"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "JOAQUIN TRAYNOR",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "CONVERSION",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "PENAL",
+          "cantidad": 2
+        }
+      ],
+      "tarjetas": [
+        {
+          "jugador": "FRANCISCO COMABELLA",
+          "tipo": "AMARILLA"
+        }
+      ]
+    },
+    {
+      "fecha": "2023-09-30",
+      "fechaNota": null,
+      "rival": "LUJAN",
+      "condicion": "VISITANTE",
+      "resultadoPropio": 23,
+      "resultadoRival": 29,
+      "cancha": "LUJÁN",
+      "clima": "BUENO",
+      "campoDeJuego": "BUENO",
+      "referee": "IGARZÁBAL",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "JOAQUIN TRAYNOR"
+        },
+        {
+          "numero": 3,
+          "jugador": "FEDERICO MARTINEZ"
+        },
+        {
+          "numero": 4,
+          "jugador": "JUAN MARTÍN TURKOWSKY"
+        },
+        {
+          "numero": 5,
+          "jugador": "JOSE GRUBER"
+        },
+        {
+          "numero": 6,
+          "jugador": "GERÓNIMO RÍOS"
+        },
+        {
+          "numero": 7,
+          "jugador": "JUAN PABLO GAUTO"
+        },
+        {
+          "numero": 8,
+          "jugador": "IGNACIO TORTORELLA"
+        },
+        {
+          "numero": 9,
+          "jugador": "AGUSTIN TRAYNOR"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN PEDRO OCCHIUZZI"
+        },
+        {
+          "numero": 11,
+          "jugador": "ENZO CORSI"
+        },
+        {
+          "numero": 12,
+          "jugador": "IGNACIO TORRES CIUTAT"
+        },
+        {
+          "numero": 13,
+          "jugador": "FRANCISCO OCCHIUZZI"
+        },
+        {
+          "numero": 14,
+          "jugador": "GONZALO GREGORIO"
+        },
+        {
+          "numero": 15,
+          "jugador": "SANTIAGO TRAYNOR",
+          "capitan": true
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "JORGE BENÍTEZ",
+          "entraPor": "FEDERICO MARTINEZ"
+        },
+        {
+          "jugador": "EZEQUIEL BALESTRA",
+          "entraPor": "JOAQUIN TRAYNOR"
+        },
+        {
+          "jugador": "MIGUEL ALMIRÓN",
+          "entraPor": "RODRIGO GOMEZ"
+        },
+        {
+          "jugador": "PEDRO MONTENEGRO",
+          "entraPor": "JOSE GRUBER"
+        },
+        {
+          "jugador": "MATÍAS COMPANYS",
+          "entraPor": "AGUSTIN TRAYNOR"
+        },
+        {
+          "jugador": "RODRIGO ESMAYEL",
+          "entraPor": "JUAN PABLO GAUTO"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "IGNACIO TORTORELLA",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "IGNACIO TORRES CIUTAT",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "CONVERSION",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "PENAL",
+          "cantidad": 2
+        }
+      ],
+      "tarjetas": []
+    },
+    {
+      "fecha": "2023-10-21",
+      "fechaNota": null,
+      "rival": "ARECO",
+      "condicion": "LOCAL",
+      "resultadoPropio": 33,
+      "resultadoRival": 26,
+      "cancha": "VICENTINOS",
+      "clima": "BUENO",
+      "campoDeJuego": "BUENO",
+      "referee": "CURTI",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "JORGE BENÍTEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "JOAQUIN TRAYNOR"
+        },
+        {
+          "numero": 3,
+          "jugador": "FEDERICO MARTINEZ"
+        },
+        {
+          "numero": 4,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 5,
+          "jugador": "JOSE GRUBER"
+        },
+        {
+          "numero": 6,
+          "jugador": "IGNACIO TORTORELLA"
+        },
+        {
+          "numero": 7,
+          "jugador": "JUAN MARTÍN TURKOWSKY"
+        },
+        {
+          "numero": 8,
+          "jugador": "PEDRO MONTENEGRO"
+        },
+        {
+          "numero": 9,
+          "jugador": "AGUSTIN TRAYNOR"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN PEDRO OCCHIUZZI"
+        },
+        {
+          "numero": 11,
+          "jugador": "ENZO CORSI"
+        },
+        {
+          "numero": 12,
+          "jugador": "SANTINO GEREZ"
+        },
+        {
+          "numero": 13,
+          "jugador": "FRANCISCO OCCHIUZZI"
+        },
+        {
+          "numero": 14,
+          "jugador": "GONZALO GREGORIO"
+        },
+        {
+          "numero": 15,
+          "jugador": "SANTIAGO TRAYNOR",
+          "capitan": true
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "FRANCO RODRIGUEZ",
+          "entraPor": "FEDERICO MARTINEZ"
+        },
+        {
+          "jugador": "GONZALO GÓMEZ ARRÚA",
+          "entraPor": "GONZALO GREGORIO"
+        },
+        {
+          "jugador": "JUAN PABLO GAUTO",
+          "entraPor": "JOSE GRUBER"
+        },
+        {
+          "jugador": "MIGUEL ALMIRÓN",
+          "entraPor": "JORGE BENÍTEZ"
+        },
+        {
+          "jugador": "MATÍAS COMPANYS",
+          "entraPor": "AGUSTIN TRAYNOR"
+        },
+        {
+          "jugador": "JUAN MATIAS TRAYNOR",
+          "entraPor": "SANTIAGO TRAYNOR"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "AGUSTIN TRAYNOR",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "GONZALO GREGORIO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "IGNACIO TORTORELLA",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "JOAQUIN TRAYNOR",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "CONVERSION",
+          "cantidad": 4
+        }
+      ],
+      "tarjetas": [
+        {
+          "jugador": "FRANCISCO OCCHIUZZI",
+          "tipo": "AMARILLA"
+        },
+        {
+          "jugador": "MATÍAS COMPANYS",
+          "tipo": "AMARILLA"
+        }
+      ]
+    },
+    {
+      "fecha": "2023-10-28",
+      "fechaNota": null,
+      "rival": "DAOM",
+      "condicion": "VISITANTE",
+      "resultadoPropio": 36,
+      "resultadoRival": 33,
+      "cancha": "DAOM",
+      "clima": "BUENO",
+      "campoDeJuego": "BUENO",
+      "referee": "FIGUEREDO",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "JORGE BENÍTEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "JOAQUIN TRAYNOR"
+        },
+        {
+          "numero": 3,
+          "jugador": "FEDERICO MARTINEZ"
+        },
+        {
+          "numero": 4,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 5,
+          "jugador": "JOSE GRUBER"
+        },
+        {
+          "numero": 6,
+          "jugador": "GERÓNIMO RÍOS"
+        },
+        {
+          "numero": 7,
+          "jugador": "JUAN MARTÍN TURKOWSKY"
+        },
+        {
+          "numero": 8,
+          "jugador": "TOBIAS LUCERO"
+        },
+        {
+          "numero": 9,
+          "jugador": "AGUSTIN TRAYNOR"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN PEDRO OCCHIUZZI"
+        },
+        {
+          "numero": 11,
+          "jugador": "ENZO CORSI"
+        },
+        {
+          "numero": 12,
+          "jugador": "JUAN MATIAS TRAYNOR"
+        },
+        {
+          "numero": 13,
+          "jugador": "FRANCISCO OCCHIUZZI"
+        },
+        {
+          "numero": 14,
+          "jugador": "GONZALO GREGORIO"
+        },
+        {
+          "numero": 15,
+          "jugador": "SANTIAGO TRAYNOR",
+          "capitan": true
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "FRANCO RODRIGUEZ",
+          "entraPor": "FEDERICO MARTINEZ"
+        },
+        {
+          "jugador": "EZEQUIEL BALESTRA",
+          "entraPor": "JOAQUIN TRAYNOR"
+        },
+        {
+          "jugador": "RODRIGO GOMEZ",
+          "entraPor": "JORGE BENÍTEZ"
+        },
+        {
+          "jugador": "ESTEBAN GONZALEZ",
+          "entraPor": "FRANCISCO COMABELLA"
+        },
+        {
+          "jugador": "MATÍAS COMPANYS",
+          "entraPor": "AGUSTIN TRAYNOR"
+        },
+        {
+          "jugador": "RODRIGO RIOS",
+          "entraPor": "JUAN MARTÍN TURKOWSKY"
+        },
+        {
+          "jugador": "RODRIGO ESMAYEL",
+          "entraPor": "TOBIAS LUCERO"
+        },
+        {
+          "jugador": "SANTINO GEREZ",
+          "entraPor": "JUAN PEDRO OCCHIUZZI"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "JOAQUIN TRAYNOR",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "FRANCISCO COMABELLA",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "TOBIAS LUCERO",
+          "tipo": "TRY",
+          "cantidad": 2
+        },
+        {
+          "jugador": "TRY PENAL",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "CONVERSION",
+          "cantidad": 3
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "PENAL",
+          "cantidad": 1
+        }
+      ],
+      "tarjetas": [
+        {
+          "jugador": "MATÍAS COMPANYS",
+          "tipo": "AMARILLA"
+        }
+      ]
+    },
+    {
+      "fecha": "2023-11-04",
+      "fechaNota": "4/11/2023 SEMIFINAL",
+      "rival": "LICEO MILITAR",
+      "condicion": "VISITANTE",
+      "resultadoPropio": 23,
+      "resultadoRival": 25,
+      "cancha": "LICEO MILITAR",
+      "clima": "BUENO",
+      "campoDeJuego": "BUENO",
+      "referee": "BELTRAMINO",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "JOAQUIN TRAYNOR"
+        },
+        {
+          "numero": 3,
+          "jugador": "FEDERICO MARTINEZ"
+        },
+        {
+          "numero": 4,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 5,
+          "jugador": "JOSE GRUBER"
+        },
+        {
+          "numero": 6,
+          "jugador": "IGNACIO TORTORELLA"
+        },
+        {
+          "numero": 7,
+          "jugador": "JUAN MARTÍN TURKOWSKY"
+        },
+        {
+          "numero": 8,
+          "jugador": "TOBIAS LUCERO"
+        },
+        {
+          "numero": 9,
+          "jugador": "AGUSTIN TRAYNOR"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN PEDRO OCCHIUZZI"
+        },
+        {
+          "numero": 11,
+          "jugador": "ENZO CORSI"
+        },
+        {
+          "numero": 12,
+          "jugador": "JUAN MATIAS TRAYNOR"
+        },
+        {
+          "numero": 13,
+          "jugador": "FRANCISCO OCCHIUZZI"
+        },
+        {
+          "numero": 14,
+          "jugador": "GONZALO GREGORIO"
+        },
+        {
+          "numero": 15,
+          "jugador": "SANTIAGO TRAYNOR",
+          "capitan": true
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "FRANCO RODRIGUEZ",
+          "entraPor": "FEDERICO MARTINEZ"
+        },
+        {
+          "jugador": "EZEQUIEL BALESTRA",
+          "entraPor": "JOAQUIN TRAYNOR"
+        },
+        {
+          "jugador": "JORGE BENÍTEZ",
+          "entraPor": "RODRIGO GOMEZ"
+        },
+        {
+          "jugador": "GERÓNIMO RÍOS",
+          "entraPor": "IGNACIO TORTORELLA"
+        },
+        {
+          "jugador": "SANTINO GEREZ",
+          "entraPor": "ENZO CORSI"
+        },
+        {
+          "jugador": "ANDRÉS BUSTAMANTE",
+          "entraPor": "GONZALO GREGORIO"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "JUAN MARTÍN TURKOWSKY",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "FRANCISCO COMABELLA",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "CONVERSION",
+          "cantidad": 2
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "PENAL",
+          "cantidad": 3
+        }
+      ],
+      "tarjetas": [
+        {
+          "jugador": "RODRIGO GOMEZ",
+          "tipo": "AMARILLA"
+        }
+      ]
+    }
+  ]
+}

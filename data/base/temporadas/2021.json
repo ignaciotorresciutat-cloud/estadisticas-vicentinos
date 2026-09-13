@@ -1,0 +1,2108 @@
+{
+  "temporada": 2021,
+  "info": {
+    "torneo": "Primera C",
+    "posicion": 1,
+    "rankingUrba": 41,
+    "campeon": true,
+    "ascenso": true,
+    "descenso": false,
+    "nota": null
+  },
+  "partidos": [
+    {
+      "fecha": "2021-07-31",
+      "fechaNota": null,
+      "rival": "MONTE GRANDE",
+      "condicion": "LOCAL",
+      "resultadoPropio": 41,
+      "resultadoRival": 10,
+      "cancha": "VICENTINOS",
+      "clima": "BUENO",
+      "campoDeJuego": "BUENO",
+      "referee": "ROMERO DE HAZ",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "MATIAS TRAYNOR"
+        },
+        {
+          "numero": 2,
+          "jugador": "EZEQUIEL BALESTRA"
+        },
+        {
+          "numero": 3,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 4,
+          "jugador": "OCTAVIO TALLARICO"
+        },
+        {
+          "numero": 5,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 6,
+          "jugador": "RODRIGO ESMAYEL"
+        },
+        {
+          "numero": 7,
+          "jugador": "FRANCO CICHERO"
+        },
+        {
+          "numero": 8,
+          "jugador": "TOBIAS LUCERO"
+        },
+        {
+          "numero": 9,
+          "jugador": "MARIANO CETTOUR",
+          "capitan": true
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN MATIAS TRAYNOR"
+        },
+        {
+          "numero": 11,
+          "jugador": "MAURO CHIRINO"
+        },
+        {
+          "numero": 12,
+          "jugador": "SANTIAGO TRAYNOR"
+        },
+        {
+          "numero": 13,
+          "jugador": "IGNACIO TORRES CIUTAT"
+        },
+        {
+          "numero": 14,
+          "jugador": "GONZALO GREGORIO"
+        },
+        {
+          "numero": 15,
+          "jugador": "RAMIRO OCCHIUZZI"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "PABLO FERREIRA",
+          "entraPor": "EZEQUIEL BALESTRA"
+        },
+        {
+          "jugador": "NICOLAS MARZIALI",
+          "entraPor": "FRANCO CICHERO"
+        },
+        {
+          "jugador": "FEDERICO PITTALA",
+          "entraPor": "SANTIAGO TRAYNOR"
+        },
+        {
+          "jugador": "EZEQUIEL ARIAS",
+          "entraPor": "RODRIGO GOMEZ"
+        },
+        {
+          "jugador": "FRANCISCO OCCHIUZZI",
+          "entraPor": "MAURO CHIRINO"
+        },
+        {
+          "jugador": "AUGUSTO GALLOTTI",
+          "entraPor": "OCTAVIO TALLARICO"
+        },
+        {
+          "jugador": "MARIANO LIVACHOFF",
+          "entraPor": "TOBIAS LUCERO"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "GONZALO GREGORIO",
+          "tipo": "TRY",
+          "cantidad": 3
+        },
+        {
+          "jugador": "RAMIRO OCCHIUZZI",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "OCTAVIO TALLARICO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "MARIANO CETTOUR",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "CONVERSION",
+          "cantidad": 4
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "PENAL",
+          "cantidad": 1
+        }
+      ],
+      "tarjetas": []
+    },
+    {
+      "fecha": "2021-08-07",
+      "fechaNota": null,
+      "rival": "LANUS",
+      "condicion": "VISITANTE",
+      "resultadoPropio": 41,
+      "resultadoRival": 15,
+      "cancha": "LANUS",
+      "clima": "BUENO",
+      "campoDeJuego": "REGULAR",
+      "referee": "GONZALEZ P. (reemplazó a Romero de Haz)",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "MATIAS TRAYNOR"
+        },
+        {
+          "numero": 2,
+          "jugador": "EZEQUIEL BALESTRA"
+        },
+        {
+          "numero": 3,
+          "jugador": "PABLO FERREIRA"
+        },
+        {
+          "numero": 4,
+          "jugador": "OCTAVIO TALLARICO"
+        },
+        {
+          "numero": 5,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 6,
+          "jugador": "RODRIGO ESMAYEL"
+        },
+        {
+          "numero": 7,
+          "jugador": "FRANCO CICHERO"
+        },
+        {
+          "numero": 8,
+          "jugador": "TOBIAS LUCERO"
+        },
+        {
+          "numero": 9,
+          "jugador": "MARIANO CETTOUR",
+          "capitan": true
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN MATIAS TRAYNOR"
+        },
+        {
+          "numero": 11,
+          "jugador": "MAURO CHIRINO"
+        },
+        {
+          "numero": 12,
+          "jugador": "SANTIAGO TRAYNOR"
+        },
+        {
+          "numero": 13,
+          "jugador": "IGNACIO TORRES CIUTAT"
+        },
+        {
+          "numero": 14,
+          "jugador": "GONZALO GREGORIO"
+        },
+        {
+          "numero": 15,
+          "jugador": "RAMIRO OCCHIUZZI"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "RODRIGO GOMEZ",
+          "entraPor": "EZEQUIEL BALESTRA"
+        },
+        {
+          "jugador": "MARIANO LIVACHOFF",
+          "entraPor": "FRANCO CICHERO"
+        },
+        {
+          "jugador": "FEDERICO PITTALA",
+          "entraPor": "IGNACIO TORRES CIUTAT"
+        },
+        {
+          "jugador": "AGUSTIN TRAYNOR",
+          "entraPor": "MARIANO CETTOUR"
+        },
+        {
+          "jugador": "FRANCISCO OCCHIUZZI",
+          "entraPor": "GONZALO GREGORIO"
+        },
+        {
+          "jugador": "AUGUSTO GALLOTTI",
+          "entraPor": "OCTAVIO TALLARICO"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "RODRIGO ESMAYEL",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "FRANCISCO COMABELLA",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "TOBIAS LUCERO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "GONZALO GREGORIO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "TRY PENAL",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "CONVERSION",
+          "cantidad": 5
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "PENAL",
+          "cantidad": 2
+        }
+      ],
+      "tarjetas": []
+    },
+    {
+      "fecha": "2021-08-14",
+      "fechaNota": null,
+      "rival": "CASA DE PADUA",
+      "condicion": "LOCAL",
+      "resultadoPropio": 48,
+      "resultadoRival": 10,
+      "cancha": "VICENTINOS",
+      "clima": "BUENO",
+      "campoDeJuego": "MUY BUENO",
+      "referee": "BENVENUTI",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "MATIAS TRAYNOR"
+        },
+        {
+          "numero": 2,
+          "jugador": "EZEQUIEL BALESTRA"
+        },
+        {
+          "numero": 3,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 4,
+          "jugador": "OCTAVIO TALLARICO"
+        },
+        {
+          "numero": 5,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 6,
+          "jugador": "RODRIGO ESMAYEL"
+        },
+        {
+          "numero": 7,
+          "jugador": "IGNACIO TORTORELLA"
+        },
+        {
+          "numero": 8,
+          "jugador": "TOBIAS LUCERO"
+        },
+        {
+          "numero": 9,
+          "jugador": "MARIANO CETTOUR",
+          "capitan": true
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN MATIAS TRAYNOR"
+        },
+        {
+          "numero": 11,
+          "jugador": "MAURO CHIRINO"
+        },
+        {
+          "numero": 12,
+          "jugador": "SANTIAGO TRAYNOR"
+        },
+        {
+          "numero": 13,
+          "jugador": "FRANCISCO OCCHIUZZI"
+        },
+        {
+          "numero": 14,
+          "jugador": "GONZALO GREGORIO"
+        },
+        {
+          "numero": 15,
+          "jugador": "RAMIRO OCCHIUZZI"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "PABLO FERREIRA",
+          "entraPor": "EZEQUIEL BALESTRA"
+        },
+        {
+          "jugador": "FERNANDO POCIELLO ARGERICH",
+          "entraPor": "OCTAVIO TALLARICO"
+        },
+        {
+          "jugador": "HUGO PEDEMONTE",
+          "entraPor": "MATIAS TRAYNOR"
+        },
+        {
+          "jugador": "FEDERICO MARTINEZ",
+          "entraPor": "RODRIGO GOMEZ"
+        },
+        {
+          "jugador": "MATIAS HERNANDO",
+          "entraPor": "RAMIRO OCCHIUZZI"
+        },
+        {
+          "jugador": "MATIAS AGUERRONDO",
+          "entraPor": "IGNACIO TORTORELLA"
+        },
+        {
+          "jugador": "FEDERICO PITTALA",
+          "entraPor": "SANTIAGO TRAYNOR"
+        },
+        {
+          "jugador": "AGUSTIN TRAYNOR",
+          "entraPor": "MARIANO CETTOUR"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "FRANCISCO OCCHIUZZI",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "RODRIGO ESMAYEL",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "TOBIAS LUCERO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "GONZALO GREGORIO",
+          "tipo": "TRY",
+          "cantidad": 2
+        },
+        {
+          "jugador": "MARIANO CETTOUR",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "CONVERSION",
+          "cantidad": 5
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "PENAL",
+          "cantidad": 1
+        }
+      ],
+      "tarjetas": []
+    },
+    {
+      "fecha": "2021-08-21",
+      "fechaNota": null,
+      "rival": "VIRREYES",
+      "condicion": "VISITANTE",
+      "resultadoPropio": 38,
+      "resultadoRival": 10,
+      "cancha": "VIRREYES",
+      "clima": "BUENO, VENTOSO",
+      "campoDeJuego": "MUY BUENO",
+      "referee": "PIOTROWSKY",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "MATIAS TRAYNOR"
+        },
+        {
+          "numero": 2,
+          "jugador": "EZEQUIEL BALESTRA"
+        },
+        {
+          "numero": 3,
+          "jugador": "PABLO FERREIRA"
+        },
+        {
+          "numero": 4,
+          "jugador": "OCTAVIO TALLARICO"
+        },
+        {
+          "numero": 5,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 6,
+          "jugador": "RODRIGO ESMAYEL"
+        },
+        {
+          "numero": 7,
+          "jugador": "IGNACIO TORTORELLA"
+        },
+        {
+          "numero": 8,
+          "jugador": "TOBIAS LUCERO"
+        },
+        {
+          "numero": 9,
+          "jugador": "MARIANO CETTOUR",
+          "capitan": true
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN MATIAS TRAYNOR"
+        },
+        {
+          "numero": 11,
+          "jugador": "MAURO CHIRINO"
+        },
+        {
+          "numero": 12,
+          "jugador": "SANTIAGO TRAYNOR"
+        },
+        {
+          "numero": 13,
+          "jugador": "FRANCISCO OCCHIUZZI"
+        },
+        {
+          "numero": 14,
+          "jugador": "GONZALO GREGORIO"
+        },
+        {
+          "numero": 15,
+          "jugador": "RAMIRO OCCHIUZZI"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "HUGO PEDEMONTE",
+          "entraPor": "MATIAS TRAYNOR"
+        },
+        {
+          "jugador": "RODRIGO GOMEZ",
+          "entraPor": "HUGO PEDEMONTE"
+        },
+        {
+          "jugador": "IGNACIO TORRES CIUTAT",
+          "entraPor": "MAURO CHIRINO"
+        },
+        {
+          "jugador": "FRANCO CICHERO",
+          "entraPor": "IGNACIO TORTORELLA"
+        },
+        {
+          "jugador": "MATIAS AGUERRONDO",
+          "entraPor": "OCTAVIO TALLARICO"
+        },
+        {
+          "jugador": "AGUSTIN TRAYNOR",
+          "entraPor": "MARIANO CETTOUR"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "FRANCISCO OCCHIUZZI",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "RAMIRO OCCHIUZZI",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "TOBIAS LUCERO",
+          "tipo": "TRY",
+          "cantidad": 2
+        },
+        {
+          "jugador": "GONZALO GREGORIO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "CONVERSION",
+          "cantidad": 5
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "PENAL",
+          "cantidad": 1
+        }
+      ],
+      "tarjetas": []
+    },
+    {
+      "fecha": "2021-08-28",
+      "fechaNota": null,
+      "rival": "CENTRO NAVAL",
+      "condicion": "LOCAL",
+      "resultadoPropio": 57,
+      "resultadoRival": 22,
+      "cancha": "VICENTINOS",
+      "clima": "BUENO",
+      "campoDeJuego": "MUY BUENO",
+      "referee": "BAECK",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "EZEQUIEL BALESTRA"
+        },
+        {
+          "numero": 3,
+          "jugador": "PABLO FERREIRA"
+        },
+        {
+          "numero": 4,
+          "jugador": "OCTAVIO TALLARICO"
+        },
+        {
+          "numero": 5,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 6,
+          "jugador": "RODRIGO ESMAYEL"
+        },
+        {
+          "numero": 7,
+          "jugador": "FRANCO CICHERO"
+        },
+        {
+          "numero": 8,
+          "jugador": "TOBIAS LUCERO"
+        },
+        {
+          "numero": 9,
+          "jugador": "MARIANO CETTOUR",
+          "capitan": true
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN MATIAS TRAYNOR"
+        },
+        {
+          "numero": 11,
+          "jugador": "FRANCISCO OCCHIUZZI"
+        },
+        {
+          "numero": 12,
+          "jugador": "SANTIAGO TRAYNOR"
+        },
+        {
+          "numero": 13,
+          "jugador": "IGNACIO TORRES CIUTAT"
+        },
+        {
+          "numero": 14,
+          "jugador": "GONZALO GREGORIO"
+        },
+        {
+          "numero": 15,
+          "jugador": "RAMIRO OCCHIUZZI"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "IGNACIO TORTORELLA",
+          "entraPor": "RODRIGO ESMAYEL"
+        },
+        {
+          "jugador": "AGUSTIN TRAYNOR",
+          "entraPor": "MARIANO CETTOUR"
+        },
+        {
+          "jugador": "FEDERICO MARTINEZ",
+          "entraPor": "PABLO FERREIRA"
+        },
+        {
+          "jugador": "MATIAS AGUERRONDO",
+          "entraPor": "OCTAVIO TALLARICO"
+        },
+        {
+          "jugador": "MAURO CHIRINO",
+          "entraPor": "SANTIAGO TRAYNOR"
+        },
+        {
+          "jugador": "EZEQUIEL ARIAS",
+          "entraPor": "EZEQUIEL BALESTRA"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "FRANCO CICHERO",
+          "tipo": "TRY",
+          "cantidad": 2
+        },
+        {
+          "jugador": "TOBIAS LUCERO",
+          "tipo": "TRY",
+          "cantidad": 2
+        },
+        {
+          "jugador": "TRY PENAL",
+          "tipo": "TRY",
+          "cantidad": 2
+        },
+        {
+          "jugador": "FRANCISCO OCCHIUZZI",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "IGNACIO TORRES CIUTAT",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "CONVERSION",
+          "cantidad": 3
+        },
+        {
+          "jugador": "FRANCISCO OCCHIUZZI",
+          "tipo": "CONVERSION",
+          "cantidad": 2
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "PENAL",
+          "cantidad": 1
+        }
+      ],
+      "tarjetas": [
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "AMARILLA"
+        }
+      ]
+    },
+    {
+      "fecha": "2021-09-11",
+      "fechaNota": null,
+      "rival": "LICEO MILITAR",
+      "condicion": "VISITANTE",
+      "resultadoPropio": 31,
+      "resultadoRival": 28,
+      "cancha": "LICEO MILITAR",
+      "clima": "BUENO",
+      "campoDeJuego": "MUY BUENO",
+      "referee": "DAMARIO",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "EZEQUIEL BALESTRA"
+        },
+        {
+          "numero": 3,
+          "jugador": "PABLO FERREIRA"
+        },
+        {
+          "numero": 4,
+          "jugador": "MATIAS AGUERRONDO"
+        },
+        {
+          "numero": 5,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 6,
+          "jugador": "IGNACIO TORTORELLA"
+        },
+        {
+          "numero": 7,
+          "jugador": "FRANCO CICHERO"
+        },
+        {
+          "numero": 8,
+          "jugador": "TOBIAS LUCERO"
+        },
+        {
+          "numero": 9,
+          "jugador": "MARIANO CETTOUR",
+          "capitan": true
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN MATIAS TRAYNOR"
+        },
+        {
+          "numero": 11,
+          "jugador": "FRANCISCO OCCHIUZZI"
+        },
+        {
+          "numero": 12,
+          "jugador": "SANTIAGO TRAYNOR"
+        },
+        {
+          "numero": 13,
+          "jugador": "IGNACIO TORRES CIUTAT"
+        },
+        {
+          "numero": 14,
+          "jugador": "GONZALO GREGORIO"
+        },
+        {
+          "numero": 15,
+          "jugador": "RAMIRO OCCHIUZZI"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "RODRIGO ESMAYEL",
+          "entraPor": "FRANCO CICHERO"
+        },
+        {
+          "jugador": "OCTAVIO TALLARICO",
+          "entraPor": "MATIAS AGUERRONDO"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "RODRIGO ESMAYEL",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "TOBIAS LUCERO",
+          "tipo": "TRY",
+          "cantidad": 2
+        },
+        {
+          "jugador": "JUAN MATIAS TRAYNOR",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "CONVERSION",
+          "cantidad": 4
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "PENAL",
+          "cantidad": 1
+        }
+      ],
+      "tarjetas": []
+    },
+    {
+      "fecha": "2021-09-18",
+      "fechaNota": null,
+      "rival": "CLUB ITALIANO",
+      "condicion": "LOCAL",
+      "resultadoPropio": 28,
+      "resultadoRival": 23,
+      "cancha": "VICENTINOS",
+      "clima": "BUENO",
+      "campoDeJuego": "MUY BUENO",
+      "referee": "BENVENUTI",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "HUGO PEDEMONTE"
+        },
+        {
+          "numero": 3,
+          "jugador": "PABLO FERREIRA"
+        },
+        {
+          "numero": 4,
+          "jugador": "OCTAVIO TALLARICO"
+        },
+        {
+          "numero": 5,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 6,
+          "jugador": "RODRIGO ESMAYEL"
+        },
+        {
+          "numero": 7,
+          "jugador": "FRANCO CICHERO"
+        },
+        {
+          "numero": 8,
+          "jugador": "TOBIAS LUCERO"
+        },
+        {
+          "numero": 9,
+          "jugador": "MARIANO CETTOUR",
+          "capitan": true
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN MATIAS TRAYNOR"
+        },
+        {
+          "numero": 11,
+          "jugador": "FRANCISCO OCCHIUZZI"
+        },
+        {
+          "numero": 12,
+          "jugador": "SANTIAGO TRAYNOR"
+        },
+        {
+          "numero": 13,
+          "jugador": "IGNACIO TORRES CIUTAT"
+        },
+        {
+          "numero": 14,
+          "jugador": "GONZALO GREGORIO"
+        },
+        {
+          "numero": 15,
+          "jugador": "RAMIRO OCCHIUZZI"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "EZEQUIEL BALESTRA",
+          "entraPor": "HUGO PEDEMONTE"
+        },
+        {
+          "jugador": "FEDERICO MARTINEZ",
+          "entraPor": "PABLO FERREIRA"
+        },
+        {
+          "jugador": "MATIAS AGUERRONDO",
+          "entraPor": "OCTAVIO TALLARICO"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "TOBIAS LUCERO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "TRY SCRUM",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "MATIAS AGUERRONDO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "FRANCISCO OCCHIUZZI",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "CONVERSION",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "PENAL",
+          "cantidad": 2
+        }
+      ],
+      "tarjetas": []
+    },
+    {
+      "fecha": "2021-09-25",
+      "fechaNota": null,
+      "rival": "EL RETIRO",
+      "condicion": "LOCAL",
+      "resultadoPropio": 73,
+      "resultadoRival": 5,
+      "cancha": "VICENTINOS",
+      "clima": "BUENO",
+      "campoDeJuego": "MUY BUENO",
+      "referee": "SANTILLAN",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "HUGO PEDEMONTE"
+        },
+        {
+          "numero": 3,
+          "jugador": "PABLO FERREIRA"
+        },
+        {
+          "numero": 4,
+          "jugador": "OCTAVIO TALLARICO"
+        },
+        {
+          "numero": 5,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 6,
+          "jugador": "RODRIGO ESMAYEL"
+        },
+        {
+          "numero": 7,
+          "jugador": "FRANCO CICHERO"
+        },
+        {
+          "numero": 8,
+          "jugador": "TOBIAS LUCERO"
+        },
+        {
+          "numero": 9,
+          "jugador": "MARIANO CETTOUR",
+          "capitan": true
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN MATIAS TRAYNOR"
+        },
+        {
+          "numero": 11,
+          "jugador": "FRANCISCO OCCHIUZZI"
+        },
+        {
+          "numero": 12,
+          "jugador": "SANTIAGO TRAYNOR"
+        },
+        {
+          "numero": 13,
+          "jugador": "IGNACIO TORRES CIUTAT"
+        },
+        {
+          "numero": 14,
+          "jugador": "GONZALO GREGORIO"
+        },
+        {
+          "numero": 15,
+          "jugador": "RAMIRO OCCHIUZZI"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "EZEQUIEL BALESTRA",
+          "entraPor": "HUGO PEDEMONTE"
+        },
+        {
+          "jugador": "FEDERICO MARTINEZ",
+          "entraPor": "PABLO FERREIRA"
+        },
+        {
+          "jugador": "MATIAS AGUERRONDO",
+          "entraPor": "TOBIAS LUCERO"
+        },
+        {
+          "jugador": "EZEQUIEL ARIAS",
+          "entraPor": "RODRIGO GOMEZ"
+        },
+        {
+          "jugador": "JUAN IGNACIO VAZQUEZ",
+          "entraPor": "FRANCISCO COMABELLA"
+        },
+        {
+          "jugador": "AGUSTIN TRAYNOR",
+          "entraPor": "MARIANO CETTOUR"
+        },
+        {
+          "jugador": "MAURO CHIRINO",
+          "entraPor": "FRANCISCO OCCHIUZZI"
+        },
+        {
+          "jugador": "FEDERICO PITTALA",
+          "entraPor": "RAMIRO OCCHIUZZI"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "FRANCISCO OCCHIUZZI",
+          "tipo": "TRY",
+          "cantidad": 2
+        },
+        {
+          "jugador": "OCTAVIO TALLARICO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "RAMIRO OCCHIUZZI",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "GONZALO GREGORIO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "EZEQUIEL BALESTRA",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "MAURO CHIRINO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "JUAN IGNACIO VAZQUEZ",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "FEDERICO PITTALA",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "FRANCISCO COMABELLA",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "AGUSTIN TRAYNOR",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "CONVERSION",
+          "cantidad": 9
+        }
+      ],
+      "tarjetas": []
+    },
+    {
+      "fecha": "2021-10-02",
+      "fechaNota": null,
+      "rival": "CUQ",
+      "condicion": "VISITANTE",
+      "resultadoPropio": 28,
+      "resultadoRival": 42,
+      "cancha": "CUQ",
+      "clima": "NUBLADO",
+      "campoDeJuego": "BUENO",
+      "referee": "RUIBAL",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "HUGO PEDEMONTE"
+        },
+        {
+          "numero": 3,
+          "jugador": "PABLO FERREIRA"
+        },
+        {
+          "numero": 4,
+          "jugador": "OCTAVIO TALLARICO"
+        },
+        {
+          "numero": 5,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 6,
+          "jugador": "RODRIGO ESMAYEL"
+        },
+        {
+          "numero": 7,
+          "jugador": "FRANCO CICHERO"
+        },
+        {
+          "numero": 8,
+          "jugador": "TOBIAS LUCERO"
+        },
+        {
+          "numero": 9,
+          "jugador": "MARIANO CETTOUR",
+          "capitan": true
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN MATIAS TRAYNOR"
+        },
+        {
+          "numero": 11,
+          "jugador": "MAURO CHIRINO"
+        },
+        {
+          "numero": 12,
+          "jugador": "SANTIAGO TRAYNOR"
+        },
+        {
+          "numero": 13,
+          "jugador": "IGNACIO TORRES CIUTAT"
+        },
+        {
+          "numero": 14,
+          "jugador": "GONZALO GREGORIO"
+        },
+        {
+          "numero": 15,
+          "jugador": "RAMIRO OCCHIUZZI"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "EZEQUIEL BALESTRA",
+          "entraPor": "HUGO PEDEMONTE"
+        },
+        {
+          "jugador": "FEDERICO MARTINEZ",
+          "entraPor": "PABLO FERREIRA"
+        },
+        {
+          "jugador": "MATIAS AGUERRONDO",
+          "entraPor": "OCTAVIO TALLARICO"
+        },
+        {
+          "jugador": "AGUSTIN TRAYNOR",
+          "entraPor": "MARIANO CETTOUR"
+        },
+        {
+          "jugador": "IGNACIO TORTORELLA",
+          "entraPor": "FRANCO CICHERO"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "TOBIAS LUCERO",
+          "tipo": "TRY",
+          "cantidad": 2
+        },
+        {
+          "jugador": "GONZALO GREGORIO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "FRANCISCO COMABELLA",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "CONVERSION",
+          "cantidad": 4
+        }
+      ],
+      "tarjetas": []
+    },
+    {
+      "fecha": "2021-10-16",
+      "fechaNota": null,
+      "rival": "ATLÉTICO Y PROGRESO",
+      "condicion": "LOCAL",
+      "resultadoPropio": 33,
+      "resultadoRival": 36,
+      "cancha": "VICENTINOS",
+      "clima": "BUENO",
+      "campoDeJuego": "MUY BUENO",
+      "referee": "VILLALOBOS",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "HUGO PEDEMONTE"
+        },
+        {
+          "numero": 3,
+          "jugador": "PABLO FERREIRA"
+        },
+        {
+          "numero": 4,
+          "jugador": "OCTAVIO TALLARICO"
+        },
+        {
+          "numero": 5,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 6,
+          "jugador": "RODRIGO ESMAYEL"
+        },
+        {
+          "numero": 7,
+          "jugador": "IGNACIO TORTORELLA"
+        },
+        {
+          "numero": 8,
+          "jugador": "TOBIAS LUCERO"
+        },
+        {
+          "numero": 9,
+          "jugador": "MARIANO CETTOUR",
+          "capitan": true
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN MATIAS TRAYNOR"
+        },
+        {
+          "numero": 11,
+          "jugador": "MANUEL ALTAMIRANO"
+        },
+        {
+          "numero": 12,
+          "jugador": "SANTIAGO TRAYNOR"
+        },
+        {
+          "numero": 13,
+          "jugador": "IGNACIO TORRES CIUTAT"
+        },
+        {
+          "numero": 14,
+          "jugador": "GONZALO GREGORIO"
+        },
+        {
+          "numero": 15,
+          "jugador": "RAMIRO OCCHIUZZI"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "JOAQUIN TRAYNOR",
+          "entraPor": "HUGO PEDEMONTE"
+        },
+        {
+          "jugador": "FEDERICO MARTINEZ",
+          "entraPor": "RODRIGO ESMAYEL"
+        },
+        {
+          "jugador": "MATIAS AGUERRONDO",
+          "entraPor": "OCTAVIO TALLARICO"
+        },
+        {
+          "jugador": "AGUSTIN TRAYNOR",
+          "entraPor": "MARIANO CETTOUR"
+        },
+        {
+          "jugador": "FRANCO CICHERO",
+          "entraPor": "TOBIAS LUCERO"
+        },
+        {
+          "jugador": "MATIAS TRAYNOR",
+          "entraPor": "RODRIGO GOMEZ"
+        },
+        {
+          "jugador": "MAURO CHIRINO",
+          "entraPor": "MANUEL ALTAMIRANO"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "PABLO FERREIRA",
+          "tipo": "TRY",
+          "cantidad": 2
+        },
+        {
+          "jugador": "HUGO PEDEMONTE",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "RODRIGO ESMAYEL",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "RAMIRO OCCHIUZZI",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "CONVERSION",
+          "cantidad": 4
+        }
+      ],
+      "tarjetas": [
+        {
+          "jugador": "IGNACIO TORTORELLA",
+          "tipo": "AMARILLA"
+        },
+        {
+          "jugador": "RAMIRO OCCHIUZZI",
+          "tipo": "AMARILLA"
+        },
+        {
+          "jugador": "TOBIAS LUCERO",
+          "tipo": "AMARILLA"
+        },
+        {
+          "jugador": "PABLO FERREIRA",
+          "tipo": "AMARILLA"
+        }
+      ]
+    },
+    {
+      "fecha": "2021-10-23",
+      "fechaNota": null,
+      "rival": "OLD GEORGIAN",
+      "condicion": "VISITANTE",
+      "resultadoPropio": 36,
+      "resultadoRival": 14,
+      "cancha": "OLD GEORGIAN",
+      "clima": "BUENO",
+      "campoDeJuego": "MUY BUENO",
+      "referee": "PIOTROWSKY",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "HUGO PEDEMONTE"
+        },
+        {
+          "numero": 3,
+          "jugador": "PABLO FERREIRA"
+        },
+        {
+          "numero": 4,
+          "jugador": "OCTAVIO TALLARICO"
+        },
+        {
+          "numero": 5,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 6,
+          "jugador": "RODRIGO ESMAYEL"
+        },
+        {
+          "numero": 7,
+          "jugador": "IGNACIO TORTORELLA"
+        },
+        {
+          "numero": 8,
+          "jugador": "TOBIAS LUCERO"
+        },
+        {
+          "numero": 9,
+          "jugador": "AGUSTIN TRAYNOR"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN MATIAS TRAYNOR"
+        },
+        {
+          "numero": 11,
+          "jugador": "MAURO CHIRINO"
+        },
+        {
+          "numero": 12,
+          "jugador": "SANTIAGO TRAYNOR"
+        },
+        {
+          "numero": 13,
+          "jugador": "IGNACIO TORRES CIUTAT"
+        },
+        {
+          "numero": 14,
+          "jugador": "GONZALO GREGORIO",
+          "capitan": true
+        },
+        {
+          "numero": 15,
+          "jugador": "RAMIRO OCCHIUZZI"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "EZEQUIEL BALESTRA",
+          "entraPor": "HUGO PEDEMONTE"
+        },
+        {
+          "jugador": "FEDERICO MARTINEZ",
+          "entraPor": "PABLO FERREIRA"
+        },
+        {
+          "jugador": "MATIAS AGUERRONDO",
+          "entraPor": "OCTAVIO TALLARICO"
+        },
+        {
+          "jugador": "JUAN IGNACIO VAZQUEZ",
+          "entraPor": "TOBIAS LUCERO"
+        },
+        {
+          "jugador": "NICOLAS ALTAMIRANO",
+          "entraPor": "RODRIGO ESMAYEL"
+        },
+        {
+          "jugador": "NICOLAS MARZIALI",
+          "entraPor": "IGNACIO TORRES CIUTAT"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "GONZALO GREGORIO",
+          "tipo": "TRY",
+          "cantidad": 2
+        },
+        {
+          "jugador": "JUAN MATIAS TRAYNOR",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "RODRIGO ESMAYEL",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "TOBIAS LUCERO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "HUGO PEDEMONTE",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "CONVERSION",
+          "cantidad": 3
+        }
+      ],
+      "tarjetas": []
+    },
+    {
+      "fecha": "2021-10-30",
+      "fechaNota": null,
+      "rival": "ARECO",
+      "condicion": "LOCAL",
+      "resultadoPropio": 43,
+      "resultadoRival": 13,
+      "cancha": "VICENTINOS",
+      "clima": "BUENO",
+      "campoDeJuego": "MUY BUENO",
+      "referee": "SÁNCHEZ",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "HUGO PEDEMONTE"
+        },
+        {
+          "numero": 3,
+          "jugador": "PABLO FERREIRA"
+        },
+        {
+          "numero": 4,
+          "jugador": "OCTAVIO TALLARICO"
+        },
+        {
+          "numero": 5,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 6,
+          "jugador": "MATIAS AGUERRONDO"
+        },
+        {
+          "numero": 7,
+          "jugador": "IGNACIO TORTORELLA"
+        },
+        {
+          "numero": 8,
+          "jugador": "TOBIAS LUCERO"
+        },
+        {
+          "numero": 9,
+          "jugador": "AGUSTIN TRAYNOR"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN MATIAS TRAYNOR"
+        },
+        {
+          "numero": 11,
+          "jugador": "MAURO CHIRINO"
+        },
+        {
+          "numero": 12,
+          "jugador": "SANTIAGO TRAYNOR"
+        },
+        {
+          "numero": 13,
+          "jugador": "IGNACIO TORRES CIUTAT"
+        },
+        {
+          "numero": 14,
+          "jugador": "GONZALO GREGORIO",
+          "capitan": true
+        },
+        {
+          "numero": 15,
+          "jugador": "RAMIRO OCCHIUZZI"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "JOAQUIN TRAYNOR",
+          "entraPor": "HUGO PEDEMONTE"
+        },
+        {
+          "jugador": "FEDERICO MARTINEZ",
+          "entraPor": "PABLO FERREIRA"
+        },
+        {
+          "jugador": "NICOLAS ALTAMIRANO",
+          "entraPor": "OCTAVIO TALLARICO"
+        },
+        {
+          "jugador": "JUAN IGNACIO VAZQUEZ",
+          "entraPor": "IGNACIO TORTORELLA"
+        },
+        {
+          "jugador": "MATIAS TRAYNOR",
+          "entraPor": "RODRIGO GOMEZ"
+        },
+        {
+          "jugador": "MARIANO CETTOUR",
+          "entraPor": "AGUSTIN TRAYNOR"
+        },
+        {
+          "jugador": "CHRISTIAN MONZON",
+          "entraPor": "MAURO CHIRINO"
+        },
+        {
+          "jugador": "NICOLAS MARZIALI",
+          "entraPor": "IGNACIO TORRES CIUTAT"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "MATIAS AGUERRONDO",
+          "tipo": "TRY",
+          "cantidad": 2
+        },
+        {
+          "jugador": "TOBIAS LUCERO",
+          "tipo": "TRY",
+          "cantidad": 2
+        },
+        {
+          "jugador": "GONZALO GREGORIO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "CHRISTIAN MONZON",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "RAMIRO OCCHIUZZI",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "CONVERSION",
+          "cantidad": 4
+        }
+      ],
+      "tarjetas": []
+    },
+    {
+      "fecha": "2021-11-06",
+      "fechaNota": null,
+      "rival": "LUJAN",
+      "condicion": "VISITANTE",
+      "resultadoPropio": 49,
+      "resultadoRival": 7,
+      "cancha": "LUJAN",
+      "clima": "BUENO",
+      "campoDeJuego": "BUENO",
+      "referee": "RODRÍGUEZ F.",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "MATIAS TRAYNOR"
+        },
+        {
+          "numero": 2,
+          "jugador": "HUGO PEDEMONTE"
+        },
+        {
+          "numero": 3,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 4,
+          "jugador": "OCTAVIO TALLARICO"
+        },
+        {
+          "numero": 5,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 6,
+          "jugador": "RODRIGO RIOS"
+        },
+        {
+          "numero": 7,
+          "jugador": "JUAN IGNACIO VAZQUEZ"
+        },
+        {
+          "numero": 8,
+          "jugador": "MATIAS AGUERRONDO"
+        },
+        {
+          "numero": 9,
+          "jugador": "MARIANO CETTOUR"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN MATIAS TRAYNOR"
+        },
+        {
+          "numero": 11,
+          "jugador": "FRANCISCO OCCHIUZZI"
+        },
+        {
+          "numero": 12,
+          "jugador": "SANTIAGO TRAYNOR"
+        },
+        {
+          "numero": 13,
+          "jugador": "IGNACIO TORRES CIUTAT"
+        },
+        {
+          "numero": 14,
+          "jugador": "GONZALO GREGORIO",
+          "capitan": true
+        },
+        {
+          "numero": 15,
+          "jugador": "RAMIRO OCCHIUZZI"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "JOAQUIN TRAYNOR",
+          "entraPor": "HUGO PEDEMONTE"
+        },
+        {
+          "jugador": "FEDERICO MARTINEZ",
+          "entraPor": "PABLO FERREIRA"
+        },
+        {
+          "jugador": "NICOLAS ALTAMIRANO",
+          "entraPor": "OCTAVIO TALLARICO"
+        },
+        {
+          "jugador": "PABLO FERREIRA",
+          "entraPor": "MATIAS TRAYNOR"
+        },
+        {
+          "jugador": "AGUSTIN TRAYNOR",
+          "entraPor": "MARIANO CETTOUR"
+        },
+        {
+          "jugador": "TOBIAS LUCERO",
+          "entraPor": "JUAN IGNACIO VAZQUEZ"
+        },
+        {
+          "jugador": "MAURO CHIRINO",
+          "entraPor": "RAMIRO OCCHIUZZI"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "JUAN MATIAS TRAYNOR",
+          "tipo": "TRY",
+          "cantidad": 2
+        },
+        {
+          "jugador": "JOAQUIN TRAYNOR",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "GONZALO GREGORIO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "TOBIAS LUCERO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "FRANCISCO COMABELLA",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "MATIAS TRAYNOR",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "CONVERSION",
+          "cantidad": 7
+        }
+      ],
+      "tarjetas": []
+    },
+    {
+      "fecha": "2021-11-20",
+      "fechaNota": "20/11/2021 SEMIFINAL",
+      "rival": "CLUB ITALIANO",
+      "condicion": "VISITANTE",
+      "resultadoPropio": 34,
+      "resultadoRival": 15,
+      "cancha": "LUJAN",
+      "clima": "BUENO",
+      "campoDeJuego": "MUY BUENO",
+      "referee": "BELTRAMINO",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "MATIAS TRAYNOR"
+        },
+        {
+          "numero": 2,
+          "jugador": "EZEQUIEL BALESTRA"
+        },
+        {
+          "numero": 3,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 4,
+          "jugador": "OCTAVIO TALLARICO"
+        },
+        {
+          "numero": 5,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 6,
+          "jugador": "MATIAS AGUERRONDO"
+        },
+        {
+          "numero": 7,
+          "jugador": "RODRIGO ESMAYEL"
+        },
+        {
+          "numero": 8,
+          "jugador": "TOBIAS LUCERO"
+        },
+        {
+          "numero": 9,
+          "jugador": "MARIANO CETTOUR"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN MATIAS TRAYNOR"
+        },
+        {
+          "numero": 11,
+          "jugador": "FRANCISCO OCCHIUZZI"
+        },
+        {
+          "numero": 12,
+          "jugador": "SANTIAGO TRAYNOR"
+        },
+        {
+          "numero": 13,
+          "jugador": "IGNACIO TORRES CIUTAT"
+        },
+        {
+          "numero": 14,
+          "jugador": "GONZALO GREGORIO",
+          "capitan": true
+        },
+        {
+          "numero": 15,
+          "jugador": "RAMIRO OCCHIUZZI"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "HUGO PEDEMONTE",
+          "entraPor": "EZEQUIEL BALESTRA"
+        },
+        {
+          "jugador": "FEDERICO MARTINEZ",
+          "entraPor": "RODRIGO GOMEZ"
+        },
+        {
+          "jugador": "NICOLAS ALTAMIRANO",
+          "entraPor": "TOBIAS LUCERO"
+        },
+        {
+          "jugador": "EZEQUIEL ARIAS",
+          "entraPor": "MATIAS TRAYNOR"
+        },
+        {
+          "jugador": "AGUSTIN TRAYNOR",
+          "entraPor": "MARIANO CETTOUR"
+        },
+        {
+          "jugador": "IGNACIO TORTORELLA",
+          "entraPor": "OCTAVIO TALLARICO"
+        },
+        {
+          "jugador": "MAURO CHIRINO",
+          "entraPor": "FRANCISCO OCCHIUZZI"
+        },
+        {
+          "jugador": "JUAN IGNACIO VAZQUEZ",
+          "entraPor": "FRANCISCO COMABELLA"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "JUAN MATIAS TRAYNOR",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "FRANCISCO OCCHIUZZI",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "RAMIRO OCCHIUZZI",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "TOBIAS LUCERO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "RODRIGO GOMEZ",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "CONVERSION",
+          "cantidad": 3
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "PENAL",
+          "cantidad": 1
+        }
+      ],
+      "tarjetas": []
+    },
+    {
+      "fecha": "2021-11-27",
+      "fechaNota": "27/11/2021 FINAL - VICENTINOS CAMPEÓN",
+      "rival": "CUQ",
+      "condicion": "VISITANTE",
+      "resultadoPropio": 29,
+      "resultadoRival": 26,
+      "cancha": "CUQ",
+      "clima": "NUBLADO",
+      "campoDeJuego": "REGULAR",
+      "referee": "CORTÉS",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "MATIAS TRAYNOR"
+        },
+        {
+          "numero": 2,
+          "jugador": "EZEQUIEL BALESTRA"
+        },
+        {
+          "numero": 3,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 4,
+          "jugador": "OCTAVIO TALLARICO"
+        },
+        {
+          "numero": 5,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 6,
+          "jugador": "MATIAS AGUERRONDO"
+        },
+        {
+          "numero": 7,
+          "jugador": "RODRIGO ESMAYEL"
+        },
+        {
+          "numero": 8,
+          "jugador": "TOBIAS LUCERO"
+        },
+        {
+          "numero": 9,
+          "jugador": "MARIANO CETTOUR"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN MATIAS TRAYNOR"
+        },
+        {
+          "numero": 11,
+          "jugador": "FRANCISCO OCCHIUZZI"
+        },
+        {
+          "numero": 12,
+          "jugador": "SANTIAGO TRAYNOR"
+        },
+        {
+          "numero": 13,
+          "jugador": "IGNACIO TORRES CIUTAT"
+        },
+        {
+          "numero": 14,
+          "jugador": "GONZALO GREGORIO",
+          "capitan": true
+        },
+        {
+          "numero": 15,
+          "jugador": "RAMIRO OCCHIUZZI"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "HUGO PEDEMONTE",
+          "entraPor": "EZEQUIEL BALESTRA"
+        },
+        {
+          "jugador": "FEDERICO MARTINEZ",
+          "entraPor": "MATIAS TRAYNOR"
+        },
+        {
+          "jugador": "NICOLAS ALTAMIRANO",
+          "entraPor": "OCTAVIO TALLARICO"
+        },
+        {
+          "jugador": "IGNACIO TORTORELLA",
+          "entraPor": "RODRIGO ESMAYEL"
+        },
+        {
+          "jugador": "JUAN IGNACIO VAZQUEZ",
+          "entraPor": "TOBIAS LUCERO"
+        },
+        {
+          "jugador": "AGUSTIN TRAYNOR",
+          "entraPor": "MARIANO CETTOUR"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "RODRIGO ESMAYEL",
+          "tipo": "TRY",
+          "cantidad": 2
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "IGNACIO TORRES CIUTAT",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "CONVERSION",
+          "cantidad": 3
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "PENAL",
+          "cantidad": 1
+        }
+      ],
+      "tarjetas": []
+    }
+  ]
+}

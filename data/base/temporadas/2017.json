@@ -1,0 +1,3265 @@
+{
+  "temporada": 2017,
+  "info": {
+    "torneo": "Primera C",
+    "posicion": 9,
+    "rankingUrba": 49,
+    "campeon": false,
+    "ascenso": false,
+    "descenso": false,
+    "nota": null
+  },
+  "partidos": [
+    {
+      "fecha": "2017-04-01",
+      "fechaNota": null,
+      "rival": "GEI",
+      "condicion": "LOCAL",
+      "resultadoPropio": 32,
+      "resultadoRival": 15,
+      "cancha": "VICENTINOS",
+      "clima": "BUENO",
+      "campoDeJuego": "MUY BUENO",
+      "referee": "IGARZABAL",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "EZEQUIEL VAZQUEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "EZEQUIEL ARIAS"
+        },
+        {
+          "numero": 3,
+          "jugador": "FRANCO POPICA"
+        },
+        {
+          "numero": 4,
+          "jugador": "MARTIN APOLO"
+        },
+        {
+          "numero": 5,
+          "jugador": "NICOLAS ALTAMIRANO"
+        },
+        {
+          "numero": 6,
+          "jugador": "ALEJO BUSTAMANTE"
+        },
+        {
+          "numero": 7,
+          "jugador": "ANDRES BIRELLO"
+        },
+        {
+          "numero": 8,
+          "jugador": "IGNACIO TORTORELLA"
+        },
+        {
+          "numero": 9,
+          "jugador": "MARIANO CETTOUR"
+        },
+        {
+          "numero": 10,
+          "jugador": "NICOLAS MARZIALI",
+          "capitan": true
+        },
+        {
+          "numero": 11,
+          "jugador": "MAXIMILIANO SOLIVELLAS"
+        },
+        {
+          "numero": 12,
+          "jugador": "TOMAS DOMINGUEZ"
+        },
+        {
+          "numero": 13,
+          "jugador": "AGUSTIN MARZIALI"
+        },
+        {
+          "numero": 14,
+          "jugador": "GONZALO GREGORIO"
+        },
+        {
+          "numero": 15,
+          "jugador": "GUIDO LIVACHOFF"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "RODRIGO GOMEZ",
+          "entraPor": "EZEQUIEL VAZQUEZ"
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "entraPor": "GUIDO LIVACHOFF"
+        },
+        {
+          "jugador": "MATIAS AGUERRONDO",
+          "entraPor": "ANDRES BIRELLO"
+        },
+        {
+          "jugador": "CHRISTIAN MONZON",
+          "entraPor": "MAXIMILIANO SOLIVELLAS"
+        },
+        {
+          "jugador": "JORGE BENÍTEZ",
+          "entraPor": "FRANCO POPICA"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "TOMAS DOMINGUEZ",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "MARTIN APOLO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "NICOLAS ALTAMIRANO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "ALEJO BUSTAMANTE",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "AGUSTIN MARZIALI",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "IGNACIO TORTORELLA",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "TOMAS DOMINGUEZ",
+          "tipo": "CONVERSION",
+          "cantidad": 1
+        }
+      ],
+      "tarjetas": [
+        {
+          "jugador": "EZEQUIEL VAZQUEZ",
+          "tipo": "AMARILLA"
+        }
+      ]
+    },
+    {
+      "fecha": "2017-04-08",
+      "fechaNota": null,
+      "rival": "LICEO MILITAR",
+      "condicion": "VISITANTE",
+      "resultadoPropio": 19,
+      "resultadoRival": 45,
+      "cancha": "LICEO MILITAR",
+      "clima": "NUBLADO",
+      "campoDeJuego": "MUY BUENO",
+      "referee": "CAPANO PEREZ",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "EZEQUIEL VAZQUEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "EZEQUIEL ARIAS"
+        },
+        {
+          "numero": 3,
+          "jugador": "FRANCO POPICA"
+        },
+        {
+          "numero": 4,
+          "jugador": "MARTIN APOLO"
+        },
+        {
+          "numero": 5,
+          "jugador": "NICOLAS ALTAMIRANO"
+        },
+        {
+          "numero": 6,
+          "jugador": "ALEJO BUSTAMANTE"
+        },
+        {
+          "numero": 7,
+          "jugador": "ANDRES BIRELLO"
+        },
+        {
+          "numero": 8,
+          "jugador": "IGNACIO TORTORELLA"
+        },
+        {
+          "numero": 9,
+          "jugador": "MARIANO CETTOUR"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN PEDRO OCCHIUZZI"
+        },
+        {
+          "numero": 11,
+          "jugador": "MAXIMILIANO SOLIVELLAS"
+        },
+        {
+          "numero": 12,
+          "jugador": "NICOLAS MARZIALI",
+          "capitan": true
+        },
+        {
+          "numero": 13,
+          "jugador": "AGUSTIN MARZIALI"
+        },
+        {
+          "numero": 14,
+          "jugador": "GONZALO GREGORIO"
+        },
+        {
+          "numero": 15,
+          "jugador": "TOMAS DOMINGUEZ"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "RODRIGO GOMEZ",
+          "entraPor": "EZEQUIEL VAZQUEZ"
+        },
+        {
+          "jugador": "JORGE BENÍTEZ",
+          "entraPor": "RODRIGO GOMEZ"
+        },
+        {
+          "jugador": "MATIAS AGUERRONDO",
+          "entraPor": "ANDRES BIRELLO"
+        },
+        {
+          "jugador": "CHRISTIAN MONZON",
+          "entraPor": "MAXIMILIANO SOLIVELLAS"
+        },
+        {
+          "jugador": "MATIAS TRAYNOR",
+          "entraPor": "EZEQUIEL ARIAS"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "MARIANO CETTOUR",
+          "tipo": "TRY",
+          "cantidad": 2
+        },
+        {
+          "jugador": "MATIAS AGUERRONDO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "tipo": "CONVERSION",
+          "cantidad": 2
+        }
+      ],
+      "tarjetas": [
+        {
+          "jugador": "MATIAS TRAYNOR",
+          "tipo": "AMARILLA"
+        }
+      ]
+    },
+    {
+      "fecha": "2017-04-22",
+      "fechaNota": null,
+      "rival": "CENTRO NAVAL",
+      "condicion": "LOCAL",
+      "resultadoPropio": 19,
+      "resultadoRival": 59,
+      "cancha": "VICENTINOS",
+      "clima": "BUENO",
+      "campoDeJuego": "BUENO",
+      "referee": "TRIAS",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "JORGE BENÍTEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "EZEQUIEL ARIAS"
+        },
+        {
+          "numero": 3,
+          "jugador": "FRANCO POPICA"
+        },
+        {
+          "numero": 4,
+          "jugador": "ALEJO BUSTAMANTE"
+        },
+        {
+          "numero": 5,
+          "jugador": "NICOLAS ALTAMIRANO"
+        },
+        {
+          "numero": 6,
+          "jugador": "MATIAS AGUERRONDO"
+        },
+        {
+          "numero": 7,
+          "jugador": "ANDRES BIRELLO"
+        },
+        {
+          "numero": 8,
+          "jugador": "IGNACIO TORTORELLA"
+        },
+        {
+          "numero": 9,
+          "jugador": "NICOLAS MARZIALI",
+          "capitan": true
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN PEDRO OCCHIUZZI"
+        },
+        {
+          "numero": 11,
+          "jugador": "CHRISTIAN MONZON"
+        },
+        {
+          "numero": 12,
+          "jugador": "TOMAS DOMINGUEZ"
+        },
+        {
+          "numero": 13,
+          "jugador": "AGUSTIN MARZIALI"
+        },
+        {
+          "numero": 14,
+          "jugador": "MAXIMILIANO SOLIVELLAS"
+        },
+        {
+          "numero": 15,
+          "jugador": "GONZALO GREGORIO"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "EZEQUIEL BALESTRA",
+          "entraPor": "JORGE BENÍTEZ"
+        },
+        {
+          "jugador": "GUIDO LIVACHOFF",
+          "entraPor": "MAXIMILIANO SOLIVELLAS"
+        },
+        {
+          "jugador": "EZEQUIEL VAZQUEZ",
+          "entraPor": "EZEQUIEL ARIAS"
+        },
+        {
+          "jugador": "PATRICIO TRAYNOR",
+          "entraPor": "JUAN PEDRO OCCHIUZZI"
+        },
+        {
+          "jugador": "LAUTARO ALCARAZ",
+          "entraPor": "IGNACIO TORTORELLA"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "TOMAS DOMINGUEZ",
+          "tipo": "TRY",
+          "cantidad": 2
+        },
+        {
+          "jugador": "EZEQUIEL BALESTRA",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "tipo": "CONVERSION",
+          "cantidad": 1
+        },
+        {
+          "jugador": "TOMAS DOMINGUEZ",
+          "tipo": "CONVERSION",
+          "cantidad": 1
+        }
+      ],
+      "tarjetas": []
+    },
+    {
+      "fecha": "2017-04-29",
+      "fechaNota": null,
+      "rival": "LA SALLE",
+      "condicion": "VISITANTE",
+      "resultadoPropio": 48,
+      "resultadoRival": 27,
+      "cancha": "LA SALLE",
+      "clima": "BUENO",
+      "campoDeJuego": "REGULAR",
+      "referee": "NUÑEZ",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "JORGE BENÍTEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "EZEQUIEL ARIAS"
+        },
+        {
+          "numero": 3,
+          "jugador": "FRANCO POPICA"
+        },
+        {
+          "numero": 4,
+          "jugador": "MARTIN APOLO"
+        },
+        {
+          "numero": 5,
+          "jugador": "NICOLAS ALTAMIRANO"
+        },
+        {
+          "numero": 6,
+          "jugador": "MATIAS AGUERRONDO"
+        },
+        {
+          "numero": 7,
+          "jugador": "ANDRES BIRELLO"
+        },
+        {
+          "numero": 8,
+          "jugador": "IGNACIO TORTORELLA"
+        },
+        {
+          "numero": 9,
+          "jugador": "IVAN IBAÑEZ"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN PEDRO OCCHIUZZI"
+        },
+        {
+          "numero": 11,
+          "jugador": "TOMAS DOMINGUEZ"
+        },
+        {
+          "numero": 12,
+          "jugador": "NICOLAS MARZIALI",
+          "capitan": true
+        },
+        {
+          "numero": 13,
+          "jugador": "AGUSTIN MARZIALI"
+        },
+        {
+          "numero": 14,
+          "jugador": "GONZALO GREGORIO"
+        },
+        {
+          "numero": 15,
+          "jugador": "GUIDO LIVACHOFF"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "EZEQUIEL VAZQUEZ",
+          "entraPor": "JORGE BENÍTEZ"
+        },
+        {
+          "jugador": "HUGO PEDEMONTE",
+          "entraPor": "EZEQUIEL ARIAS"
+        },
+        {
+          "jugador": "IGNACIO TORRES CIUTAT",
+          "entraPor": "GUIDO LIVACHOFF"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "TOMAS DOMINGUEZ",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "MATIAS AGUERRONDO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "NICOLAS ALTAMIRANO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "IGNACIO TORTORELLA",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "IGNACIO TORRES CIUTAT",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "tipo": "CONVERSION",
+          "cantidad": 4
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "tipo": "PENAL",
+          "cantidad": 4
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "tipo": "DROP",
+          "cantidad": 1
+        }
+      ],
+      "tarjetas": [
+        {
+          "jugador": "NICOLAS MARZIALI",
+          "tipo": "AMARILLA"
+        }
+      ]
+    },
+    {
+      "fecha": "2017-05-06",
+      "fechaNota": null,
+      "rival": "CASA DE PADUA",
+      "condicion": "LOCAL",
+      "resultadoPropio": 28,
+      "resultadoRival": 48,
+      "cancha": "VICENTINOS",
+      "clima": "BUENO",
+      "campoDeJuego": "BUENO",
+      "referee": "BAECK",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "JORGE BENÍTEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "EZEQUIEL ARIAS"
+        },
+        {
+          "numero": 3,
+          "jugador": "FRANCO POPICA"
+        },
+        {
+          "numero": 4,
+          "jugador": "MARTIN APOLO"
+        },
+        {
+          "numero": 5,
+          "jugador": "NICOLAS ALTAMIRANO"
+        },
+        {
+          "numero": 6,
+          "jugador": "MATIAS AGUERRONDO"
+        },
+        {
+          "numero": 7,
+          "jugador": "ANDRES BIRELLO"
+        },
+        {
+          "numero": 8,
+          "jugador": "IGNACIO TORTORELLA"
+        },
+        {
+          "numero": 9,
+          "jugador": "IVAN IBAÑEZ"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN PEDRO OCCHIUZZI"
+        },
+        {
+          "numero": 11,
+          "jugador": "AGUSTIN MARZIALI"
+        },
+        {
+          "numero": 12,
+          "jugador": "NICOLAS MARZIALI",
+          "capitan": true
+        },
+        {
+          "numero": 13,
+          "jugador": "IGNACIO TORRES CIUTAT"
+        },
+        {
+          "numero": 14,
+          "jugador": "GONZALO GREGORIO"
+        },
+        {
+          "numero": 15,
+          "jugador": "GUIDO LIVACHOFF"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "EZEQUIEL BALESTRA",
+          "entraPor": "EZEQUIEL ARIAS"
+        },
+        {
+          "jugador": "HUGO PEDEMONTE",
+          "entraPor": "FRANCO POPICA"
+        },
+        {
+          "jugador": "TOMAS DOMINGUEZ",
+          "entraPor": "GONZALO GREGORIO"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "IVAN IBAÑEZ",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "MATIAS AGUERRONDO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "IGNACIO TORTORELLA",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "tipo": "CONVERSION",
+          "cantidad": 4
+        }
+      ],
+      "tarjetas": [
+        {
+          "jugador": "EZEQUIEL BALESTRA",
+          "tipo": "AMARILLA"
+        }
+      ]
+    },
+    {
+      "fecha": "2017-05-20",
+      "fechaNota": null,
+      "rival": "DAOM",
+      "condicion": "LOCAL",
+      "resultadoPropio": 31,
+      "resultadoRival": 10,
+      "cancha": "VICENTINOS",
+      "clima": "LLUVIAS",
+      "campoDeJuego": "BUENO",
+      "referee": "BERTAZZA",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "JORGE BENÍTEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "HUGO PEDEMONTE"
+        },
+        {
+          "numero": 3,
+          "jugador": "FRANCO POPICA"
+        },
+        {
+          "numero": 4,
+          "jugador": "MARTIN APOLO"
+        },
+        {
+          "numero": 5,
+          "jugador": "NICOLAS ALTAMIRANO"
+        },
+        {
+          "numero": 6,
+          "jugador": "EZEQUIEL VAZQUEZ"
+        },
+        {
+          "numero": 7,
+          "jugador": "ANDRES BIRELLO"
+        },
+        {
+          "numero": 8,
+          "jugador": "IGNACIO TORTORELLA"
+        },
+        {
+          "numero": 9,
+          "jugador": "IVAN IBAÑEZ"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN PEDRO OCCHIUZZI"
+        },
+        {
+          "numero": 11,
+          "jugador": "AGUSTIN MARZIALI"
+        },
+        {
+          "numero": 12,
+          "jugador": "NICOLAS MARZIALI",
+          "capitan": true
+        },
+        {
+          "numero": 13,
+          "jugador": "IGNACIO TORRES CIUTAT"
+        },
+        {
+          "numero": 14,
+          "jugador": "GONZALO GREGORIO"
+        },
+        {
+          "numero": 15,
+          "jugador": "GUIDO LIVACHOFF"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "EZEQUIEL BALESTRA",
+          "entraPor": "HUGO PEDEMONTE"
+        },
+        {
+          "jugador": "MATIAS AGUERRONDO",
+          "entraPor": "ANDRES BIRELLO"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "IVAN IBAÑEZ",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "GONZALO GREGORIO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "GUIDO LIVACHOFF",
+          "tipo": "TRY",
+          "cantidad": 2
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "tipo": "PENAL",
+          "cantidad": 1
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "tipo": "CONVERSION",
+          "cantidad": 4
+        }
+      ],
+      "tarjetas": [
+        {
+          "jugador": "IGNACIO TORTORELLA",
+          "tipo": "AMARILLA"
+        }
+      ]
+    },
+    {
+      "fecha": "2017-05-27",
+      "fechaNota": null,
+      "rival": "DON BOSCO",
+      "condicion": "VISITANTE",
+      "resultadoPropio": 18,
+      "resultadoRival": 52,
+      "cancha": "DON BOSCO",
+      "clima": "BUENO",
+      "campoDeJuego": "REGULAR",
+      "referee": "EUSEBIO",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "JORGE BENÍTEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "HUGO PEDEMONTE"
+        },
+        {
+          "numero": 3,
+          "jugador": "FRANCO POPICA"
+        },
+        {
+          "numero": 4,
+          "jugador": "SEBASTIAN GAUNA"
+        },
+        {
+          "numero": 5,
+          "jugador": "NICOLAS ALTAMIRANO"
+        },
+        {
+          "numero": 6,
+          "jugador": "EZEQUIEL VAZQUEZ"
+        },
+        {
+          "numero": 7,
+          "jugador": "ANDRES BIRELLO"
+        },
+        {
+          "numero": 8,
+          "jugador": "IGNACIO TORTORELLA"
+        },
+        {
+          "numero": 9,
+          "jugador": "IVAN IBAÑEZ"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN PEDRO OCCHIUZZI"
+        },
+        {
+          "numero": 11,
+          "jugador": "AGUSTIN MARZIALI"
+        },
+        {
+          "numero": 12,
+          "jugador": "NICOLAS MARZIALI",
+          "capitan": true
+        },
+        {
+          "numero": 13,
+          "jugador": "IGNACIO TORRES CIUTAT"
+        },
+        {
+          "numero": 14,
+          "jugador": "GONZALO GREGORIO"
+        },
+        {
+          "numero": 15,
+          "jugador": "GUIDO LIVACHOFF"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "EZEQUIEL BALESTRA",
+          "entraPor": "JORGE BENÍTEZ"
+        },
+        {
+          "jugador": "MATIAS AGUERRONDO",
+          "entraPor": "ANDRES BIRELLO"
+        },
+        {
+          "jugador": "MARTIN APOLO",
+          "entraPor": "SEBASTIAN GAUNA"
+        },
+        {
+          "jugador": "MATIAS TRAYNOR",
+          "entraPor": "HUGO PEDEMONTE"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "GUIDO LIVACHOFF",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "AGUSTIN MARZIALI",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "tipo": "PENAL",
+          "cantidad": 2
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "tipo": "CONVERSION",
+          "cantidad": 1
+        }
+      ],
+      "tarjetas": [
+        {
+          "jugador": "EZEQUIEL VAZQUEZ",
+          "tipo": "AMARILLA"
+        },
+        {
+          "jugador": "JORGE BENÍTEZ",
+          "tipo": "AMARILLA"
+        }
+      ]
+    },
+    {
+      "fecha": "2017-06-03",
+      "fechaNota": null,
+      "rival": "ALBATROS",
+      "condicion": "LOCAL",
+      "resultadoPropio": 27,
+      "resultadoRival": 26,
+      "cancha": "VICENTINOS",
+      "clima": "BUENO",
+      "campoDeJuego": "BUENO",
+      "referee": "TERRERA",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "JORGE BENÍTEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "HUGO PEDEMONTE"
+        },
+        {
+          "numero": 3,
+          "jugador": "FRANCO POPICA"
+        },
+        {
+          "numero": 4,
+          "jugador": "SEBASTIAN GAUNA"
+        },
+        {
+          "numero": 5,
+          "jugador": "MARTIN APOLO"
+        },
+        {
+          "numero": 6,
+          "jugador": "EZEQUIEL VAZQUEZ"
+        },
+        {
+          "numero": 7,
+          "jugador": "MATIAS AGUERRONDO"
+        },
+        {
+          "numero": 8,
+          "jugador": "IGNACIO TORTORELLA"
+        },
+        {
+          "numero": 9,
+          "jugador": "IVAN IBAÑEZ"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN PEDRO OCCHIUZZI"
+        },
+        {
+          "numero": 11,
+          "jugador": "AGUSTIN MARZIALI"
+        },
+        {
+          "numero": 12,
+          "jugador": "NICOLAS MARZIALI",
+          "capitan": true
+        },
+        {
+          "numero": 13,
+          "jugador": "IGNACIO TORRES CIUTAT"
+        },
+        {
+          "numero": 14,
+          "jugador": "GONZALO GREGORIO"
+        },
+        {
+          "numero": 15,
+          "jugador": "GUIDO LIVACHOFF"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "EZEQUIEL ARIAS",
+          "entraPor": "HUGO PEDEMONTE"
+        },
+        {
+          "jugador": "ANDRES BIRELLO",
+          "entraPor": "MATIAS AGUERRONDO"
+        },
+        {
+          "jugador": "NICOLAS ALTAMIRANO",
+          "entraPor": "SEBASTIAN GAUNA"
+        },
+        {
+          "jugador": "MATIAS TRAYNOR",
+          "entraPor": "FRANCO POPICA"
+        },
+        {
+          "jugador": "RODRIGO GOMEZ",
+          "entraPor": "JORGE BENÍTEZ"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "GUIDO LIVACHOFF",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "RODRIGO GOMEZ",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "TRY PENAL",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "tipo": "PENAL",
+          "cantidad": 2
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "tipo": "CONVERSION",
+          "cantidad": 3
+        }
+      ],
+      "tarjetas": [
+        {
+          "jugador": "IGNACIO TORRES CIUTAT",
+          "tipo": "AMARILLA"
+        }
+      ]
+    },
+    {
+      "fecha": "2017-06-10",
+      "fechaNota": null,
+      "rival": "BANCO HIPOTECARIO",
+      "condicion": "VISITANTE",
+      "resultadoPropio": 24,
+      "resultadoRival": 37,
+      "cancha": "BANCO HIPOTECARIO",
+      "clima": "BUENO",
+      "campoDeJuego": "BUENO",
+      "referee": "CONTI",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "JORGE BENÍTEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "EZEQUIEL ARIAS"
+        },
+        {
+          "numero": 3,
+          "jugador": "HUGO PEDEMONTE"
+        },
+        {
+          "numero": 4,
+          "jugador": "NICOLAS ALTAMIRANO"
+        },
+        {
+          "numero": 5,
+          "jugador": "MARTIN APOLO"
+        },
+        {
+          "numero": 6,
+          "jugador": "ANDRES BIRELLO"
+        },
+        {
+          "numero": 7,
+          "jugador": "ALEJO BUSTAMANTE"
+        },
+        {
+          "numero": 8,
+          "jugador": "MATIAS AGUERRONDO"
+        },
+        {
+          "numero": 9,
+          "jugador": "IVAN IBAÑEZ"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN PEDRO OCCHIUZZI"
+        },
+        {
+          "numero": 11,
+          "jugador": "AGUSTIN MARZIALI"
+        },
+        {
+          "numero": 12,
+          "jugador": "NICOLAS MARZIALI",
+          "capitan": true
+        },
+        {
+          "numero": 13,
+          "jugador": "IGNACIO TORRES CIUTAT"
+        },
+        {
+          "numero": 14,
+          "jugador": "PATRICIO TRAYNOR"
+        },
+        {
+          "numero": 15,
+          "jugador": "GONZALO GREGORIO"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "RODRIGO GOMEZ",
+          "entraPor": "JORGE BENÍTEZ"
+        },
+        {
+          "jugador": "EZEQUIEL BALESTRA",
+          "entraPor": "EZEQUIEL ARIAS"
+        },
+        {
+          "jugador": "MATIAS TRAYNOR",
+          "entraPor": "HUGO PEDEMONTE"
+        },
+        {
+          "jugador": "IGNACIO TORTORELLA",
+          "entraPor": "ALEJO BUSTAMANTE"
+        },
+        {
+          "jugador": "EZEQUIEL VAZQUEZ",
+          "entraPor": "ANDRES BIRELLO"
+        },
+        {
+          "jugador": "LAUTARO ALCARAZ",
+          "entraPor": "NICOLAS ALTAMIRANO"
+        },
+        {
+          "jugador": "CHRISTIAN MONZON",
+          "entraPor": "PATRICIO TRAYNOR"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "ANDRES BIRELLO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "IGNACIO TORTORELLA",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "MATIAS AGUERRONDO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "tipo": "PENAL",
+          "cantidad": 1
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "tipo": "CONVERSION",
+          "cantidad": 3
+        }
+      ],
+      "tarjetas": [
+        {
+          "jugador": "EZEQUIEL ARIAS",
+          "tipo": "AMARILLA"
+        },
+        {
+          "jugador": "ANDRES BIRELLO",
+          "tipo": "AMARILLA"
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "tipo": "AMARILLA"
+        }
+      ]
+    },
+    {
+      "fecha": "2017-06-17",
+      "fechaNota": null,
+      "rival": "ST BRENDAN'S",
+      "condicion": "LOCAL",
+      "resultadoPropio": 10,
+      "resultadoRival": 20,
+      "cancha": "VICENTINOS",
+      "clima": "INESTABLE",
+      "campoDeJuego": "BUENO",
+      "referee": "FERNANDEZ SALCEDO",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "MATIAS TRAYNOR"
+        },
+        {
+          "numero": 2,
+          "jugador": "EZEQUIEL ARIAS"
+        },
+        {
+          "numero": 3,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 4,
+          "jugador": "OCTAVIO TALLARICO"
+        },
+        {
+          "numero": 5,
+          "jugador": "MARTIN APOLO"
+        },
+        {
+          "numero": 6,
+          "jugador": "ANDRES BIRELLO"
+        },
+        {
+          "numero": 7,
+          "jugador": "EZEQUIEL VAZQUEZ"
+        },
+        {
+          "numero": 8,
+          "jugador": "IGNACIO TORTORELLA"
+        },
+        {
+          "numero": 9,
+          "jugador": "IVAN IBAÑEZ"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN PEDRO OCCHIUZZI"
+        },
+        {
+          "numero": 11,
+          "jugador": "AGUSTIN MARZIALI"
+        },
+        {
+          "numero": 12,
+          "jugador": "NICOLAS MARZIALI",
+          "capitan": true
+        },
+        {
+          "numero": 13,
+          "jugador": "IGNACIO TORRES CIUTAT"
+        },
+        {
+          "numero": 14,
+          "jugador": "CHRISTIAN MONZON"
+        },
+        {
+          "numero": 15,
+          "jugador": "GONZALO GREGORIO"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "HUGO PEDEMONTE",
+          "entraPor": "MATIAS TRAYNOR"
+        },
+        {
+          "jugador": "EZEQUIEL BALESTRA",
+          "entraPor": "EZEQUIEL ARIAS"
+        },
+        {
+          "jugador": "MATIAS AGUERRONDO",
+          "entraPor": "AGUSTIN MARZIALI"
+        },
+        {
+          "jugador": "ALEJO BUSTAMANTE",
+          "entraPor": "EZEQUIEL VAZQUEZ"
+        },
+        {
+          "jugador": "WALTER PRETZ",
+          "entraPor": "ALEJO BUSTAMANTE"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "IVAN IBAÑEZ",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "tipo": "PENAL",
+          "cantidad": 1
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "tipo": "CONVERSION",
+          "cantidad": 1
+        }
+      ],
+      "tarjetas": [
+        {
+          "jugador": "EZEQUIEL VAZQUEZ",
+          "tipo": "AMARILLA"
+        }
+      ]
+    },
+    {
+      "fecha": "2017-06-24",
+      "fechaNota": null,
+      "rival": "LUJAN",
+      "condicion": "VISITANTE",
+      "resultadoPropio": 32,
+      "resultadoRival": 29,
+      "cancha": "LUJAN",
+      "clima": "BUENO",
+      "campoDeJuego": "BUENO",
+      "referee": "BAECK",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "MATIAS TRAYNOR"
+        },
+        {
+          "numero": 2,
+          "jugador": "HUGO PEDEMONTE"
+        },
+        {
+          "numero": 3,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 4,
+          "jugador": "OCTAVIO TALLARICO"
+        },
+        {
+          "numero": 5,
+          "jugador": "MARTIN APOLO"
+        },
+        {
+          "numero": 6,
+          "jugador": "ANDRES BIRELLO"
+        },
+        {
+          "numero": 7,
+          "jugador": "MATIAS AGUERRONDO"
+        },
+        {
+          "numero": 8,
+          "jugador": "IGNACIO TORTORELLA"
+        },
+        {
+          "numero": 9,
+          "jugador": "IVAN IBAÑEZ"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN PEDRO OCCHIUZZI"
+        },
+        {
+          "numero": 11,
+          "jugador": "GONZALO GREGORIO"
+        },
+        {
+          "numero": 12,
+          "jugador": "NICOLAS MARZIALI",
+          "capitan": true
+        },
+        {
+          "numero": 13,
+          "jugador": "IGNACIO TORRES CIUTAT"
+        },
+        {
+          "numero": 14,
+          "jugador": "CHRISTIAN MONZON"
+        },
+        {
+          "numero": 15,
+          "jugador": "PATRICIO TRAYNOR"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "SEBASTIAN GAUNA",
+          "entraPor": "OCTAVIO TALLARICO"
+        },
+        {
+          "jugador": "EZEQUIEL BALESTRA",
+          "entraPor": "HUGO PEDEMONTE"
+        },
+        {
+          "jugador": "SANTIAGO DIAZ",
+          "entraPor": "MARTIN APOLO"
+        },
+        {
+          "jugador": "TOMAS DOMINGUEZ",
+          "entraPor": "CHRISTIAN MONZON"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "IVAN IBAÑEZ",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "tipo": "TRY",
+          "cantidad": 2
+        },
+        {
+          "jugador": "IGNACIO TORTORELLA",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "tipo": "PENAL",
+          "cantidad": 1
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "tipo": "DROP",
+          "cantidad": 1
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "tipo": "CONVERSION",
+          "cantidad": 3
+        }
+      ],
+      "tarjetas": []
+    },
+    {
+      "fecha": "2017-07-08",
+      "fechaNota": null,
+      "rival": "CLUB ITALIANO",
+      "condicion": "LOCAL",
+      "resultadoPropio": 17,
+      "resultadoRival": 7,
+      "cancha": "VICENTINOS",
+      "clima": "NUBLADO",
+      "campoDeJuego": "PESADO",
+      "referee": "HUBER",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "EZEQUIEL BALESTRA"
+        },
+        {
+          "numero": 2,
+          "jugador": "HUGO PEDEMONTE"
+        },
+        {
+          "numero": 3,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 4,
+          "jugador": "OCTAVIO TALLARICO"
+        },
+        {
+          "numero": 5,
+          "jugador": "MARTIN APOLO"
+        },
+        {
+          "numero": 6,
+          "jugador": "ANDRES BIRELLO"
+        },
+        {
+          "numero": 7,
+          "jugador": "EZEQUIEL VAZQUEZ"
+        },
+        {
+          "numero": 8,
+          "jugador": "MATIAS AGUERRONDO"
+        },
+        {
+          "numero": 9,
+          "jugador": "IVAN IBAÑEZ"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN PEDRO OCCHIUZZI"
+        },
+        {
+          "numero": 11,
+          "jugador": "GONZALO GREGORIO"
+        },
+        {
+          "numero": 12,
+          "jugador": "NICOLAS MARZIALI",
+          "capitan": true
+        },
+        {
+          "numero": 13,
+          "jugador": "IGNACIO TORRES CIUTAT"
+        },
+        {
+          "numero": 14,
+          "jugador": "AGUSTIN MARZIALI"
+        },
+        {
+          "numero": 15,
+          "jugador": "PATRICIO TRAYNOR"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "NICOLAS ALTAMIRANO",
+          "entraPor": "OCTAVIO TALLARICO"
+        },
+        {
+          "jugador": "MATIAS TRAYNOR",
+          "entraPor": "HUGO PEDEMONTE"
+        },
+        {
+          "jugador": "ALEJO BUSTAMANTE",
+          "entraPor": "EZEQUIEL VAZQUEZ"
+        },
+        {
+          "jugador": "TOMAS DOMINGUEZ",
+          "entraPor": "AGUSTIN MARZIALI"
+        },
+        {
+          "jugador": "GUIDO LIVACHOFF",
+          "entraPor": "PATRICIO TRAYNOR"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "MARTIN APOLO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "tipo": "PENAL",
+          "cantidad": 4
+        }
+      ],
+      "tarjetas": []
+    },
+    {
+      "fecha": "2017-07-15",
+      "fechaNota": null,
+      "rival": "ATLETICO CHASCOMUS",
+      "condicion": "VISITANTE",
+      "resultadoPropio": 9,
+      "resultadoRival": 13,
+      "cancha": "CHASCOMUS",
+      "clima": "LLUVIOSO",
+      "campoDeJuego": "BARROSO",
+      "referee": "PIOTROWSKY",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "MATIAS TRAYNOR"
+        },
+        {
+          "numero": 2,
+          "jugador": "HUGO PEDEMONTE"
+        },
+        {
+          "numero": 3,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 4,
+          "jugador": "OCTAVIO TALLARICO"
+        },
+        {
+          "numero": 5,
+          "jugador": "SEBASTIAN GAUNA"
+        },
+        {
+          "numero": 6,
+          "jugador": "MARTIN APOLO"
+        },
+        {
+          "numero": 7,
+          "jugador": "NICOLAS ALTAMIRANO"
+        },
+        {
+          "numero": 8,
+          "jugador": "MATIAS AGUERRONDO"
+        },
+        {
+          "numero": 9,
+          "jugador": "IVAN IBAÑEZ"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN PEDRO OCCHIUZZI"
+        },
+        {
+          "numero": 11,
+          "jugador": "PATRICIO TRAYNOR"
+        },
+        {
+          "numero": 12,
+          "jugador": "NICOLAS MARZIALI",
+          "capitan": true
+        },
+        {
+          "numero": 13,
+          "jugador": "IGNACIO TORRES CIUTAT"
+        },
+        {
+          "numero": 14,
+          "jugador": "AGUSTIN MARZIALI"
+        },
+        {
+          "numero": 15,
+          "jugador": "GUIDO LIVACHOFF"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "EZEQUIEL BALESTRA",
+          "entraPor": "HUGO PEDEMONTE"
+        },
+        {
+          "jugador": "ANDRES BIRELLO",
+          "entraPor": "SEBASTIAN GAUNA"
+        },
+        {
+          "jugador": "GONZALO GREGORIO",
+          "entraPor": "PATRICIO TRAYNOR"
+        },
+        {
+          "jugador": "FRANCISCO COMABELLA",
+          "entraPor": "OCTAVIO TALLARICO"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "tipo": "PENAL",
+          "cantidad": 3
+        }
+      ],
+      "tarjetas": []
+    },
+    {
+      "fecha": "2017-07-22",
+      "fechaNota": null,
+      "rival": "GEI",
+      "condicion": "VISITANTE",
+      "resultadoPropio": 26,
+      "resultadoRival": 29,
+      "cancha": "GEI",
+      "clima": "BUENO",
+      "campoDeJuego": "BUENO",
+      "referee": "GERAGHTY",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "MATIAS TRAYNOR"
+        },
+        {
+          "numero": 2,
+          "jugador": "EZEQUIEL BALESTRA"
+        },
+        {
+          "numero": 3,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 4,
+          "jugador": "OCTAVIO TALLARICO"
+        },
+        {
+          "numero": 5,
+          "jugador": "SEBASTIAN GAUNA"
+        },
+        {
+          "numero": 6,
+          "jugador": "EZEQUIEL VAZQUEZ"
+        },
+        {
+          "numero": 7,
+          "jugador": "ANDRES BIRELLO"
+        },
+        {
+          "numero": 8,
+          "jugador": "MATIAS AGUERRONDO"
+        },
+        {
+          "numero": 9,
+          "jugador": "IVAN IBAÑEZ"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN PEDRO OCCHIUZZI"
+        },
+        {
+          "numero": 11,
+          "jugador": "GONZALO GREGORIO"
+        },
+        {
+          "numero": 12,
+          "jugador": "NICOLAS MARZIALI",
+          "capitan": true
+        },
+        {
+          "numero": 13,
+          "jugador": "IGNACIO TORRES CIUTAT"
+        },
+        {
+          "numero": 14,
+          "jugador": "AGUSTIN MARZIALI"
+        },
+        {
+          "numero": 15,
+          "jugador": "GUIDO LIVACHOFF"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "HUGO PEDEMONTE",
+          "entraPor": "MATIAS TRAYNOR"
+        },
+        {
+          "jugador": "NICOLAS ALTAMIRANO",
+          "entraPor": "SEBASTIAN GAUNA"
+        },
+        {
+          "jugador": "PATRICIO TRAYNOR",
+          "entraPor": "AGUSTIN MARZIALI"
+        },
+        {
+          "jugador": "FRANCISCO COMABELLA",
+          "entraPor": "OCTAVIO TALLARICO"
+        },
+        {
+          "jugador": "TOMAS DOMINGUEZ",
+          "entraPor": "GUIDO LIVACHOFF"
+        },
+        {
+          "jugador": "EZEQUIEL ARIAS",
+          "entraPor": "HUGO PEDEMONTE"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "GONZALO GREGORIO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "MATIAS TRAYNOR",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "MATIAS AGUERRONDO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "NICOLAS ALTAMIRANO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "tipo": "CONVERSION",
+          "cantidad": 3
+        }
+      ],
+      "tarjetas": []
+    },
+    {
+      "fecha": "2017-07-29",
+      "fechaNota": null,
+      "rival": "LICEO MILITAR",
+      "condicion": "LOCAL",
+      "resultadoPropio": 40,
+      "resultadoRival": 38,
+      "cancha": "VICENTINOS",
+      "clima": "BUENO",
+      "campoDeJuego": "REGULAR",
+      "referee": "ESTEVES",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "MATIAS TRAYNOR"
+        },
+        {
+          "numero": 2,
+          "jugador": "EZEQUIEL BALESTRA"
+        },
+        {
+          "numero": 3,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 4,
+          "jugador": "OCTAVIO TALLARICO"
+        },
+        {
+          "numero": 5,
+          "jugador": "MARTIN APOLO"
+        },
+        {
+          "numero": 6,
+          "jugador": "NICOLAS ALTAMIRANO"
+        },
+        {
+          "numero": 7,
+          "jugador": "ANDRES BIRELLO"
+        },
+        {
+          "numero": 8,
+          "jugador": "MATIAS AGUERRONDO"
+        },
+        {
+          "numero": 9,
+          "jugador": "IVAN IBAÑEZ"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN PEDRO OCCHIUZZI"
+        },
+        {
+          "numero": 11,
+          "jugador": "TOMAS DOMINGUEZ"
+        },
+        {
+          "numero": 12,
+          "jugador": "NICOLAS MARZIALI",
+          "capitan": true
+        },
+        {
+          "numero": 13,
+          "jugador": "IGNACIO TORRES CIUTAT"
+        },
+        {
+          "numero": 14,
+          "jugador": "GONZALO GREGORIO"
+        },
+        {
+          "numero": 15,
+          "jugador": "PATRICIO TRAYNOR"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "GUIDO LIVACHOFF",
+          "entraPor": "GONZALO GREGORIO"
+        },
+        {
+          "jugador": "FRANCISCO COMABELLA",
+          "entraPor": "OCTAVIO TALLARICO"
+        },
+        {
+          "jugador": "EZEQUIEL ARIAS",
+          "entraPor": "MATIAS TRAYNOR"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "ANDRES BIRELLO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "NICOLAS MARZIALI",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "IGNACIO TORRES CIUTAT",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "TOMAS DOMINGUEZ",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "GUIDO LIVACHOFF",
+          "tipo": "TRY",
+          "cantidad": 2
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "tipo": "CONVERSION",
+          "cantidad": 5
+        }
+      ],
+      "tarjetas": []
+    },
+    {
+      "fecha": "2017-08-05",
+      "fechaNota": null,
+      "rival": "CENTRO NAVAL",
+      "condicion": "VISITANTE",
+      "resultadoPropio": 21,
+      "resultadoRival": 24,
+      "cancha": "CENTRO NAVAL",
+      "clima": "BUENO",
+      "campoDeJuego": "BUENO",
+      "referee": "COVASSI",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "MATIAS TRAYNOR"
+        },
+        {
+          "numero": 2,
+          "jugador": "EZEQUIEL BALESTRA"
+        },
+        {
+          "numero": 3,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 4,
+          "jugador": "OCTAVIO TALLARICO"
+        },
+        {
+          "numero": 5,
+          "jugador": "SEBASTIAN GAUNA"
+        },
+        {
+          "numero": 6,
+          "jugador": "NICOLAS ALTAMIRANO"
+        },
+        {
+          "numero": 7,
+          "jugador": "ANDRES BIRELLO"
+        },
+        {
+          "numero": 8,
+          "jugador": "MATIAS AGUERRONDO"
+        },
+        {
+          "numero": 9,
+          "jugador": "IVAN IBAÑEZ"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN PEDRO OCCHIUZZI"
+        },
+        {
+          "numero": 11,
+          "jugador": "GONZALO GREGORIO"
+        },
+        {
+          "numero": 12,
+          "jugador": "NICOLAS MARZIALI",
+          "capitan": true
+        },
+        {
+          "numero": 13,
+          "jugador": "IGNACIO TORRES CIUTAT"
+        },
+        {
+          "numero": 14,
+          "jugador": "PATRICIO TRAYNOR"
+        },
+        {
+          "numero": 15,
+          "jugador": "TOMAS DOMINGUEZ"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "AGUSTIN MARZIALI",
+          "entraPor": "PATRICIO TRAYNOR"
+        },
+        {
+          "jugador": "GUIDO LIVACHOFF",
+          "entraPor": "GONZALO GREGORIO"
+        },
+        {
+          "jugador": "LAUTARO ALCARAZ",
+          "entraPor": "OCTAVIO TALLARICO"
+        },
+        {
+          "jugador": "MARTIN APOLO",
+          "entraPor": "NICOLAS ALTAMIRANO"
+        },
+        {
+          "jugador": "EZEQUIEL ARIAS",
+          "entraPor": "EZEQUIEL BALESTRA"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "EZEQUIEL BALESTRA",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "TOMAS DOMINGUEZ",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "tipo": "CONVERSION",
+          "cantidad": 1
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "tipo": "PENAL",
+          "cantidad": 2
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "tipo": "DROP",
+          "cantidad": 1
+        }
+      ],
+      "tarjetas": []
+    },
+    {
+      "fecha": "2017-08-12",
+      "fechaNota": null,
+      "rival": "LA SALLE",
+      "condicion": "LOCAL",
+      "resultadoPropio": 37,
+      "resultadoRival": 15,
+      "cancha": "VICENTINOS",
+      "clima": "NUBLADO",
+      "campoDeJuego": "REGULAR",
+      "referee": "MUNCAL",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "EZEQUIEL BALESTRA"
+        },
+        {
+          "numero": 2,
+          "jugador": "EZEQUIEL ARIAS"
+        },
+        {
+          "numero": 3,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 4,
+          "jugador": "OCTAVIO TALLARICO"
+        },
+        {
+          "numero": 5,
+          "jugador": "SEBASTIAN GAUNA"
+        },
+        {
+          "numero": 6,
+          "jugador": "ALEJO BUSTAMANTE"
+        },
+        {
+          "numero": 7,
+          "jugador": "ANDRES BIRELLO"
+        },
+        {
+          "numero": 8,
+          "jugador": "MATIAS AGUERRONDO"
+        },
+        {
+          "numero": 9,
+          "jugador": "IVAN IBAÑEZ"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN PEDRO OCCHIUZZI"
+        },
+        {
+          "numero": 11,
+          "jugador": "AGUSTIN MARZIALI"
+        },
+        {
+          "numero": 12,
+          "jugador": "NICOLAS MARZIALI",
+          "capitan": true
+        },
+        {
+          "numero": 13,
+          "jugador": "IGNACIO TORRES CIUTAT"
+        },
+        {
+          "numero": 14,
+          "jugador": "PATRICIO TRAYNOR"
+        },
+        {
+          "numero": 15,
+          "jugador": "TOMAS DOMINGUEZ"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "HUGO PEDEMONTE",
+          "entraPor": "EZEQUIEL ARIAS"
+        },
+        {
+          "jugador": "FRANCISCO COMABELLA",
+          "entraPor": "OCTAVIO TALLARICO"
+        },
+        {
+          "jugador": "LAUTARO ALCARAZ",
+          "entraPor": "ALEJO BUSTAMANTE"
+        },
+        {
+          "jugador": "GONZALO GREGORIO",
+          "entraPor": "AGUSTIN MARZIALI"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "PATRICIO TRAYNOR",
+          "tipo": "TRY",
+          "cantidad": 3
+        },
+        {
+          "jugador": "TOMAS DOMINGUEZ",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "HUGO PEDEMONTE",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "tipo": "CONVERSION",
+          "cantidad": 3
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "tipo": "PENAL",
+          "cantidad": 2
+        }
+      ],
+      "tarjetas": []
+    },
+    {
+      "fecha": "2017-08-19",
+      "fechaNota": null,
+      "rival": "CASA DE PADUA",
+      "condicion": "VISITANTE",
+      "resultadoPropio": 30,
+      "resultadoRival": 43,
+      "cancha": "CASA DE PADUA",
+      "clima": "BUENO",
+      "campoDeJuego": "BUENO",
+      "referee": "ALVAREZ E,",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "MATIAS TRAYNOR"
+        },
+        {
+          "numero": 2,
+          "jugador": "EZEQUIEL BALESTRA"
+        },
+        {
+          "numero": 3,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 4,
+          "jugador": "OCTAVIO TALLARICO"
+        },
+        {
+          "numero": 5,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 6,
+          "jugador": "MATIAS AGUERRONDO"
+        },
+        {
+          "numero": 7,
+          "jugador": "ANDRES BIRELLO"
+        },
+        {
+          "numero": 8,
+          "jugador": "IGNACIO TORTORELLA"
+        },
+        {
+          "numero": 9,
+          "jugador": "IVAN IBAÑEZ"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN PEDRO OCCHIUZZI"
+        },
+        {
+          "numero": 11,
+          "jugador": "AGUSTIN MARZIALI"
+        },
+        {
+          "numero": 12,
+          "jugador": "NICOLAS MARZIALI",
+          "capitan": true
+        },
+        {
+          "numero": 13,
+          "jugador": "IGNACIO TORRES CIUTAT"
+        },
+        {
+          "numero": 14,
+          "jugador": "PATRICIO TRAYNOR"
+        },
+        {
+          "numero": 15,
+          "jugador": "TOMAS DOMINGUEZ"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "HUGO PEDEMONTE",
+          "entraPor": "MATIAS TRAYNOR"
+        },
+        {
+          "jugador": "JUAN IGNACIO VAZQUEZ",
+          "entraPor": "OCTAVIO TALLARICO"
+        },
+        {
+          "jugador": "AGUSTIN TRAYNOR",
+          "entraPor": "IVAN IBAÑEZ"
+        },
+        {
+          "jugador": "MARIANO LIVACHOFF",
+          "entraPor": "JUAN PEDRO OCCHIUZZI"
+        },
+        {
+          "jugador": "GONZALO GREGORIO",
+          "entraPor": "PATRICIO TRAYNOR"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "PATRICIO TRAYNOR",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "FRANCISCO COMABELLA",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "ANDRES BIRELLO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "MARIANO LIVACHOFF",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "IVAN IBAÑEZ",
+          "tipo": "CONVERSION",
+          "cantidad": 1
+        },
+        {
+          "jugador": "TOMAS DOMINGUEZ",
+          "tipo": "CONVERSION",
+          "cantidad": 1
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "tipo": "PENAL",
+          "cantidad": 2
+        }
+      ],
+      "tarjetas": []
+    },
+    {
+      "fecha": "2017-09-02",
+      "fechaNota": null,
+      "rival": "DAOM",
+      "condicion": "VISITANTE",
+      "resultadoPropio": 21,
+      "resultadoRival": 22,
+      "cancha": "DAOM",
+      "clima": "BUENO",
+      "campoDeJuego": "BUENO",
+      "referee": "NUÑEZ",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "MATIAS TRAYNOR"
+        },
+        {
+          "numero": 2,
+          "jugador": "EZEQUIEL BALESTRA"
+        },
+        {
+          "numero": 3,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 4,
+          "jugador": "OCTAVIO TALLARICO"
+        },
+        {
+          "numero": 5,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 6,
+          "jugador": "MATIAS AGUERRONDO"
+        },
+        {
+          "numero": 7,
+          "jugador": "ANDRES BIRELLO"
+        },
+        {
+          "numero": 8,
+          "jugador": "IGNACIO TORTORELLA"
+        },
+        {
+          "numero": 9,
+          "jugador": "IVAN IBAÑEZ"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN MATIAS TRAYNOR"
+        },
+        {
+          "numero": 11,
+          "jugador": "AGUSTIN MARZIALI"
+        },
+        {
+          "numero": 12,
+          "jugador": "NICOLAS MARZIALI",
+          "capitan": true
+        },
+        {
+          "numero": 13,
+          "jugador": "IGNACIO TORRES CIUTAT"
+        },
+        {
+          "numero": 14,
+          "jugador": "PATRICIO TRAYNOR"
+        },
+        {
+          "numero": 15,
+          "jugador": "GONZALO GREGORIO"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "NICOLAS ALTAMIRANO",
+          "entraPor": "OCTAVIO TALLARICO"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "RODRIGO GOMEZ",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "MATIAS AGUERRONDO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "AGUSTIN MARZIALI",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "IVAN IBAÑEZ",
+          "tipo": "CONVERSION",
+          "cantidad": 3
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "tipo": "PENAL",
+          "cantidad": 2
+        }
+      ],
+      "tarjetas": []
+    },
+    {
+      "fecha": "2017-09-09",
+      "fechaNota": null,
+      "rival": "DON BOSCO",
+      "condicion": "LOCAL",
+      "resultadoPropio": 29,
+      "resultadoRival": 20,
+      "cancha": "VICENTINOS",
+      "clima": "NUBLADO",
+      "campoDeJuego": "REGULAR",
+      "referee": "CONTI",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "MATIAS TRAYNOR"
+        },
+        {
+          "numero": 3,
+          "jugador": "FRANCO POPICA"
+        },
+        {
+          "numero": 4,
+          "jugador": "OCTAVIO TALLARICO"
+        },
+        {
+          "numero": 5,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 6,
+          "jugador": "MATIAS AGUERRONDO"
+        },
+        {
+          "numero": 7,
+          "jugador": "ANDRES BIRELLO"
+        },
+        {
+          "numero": 8,
+          "jugador": "IGNACIO TORTORELLA"
+        },
+        {
+          "numero": 9,
+          "jugador": "IVAN IBAÑEZ"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN MATIAS TRAYNOR"
+        },
+        {
+          "numero": 11,
+          "jugador": "AGUSTIN MARZIALI"
+        },
+        {
+          "numero": 12,
+          "jugador": "NICOLAS MARZIALI",
+          "capitan": true
+        },
+        {
+          "numero": 13,
+          "jugador": "IGNACIO TORRES CIUTAT"
+        },
+        {
+          "numero": 14,
+          "jugador": "PATRICIO TRAYNOR"
+        },
+        {
+          "numero": 15,
+          "jugador": "GONZALO GREGORIO"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "EZEQUIEL BALESTRA",
+          "entraPor": "FRANCO POPICA"
+        },
+        {
+          "jugador": "SANTIAGO DIAZ",
+          "entraPor": "ANDRES BIRELLO"
+        },
+        {
+          "jugador": "MARIANO LIVACHOFF",
+          "entraPor": "PATRICIO TRAYNOR"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "IGNACIO TORTORELLA",
+          "tipo": "TRY",
+          "cantidad": 4
+        },
+        {
+          "jugador": "MATIAS AGUERRONDO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "IVAN IBAÑEZ",
+          "tipo": "CONVERSION",
+          "cantidad": 2
+        }
+      ],
+      "tarjetas": [
+        {
+          "jugador": "IGNACIO TORTORELLA",
+          "tipo": "AMARILLA"
+        }
+      ]
+    },
+    {
+      "fecha": "2017-09-16",
+      "fechaNota": null,
+      "rival": "ALBATROS",
+      "condicion": "VISITANTE",
+      "resultadoPropio": 29,
+      "resultadoRival": 39,
+      "cancha": "ALBATROS",
+      "clima": "BUENO",
+      "campoDeJuego": "BUENO",
+      "referee": "IGARZABAL",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "MATIAS TRAYNOR"
+        },
+        {
+          "numero": 3,
+          "jugador": "FRANCO POPICA"
+        },
+        {
+          "numero": 4,
+          "jugador": "OCTAVIO TALLARICO"
+        },
+        {
+          "numero": 5,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 6,
+          "jugador": "NICOLAS ALTAMIRANO"
+        },
+        {
+          "numero": 7,
+          "jugador": "ANDRES BIRELLO"
+        },
+        {
+          "numero": 8,
+          "jugador": "MATIAS AGUERRONDO"
+        },
+        {
+          "numero": 9,
+          "jugador": "IVAN IBAÑEZ"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN MATIAS TRAYNOR"
+        },
+        {
+          "numero": 11,
+          "jugador": "AGUSTIN MARZIALI"
+        },
+        {
+          "numero": 12,
+          "jugador": "NICOLAS MARZIALI",
+          "capitan": true
+        },
+        {
+          "numero": 13,
+          "jugador": "IGNACIO TORRES CIUTAT"
+        },
+        {
+          "numero": 14,
+          "jugador": "PATRICIO TRAYNOR"
+        },
+        {
+          "numero": 15,
+          "jugador": "GONZALO GREGORIO"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "EZEQUIEL BALESTRA",
+          "entraPor": "FRANCO POPICA"
+        },
+        {
+          "jugador": "SANTIAGO DIAZ",
+          "entraPor": "NICOLAS ALTAMIRANO"
+        },
+        {
+          "jugador": "SEBASTIAN GAUNA",
+          "entraPor": "FRANCISCO COMABELLA"
+        },
+        {
+          "jugador": "HUGO PEDEMONTE",
+          "entraPor": "MATIAS TRAYNOR"
+        },
+        {
+          "jugador": "MARIANO LIVACHOFF",
+          "entraPor": "PATRICIO TRAYNOR"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "NICOLAS MARZIALI",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "MATIAS AGUERRONDO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "HUGO PEDEMONTE",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "JUAN MATIAS TRAYNOR",
+          "tipo": "CONVERSION",
+          "cantidad": 1
+        },
+        {
+          "jugador": "JUAN MATIAS TRAYNOR",
+          "tipo": "PENAL",
+          "cantidad": 4
+        }
+      ],
+      "tarjetas": [
+        {
+          "jugador": "RODRIGO GOMEZ",
+          "tipo": "AMARILLA"
+        }
+      ]
+    },
+    {
+      "fecha": "2017-09-23",
+      "fechaNota": null,
+      "rival": "BANCO HIPOTECARIO",
+      "condicion": "LOCAL",
+      "resultadoPropio": 35,
+      "resultadoRival": 10,
+      "cancha": "VICENTINOS",
+      "clima": "BUENO",
+      "campoDeJuego": "BUENO",
+      "referee": "RIZZO",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "MATIAS TRAYNOR"
+        },
+        {
+          "numero": 2,
+          "jugador": "EZEQUIEL BALESTRA"
+        },
+        {
+          "numero": 3,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 4,
+          "jugador": "OCTAVIO TALLARICO"
+        },
+        {
+          "numero": 5,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 6,
+          "jugador": "MATIAS AGUERRONDO"
+        },
+        {
+          "numero": 7,
+          "jugador": "ANDRES BIRELLO"
+        },
+        {
+          "numero": 8,
+          "jugador": "IGNACIO TORTORELLA"
+        },
+        {
+          "numero": 9,
+          "jugador": "IVAN IBAÑEZ"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN MATIAS TRAYNOR"
+        },
+        {
+          "numero": 11,
+          "jugador": "AGUSTIN MARZIALI"
+        },
+        {
+          "numero": 12,
+          "jugador": "NICOLAS MARZIALI",
+          "capitan": true
+        },
+        {
+          "numero": 13,
+          "jugador": "IGNACIO TORRES CIUTAT"
+        },
+        {
+          "numero": 14,
+          "jugador": "GONZALO GREGORIO"
+        },
+        {
+          "numero": 15,
+          "jugador": "MARIANO LIVACHOFF"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "NICOLAS ALTAMIRANO",
+          "entraPor": "MATIAS AGUERRONDO"
+        },
+        {
+          "jugador": "SANTIAGO DIAZ",
+          "entraPor": "OCTAVIO TALLARICO"
+        },
+        {
+          "jugador": "HUGO PEDEMONTE",
+          "entraPor": "MATIAS TRAYNOR"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "FRANCISCO COMABELLA",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "GONZALO GREGORIO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "IVAN IBAÑEZ",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "IGNACIO TORRES CIUTAT",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "JUAN MATIAS TRAYNOR",
+          "tipo": "CONVERSION",
+          "cantidad": 2
+        },
+        {
+          "jugador": "IVAN IBAÑEZ",
+          "tipo": "CONVERSION",
+          "cantidad": 1
+        },
+        {
+          "jugador": "JUAN MATIAS TRAYNOR",
+          "tipo": "PENAL",
+          "cantidad": 2
+        },
+        {
+          "jugador": "MARIANO LIVACHOFF",
+          "tipo": "DROP",
+          "cantidad": 1
+        }
+      ],
+      "tarjetas": []
+    },
+    {
+      "fecha": "2017-10-07",
+      "fechaNota": null,
+      "rival": "ST BRENDAN'S",
+      "condicion": "VISITANTE",
+      "resultadoPropio": 15,
+      "resultadoRival": 13,
+      "cancha": "ST.BRENDAN´S",
+      "clima": "BUENO",
+      "campoDeJuego": "REGULAR",
+      "referee": "TERRERA",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "MATIAS TRAYNOR"
+        },
+        {
+          "numero": 2,
+          "jugador": "EZEQUIEL BALESTRA"
+        },
+        {
+          "numero": 3,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 4,
+          "jugador": "OCTAVIO TALLARICO"
+        },
+        {
+          "numero": 5,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 6,
+          "jugador": "NICOLAS ALTAMIRANO"
+        },
+        {
+          "numero": 7,
+          "jugador": "ANDRES BIRELLO"
+        },
+        {
+          "numero": 8,
+          "jugador": "IGNACIO TORTORELLA"
+        },
+        {
+          "numero": 9,
+          "jugador": "IVAN IBAÑEZ"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN MATIAS TRAYNOR"
+        },
+        {
+          "numero": 11,
+          "jugador": "AGUSTIN MARZIALI"
+        },
+        {
+          "numero": 12,
+          "jugador": "NICOLAS MARZIALI",
+          "capitan": true
+        },
+        {
+          "numero": 13,
+          "jugador": "IGNACIO TORRES CIUTAT"
+        },
+        {
+          "numero": 14,
+          "jugador": "GONZALO GREGORIO"
+        },
+        {
+          "numero": 15,
+          "jugador": "MARIANO LIVACHOFF"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "SEBASTIAN GAUNA",
+          "entraPor": "FRANCISCO COMABELLA"
+        },
+        {
+          "jugador": "SANTIAGO DIAZ",
+          "entraPor": "OCTAVIO TALLARICO"
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "entraPor": "JUAN MATIAS TRAYNOR"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "IGNACIO TORRES CIUTAT",
+          "tipo": "TRY",
+          "cantidad": 2
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "tipo": "CONVERSION",
+          "cantidad": 1
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "tipo": "PENAL",
+          "cantidad": 1
+        }
+      ],
+      "tarjetas": []
+    },
+    {
+      "fecha": "2017-10-14",
+      "fechaNota": null,
+      "rival": "LUJAN",
+      "condicion": "LOCAL",
+      "resultadoPropio": 17,
+      "resultadoRival": 22,
+      "cancha": "VICENTINOS",
+      "clima": "BUENO",
+      "campoDeJuego": "BUENO",
+      "referee": "PIOTROWSKY",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "MATIAS TRAYNOR"
+        },
+        {
+          "numero": 2,
+          "jugador": "EZEQUIEL BALESTRA"
+        },
+        {
+          "numero": 3,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 4,
+          "jugador": "SEBASTIAN GAUNA"
+        },
+        {
+          "numero": 5,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 6,
+          "jugador": "NICOLAS ALTAMIRANO"
+        },
+        {
+          "numero": 7,
+          "jugador": "ANDRES BIRELLO"
+        },
+        {
+          "numero": 8,
+          "jugador": "IGNACIO TORTORELLA"
+        },
+        {
+          "numero": 9,
+          "jugador": "IVAN IBAÑEZ"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN MATIAS TRAYNOR"
+        },
+        {
+          "numero": 11,
+          "jugador": "AGUSTIN MARZIALI"
+        },
+        {
+          "numero": 12,
+          "jugador": "NICOLAS MARZIALI",
+          "capitan": true
+        },
+        {
+          "numero": 13,
+          "jugador": "IGNACIO TORRES CIUTAT"
+        },
+        {
+          "numero": 14,
+          "jugador": "GONZALO GREGORIO"
+        },
+        {
+          "numero": 15,
+          "jugador": "MARIANO LIVACHOFF"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "JUAN IGNACIO VAZQUEZ",
+          "entraPor": "SEBASTIAN GAUNA"
+        },
+        {
+          "jugador": "MARTIN APOLO",
+          "entraPor": "FRANCISCO COMABELLA"
+        },
+        {
+          "jugador": "SANTIAGO DIAZ",
+          "entraPor": "NICOLAS ALTAMIRANO"
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "entraPor": "JUAN MATIAS TRAYNOR"
+        },
+        {
+          "jugador": "TOMAS DOMINGUEZ",
+          "entraPor": "GONZALO GREGORIO"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "IGNACIO TORRES CIUTAT",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "ANDRES BIRELLO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "GONZALO GREGORIO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "tipo": "CONVERSION",
+          "cantidad": 1
+        }
+      ],
+      "tarjetas": [
+        {
+          "jugador": "FRANCISCO COMABELLA",
+          "tipo": "AMARILLA"
+        },
+        {
+          "jugador": "IGNACIO TORTORELLA",
+          "tipo": "AMARILLA"
+        }
+      ]
+    },
+    {
+      "fecha": "2017-10-21",
+      "fechaNota": null,
+      "rival": "CLUB ITALIANO",
+      "condicion": "VISITANTE",
+      "resultadoPropio": 37,
+      "resultadoRival": 27,
+      "cancha": "CLUB ITALIANO",
+      "clima": "BUENO",
+      "campoDeJuego": "BUENO",
+      "referee": "CORDOBA",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "MATIAS TRAYNOR"
+        },
+        {
+          "numero": 2,
+          "jugador": "EZEQUIEL BALESTRA"
+        },
+        {
+          "numero": 3,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 4,
+          "jugador": "SEBASTIAN GAUNA"
+        },
+        {
+          "numero": 5,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 6,
+          "jugador": "NICOLAS ALTAMIRANO"
+        },
+        {
+          "numero": 7,
+          "jugador": "ANDRES BIRELLO"
+        },
+        {
+          "numero": 8,
+          "jugador": "IGNACIO TORTORELLA"
+        },
+        {
+          "numero": 9,
+          "jugador": "IVAN IBAÑEZ"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN PEDRO OCCHIUZZI"
+        },
+        {
+          "numero": 11,
+          "jugador": "AGUSTIN MARZIALI"
+        },
+        {
+          "numero": 12,
+          "jugador": "NICOLAS MARZIALI",
+          "capitan": true
+        },
+        {
+          "numero": 13,
+          "jugador": "IGNACIO TORRES CIUTAT"
+        },
+        {
+          "numero": 14,
+          "jugador": "GONZALO GREGORIO"
+        },
+        {
+          "numero": 15,
+          "jugador": "MARIANO LIVACHOFF"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "OCTAVIO TALLARICO",
+          "entraPor": "SEBASTIAN GAUNA"
+        },
+        {
+          "jugador": "MARTIN APOLO",
+          "entraPor": "FRANCISCO COMABELLA"
+        },
+        {
+          "jugador": "SANTIAGO DIAZ",
+          "entraPor": "IGNACIO TORTORELLA"
+        },
+        {
+          "jugador": "FRANCO POPICA",
+          "entraPor": "RODRIGO GOMEZ"
+        },
+        {
+          "jugador": "CHRISTIAN MONZON",
+          "entraPor": "IGNACIO TORRES CIUTAT"
+        },
+        {
+          "jugador": "TOMAS DOMINGUEZ",
+          "entraPor": "GONZALO GREGORIO"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "IGNACIO TORTORELLA",
+          "tipo": "TRY",
+          "cantidad": 2
+        },
+        {
+          "jugador": "NICOLAS ALTAMIRANO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "GONZALO GREGORIO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "HUGO PEDEMONTE",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "tipo": "CONVERSION",
+          "cantidad": 3
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "tipo": "PENAL",
+          "cantidad": 2
+        }
+      ],
+      "tarjetas": [
+        {
+          "jugador": "RODRIGO GOMEZ",
+          "tipo": "AMARILLA"
+        },
+        {
+          "jugador": "MARIANO LIVACHOFF",
+          "tipo": "AMARILLA"
+        }
+      ]
+    },
+    {
+      "fecha": "2017-10-28",
+      "fechaNota": null,
+      "rival": "ATLETICO CHASCOMUS",
+      "condicion": "LOCAL",
+      "resultadoPropio": 26,
+      "resultadoRival": 47,
+      "cancha": "VICENTINOS",
+      "clima": "BUENO",
+      "campoDeJuego": "BUENO",
+      "referee": "ALBERRO",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "MATIAS TRAYNOR"
+        },
+        {
+          "numero": 2,
+          "jugador": "EZEQUIEL BALESTRA"
+        },
+        {
+          "numero": 3,
+          "jugador": "FRANCO POPICA"
+        },
+        {
+          "numero": 4,
+          "jugador": "OCTAVIO TALLARICO"
+        },
+        {
+          "numero": 5,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 6,
+          "jugador": "NICOLAS ALTAMIRANO"
+        },
+        {
+          "numero": 7,
+          "jugador": "ANDRES BIRELLO"
+        },
+        {
+          "numero": 8,
+          "jugador": "IGNACIO TORTORELLA"
+        },
+        {
+          "numero": 9,
+          "jugador": "IVAN IBAÑEZ"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN PEDRO OCCHIUZZI"
+        },
+        {
+          "numero": 11,
+          "jugador": "AGUSTIN MARZIALI"
+        },
+        {
+          "numero": 12,
+          "jugador": "NICOLAS MARZIALI",
+          "capitan": true
+        },
+        {
+          "numero": 13,
+          "jugador": "MARIANO LIVACHOFF"
+        },
+        {
+          "numero": 14,
+          "jugador": "GONZALO GREGORIO"
+        },
+        {
+          "numero": 15,
+          "jugador": "TOMAS DOMINGUEZ"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "SEBASTIAN GAUNA",
+          "entraPor": "FRANCISCO COMABELLA"
+        },
+        {
+          "jugador": "HUGO PEDEMONTE",
+          "entraPor": "FRANCO POPICA"
+        },
+        {
+          "jugador": "AGUSTIN DOMINGUEZ",
+          "entraPor": "NICOLAS ALTAMIRANO"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "IGNACIO TORTORELLA",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "AGUSTIN MARZIALI",
+          "tipo": "TRY",
+          "cantidad": 3
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "tipo": "CONVERSION",
+          "cantidad": 3
+        }
+      ],
+      "tarjetas": [
+        {
+          "jugador": "IGNACIO TORTORELLA",
+          "tipo": "AMARILLA"
+        },
+        {
+          "jugador": "AGUSTIN DOMINGUEZ",
+          "tipo": "AMARILLA"
+        }
+      ]
+    }
+  ]
+}

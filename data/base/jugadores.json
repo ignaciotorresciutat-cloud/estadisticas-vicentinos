@@ -1,0 +1,793 @@
+[
+  {
+    "id": 1155,
+    "nombre": "MATIAS BOCO",
+    "camada": 1980,
+    "vicentinoN": 1,
+    "esJugadorReal": true
+  },
+  {
+    "id": 1156,
+    "nombre": "OCTAVIO TALLARICO",
+    "camada": 1986,
+    "vicentinoN": 2,
+    "esJugadorReal": true
+  },
+  {
+    "id": 1157,
+    "nombre": "MARIANO LIVACHOFF",
+    "camada": 1988,
+    "vicentinoN": 3,
+    "esJugadorReal": true
+  },
+  {
+    "id": 1158,
+    "nombre": "MANUEL ALTAMIRANO",
+    "camada": 1988,
+    "vicentinoN": 4,
+    "esJugadorReal": true
+  },
+  {
+    "id": 1159,
+    "nombre": "NICOLAS MARZIALI",
+    "camada": 1989,
+    "vicentinoN": 5,
+    "esJugadorReal": true
+  },
+  {
+    "id": 1160,
+    "nombre": "EZEQUIEL BALESTRA",
+    "camada": 1989,
+    "vicentinoN": 6,
+    "esJugadorReal": true
+  },
+  {
+    "id": 1161,
+    "nombre": "SANTIAGO DOMINGUEZ",
+    "camada": 1989,
+    "vicentinoN": 7,
+    "esJugadorReal": true
+  },
+  {
+    "id": 1162,
+    "nombre": "MARIANO CETTOUR",
+    "camada": 1989,
+    "vicentinoN": 8,
+    "esJugadorReal": true
+  },
+  {
+    "id": 1163,
+    "nombre": "PABLO FERREIRA",
+    "camada": 1989,
+    "vicentinoN": 9,
+    "esJugadorReal": true
+  },
+  {
+    "id": 1164,
+    "nombre": "MARTIN APOLO",
+    "camada": 1990,
+    "vicentinoN": 10,
+    "esJugadorReal": true
+  },
+  {
+    "id": 1165,
+    "nombre": "GUIDO LIVACHOFF",
+    "camada": 1990,
+    "vicentinoN": 11,
+    "esJugadorReal": true
+  },
+  {
+    "id": 1166,
+    "nombre": "AGUSTIN MARZIALI",
+    "camada": 1990,
+    "vicentinoN": 12,
+    "esJugadorReal": true
+  },
+  {
+    "id": 1167,
+    "nombre": "AGUSTIN DOMINGUEZ",
+    "camada": 1990,
+    "vicentinoN": 13,
+    "esJugadorReal": true
+  },
+  {
+    "id": 1168,
+    "nombre": "RODRIGO GOMEZ",
+    "camada": 1991,
+    "vicentinoN": 14,
+    "esJugadorReal": true
+  },
+  {
+    "id": 1169,
+    "nombre": "NICOLAS ALTAMIRANO",
+    "camada": 1993,
+    "vicentinoN": 15,
+    "esJugadorReal": true
+  },
+  {
+    "id": 1170,
+    "nombre": "JUAN JOSE MONEA",
+    "camada": 1978,
+    "vicentinoN": 16,
+    "esJugadorReal": true
+  },
+  {
+    "id": 1171,
+    "nombre": "SANTIAGO DIAZ",
+    "camada": 1989,
+    "vicentinoN": 17,
+    "esJugadorReal": true
+  },
+  {
+    "id": 1172,
+    "nombre": "IGNACIO TORTORELLA",
+    "camada": 1993,
+    "vicentinoN": 18,
+    "esJugadorReal": true
+  },
+  {
+    "id": 1173,
+    "nombre": "JOSE GRUBER",
+    "camada": 1993,
+    "vicentinoN": 19,
+    "esJugadorReal": true
+  },
+  {
+    "id": 1174,
+    "nombre": "MAXIMILIANO SOLIVELLAS",
+    "camada": 1993,
+    "vicentinoN": 20,
+    "esJugadorReal": true
+  },
+  {
+    "id": 1175,
+    "nombre": "NICOLAS CUPO",
+    "camada": 1988,
+    "vicentinoN": 21,
+    "esJugadorReal": true
+  },
+  {
+    "id": 1176,
+    "nombre": "LUCIANO JAR",
+    "camada": 1989,
+    "vicentinoN": 22,
+    "esJugadorReal": true
+  },
+  {
+    "id": 1177,
+    "nombre": "PATRICIO TRAYNOR",
+    "camada": 1993,
+    "vicentinoN": 23,
+    "esJugadorReal": true
+  },
+  {
+    "id": 1178,
+    "nombre": "FEDERICO PITTALA",
+    "camada": 1993,
+    "vicentinoN": 24,
+    "esJugadorReal": true
+  },
+  {
+    "id": 1179,
+    "nombre": "IVAN IBAÑEZ",
+    "camada": 1994,
+    "vicentinoN": 25,
+    "esJugadorReal": true
+  },
+  {
+    "id": 1180,
+    "nombre": "IGNACIO TORRES CIUTAT",
+    "camada": 1995,
+    "vicentinoN": 26,
+    "esJugadorReal": true
+  },
+  {
+    "id": 1181,
+    "nombre": "MATIAS TRAYNOR",
+    "camada": 1989,
+    "vicentinoN": 27,
+    "esJugadorReal": true
+  },
+  {
+    "id": 1182,
+    "nombre": "FRANCO CORSI",
+    "camada": 1995,
+    "vicentinoN": 28,
+    "esJugadorReal": true
+  },
+  {
+    "id": 1183,
+    "nombre": "GONZALO GREGORIO",
+    "camada": 1995,
+    "vicentinoN": 29,
+    "esJugadorReal": true
+  },
+  {
+    "id": 1184,
+    "nombre": "NICOLAS DOMINGUEZ",
+    "camada": 1993,
+    "vicentinoN": 30,
+    "esJugadorReal": true
+  },
+  {
+    "id": 1185,
+    "nombre": "MATIAS AGUERRONDO",
+    "camada": 1994,
+    "vicentinoN": 31,
+    "esJugadorReal": true
+  },
+  {
+    "id": 1186,
+    "nombre": "JORGE SEIB",
+    "camada": 1989,
+    "vicentinoN": 32,
+    "esJugadorReal": true
+  },
+  {
+    "id": 1187,
+    "nombre": "EZEQUIEL VAZQUEZ",
+    "camada": 1994,
+    "vicentinoN": 33,
+    "esJugadorReal": true
+  },
+  {
+    "id": 1188,
+    "nombre": "JUAN PEDRO OCCHIUZZI",
+    "camada": 1994,
+    "vicentinoN": 34,
+    "esJugadorReal": true
+  },
+  {
+    "id": 1189,
+    "nombre": "HUGO PEDEMONTE",
+    "camada": 1988,
+    "vicentinoN": 35,
+    "esJugadorReal": true
+  },
+  {
+    "id": 1190,
+    "nombre": "JUAN CANTEROS",
+    "camada": 1994,
+    "vicentinoN": 36,
+    "esJugadorReal": true
+  },
+  {
+    "id": 1191,
+    "nombre": "EZEQUIEL ARIAS",
+    "camada": 1996,
+    "vicentinoN": 37,
+    "esJugadorReal": true
+  },
+  {
+    "id": 1192,
+    "nombre": "JORGE BENÍTEZ",
+    "camada": 1995,
+    "vicentinoN": 38,
+    "esJugadorReal": true
+  },
+  {
+    "id": 1193,
+    "nombre": "CHRISTIAN MONZON",
+    "camada": 1996,
+    "vicentinoN": 39,
+    "esJugadorReal": true
+  },
+  {
+    "id": 1194,
+    "nombre": "ANDRES BIRELLO",
+    "camada": 1993,
+    "vicentinoN": 40,
+    "esJugadorReal": true
+  },
+  {
+    "id": 1195,
+    "nombre": "ALEJO BUSTAMANTE",
+    "camada": 1994,
+    "vicentinoN": 41,
+    "esJugadorReal": true
+  },
+  {
+    "id": 1196,
+    "nombre": "TOMAS DOMINGUEZ",
+    "camada": 1996,
+    "vicentinoN": 42,
+    "esJugadorReal": true
+  },
+  {
+    "id": 1197,
+    "nombre": "FRANCO POPICA",
+    "camada": 1996,
+    "vicentinoN": 43,
+    "esJugadorReal": true
+  },
+  {
+    "id": 1198,
+    "nombre": "SEBASTIAN GAUNA",
+    "camada": 1995,
+    "vicentinoN": 44,
+    "esJugadorReal": true
+  },
+  {
+    "id": 1199,
+    "nombre": "FRANCISCO COMABELLA",
+    "camada": 1997,
+    "vicentinoN": 45,
+    "esJugadorReal": true
+  },
+  {
+    "id": 1200,
+    "nombre": "JUAN MATIAS TRAYNOR",
+    "camada": 1996,
+    "vicentinoN": 46,
+    "esJugadorReal": true
+  },
+  {
+    "id": 1201,
+    "nombre": "RODRIGO ESMAYEL",
+    "camada": 1994,
+    "vicentinoN": 47,
+    "esJugadorReal": true
+  },
+  {
+    "id": 1202,
+    "nombre": "EMILIANO MANRIQUEZ",
+    "camada": 1998,
+    "vicentinoN": 48,
+    "esJugadorReal": true
+  },
+  {
+    "id": 1203,
+    "nombre": "FRANCISCO OCCHIUZZI",
+    "camada": 1998,
+    "vicentinoN": 49,
+    "esJugadorReal": true
+  },
+  {
+    "id": 1204,
+    "nombre": "AGUSTIN TRAYNOR",
+    "camada": 1995,
+    "vicentinoN": 50,
+    "esJugadorReal": true
+  },
+  {
+    "id": 1205,
+    "nombre": "AUGUSTO GALLOTTI",
+    "camada": 1998,
+    "vicentinoN": 51,
+    "esJugadorReal": true
+  },
+  {
+    "id": 1206,
+    "nombre": "NICOLAS COMPANYS",
+    "camada": 1996,
+    "vicentinoN": 52,
+    "esJugadorReal": true
+  },
+  {
+    "id": 1207,
+    "nombre": "FEDERICO FERRARI",
+    "camada": 1992,
+    "vicentinoN": 53,
+    "esJugadorReal": true
+  },
+  {
+    "id": 1208,
+    "nombre": "JUAN PABLO BIANCHI",
+    "camada": 1998,
+    "vicentinoN": 54,
+    "esJugadorReal": true
+  },
+  {
+    "id": 1209,
+    "nombre": "IVAN CARMONA",
+    "camada": 1992,
+    "vicentinoN": 55,
+    "esJugadorReal": true
+  },
+  {
+    "id": 1210,
+    "nombre": "TOBIAS LUCERO",
+    "camada": 1999,
+    "vicentinoN": 56,
+    "esJugadorReal": true
+  },
+  {
+    "id": 1211,
+    "nombre": "FRANCO RODRIGUEZ",
+    "camada": 1999,
+    "vicentinoN": 57,
+    "esJugadorReal": true
+  },
+  {
+    "id": 1212,
+    "nombre": "FRANCO CICHERO",
+    "camada": 1999,
+    "vicentinoN": 58,
+    "esJugadorReal": true
+  },
+  {
+    "id": 1213,
+    "nombre": "RAMIRO OCCHIUZZI",
+    "camada": 1999,
+    "vicentinoN": 59,
+    "esJugadorReal": true
+  },
+  {
+    "id": 1214,
+    "nombre": "SANTIAGO TRAYNOR",
+    "camada": 1999,
+    "vicentinoN": 60,
+    "esJugadorReal": true
+  },
+  {
+    "id": 1215,
+    "nombre": "RODRIGO RIOS",
+    "camada": 1991,
+    "vicentinoN": 61,
+    "esJugadorReal": true
+  },
+  {
+    "id": 1216,
+    "nombre": "MAURO CHIRINO",
+    "camada": 1989,
+    "vicentinoN": 62,
+    "esJugadorReal": true
+  },
+  {
+    "id": 1217,
+    "nombre": "JUAN IGNACIO VAZQUEZ",
+    "camada": 1997,
+    "vicentinoN": 63,
+    "esJugadorReal": true
+  },
+  {
+    "id": 1218,
+    "nombre": "JOAQUIN TRAYNOR",
+    "camada": 2001,
+    "vicentinoN": 64,
+    "esJugadorReal": true
+  },
+  {
+    "id": 1219,
+    "nombre": "TOMÁS BIANCHI",
+    "camada": 2002,
+    "vicentinoN": 65,
+    "esJugadorReal": true
+  },
+  {
+    "id": 1220,
+    "nombre": "NICOLÁS LOZANO",
+    "camada": 2002,
+    "vicentinoN": 66,
+    "esJugadorReal": true
+  },
+  {
+    "id": 1221,
+    "nombre": "ANDRÉS BUSTAMANTE",
+    "camada": 2000,
+    "vicentinoN": 67,
+    "esJugadorReal": true
+  },
+  {
+    "id": 1222,
+    "nombre": "JUAN PABLO GAUTO",
+    "camada": 1996,
+    "vicentinoN": 68,
+    "esJugadorReal": true
+  },
+  {
+    "id": 1223,
+    "nombre": "FEDERICO MARTINEZ",
+    "camada": 2000,
+    "vicentinoN": 69,
+    "esJugadorReal": true
+  },
+  {
+    "id": 1224,
+    "nombre": "GERÓNIMO RÍOS",
+    "camada": 2003,
+    "vicentinoN": 70,
+    "esJugadorReal": true
+  },
+  {
+    "id": 1225,
+    "nombre": "JUAN MARTÍN TURKOWSKY",
+    "camada": 2003,
+    "vicentinoN": 71,
+    "esJugadorReal": true
+  },
+  {
+    "id": 1226,
+    "nombre": "ENZO CORSI",
+    "camada": 2003,
+    "vicentinoN": 72,
+    "esJugadorReal": true
+  },
+  {
+    "id": 1227,
+    "nombre": "PEDRO MONTENEGRO",
+    "camada": 2003,
+    "vicentinoN": 73,
+    "esJugadorReal": true
+  },
+  {
+    "id": 1228,
+    "nombre": "SANTINO GEREZ",
+    "camada": 2004,
+    "vicentinoN": 74,
+    "esJugadorReal": true
+  },
+  {
+    "id": 1229,
+    "nombre": "IAN MARTÍNEZ OLIVER",
+    "camada": 2003,
+    "vicentinoN": 75,
+    "esJugadorReal": true
+  },
+  {
+    "id": 1230,
+    "nombre": "MARIANO TRAYNOR",
+    "camada": 2004,
+    "vicentinoN": 76,
+    "esJugadorReal": true
+  },
+  {
+    "id": 1231,
+    "nombre": "NICOLÁS CABRERA",
+    "camada": 2001,
+    "vicentinoN": 77,
+    "esJugadorReal": true
+  },
+  {
+    "id": 1232,
+    "nombre": "FRANCO TORRES",
+    "camada": 2002,
+    "vicentinoN": 78,
+    "esJugadorReal": true
+  },
+  {
+    "id": 1233,
+    "nombre": "SANTIAGO QUAGLIATA",
+    "camada": 1999,
+    "vicentinoN": 79,
+    "esJugadorReal": true
+  },
+  {
+    "id": 1234,
+    "nombre": "THIAGO GÓMEZ",
+    "camada": 2003,
+    "vicentinoN": 80,
+    "esJugadorReal": true
+  },
+  {
+    "id": 1235,
+    "nombre": "GABRIEL RUBIRA",
+    "camada": 1996,
+    "vicentinoN": 81,
+    "esJugadorReal": true
+  },
+  {
+    "id": 1236,
+    "nombre": "ALEJO BALBI",
+    "camada": 2004,
+    "vicentinoN": 82,
+    "esJugadorReal": true
+  },
+  {
+    "id": 1237,
+    "nombre": "GIANFRANCO GUGLIOTTI",
+    "camada": 2003,
+    "vicentinoN": 83,
+    "esJugadorReal": true
+  },
+  {
+    "id": 1238,
+    "nombre": "FACUNDO BUSTOS",
+    "camada": 2001,
+    "vicentinoN": 84,
+    "esJugadorReal": true
+  },
+  {
+    "id": 1239,
+    "nombre": "MIGUEL ALMIRÓN",
+    "camada": 2003,
+    "vicentinoN": 85,
+    "esJugadorReal": true
+  },
+  {
+    "id": 1240,
+    "nombre": "ESTEBAN GONZALEZ",
+    "camada": 1994,
+    "vicentinoN": null,
+    "esJugadorReal": true
+  },
+  {
+    "id": 1241,
+    "nombre": "EMILIO CHAVES",
+    "camada": 1999,
+    "vicentinoN": null,
+    "esJugadorReal": true
+  },
+  {
+    "id": 1242,
+    "nombre": "GONZALO MARTINEZ",
+    "camada": 1990,
+    "vicentinoN": null,
+    "esJugadorReal": true
+  },
+  {
+    "id": 1243,
+    "nombre": "JUAN IGNACIO GONZALEZ",
+    "camada": 1995,
+    "vicentinoN": null,
+    "esJugadorReal": true
+  },
+  {
+    "id": 1244,
+    "nombre": "LUCAS MORON",
+    "camada": 1993,
+    "vicentinoN": null,
+    "esJugadorReal": true
+  },
+  {
+    "id": 1245,
+    "nombre": "MARIANO GONZALEZ",
+    "camada": 1993,
+    "vicentinoN": null,
+    "esJugadorReal": true
+  },
+  {
+    "id": 1246,
+    "nombre": "TOMAS MURACA",
+    "camada": 1993,
+    "vicentinoN": null,
+    "esJugadorReal": true
+  },
+  {
+    "id": 1247,
+    "nombre": "WALTER PRETZ",
+    "camada": 1993,
+    "vicentinoN": null,
+    "esJugadorReal": true
+  },
+  {
+    "id": 1248,
+    "nombre": "MATÍAS COMPANYS",
+    "camada": 2003,
+    "vicentinoN": null,
+    "esJugadorReal": true
+  },
+  {
+    "id": 1249,
+    "nombre": "MATIAS HERNANDO",
+    "camada": 1988,
+    "vicentinoN": null,
+    "esJugadorReal": true
+  },
+  {
+    "id": 1250,
+    "nombre": "LAUTARO ALCARAZ",
+    "camada": 1997,
+    "vicentinoN": null,
+    "esJugadorReal": true
+  },
+  {
+    "id": 1251,
+    "nombre": "JUAN GARGANO",
+    "camada": 1994,
+    "vicentinoN": null,
+    "esJugadorReal": true
+  },
+  {
+    "id": 1252,
+    "nombre": "TOMÁS PARRA",
+    "camada": 2004,
+    "vicentinoN": null,
+    "esJugadorReal": true
+  },
+  {
+    "id": 1253,
+    "nombre": "JUAN PABLO OCCHIUZZI",
+    "camada": 2006,
+    "vicentinoN": null,
+    "esJugadorReal": true
+  },
+  {
+    "id": 1254,
+    "nombre": "AUGUSTO ROVETTA",
+    "camada": 2004,
+    "vicentinoN": null,
+    "esJugadorReal": true
+  },
+  {
+    "id": 1255,
+    "nombre": "TRY PENAL",
+    "camada": null,
+    "vicentinoN": null,
+    "esJugadorReal": false
+  },
+  {
+    "id": 1256,
+    "nombre": "TRY SCRUM",
+    "camada": null,
+    "vicentinoN": null,
+    "esJugadorReal": false
+  },
+  {
+    "id": 1257,
+    "nombre": "SCRUM",
+    "camada": null,
+    "vicentinoN": null,
+    "esJugadorReal": false
+  },
+  {
+    "id": 1258,
+    "nombre": "PENAL",
+    "camada": null,
+    "vicentinoN": null,
+    "esJugadorReal": false
+  },
+  {
+    "id": 1259,
+    "nombre": "MATIAS ALTAMIRANO",
+    "camada": null,
+    "vicentinoN": null,
+    "esJugadorReal": true
+  },
+  {
+    "id": 1260,
+    "nombre": "CHRISTIAN PAREDES",
+    "camada": null,
+    "vicentinoN": null,
+    "esJugadorReal": true
+  },
+  {
+    "id": 1261,
+    "nombre": "FERNANDO POCIELLO ARGERICH",
+    "camada": null,
+    "vicentinoN": null,
+    "esJugadorReal": true
+  },
+  {
+    "id": 1262,
+    "nombre": "NICOLÁS MATALLANA",
+    "camada": null,
+    "vicentinoN": null,
+    "esJugadorReal": true
+  },
+  {
+    "id": 1263,
+    "nombre": "GONZALO GÓMEZ ARRÚA",
+    "camada": null,
+    "vicentinoN": null,
+    "esJugadorReal": true
+  },
+  {
+    "id": 1264,
+    "nombre": "THOMAS TEVES",
+    "camada": null,
+    "vicentinoN": null,
+    "esJugadorReal": true
+  },
+  {
+    "id": 1265,
+    "nombre": "GONZALO BURGARDT",
+    "camada": null,
+    "vicentinoN": null,
+    "esJugadorReal": true
+  },
+  {
+    "id": 1266,
+    "nombre": "AXEL OBREGÓN",
+    "camada": null,
+    "vicentinoN": null,
+    "esJugadorReal": true
+  },
+  {
+    "id": 1267,
+    "nombre": "CRISTIAN SÁNCHEZ",
+    "camada": null,
+    "vicentinoN": null,
+    "esJugadorReal": true
+  }
+]

@@ -13,34 +13,46 @@ récords del club.
 
 ## Los datos
 
-La base (`prisma/dev.db`) **está versionada en el repo a propósito**: es la
-fuente que lee el sitio en producción, y el sitio nunca escribe en ella
-durante la ejecución. Cada commit es, por lo tanto, una foto completa y
-recuperable de los datos en ese momento.
+**La fuente de verdad son los archivos de `data/base/`**, no la base binaria
+ni ningún Excel:
 
-Los Excel de `data/` son el **origen histórico**, no la fuente activa. Se
-usaron para la carga inicial y quedan archivados como respaldo. Las
-correcciones posteriores ya están aplicadas dentro de la base: no hay que
-reimportar nada para que el sitio muestre el dato correcto.
+```
+data/base/
+  clubes.json                 catálogo de rivales (con su id, que está en /historial/[clubId])
+  jugadores.json              catálogo de jugadores (con su id, que está en /jugadores/[id])
+  temporadas/2014.json ...    un archivo por temporada, con sus partidos completos
+```
 
-Los `.csv` de `data/` son tablas de equivalencia (nombres canónicos de clubes
-y jugadores, camadas) y correcciones puntuales confirmadas a mano.
+Cada partido es un bloque legible: resultado, cancha, clima, árbitro,
+formación, cambios, anotadores y tarjetas. Corregir un dato es editar una
+línea, y el cambio se ve como un diff normal en git.
+
+`prisma/dev.db` es un **derivado**: lo reconstruye `npm run db:build` a partir
+de esos archivos, y el build de producción lo regenera en cada deploy. Por eso
+no puede "perderse" ni desincronizarse: si se borra o se corrompe, se
+regenera igual.
+
+Los Excel y los `.csv` de correcciones que quedan en `data/` son el **origen
+histórico** de la carga inicial. Ya no se procesan: todo lo que aportaron,
+incluidas las correcciones hechas a mano, está dentro de `data/base/`.
 
 ## Comandos
 
 ```bash
-npm run dev                      # servidor de desarrollo
-npm run build                    # build de producción
-npm run analizar:resultados      # chequea que los resultados cierren con la suma de anotadores
+npm run dev           # servidor de desarrollo
+npm run build         # reconstruye la base desde data/base/ y compila el sitio
+
+npm run db:build      # reconstruye prisma/dev.db desde data/base/
+npm run db:verificar   # chequea consistencia (sumas, fechas, referencias)
+npm run db:comparar    # compara la base nueva contra el backup de la anterior
+npm run db:export      # vuelca la base actual a data/base/ (sólo para migraciones puntuales)
 ```
 
-Scripts de carga (histórico, ya no se corren en el día a día):
+`db:build` nunca pisa la base sin antes construir y validar la nueva en un
+archivo aparte, y deja la anterior en `prisma/dev.db.bak`.
 
-```bash
-npm run migrate:excel            # importación aditiva desde los Excel
-npm run corregir:resultados      # aplica data/resultados_correcciones.csv
-npm run corregir:participaciones # aplica data/participacion_correcciones.csv
-```
+Los scripts con prefijo `archivo:` son la carga histórica desde los Excel.
+Quedan por trazabilidad; no se corren en el día a día.
 
 ## Cómo se publica
 

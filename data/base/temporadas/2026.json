@@ -1,0 +1,2521 @@
+{
+  "temporada": 2026,
+  "info": {
+    "torneo": "Primera B",
+    "posicion": null,
+    "rankingUrba": null,
+    "campeon": false,
+    "ascenso": false,
+    "descenso": false,
+    "nota": "En curso"
+  },
+  "partidos": [
+    {
+      "fecha": "2026-03-14",
+      "fechaNota": null,
+      "rival": "CAR",
+      "condicion": "VISITANTE",
+      "resultadoPropio": 24,
+      "resultadoRival": 50,
+      "cancha": "CAR",
+      "clima": "NUBLADO",
+      "campoDeJuego": "BUENO",
+      "referee": "FERRERO",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "JORGE BENÍTEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "THIAGO GÓMEZ"
+        },
+        {
+          "numero": 3,
+          "jugador": "GABRIEL RUBIRA"
+        },
+        {
+          "numero": 4,
+          "jugador": "JUAN MARTÍN TURKOWSKY"
+        },
+        {
+          "numero": 5,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 6,
+          "jugador": "MARIANO LIVACHOFF"
+        },
+        {
+          "numero": 7,
+          "jugador": "MATIAS AGUERRONDO"
+        },
+        {
+          "numero": 8,
+          "jugador": "TOBIAS LUCERO"
+        },
+        {
+          "numero": 9,
+          "jugador": "FRANCISCO OCCHIUZZI"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN MATIAS TRAYNOR"
+        },
+        {
+          "numero": 11,
+          "jugador": "MARIANO TRAYNOR"
+        },
+        {
+          "numero": 12,
+          "jugador": "SANTIAGO TRAYNOR",
+          "capitan": true
+        },
+        {
+          "numero": 13,
+          "jugador": "IGNACIO TORRES CIUTAT"
+        },
+        {
+          "numero": 14,
+          "jugador": "SANTINO GEREZ"
+        },
+        {
+          "numero": 15,
+          "jugador": "JUAN PABLO OCCHIUZZI"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "RAMIRO OCCHIUZZI",
+          "entraPor": "IGNACIO TORRES CIUTAT"
+        },
+        {
+          "jugador": "ENZO CORSI",
+          "entraPor": "RAMIRO OCCHIUZZI"
+        },
+        {
+          "jugador": "RODRIGO GOMEZ",
+          "entraPor": "JORGE BENÍTEZ"
+        },
+        {
+          "jugador": "RODRIGO ESMAYEL",
+          "entraPor": "MATIAS AGUERRONDO"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "THIAGO GÓMEZ",
+          "tipo": "TRY",
+          "cantidad": 2
+        },
+        {
+          "jugador": "JORGE BENÍTEZ",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "CONVERSION",
+          "cantidad": 3
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "PENAL",
+          "cantidad": 1
+        }
+      ],
+      "tarjetas": [
+        {
+          "jugador": "THIAGO GÓMEZ",
+          "tipo": "AMARILLA"
+        },
+        {
+          "jugador": "FRANCISCO COMABELLA",
+          "tipo": "AMARILLA"
+        }
+      ]
+    },
+    {
+      "fecha": "2026-03-21",
+      "fechaNota": null,
+      "rival": "CUQ",
+      "condicion": "LOCAL",
+      "resultadoPropio": 15,
+      "resultadoRival": 50,
+      "cancha": "VICENTINOS",
+      "clima": "NUBLADO",
+      "campoDeJuego": "BUENO",
+      "referee": "VOLANTE",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "THIAGO GÓMEZ"
+        },
+        {
+          "numero": 3,
+          "jugador": "GABRIEL RUBIRA"
+        },
+        {
+          "numero": 4,
+          "jugador": "JUAN MARTÍN TURKOWSKY"
+        },
+        {
+          "numero": 5,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 6,
+          "jugador": "MARIANO LIVACHOFF"
+        },
+        {
+          "numero": 7,
+          "jugador": "MATIAS AGUERRONDO"
+        },
+        {
+          "numero": 8,
+          "jugador": "TOBIAS LUCERO"
+        },
+        {
+          "numero": 9,
+          "jugador": "FRANCISCO OCCHIUZZI"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN MATIAS TRAYNOR"
+        },
+        {
+          "numero": 11,
+          "jugador": "MARIANO TRAYNOR"
+        },
+        {
+          "numero": 12,
+          "jugador": "SANTIAGO TRAYNOR",
+          "capitan": true
+        },
+        {
+          "numero": 13,
+          "jugador": "SANTINO GEREZ"
+        },
+        {
+          "numero": 14,
+          "jugador": "JUAN PABLO OCCHIUZZI"
+        },
+        {
+          "numero": 15,
+          "jugador": "ENZO CORSI"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "RAMIRO OCCHIUZZI",
+          "entraPor": "JUAN MATIAS TRAYNOR"
+        },
+        {
+          "jugador": "JORGE BENÍTEZ",
+          "entraPor": "RODRIGO GOMEZ"
+        },
+        {
+          "jugador": "RODRIGO RIOS",
+          "entraPor": "FRANCISCO COMABELLA"
+        },
+        {
+          "jugador": "RODRIGO ESMAYEL",
+          "entraPor": "MATIAS AGUERRONDO"
+        },
+        {
+          "jugador": "EMILIO CHAVES",
+          "entraPor": "GABRIEL RUBIRA"
+        },
+        {
+          "jugador": "ALEJO BALBI",
+          "entraPor": "MARIANO TRAYNOR"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "MARIANO TRAYNOR",
+          "tipo": "TRY",
+          "cantidad": 2
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "CONVERSION",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "PENAL",
+          "cantidad": 1
+        }
+      ],
+      "tarjetas": [
+        {
+          "jugador": "THIAGO GÓMEZ",
+          "tipo": "AMARILLA"
+        },
+        {
+          "jugador": "EMILIO CHAVES",
+          "tipo": "AMARILLA"
+        }
+      ]
+    },
+    {
+      "fecha": "2026-03-28",
+      "fechaNota": null,
+      "rival": "LICEO NAVAL",
+      "condicion": "VISITANTE",
+      "resultadoPropio": 16,
+      "resultadoRival": 33,
+      "cancha": "LICEO NAVAL",
+      "clima": "BUENO",
+      "campoDeJuego": "BUENO",
+      "referee": "BELTRAMINO",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "JORGE BENÍTEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "THIAGO GÓMEZ"
+        },
+        {
+          "numero": 3,
+          "jugador": "GABRIEL RUBIRA"
+        },
+        {
+          "numero": 4,
+          "jugador": "JUAN MARTÍN TURKOWSKY"
+        },
+        {
+          "numero": 5,
+          "jugador": "RODRIGO RIOS"
+        },
+        {
+          "numero": 6,
+          "jugador": "MATIAS AGUERRONDO"
+        },
+        {
+          "numero": 7,
+          "jugador": "RODRIGO ESMAYEL"
+        },
+        {
+          "numero": 8,
+          "jugador": "TOBIAS LUCERO"
+        },
+        {
+          "numero": 9,
+          "jugador": "FRANCISCO OCCHIUZZI"
+        },
+        {
+          "numero": 10,
+          "jugador": "RAMIRO OCCHIUZZI"
+        },
+        {
+          "numero": 11,
+          "jugador": "MARIANO TRAYNOR"
+        },
+        {
+          "numero": 12,
+          "jugador": "SANTIAGO TRAYNOR",
+          "capitan": true
+        },
+        {
+          "numero": 13,
+          "jugador": "MARIANO LIVACHOFF"
+        },
+        {
+          "numero": 14,
+          "jugador": "ALEJO BALBI"
+        },
+        {
+          "numero": 15,
+          "jugador": "ENZO CORSI"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "JUAN PABLO GAUTO",
+          "entraPor": "RODRIGO ESMAYEL"
+        },
+        {
+          "jugador": "AUGUSTO ROVETTA",
+          "entraPor": "GABRIEL RUBIRA"
+        },
+        {
+          "jugador": "PEDRO MONTENEGRO",
+          "entraPor": "RODRIGO RIOS"
+        },
+        {
+          "jugador": "MARIANO CETTOUR",
+          "entraPor": "FRANCISCO OCCHIUZZI"
+        },
+        {
+          "jugador": "JUAN PABLO OCCHIUZZI",
+          "entraPor": "RAMIRO OCCHIUZZI"
+        },
+        {
+          "jugador": "MATIAS TRAYNOR",
+          "entraPor": "JORGE BENÍTEZ"
+        },
+        {
+          "jugador": "JOAQUIN TRAYNOR",
+          "entraPor": "THIAGO GÓMEZ"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "CONVERSION",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "PENAL",
+          "cantidad": 3
+        }
+      ],
+      "tarjetas": [
+        {
+          "jugador": "JORGE BENÍTEZ",
+          "tipo": "AMARILLA"
+        },
+        {
+          "jugador": "AUGUSTO ROVETTA",
+          "tipo": "AMARILLA"
+        }
+      ]
+    },
+    {
+      "fecha": "2026-04-11",
+      "fechaNota": null,
+      "rival": "CLUB ITALIANO",
+      "condicion": "LOCAL",
+      "resultadoPropio": 28,
+      "resultadoRival": 32,
+      "cancha": "VICENTINOS",
+      "clima": "NUBLADO",
+      "campoDeJuego": "BUENO",
+      "referee": null,
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "MATIAS TRAYNOR"
+        },
+        {
+          "numero": 2,
+          "jugador": "THIAGO GÓMEZ"
+        },
+        {
+          "numero": 3,
+          "jugador": "GABRIEL RUBIRA"
+        },
+        {
+          "numero": 4,
+          "jugador": "JUAN MARTÍN TURKOWSKY"
+        },
+        {
+          "numero": 5,
+          "jugador": "PEDRO MONTENEGRO"
+        },
+        {
+          "numero": 6,
+          "jugador": "MATIAS AGUERRONDO"
+        },
+        {
+          "numero": 7,
+          "jugador": "RODRIGO ESMAYEL"
+        },
+        {
+          "numero": 8,
+          "jugador": "JUAN PABLO GAUTO"
+        },
+        {
+          "numero": 9,
+          "jugador": "FRANCISCO OCCHIUZZI"
+        },
+        {
+          "numero": 10,
+          "jugador": "RAMIRO OCCHIUZZI"
+        },
+        {
+          "numero": 11,
+          "jugador": "MARIANO TRAYNOR"
+        },
+        {
+          "numero": 12,
+          "jugador": "SANTIAGO TRAYNOR",
+          "capitan": true
+        },
+        {
+          "numero": 13,
+          "jugador": "MARIANO LIVACHOFF"
+        },
+        {
+          "numero": 14,
+          "jugador": "ALEJO BALBI"
+        },
+        {
+          "numero": 15,
+          "jugador": "ENZO CORSI"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "EMILIO CHAVES",
+          "entraPor": "MATIAS TRAYNOR"
+        },
+        {
+          "jugador": "TOBIAS LUCERO",
+          "entraPor": "JUAN PABLO GAUTO"
+        },
+        {
+          "jugador": "JUAN MATIAS TRAYNOR",
+          "entraPor": "RAMIRO OCCHIUZZI"
+        },
+        {
+          "jugador": "JOAQUIN TRAYNOR",
+          "entraPor": "THIAGO GÓMEZ"
+        },
+        {
+          "jugador": "JUAN PABLO OCCHIUZZI",
+          "entraPor": "ALEJO BALBI"
+        },
+        {
+          "jugador": "JORGE BENÍTEZ",
+          "entraPor": "GABRIEL RUBIRA"
+        },
+        {
+          "jugador": "AXEL OBREGÓN",
+          "entraPor": "ENZO CORSI"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "MATIAS AGUERRONDO",
+          "tipo": "TRY",
+          "cantidad": 2
+        },
+        {
+          "jugador": "JUAN PABLO OCCHIUZZI",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "JUAN MARTÍN TURKOWSKY",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "CONVERSION",
+          "cantidad": 4
+        }
+      ],
+      "tarjetas": [
+        {
+          "jugador": "RODRIGO ESMAYEL",
+          "tipo": "AMARILLA"
+        },
+        {
+          "jugador": "MATIAS TRAYNOR",
+          "tipo": "AMARILLA"
+        },
+        {
+          "jugador": "EMILIO CHAVES",
+          "tipo": "AMARILLA"
+        },
+        {
+          "jugador": "MATIAS AGUERRONDO",
+          "tipo": "AMARILLA"
+        }
+      ]
+    },
+    {
+      "fecha": "2026-04-18",
+      "fechaNota": null,
+      "rival": "SAN PATRICIO",
+      "condicion": "VISITANTE",
+      "resultadoPropio": 24,
+      "resultadoRival": 36,
+      "cancha": "SAN PATRICIO",
+      "clima": "BUENO",
+      "campoDeJuego": "BUENO",
+      "referee": "FERRERO",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "JORGE BENÍTEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "THIAGO GÓMEZ"
+        },
+        {
+          "numero": 3,
+          "jugador": "GABRIEL RUBIRA"
+        },
+        {
+          "numero": 4,
+          "jugador": "JUAN PABLO GAUTO"
+        },
+        {
+          "numero": 5,
+          "jugador": "PEDRO MONTENEGRO"
+        },
+        {
+          "numero": 6,
+          "jugador": "MATIAS AGUERRONDO"
+        },
+        {
+          "numero": 7,
+          "jugador": "RODRIGO ESMAYEL"
+        },
+        {
+          "numero": 8,
+          "jugador": "TOBIAS LUCERO"
+        },
+        {
+          "numero": 9,
+          "jugador": "FRANCISCO OCCHIUZZI"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN MATIAS TRAYNOR"
+        },
+        {
+          "numero": 11,
+          "jugador": "MARIANO TRAYNOR"
+        },
+        {
+          "numero": 12,
+          "jugador": "SANTIAGO TRAYNOR",
+          "capitan": true
+        },
+        {
+          "numero": 13,
+          "jugador": "ENZO CORSI"
+        },
+        {
+          "numero": 14,
+          "jugador": "ALEJO BALBI"
+        },
+        {
+          "numero": 15,
+          "jugador": "JUAN PABLO OCCHIUZZI"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "MARIANO LIVACHOFF",
+          "entraPor": "JUAN PABLO OCCHIUZZI"
+        },
+        {
+          "jugador": "EMILIO CHAVES",
+          "entraPor": "GABRIEL RUBIRA"
+        },
+        {
+          "jugador": "JOAQUIN TRAYNOR",
+          "entraPor": "THIAGO GÓMEZ"
+        },
+        {
+          "jugador": "CRISTIAN SÁNCHEZ",
+          "entraPor": "TOBIAS LUCERO"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "GABRIEL RUBIRA",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "TOBIAS LUCERO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "CONVERSION",
+          "cantidad": 3
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "PENAL",
+          "cantidad": 1
+        }
+      ],
+      "tarjetas": []
+    },
+    {
+      "fecha": "2026-04-25",
+      "fechaNota": null,
+      "rival": "LICEO MILITAR",
+      "condicion": "LOCAL",
+      "resultadoPropio": 16,
+      "resultadoRival": 23,
+      "cancha": "VICENTINOS",
+      "clima": "BUENO",
+      "campoDeJuego": "BUENO",
+      "referee": "GUARDIA",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "JORGE BENÍTEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "THIAGO GÓMEZ"
+        },
+        {
+          "numero": 3,
+          "jugador": "EMILIO CHAVES"
+        },
+        {
+          "numero": 4,
+          "jugador": "JUAN MARTÍN TURKOWSKY"
+        },
+        {
+          "numero": 5,
+          "jugador": "PEDRO MONTENEGRO"
+        },
+        {
+          "numero": 6,
+          "jugador": "MATIAS AGUERRONDO"
+        },
+        {
+          "numero": 7,
+          "jugador": "RODRIGO ESMAYEL"
+        },
+        {
+          "numero": 8,
+          "jugador": "JUAN PABLO GAUTO"
+        },
+        {
+          "numero": 9,
+          "jugador": "FRANCISCO OCCHIUZZI"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN MATIAS TRAYNOR"
+        },
+        {
+          "numero": 11,
+          "jugador": "TOMÁS PARRA"
+        },
+        {
+          "numero": 12,
+          "jugador": "SANTIAGO TRAYNOR",
+          "capitan": true
+        },
+        {
+          "numero": 13,
+          "jugador": "MARIANO LIVACHOFF"
+        },
+        {
+          "numero": 14,
+          "jugador": "ALEJO BALBI"
+        },
+        {
+          "numero": 15,
+          "jugador": "MARIANO TRAYNOR"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "TOBIAS LUCERO",
+          "entraPor": "JUAN PABLO GAUTO"
+        },
+        {
+          "jugador": "RAMIRO OCCHIUZZI",
+          "entraPor": "FRANCISCO OCCHIUZZI"
+        },
+        {
+          "jugador": "JOAQUIN TRAYNOR",
+          "entraPor": "MATIAS AGUERRONDO"
+        },
+        {
+          "jugador": "GABRIEL RUBIRA",
+          "entraPor": "EMILIO CHAVES"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "THIAGO GÓMEZ",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "CONVERSION",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "PENAL",
+          "cantidad": 3
+        }
+      ],
+      "tarjetas": [
+        {
+          "jugador": "EMILIO CHAVES",
+          "tipo": "AMARILLA"
+        },
+        {
+          "jugador": "PEDRO MONTENEGRO",
+          "tipo": "ROJA"
+        }
+      ]
+    },
+    {
+      "fecha": "2026-05-09",
+      "fechaNota": null,
+      "rival": "BANCO NACIÓN",
+      "condicion": "VISITANTE",
+      "resultadoPropio": 29,
+      "resultadoRival": 50,
+      "cancha": "BANCO NACIÓN",
+      "clima": "NUBLADO",
+      "campoDeJuego": "BUENO",
+      "referee": "FIGUEREDO",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "JORGE BENÍTEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "THIAGO GÓMEZ"
+        },
+        {
+          "numero": 3,
+          "jugador": "EMILIO CHAVES"
+        },
+        {
+          "numero": 4,
+          "jugador": "JUAN MARTÍN TURKOWSKY"
+        },
+        {
+          "numero": 5,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 6,
+          "jugador": "JUAN PABLO GAUTO"
+        },
+        {
+          "numero": 7,
+          "jugador": "RODRIGO ESMAYEL"
+        },
+        {
+          "numero": 8,
+          "jugador": "TOBIAS LUCERO"
+        },
+        {
+          "numero": 9,
+          "jugador": "RAMIRO OCCHIUZZI"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN MATIAS TRAYNOR"
+        },
+        {
+          "numero": 11,
+          "jugador": "MARIANO TRAYNOR"
+        },
+        {
+          "numero": 12,
+          "jugador": "SANTIAGO TRAYNOR",
+          "capitan": true
+        },
+        {
+          "numero": 13,
+          "jugador": "MARIANO LIVACHOFF"
+        },
+        {
+          "numero": 14,
+          "jugador": "ALEJO BALBI"
+        },
+        {
+          "numero": 15,
+          "jugador": "SANTINO GEREZ"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "GERÓNIMO RÍOS",
+          "entraPor": "RODRIGO ESMAYEL"
+        },
+        {
+          "jugador": "MARIANO CETTOUR",
+          "entraPor": "RAMIRO OCCHIUZZI"
+        },
+        {
+          "jugador": "RODRIGO GOMEZ",
+          "entraPor": "JORGE BENÍTEZ"
+        },
+        {
+          "jugador": "GABRIEL RUBIRA",
+          "entraPor": "EMILIO CHAVES"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "TOBIAS LUCERO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "FRANCISCO COMABELLA",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "JORGE BENÍTEZ",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "MARIANO LIVACHOFF",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "CONVERSION",
+          "cantidad": 3
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "PENAL",
+          "cantidad": 1
+        }
+      ],
+      "tarjetas": [
+        {
+          "jugador": "GABRIEL RUBIRA",
+          "tipo": "AMARILLA"
+        }
+      ]
+    },
+    {
+      "fecha": "2026-05-16",
+      "fechaNota": null,
+      "rival": "DELTA",
+      "condicion": "VISITANTE",
+      "resultadoPropio": 36,
+      "resultadoRival": 44,
+      "cancha": "DELTA",
+      "clima": "NUBLADO",
+      "campoDeJuego": "REGULAR",
+      "referee": "PIÑERO",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "JORGE BENÍTEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "THIAGO GÓMEZ"
+        },
+        {
+          "numero": 3,
+          "jugador": "GABRIEL RUBIRA"
+        },
+        {
+          "numero": 4,
+          "jugador": "JUAN MARTÍN TURKOWSKY"
+        },
+        {
+          "numero": 5,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 6,
+          "jugador": "JUAN PABLO GAUTO"
+        },
+        {
+          "numero": 7,
+          "jugador": "RODRIGO ESMAYEL"
+        },
+        {
+          "numero": 8,
+          "jugador": "TOBIAS LUCERO"
+        },
+        {
+          "numero": 9,
+          "jugador": "RAMIRO OCCHIUZZI"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN MATIAS TRAYNOR"
+        },
+        {
+          "numero": 11,
+          "jugador": "MARIANO TRAYNOR"
+        },
+        {
+          "numero": 12,
+          "jugador": "SANTIAGO TRAYNOR",
+          "capitan": true
+        },
+        {
+          "numero": 13,
+          "jugador": "MARIANO LIVACHOFF"
+        },
+        {
+          "numero": 14,
+          "jugador": "ALEJO BALBI"
+        },
+        {
+          "numero": 15,
+          "jugador": "SANTINO GEREZ"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "GERÓNIMO RÍOS",
+          "entraPor": "JUAN PABLO GAUTO"
+        },
+        {
+          "jugador": "MARIANO CETTOUR",
+          "entraPor": "ALEJO BALBI"
+        },
+        {
+          "jugador": "RODRIGO GOMEZ",
+          "entraPor": "JORGE BENÍTEZ"
+        },
+        {
+          "jugador": "MATIAS AGUERRONDO",
+          "entraPor": "RODRIGO ESMAYEL"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "THIAGO GÓMEZ",
+          "tipo": "TRY",
+          "cantidad": 2
+        },
+        {
+          "jugador": "RAMIRO OCCHIUZZI",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "ALEJO BALBI",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "GABRIEL RUBIRA",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "CONVERSION",
+          "cantidad": 4
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "PENAL",
+          "cantidad": 1
+        }
+      ],
+      "tarjetas": [
+        {
+          "jugador": "RAMIRO OCCHIUZZI",
+          "tipo": "AMARILLA"
+        }
+      ]
+    },
+    {
+      "fecha": "2026-05-23",
+      "fechaNota": null,
+      "rival": "MANUEL BELGRANO",
+      "condicion": "LOCAL",
+      "resultadoPropio": 36,
+      "resultadoRival": 38,
+      "cancha": "VICENTINOS",
+      "clima": "NUBLADO",
+      "campoDeJuego": "BUENO",
+      "referee": "RANALLI",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "THIAGO GÓMEZ"
+        },
+        {
+          "numero": 3,
+          "jugador": "GABRIEL RUBIRA"
+        },
+        {
+          "numero": 4,
+          "jugador": "JUAN MARTÍN TURKOWSKY"
+        },
+        {
+          "numero": 5,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 6,
+          "jugador": "MATIAS AGUERRONDO"
+        },
+        {
+          "numero": 7,
+          "jugador": "GERÓNIMO RÍOS"
+        },
+        {
+          "numero": 8,
+          "jugador": "TOBIAS LUCERO"
+        },
+        {
+          "numero": 9,
+          "jugador": "RAMIRO OCCHIUZZI"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN MATIAS TRAYNOR"
+        },
+        {
+          "numero": 11,
+          "jugador": "MARIANO TRAYNOR"
+        },
+        {
+          "numero": 12,
+          "jugador": "SANTIAGO TRAYNOR",
+          "capitan": true
+        },
+        {
+          "numero": 13,
+          "jugador": "MARIANO LIVACHOFF"
+        },
+        {
+          "numero": 14,
+          "jugador": "ALEJO BALBI"
+        },
+        {
+          "numero": 15,
+          "jugador": "SANTINO GEREZ"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "JUAN PABLO GAUTO",
+          "entraPor": "GERÓNIMO RÍOS"
+        },
+        {
+          "jugador": "PEDRO MONTENEGRO",
+          "entraPor": "MATIAS AGUERRONDO"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "THIAGO GÓMEZ",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "ALEJO BALBI",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "MATIAS AGUERRONDO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "TRY PENAL",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "CONVERSION",
+          "cantidad": 3
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "PENAL",
+          "cantidad": 1
+        }
+      ],
+      "tarjetas": [
+        {
+          "jugador": "RAMIRO OCCHIUZZI",
+          "tipo": "AMARILLA"
+        },
+        {
+          "jugador": "PEDRO MONTENEGRO",
+          "tipo": "AMARILLA"
+        }
+      ]
+    },
+    {
+      "fecha": "2026-06-06",
+      "fechaNota": null,
+      "rival": "MARIANO MORENO",
+      "condicion": "VISITANTE",
+      "resultadoPropio": 23,
+      "resultadoRival": 39,
+      "cancha": "MARIANO MORENO",
+      "clima": "NUBLADO",
+      "campoDeJuego": "BUENO",
+      "referee": "GUARDIA",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "THIAGO GÓMEZ"
+        },
+        {
+          "numero": 3,
+          "jugador": "GABRIEL RUBIRA"
+        },
+        {
+          "numero": 4,
+          "jugador": "JUAN MARTÍN TURKOWSKY"
+        },
+        {
+          "numero": 5,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 6,
+          "jugador": "MATIAS AGUERRONDO"
+        },
+        {
+          "numero": 7,
+          "jugador": "GERÓNIMO RÍOS"
+        },
+        {
+          "numero": 8,
+          "jugador": "TOBIAS LUCERO"
+        },
+        {
+          "numero": 9,
+          "jugador": "RAMIRO OCCHIUZZI"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN MATIAS TRAYNOR"
+        },
+        {
+          "numero": 11,
+          "jugador": "MARIANO TRAYNOR"
+        },
+        {
+          "numero": 12,
+          "jugador": "SANTIAGO TRAYNOR",
+          "capitan": true
+        },
+        {
+          "numero": 13,
+          "jugador": "MARIANO LIVACHOFF"
+        },
+        {
+          "numero": 14,
+          "jugador": "TOMÁS PARRA"
+        },
+        {
+          "numero": 15,
+          "jugador": "SANTINO GEREZ"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "JORGE BENÍTEZ",
+          "entraPor": "RODRIGO GOMEZ"
+        },
+        {
+          "jugador": "JUAN PABLO GAUTO",
+          "entraPor": "GERÓNIMO RÍOS"
+        },
+        {
+          "jugador": "FRANCISCO OCCHIUZZI",
+          "entraPor": "JUAN MATIAS TRAYNOR"
+        },
+        {
+          "jugador": "AUGUSTO ROVETTA",
+          "entraPor": "GABRIEL RUBIRA"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "MATIAS AGUERRONDO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "TOMÁS PARRA",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "CONVERSION",
+          "cantidad": 2
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "PENAL",
+          "cantidad": 3
+        }
+      ],
+      "tarjetas": [
+        {
+          "jugador": "MATIAS AGUERRONDO",
+          "tipo": "AMARILLA"
+        },
+        {
+          "jugador": "TOMÁS PARRA",
+          "tipo": "AMARILLA"
+        }
+      ]
+    },
+    {
+      "fecha": "2026-06-13",
+      "fechaNota": null,
+      "rival": "MONTE GRANDE",
+      "condicion": "LOCAL",
+      "resultadoPropio": 18,
+      "resultadoRival": 18,
+      "cancha": "VICENTINOS",
+      "clima": "NUBLADO",
+      "campoDeJuego": "BUENO",
+      "referee": "DÍAZ A.",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "THIAGO GÓMEZ"
+        },
+        {
+          "numero": 3,
+          "jugador": "GABRIEL RUBIRA"
+        },
+        {
+          "numero": 4,
+          "jugador": "JUAN MARTÍN TURKOWSKY"
+        },
+        {
+          "numero": 5,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 6,
+          "jugador": "RODRIGO ESMAYEL"
+        },
+        {
+          "numero": 7,
+          "jugador": "GERÓNIMO RÍOS"
+        },
+        {
+          "numero": 8,
+          "jugador": "TOBIAS LUCERO"
+        },
+        {
+          "numero": 9,
+          "jugador": "RAMIRO OCCHIUZZI"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN MATIAS TRAYNOR"
+        },
+        {
+          "numero": 11,
+          "jugador": "MARIANO TRAYNOR"
+        },
+        {
+          "numero": 12,
+          "jugador": "SANTIAGO TRAYNOR",
+          "capitan": true
+        },
+        {
+          "numero": 13,
+          "jugador": "MARIANO LIVACHOFF"
+        },
+        {
+          "numero": 14,
+          "jugador": "TOMÁS PARRA"
+        },
+        {
+          "numero": 15,
+          "jugador": "FRANCISCO OCCHIUZZI"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "MATIAS AGUERRONDO",
+          "entraPor": "RODRIGO ESMAYEL"
+        },
+        {
+          "jugador": "JORGE BENÍTEZ",
+          "entraPor": "RODRIGO GOMEZ"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "MARIANO TRAYNOR",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "THIAGO GÓMEZ",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "CONVERSION",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "PENAL",
+          "cantidad": 2
+        }
+      ],
+      "tarjetas": []
+    },
+    {
+      "fecha": "2026-06-20",
+      "fechaNota": null,
+      "rival": "SAN MARTIN",
+      "condicion": "VISITANTE",
+      "resultadoPropio": 10,
+      "resultadoRival": 54,
+      "cancha": "SAN MARTÍN",
+      "clima": "BUENO",
+      "campoDeJuego": "BUENO",
+      "referee": "FIGUEREDO",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "JORGE BENÍTEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "THIAGO GÓMEZ"
+        },
+        {
+          "numero": 3,
+          "jugador": "GABRIEL RUBIRA"
+        },
+        {
+          "numero": 4,
+          "jugador": "JUAN MARTÍN TURKOWSKY"
+        },
+        {
+          "numero": 5,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 6,
+          "jugador": "RODRIGO ESMAYEL"
+        },
+        {
+          "numero": 7,
+          "jugador": "MATIAS AGUERRONDO"
+        },
+        {
+          "numero": 8,
+          "jugador": "JUAN PABLO GAUTO"
+        },
+        {
+          "numero": 9,
+          "jugador": "RAMIRO OCCHIUZZI"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN MATIAS TRAYNOR"
+        },
+        {
+          "numero": 11,
+          "jugador": "MARIANO TRAYNOR"
+        },
+        {
+          "numero": 12,
+          "jugador": "SANTIAGO TRAYNOR",
+          "capitan": true
+        },
+        {
+          "numero": 13,
+          "jugador": "MARIANO LIVACHOFF"
+        },
+        {
+          "numero": 14,
+          "jugador": "ALEJO BALBI"
+        },
+        {
+          "numero": 15,
+          "jugador": "FRANCISCO OCCHIUZZI"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "PEDRO MONTENEGRO",
+          "entraPor": "JUAN MARTÍN TURKOWSKY"
+        },
+        {
+          "jugador": "JOAQUIN TRAYNOR",
+          "entraPor": "JUAN PABLO GAUTO"
+        },
+        {
+          "jugador": "IGNACIO TORRES CIUTAT",
+          "entraPor": "JUAN MATIAS TRAYNOR"
+        },
+        {
+          "jugador": "GERÓNIMO RÍOS",
+          "entraPor": "RODRIGO ESMAYEL"
+        },
+        {
+          "jugador": "TOMÁS PARRA",
+          "entraPor": "MARIANO TRAYNOR"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "JUAN PABLO GAUTO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "CONVERSION",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "PENAL",
+          "cantidad": 1
+        }
+      ],
+      "tarjetas": []
+    },
+    {
+      "fecha": "2026-07-04",
+      "fechaNota": null,
+      "rival": "DON BOSCO",
+      "condicion": "LOCAL",
+      "resultadoPropio": 15,
+      "resultadoRival": 34,
+      "cancha": "VICENTINOS",
+      "clima": "NUBLADO",
+      "campoDeJuego": "BUENO",
+      "referee": "BELTRAMINO",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "JORGE BENÍTEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "THIAGO GÓMEZ"
+        },
+        {
+          "numero": 3,
+          "jugador": "GABRIEL RUBIRA"
+        },
+        {
+          "numero": 4,
+          "jugador": "PEDRO MONTENEGRO"
+        },
+        {
+          "numero": 5,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 6,
+          "jugador": "RODRIGO ESMAYEL"
+        },
+        {
+          "numero": 7,
+          "jugador": "GERÓNIMO RÍOS"
+        },
+        {
+          "numero": 8,
+          "jugador": "JUAN PABLO GAUTO"
+        },
+        {
+          "numero": 9,
+          "jugador": "MARIANO CETTOUR"
+        },
+        {
+          "numero": 10,
+          "jugador": "RAMIRO OCCHIUZZI"
+        },
+        {
+          "numero": 11,
+          "jugador": "MARIANO TRAYNOR"
+        },
+        {
+          "numero": 12,
+          "jugador": "IGNACIO TORRES CIUTAT"
+        },
+        {
+          "numero": 13,
+          "jugador": "MARIANO LIVACHOFF"
+        },
+        {
+          "numero": 14,
+          "jugador": "FRANCISCO OCCHIUZZI"
+        },
+        {
+          "numero": 15,
+          "jugador": "SANTIAGO TRAYNOR",
+          "capitan": true
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "JOSE GRUBER",
+          "entraPor": "GERÓNIMO RÍOS"
+        },
+        {
+          "jugador": "JOAQUIN TRAYNOR",
+          "entraPor": "JUAN PABLO GAUTO"
+        },
+        {
+          "jugador": "SANTINO GEREZ",
+          "entraPor": "MARIANO CETTOUR"
+        },
+        {
+          "jugador": "IGNACIO TORTORELLA",
+          "entraPor": "JUAN PABLO GAUTO"
+        },
+        {
+          "jugador": "JUAN MATIAS TRAYNOR",
+          "entraPor": "RAMIRO OCCHIUZZI"
+        },
+        {
+          "jugador": "ALEJO BALBI",
+          "entraPor": "SANTINO GEREZ"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "TRY",
+          "cantidad": 2
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "CONVERSION",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "PENAL",
+          "cantidad": 1
+        }
+      ],
+      "tarjetas": [
+        {
+          "jugador": "JOSE GRUBER",
+          "tipo": "AMARILLA"
+        }
+      ]
+    },
+    {
+      "fecha": "2026-07-11",
+      "fechaNota": null,
+      "rival": "CAR",
+      "condicion": "LOCAL",
+      "resultadoPropio": 14,
+      "resultadoRival": 54,
+      "cancha": "VICENTINOS",
+      "clima": "NUBLADO",
+      "campoDeJuego": "BUENO",
+      "referee": "CORVALÁN",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "JORGE BENÍTEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "THIAGO GÓMEZ"
+        },
+        {
+          "numero": 3,
+          "jugador": "AUGUSTO ROVETTA"
+        },
+        {
+          "numero": 4,
+          "jugador": "PEDRO MONTENEGRO"
+        },
+        {
+          "numero": 5,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 6,
+          "jugador": "RODRIGO ESMAYEL"
+        },
+        {
+          "numero": 7,
+          "jugador": "JOSE GRUBER"
+        },
+        {
+          "numero": 8,
+          "jugador": "JUAN PABLO GAUTO"
+        },
+        {
+          "numero": 9,
+          "jugador": "FRANCISCO OCCHIUZZI"
+        },
+        {
+          "numero": 10,
+          "jugador": "RAMIRO OCCHIUZZI"
+        },
+        {
+          "numero": 11,
+          "jugador": "MARIANO TRAYNOR"
+        },
+        {
+          "numero": 12,
+          "jugador": "IGNACIO TORRES CIUTAT"
+        },
+        {
+          "numero": 13,
+          "jugador": "MARIANO LIVACHOFF"
+        },
+        {
+          "numero": 14,
+          "jugador": "ALEJO BALBI"
+        },
+        {
+          "numero": 15,
+          "jugador": "SANTIAGO TRAYNOR",
+          "capitan": true
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "IGNACIO TORTORELLA",
+          "entraPor": "JUAN PABLO GAUTO"
+        },
+        {
+          "jugador": "GABRIEL RUBIRA",
+          "entraPor": "AUGUSTO ROVETTA"
+        },
+        {
+          "jugador": "CRISTIAN SÁNCHEZ",
+          "entraPor": "JOSE GRUBER"
+        },
+        {
+          "jugador": "TOMÁS PARRA",
+          "entraPor": "ALEJO BALBI"
+        },
+        {
+          "jugador": "JUAN MATIAS TRAYNOR",
+          "entraPor": "MARIANO TRAYNOR"
+        },
+        {
+          "jugador": "MATIAS TRAYNOR",
+          "entraPor": "JORGE BENÍTEZ"
+        },
+        {
+          "jugador": "TOBIAS LUCERO",
+          "entraPor": "RODRIGO ESMAYEL"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "THIAGO GÓMEZ",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "MARIANO TRAYNOR",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "CONVERSION",
+          "cantidad": 2
+        }
+      ],
+      "tarjetas": []
+    },
+    {
+      "fecha": "2026-07-18",
+      "fechaNota": null,
+      "rival": "CUQ",
+      "condicion": "VISITANTE",
+      "resultadoPropio": 9,
+      "resultadoRival": 21,
+      "cancha": "CUQ",
+      "clima": "NUBLADO",
+      "campoDeJuego": "REGULAR",
+      "referee": "PIOTROWSKY",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "JORGE BENÍTEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "THIAGO GÓMEZ"
+        },
+        {
+          "numero": 3,
+          "jugador": "GABRIEL RUBIRA"
+        },
+        {
+          "numero": 4,
+          "jugador": "PEDRO MONTENEGRO"
+        },
+        {
+          "numero": 5,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 6,
+          "jugador": "RODRIGO ESMAYEL"
+        },
+        {
+          "numero": 7,
+          "jugador": "JOSE GRUBER"
+        },
+        {
+          "numero": 8,
+          "jugador": "JUAN PABLO GAUTO"
+        },
+        {
+          "numero": 9,
+          "jugador": "FRANCISCO OCCHIUZZI"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN MATIAS TRAYNOR"
+        },
+        {
+          "numero": 11,
+          "jugador": "MARIANO TRAYNOR"
+        },
+        {
+          "numero": 12,
+          "jugador": "IGNACIO TORRES CIUTAT"
+        },
+        {
+          "numero": 13,
+          "jugador": "SANTIAGO TRAYNOR",
+          "capitan": true
+        },
+        {
+          "numero": 14,
+          "jugador": "ALEJO BALBI"
+        },
+        {
+          "numero": 15,
+          "jugador": "ENZO CORSI"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "IGNACIO TORTORELLA",
+          "entraPor": "JUAN PABLO GAUTO"
+        },
+        {
+          "jugador": "TOBIAS LUCERO",
+          "entraPor": "RODRIGO ESMAYEL"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "PENAL",
+          "cantidad": 3
+        }
+      ],
+      "tarjetas": [
+        {
+          "jugador": "GABRIEL RUBIRA",
+          "tipo": "AMARILLA"
+        },
+        {
+          "jugador": "IGNACIO TORTORELLA",
+          "tipo": "AMARILLA"
+        },
+        {
+          "jugador": "ENZO CORSI",
+          "tipo": "AMARILLA"
+        }
+      ]
+    },
+    {
+      "fecha": "2026-08-01",
+      "fechaNota": null,
+      "rival": "LICEO NAVAL",
+      "condicion": "LOCAL",
+      "resultadoPropio": 22,
+      "resultadoRival": 23,
+      "cancha": "VICENTINOS",
+      "clima": "NUBLADO",
+      "campoDeJuego": "PESADO",
+      "referee": "PIÑERO",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "JORGE BENÍTEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "THIAGO GÓMEZ"
+        },
+        {
+          "numero": 3,
+          "jugador": "GABRIEL RUBIRA"
+        },
+        {
+          "numero": 4,
+          "jugador": "PEDRO MONTENEGRO"
+        },
+        {
+          "numero": 5,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 6,
+          "jugador": "RODRIGO ESMAYEL"
+        },
+        {
+          "numero": 7,
+          "jugador": "JOSE GRUBER"
+        },
+        {
+          "numero": 8,
+          "jugador": "TOBIAS LUCERO"
+        },
+        {
+          "numero": 9,
+          "jugador": "FRANCISCO OCCHIUZZI"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN MATIAS TRAYNOR"
+        },
+        {
+          "numero": 11,
+          "jugador": "TOMÁS PARRA"
+        },
+        {
+          "numero": 12,
+          "jugador": "IGNACIO TORRES CIUTAT"
+        },
+        {
+          "numero": 13,
+          "jugador": "SANTIAGO TRAYNOR",
+          "capitan": true
+        },
+        {
+          "numero": 14,
+          "jugador": "ALEJO BALBI"
+        },
+        {
+          "numero": 15,
+          "jugador": "ENZO CORSI"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "RODRIGO GOMEZ",
+          "entraPor": "JORGE BENÍTEZ"
+        },
+        {
+          "jugador": "MARIANO TRAYNOR",
+          "entraPor": "ENZO CORSI"
+        },
+        {
+          "jugador": "IGNACIO TORTORELLA",
+          "entraPor": "JOSE GRUBER"
+        },
+        {
+          "jugador": "MATIAS AGUERRONDO",
+          "entraPor": "RODRIGO ESMAYEL"
+        },
+        {
+          "jugador": "RAMIRO OCCHIUZZI",
+          "entraPor": "JUAN MATIAS TRAYNOR"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "TOBIAS LUCERO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "THIAGO GÓMEZ",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "IGNACIO TORRES CIUTAT",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "CONVERSION",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "PENAL",
+          "cantidad": 1
+        }
+      ],
+      "tarjetas": []
+    },
+    {
+      "fecha": "2026-08-15",
+      "fechaNota": null,
+      "rival": "CLUB ITALIANO",
+      "condicion": "VISITANTE",
+      "resultadoPropio": 23,
+      "resultadoRival": 31,
+      "cancha": "ITALIANO",
+      "clima": "NUBLADO",
+      "campoDeJuego": "REGULAR",
+      "referee": "PACHECO",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "JORGE BENÍTEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "THIAGO GÓMEZ"
+        },
+        {
+          "numero": 3,
+          "jugador": "GABRIEL RUBIRA"
+        },
+        {
+          "numero": 4,
+          "jugador": "PEDRO MONTENEGRO"
+        },
+        {
+          "numero": 5,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 6,
+          "jugador": "RODRIGO ESMAYEL"
+        },
+        {
+          "numero": 7,
+          "jugador": "JOSE GRUBER"
+        },
+        {
+          "numero": 8,
+          "jugador": "TOBIAS LUCERO"
+        },
+        {
+          "numero": 9,
+          "jugador": "FRANCISCO OCCHIUZZI"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN MATIAS TRAYNOR"
+        },
+        {
+          "numero": 11,
+          "jugador": "TOMÁS PARRA"
+        },
+        {
+          "numero": 12,
+          "jugador": "IGNACIO TORRES CIUTAT"
+        },
+        {
+          "numero": 13,
+          "jugador": "SANTIAGO TRAYNOR",
+          "capitan": true
+        },
+        {
+          "numero": 14,
+          "jugador": "ALEJO BALBI"
+        },
+        {
+          "numero": 15,
+          "jugador": "ENZO CORSI"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "RODRIGO GOMEZ",
+          "entraPor": "JORGE BENÍTEZ"
+        },
+        {
+          "jugador": "CRISTIAN SÁNCHEZ",
+          "entraPor": "PEDRO MONTENEGRO"
+        },
+        {
+          "jugador": "MATIAS AGUERRONDO",
+          "entraPor": "JOSE GRUBER"
+        },
+        {
+          "jugador": "RAMIRO OCCHIUZZI",
+          "entraPor": "TOMÁS PARRA"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "FRANCISCO OCCHIUZZI",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "RAMIRO OCCHIUZZI",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "CONVERSION",
+          "cantidad": 2
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "PENAL",
+          "cantidad": 2
+        }
+      ],
+      "tarjetas": []
+    },
+    {
+      "fecha": "2026-08-22",
+      "fechaNota": null,
+      "rival": "SAN PATRICIO",
+      "condicion": "LOCAL",
+      "resultadoPropio": 18,
+      "resultadoRival": 26,
+      "cancha": "VICENTINOS",
+      "clima": "BUENO",
+      "campoDeJuego": "BUENO",
+      "referee": "BAECK E.",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "THIAGO GÓMEZ"
+        },
+        {
+          "numero": 3,
+          "jugador": "GABRIEL RUBIRA"
+        },
+        {
+          "numero": 4,
+          "jugador": "PEDRO MONTENEGRO"
+        },
+        {
+          "numero": 5,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 6,
+          "jugador": "RODRIGO ESMAYEL"
+        },
+        {
+          "numero": 7,
+          "jugador": "MATIAS AGUERRONDO"
+        },
+        {
+          "numero": 8,
+          "jugador": "TOBIAS LUCERO"
+        },
+        {
+          "numero": 9,
+          "jugador": "FRANCISCO OCCHIUZZI"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN MATIAS TRAYNOR"
+        },
+        {
+          "numero": 11,
+          "jugador": "ENZO CORSI"
+        },
+        {
+          "numero": 12,
+          "jugador": "IGNACIO TORRES CIUTAT"
+        },
+        {
+          "numero": 13,
+          "jugador": "MARIANO LIVACHOFF"
+        },
+        {
+          "numero": 14,
+          "jugador": "ALEJO BALBI"
+        },
+        {
+          "numero": 15,
+          "jugador": "SANTIAGO TRAYNOR",
+          "capitan": true
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "MATIAS TRAYNOR",
+          "entraPor": "RODRIGO GOMEZ"
+        },
+        {
+          "jugador": "CRISTIAN SÁNCHEZ",
+          "entraPor": "PEDRO MONTENEGRO"
+        },
+        {
+          "jugador": "JUAN MARTÍN TURKOWSKY",
+          "entraPor": "RODRIGO ESMAYEL"
+        },
+        {
+          "jugador": "RAMIRO OCCHIUZZI",
+          "entraPor": "MARIANO LIVACHOFF"
+        },
+        {
+          "jugador": "JOAQUIN TRAYNOR",
+          "entraPor": "TOBIAS LUCERO"
+        },
+        {
+          "jugador": "AUGUSTO ROVETTA",
+          "entraPor": "MARIANO LIVACHOFF"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "PENAL",
+          "cantidad": 6
+        }
+      ],
+      "tarjetas": [
+        {
+          "jugador": "RODRIGO GOMEZ",
+          "tipo": "AMARILLA"
+        }
+      ]
+    },
+    {
+      "fecha": "2026-08-29",
+      "fechaNota": null,
+      "rival": "LICEO MILITAR",
+      "condicion": "VISITANTE",
+      "resultadoPropio": 30,
+      "resultadoRival": 29,
+      "cancha": "LICEO MILITAR",
+      "clima": "BUENO",
+      "campoDeJuego": "BUENO",
+      "referee": "RANALLI",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "THIAGO GÓMEZ"
+        },
+        {
+          "numero": 3,
+          "jugador": "AUGUSTO ROVETTA"
+        },
+        {
+          "numero": 4,
+          "jugador": "JUAN MARTÍN TURKOWSKY"
+        },
+        {
+          "numero": 5,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 6,
+          "jugador": "RODRIGO ESMAYEL"
+        },
+        {
+          "numero": 7,
+          "jugador": "MATIAS AGUERRONDO"
+        },
+        {
+          "numero": 8,
+          "jugador": "PEDRO MONTENEGRO"
+        },
+        {
+          "numero": 9,
+          "jugador": "FRANCISCO OCCHIUZZI"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN MATIAS TRAYNOR"
+        },
+        {
+          "numero": 11,
+          "jugador": "ENZO CORSI"
+        },
+        {
+          "numero": 12,
+          "jugador": "IGNACIO TORRES CIUTAT"
+        },
+        {
+          "numero": 13,
+          "jugador": "MARIANO LIVACHOFF"
+        },
+        {
+          "numero": 14,
+          "jugador": "ALEJO BALBI"
+        },
+        {
+          "numero": 15,
+          "jugador": "SANTIAGO TRAYNOR",
+          "capitan": true
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "GERÓNIMO RÍOS",
+          "entraPor": "PEDRO MONTENEGRO"
+        },
+        {
+          "jugador": "MARIANO TRAYNOR",
+          "entraPor": "ALEJO BALBI"
+        },
+        {
+          "jugador": "MIGUEL ALMIRÓN",
+          "entraPor": "AUGUSTO ROVETTA"
+        },
+        {
+          "jugador": "JUAN PABLO GAUTO",
+          "entraPor": "RODRIGO ESMAYEL"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "ALEJO BALBI",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "FRANCISCO OCCHIUZZI",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "IGNACIO TORRES CIUTAT",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "CONVERSION",
+          "cantidad": 2
+        },
+        {
+          "jugador": "FRANCISCO OCCHIUZZI",
+          "tipo": "CONVERSION",
+          "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "PENAL",
+          "cantidad": 3
+        }
+      ],
+      "tarjetas": [
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "AMARILLA"
+        }
+      ]
+    },
+    {
+      "fecha": "2026-09-05",
+      "fechaNota": null,
+      "rival": "BANCO NACIÓN",
+      "condicion": "LOCAL",
+      "resultadoPropio": 27,
+      "resultadoRival": 36,
+      "cancha": "VICENTINOS",
+      "clima": "BUENO",
+      "campoDeJuego": "BUENO",
+      "referee": "BELLO",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "THIAGO GÓMEZ"
+        },
+        {
+          "numero": 3,
+          "jugador": "AUGUSTO ROVETTA"
+        },
+        {
+          "numero": 4,
+          "jugador": "JUAN MARTÍN TURKOWSKY"
+        },
+        {
+          "numero": 5,
+          "jugador": "FRANCISCO COMABELLA"
+        },
+        {
+          "numero": 6,
+          "jugador": "RODRIGO ESMAYEL"
+        },
+        {
+          "numero": 7,
+          "jugador": "GERÓNIMO RÍOS"
+        },
+        {
+          "numero": 8,
+          "jugador": "PEDRO MONTENEGRO"
+        },
+        {
+          "numero": 9,
+          "jugador": "FRANCISCO OCCHIUZZI",
+          "capitan": true
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN MATIAS TRAYNOR"
+        },
+        {
+          "numero": 11,
+          "jugador": "MARIANO TRAYNOR"
+        },
+        {
+          "numero": 12,
+          "jugador": "IGNACIO TORRES CIUTAT"
+        },
+        {
+          "numero": 13,
+          "jugador": "MARIANO LIVACHOFF"
+        },
+        {
+          "numero": 14,
+          "jugador": "ALEJO BALBI"
+        },
+        {
+          "numero": 15,
+          "jugador": "ENZO CORSI"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "JOAQUIN TRAYNOR",
+          "entraPor": "THIAGO GÓMEZ"
+        },
+        {
+          "jugador": "JORGE BENÍTEZ",
+          "entraPor": "RODRIGO GOMEZ"
+        },
+        {
+          "jugador": "IGNACIO TORTORELLA",
+          "entraPor": "GERÓNIMO RÍOS"
+        },
+        {
+          "jugador": "JUAN PABLO GAUTO",
+          "entraPor": "RODRIGO ESMAYEL"
+        },
+        {
+          "jugador": "MIGUEL ALMIRÓN",
+          "entraPor": "AUGUSTO ROVETTA"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "FRANCISCO COMABELLA",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "FRANCISCO OCCHIUZZI",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "PEDRO MONTENEGRO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "TRY PENAL",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "FRANCISCO OCCHIUZZI",
+          "tipo": "CONVERSION",
+          "cantidad": 1
+        },
+        {
+          "jugador": "FRANCISCO OCCHIUZZI",
+          "tipo": "PENAL",
+          "cantidad": 1
+        }
+      ],
+      "tarjetas": [
+        {
+          "jugador": "JUAN MARTÍN TURKOWSKY",
+          "tipo": "AMARILLA"
+        }
+      ]
+    }
+  ]
+}

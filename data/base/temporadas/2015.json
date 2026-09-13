@@ -1,0 +1,3448 @@
+{
+  "temporada": 2015,
+  "info": {
+    "torneo": "Grupo IV",
+    "posicion": null,
+    "rankingUrba": 58,
+    "campeon": false,
+    "ascenso": true,
+    "descenso": false,
+    "nota": null
+  },
+  "partidos": [
+    {
+      "fecha": "2015-03-21",
+      "fechaNota": null,
+      "rival": "ALMAFUERTE",
+      "condicion": "VISITANTE",
+      "resultadoPropio": 69,
+      "resultadoRival": 22,
+      "cancha": "ALMAFUERTE",
+      "clima": "BUENO",
+      "campoDeJuego": "BUENO",
+      "referee": "BARBERO",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "MATIAS BOCO"
+        },
+        {
+          "numero": 3,
+          "jugador": "PABLO FERREIRA",
+          "capitan": true
+        },
+        {
+          "numero": 4,
+          "jugador": "MARTIN APOLO"
+        },
+        {
+          "numero": 5,
+          "jugador": "EZEQUIEL BALESTRA"
+        },
+        {
+          "numero": 6,
+          "jugador": "AGUSTIN DOMINGUEZ"
+        },
+        {
+          "numero": 7,
+          "jugador": "NICOLAS ALTAMIRANO"
+        },
+        {
+          "numero": 8,
+          "jugador": "IGNACIO TORTORELLA"
+        },
+        {
+          "numero": 9,
+          "jugador": "IVAN IBAÑEZ"
+        },
+        {
+          "numero": 10,
+          "jugador": "FEDERICO PITTALA"
+        },
+        {
+          "numero": 11,
+          "jugador": "MANUEL ALTAMIRANO"
+        },
+        {
+          "numero": 12,
+          "jugador": "AGUSTIN MARZIALI"
+        },
+        {
+          "numero": 13,
+          "jugador": "JOSE GRUBER"
+        },
+        {
+          "numero": 14,
+          "jugador": "NICOLAS CUPO"
+        },
+        {
+          "numero": 15,
+          "jugador": "PATRICIO TRAYNOR"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "MATIAS TRAYNOR",
+          "entraPor": "RODRIGO GOMEZ"
+        },
+        {
+          "jugador": "JORGE SEIB",
+          "entraPor": "MATIAS BOCO"
+        },
+        {
+          "jugador": "CHRISTIAN PAREDES",
+          "entraPor": "EZEQUIEL BALESTRA"
+        },
+        {
+          "jugador": "RODRIGO RIOS",
+          "entraPor": "AGUSTIN DOMINGUEZ"
+        },
+        {
+          "jugador": "IGNACIO TORRES CIUTAT",
+          "entraPor": "MANUEL ALTAMIRANO"
+        },
+        {
+          "jugador": "GONZALO GREGORIO",
+          "entraPor": "AGUSTIN MARZIALI"
+        },
+        {
+          "jugador": "NICOLAS DOMINGUEZ",
+          "entraPor": "FEDERICO PITTALA"
+        },
+        {
+          "jugador": "TOMAS MURACA",
+          "entraPor": "JOSE GRUBER"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "IVAN IBAÑEZ",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "AGUSTIN MARZIALI",
+          "tipo": "TRY",
+          "cantidad": 2
+        },
+        {
+          "jugador": "MARTIN APOLO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "FEDERICO PITTALA",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "IGNACIO TORTORELLA",
+          "tipo": "TRY",
+          "cantidad": 2
+        },
+        {
+          "jugador": "MANUEL ALTAMIRANO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "PATRICIO TRAYNOR",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "TRY PENAL",
+          "tipo": "TRY",
+          "cantidad": 2
+        },
+        {
+          "jugador": "IVAN IBAÑEZ",
+          "tipo": "CONVERSION",
+          "cantidad": 7
+        }
+      ],
+      "tarjetas": []
+    },
+    {
+      "fecha": "2015-03-28",
+      "fechaNota": null,
+      "rival": "VICENTE LOPEZ",
+      "condicion": "VISITANTE",
+      "resultadoPropio": 24,
+      "resultadoRival": 15,
+      "cancha": "VICENTE LOPEZ (V cumple sanción)",
+      "clima": "BUENO",
+      "campoDeJuego": "REGULAR",
+      "referee": "CAVALLIN",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "MATIAS BOCO"
+        },
+        {
+          "numero": 3,
+          "jugador": "PABLO FERREIRA",
+          "capitan": true
+        },
+        {
+          "numero": 4,
+          "jugador": "MARTIN APOLO"
+        },
+        {
+          "numero": 5,
+          "jugador": "EZEQUIEL BALESTRA"
+        },
+        {
+          "numero": 6,
+          "jugador": "NICOLAS ALTAMIRANO"
+        },
+        {
+          "numero": 7,
+          "jugador": "AGUSTIN DOMINGUEZ"
+        },
+        {
+          "numero": 8,
+          "jugador": "IGNACIO TORTORELLA"
+        },
+        {
+          "numero": 9,
+          "jugador": "IVAN IBAÑEZ"
+        },
+        {
+          "numero": 10,
+          "jugador": "FEDERICO PITTALA"
+        },
+        {
+          "numero": 11,
+          "jugador": "MANUEL ALTAMIRANO"
+        },
+        {
+          "numero": 12,
+          "jugador": "AGUSTIN MARZIALI"
+        },
+        {
+          "numero": 13,
+          "jugador": "IGNACIO TORRES CIUTAT"
+        },
+        {
+          "numero": 14,
+          "jugador": "JOSE GRUBER"
+        },
+        {
+          "numero": 15,
+          "jugador": "PATRICIO TRAYNOR"
+        }
+      ],
+      "cambios": [],
+      "puntos": [
+        {
+          "jugador": "PABLO FERREIRA",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "IGNACIO TORRES CIUTAT",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "IVAN IBAÑEZ",
+          "tipo": "PENAL",
+          "cantidad": 4
+        }
+      ],
+      "tarjetas": [
+        {
+          "jugador": "IGNACIO TORTORELLA",
+          "tipo": "AMARILLA"
+        }
+      ]
+    },
+    {
+      "fecha": "2015-04-04",
+      "fechaNota": null,
+      "rival": "BEROMAMA",
+      "condicion": "VISITANTE",
+      "resultadoPropio": 34,
+      "resultadoRival": 12,
+      "cancha": "BEROMAMA",
+      "clima": "BUENO",
+      "campoDeJuego": "BUENO",
+      "referee": "GERAGHTY",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "MATIAS TRAYNOR"
+        },
+        {
+          "numero": 3,
+          "jugador": "PABLO FERREIRA",
+          "capitan": true
+        },
+        {
+          "numero": 4,
+          "jugador": "EZEQUIEL BALESTRA"
+        },
+        {
+          "numero": 5,
+          "jugador": "MARTIN APOLO"
+        },
+        {
+          "numero": 6,
+          "jugador": "NICOLAS ALTAMIRANO"
+        },
+        {
+          "numero": 7,
+          "jugador": "FRANCO CORSI"
+        },
+        {
+          "numero": 8,
+          "jugador": "AGUSTIN DOMINGUEZ"
+        },
+        {
+          "numero": 9,
+          "jugador": "IVAN IBAÑEZ"
+        },
+        {
+          "numero": 10,
+          "jugador": "FEDERICO PITTALA"
+        },
+        {
+          "numero": 11,
+          "jugador": "GONZALO GREGORIO"
+        },
+        {
+          "numero": 12,
+          "jugador": "AGUSTIN MARZIALI"
+        },
+        {
+          "numero": 13,
+          "jugador": "IGNACIO TORRES CIUTAT"
+        },
+        {
+          "numero": 14,
+          "jugador": "JOSE GRUBER"
+        },
+        {
+          "numero": 15,
+          "jugador": "PATRICIO TRAYNOR"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "JUAN JOSE MONEA",
+          "entraPor": "MATIAS TRAYNOR"
+        },
+        {
+          "jugador": "TOMAS MURACA",
+          "entraPor": "IVAN IBAÑEZ"
+        },
+        {
+          "jugador": "NICOLAS DOMINGUEZ",
+          "entraPor": "PATRICIO TRAYNOR"
+        },
+        {
+          "jugador": "ANDRES BIRELLO",
+          "entraPor": "AGUSTIN DOMINGUEZ"
+        },
+        {
+          "jugador": "RODRIGO RIOS",
+          "entraPor": "EZEQUIEL BALESTRA"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "RODRIGO GOMEZ",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "PENAL",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "MATIAS TRAYNOR",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "FEDERICO PITTALA",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "IGNACIO TORRES CIUTAT",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "PATRICIO TRAYNOR",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "IVAN IBAÑEZ",
+          "tipo": "CONVERSION",
+          "cantidad": 3
+        }
+      ],
+      "tarjetas": [
+        {
+          "jugador": "ANDRES BIRELLO",
+          "tipo": "AMARILLA"
+        },
+        {
+          "jugador": "GONZALO GREGORIO",
+          "tipo": "AMARILLA"
+        },
+        {
+          "jugador": "FRANCO CORSI",
+          "tipo": "AMARILLA"
+        }
+      ]
+    },
+    {
+      "fecha": "2015-04-11",
+      "fechaNota": null,
+      "rival": "EL RETIRO",
+      "condicion": "LOCAL",
+      "resultadoPropio": 13,
+      "resultadoRival": 19,
+      "cancha": "VICENTINOS",
+      "clima": "BUENO",
+      "campoDeJuego": "BUENO",
+      "referee": "MASSERA",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "MATIAS BOCO"
+        },
+        {
+          "numero": 3,
+          "jugador": "PABLO FERREIRA",
+          "capitan": true
+        },
+        {
+          "numero": 4,
+          "jugador": "EZEQUIEL BALESTRA"
+        },
+        {
+          "numero": 5,
+          "jugador": "MARTIN APOLO"
+        },
+        {
+          "numero": 6,
+          "jugador": "NICOLAS ALTAMIRANO"
+        },
+        {
+          "numero": 7,
+          "jugador": "AGUSTIN DOMINGUEZ"
+        },
+        {
+          "numero": 8,
+          "jugador": "IGNACIO TORTORELLA"
+        },
+        {
+          "numero": 9,
+          "jugador": "IVAN IBAÑEZ"
+        },
+        {
+          "numero": 10,
+          "jugador": "FEDERICO PITTALA"
+        },
+        {
+          "numero": 11,
+          "jugador": "JOSE GRUBER"
+        },
+        {
+          "numero": 12,
+          "jugador": "AGUSTIN MARZIALI"
+        },
+        {
+          "numero": 13,
+          "jugador": "IGNACIO TORRES CIUTAT"
+        },
+        {
+          "numero": 14,
+          "jugador": "MANUEL ALTAMIRANO"
+        },
+        {
+          "numero": 15,
+          "jugador": "PATRICIO TRAYNOR"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "MATIAS AGUERRONDO",
+          "entraPor": "MARTIN APOLO"
+        },
+        {
+          "jugador": "JUAN JOSE MONEA",
+          "entraPor": "MATIAS BOCO"
+        },
+        {
+          "jugador": "TOMAS MURACA",
+          "entraPor": "FEDERICO PITTALA"
+        },
+        {
+          "jugador": "NICOLAS DOMINGUEZ",
+          "entraPor": "TOMAS MURACA"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "IGNACIO TORRES CIUTAT",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "IVAN IBAÑEZ",
+          "tipo": "CONVERSION",
+          "cantidad": 1
+        },
+        {
+          "jugador": "IVAN IBAÑEZ",
+          "tipo": "PENAL",
+          "cantidad": 2
+        }
+      ],
+      "tarjetas": [
+        {
+          "jugador": "IGNACIO TORTORELLA",
+          "tipo": "AMARILLA"
+        },
+        {
+          "jugador": "FEDERICO PITTALA",
+          "tipo": "AMARILLA"
+        }
+      ]
+    },
+    {
+      "fecha": "2015-04-18",
+      "fechaNota": null,
+      "rival": "EZEIZA",
+      "condicion": "VISITANTE",
+      "resultadoPropio": 59,
+      "resultadoRival": 10,
+      "cancha": "BEROMAMA",
+      "clima": "BUENO",
+      "campoDeJuego": "REGULAR",
+      "referee": "BARBERO",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "EZEQUIEL BALESTRA"
+        },
+        {
+          "numero": 3,
+          "jugador": "PABLO FERREIRA",
+          "capitan": true
+        },
+        {
+          "numero": 4,
+          "jugador": "NICOLAS ALTAMIRANO"
+        },
+        {
+          "numero": 5,
+          "jugador": "SANTIAGO DIAZ"
+        },
+        {
+          "numero": 6,
+          "jugador": "FRANCO CORSI"
+        },
+        {
+          "numero": 7,
+          "jugador": "AGUSTIN DOMINGUEZ"
+        },
+        {
+          "numero": 8,
+          "jugador": "IGNACIO TORTORELLA"
+        },
+        {
+          "numero": 9,
+          "jugador": "IVAN IBAÑEZ"
+        },
+        {
+          "numero": 10,
+          "jugador": "NICOLAS DOMINGUEZ"
+        },
+        {
+          "numero": 11,
+          "jugador": "MAXIMILIANO SOLIVELLAS"
+        },
+        {
+          "numero": 12,
+          "jugador": "AGUSTIN MARZIALI"
+        },
+        {
+          "numero": 13,
+          "jugador": "IGNACIO TORRES CIUTAT"
+        },
+        {
+          "numero": 14,
+          "jugador": "JOSE GRUBER"
+        },
+        {
+          "numero": 15,
+          "jugador": "MANUEL ALTAMIRANO"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "JUAN IGNACIO GONZALEZ",
+          "entraPor": "IGNACIO TORTORELLA"
+        },
+        {
+          "jugador": "EZEQUIEL VAZQUEZ",
+          "entraPor": "NICOLAS ALTAMIRANO"
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "entraPor": "MANUEL ALTAMIRANO"
+        },
+        {
+          "jugador": "MARIANO GONZALEZ",
+          "entraPor": "IGNACIO TORRES CIUTAT"
+        },
+        {
+          "jugador": "ALEJO BUSTAMANTE",
+          "entraPor": "AGUSTIN DOMINGUEZ"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "MAXIMILIANO SOLIVELLAS",
+          "tipo": "TRY",
+          "cantidad": 2
+        },
+        {
+          "jugador": "PABLO FERREIRA",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "IVAN IBAÑEZ",
+          "tipo": "TRY",
+          "cantidad": 3
+        },
+        {
+          "jugador": "AGUSTIN MARZIALI",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "IGNACIO TORTORELLA",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "AGUSTIN DOMINGUEZ",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "IVAN IBAÑEZ",
+          "tipo": "CONVERSION",
+          "cantidad": 7
+        }
+      ],
+      "tarjetas": [
+        {
+          "jugador": "FRANCO CORSI",
+          "tipo": "AMARILLA"
+        }
+      ]
+    },
+    {
+      "fecha": "2015-04-25",
+      "fechaNota": null,
+      "rival": "BERISSO",
+      "condicion": "LOCAL",
+      "resultadoPropio": 109,
+      "resultadoRival": 5,
+      "cancha": "VICENTINOS",
+      "clima": "BUENO",
+      "campoDeJuego": "REGULAR",
+      "referee": "CRUZ MANGANIELLO",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "MATIAS BOCO"
+        },
+        {
+          "numero": 3,
+          "jugador": "PABLO FERREIRA"
+        },
+        {
+          "numero": 4,
+          "jugador": "EZEQUIEL BALESTRA"
+        },
+        {
+          "numero": 5,
+          "jugador": "MATIAS AGUERRONDO"
+        },
+        {
+          "numero": 6,
+          "jugador": "FRANCO CORSI"
+        },
+        {
+          "numero": 7,
+          "jugador": "AGUSTIN DOMINGUEZ"
+        },
+        {
+          "numero": 8,
+          "jugador": "IGNACIO TORTORELLA"
+        },
+        {
+          "numero": 9,
+          "jugador": "IVAN IBAÑEZ"
+        },
+        {
+          "numero": 10,
+          "jugador": "NICOLAS DOMINGUEZ"
+        },
+        {
+          "numero": 11,
+          "jugador": "MAXIMILIANO SOLIVELLAS"
+        },
+        {
+          "numero": 12,
+          "jugador": "AGUSTIN MARZIALI"
+        },
+        {
+          "numero": 13,
+          "jugador": "IGNACIO TORRES CIUTAT"
+        },
+        {
+          "numero": 14,
+          "jugador": "JOSE GRUBER"
+        },
+        {
+          "numero": 15,
+          "jugador": "MANUEL ALTAMIRANO"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "NICOLAS ALTAMIRANO",
+          "entraPor": "FRANCO CORSI"
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "entraPor": "NICOLAS DOMINGUEZ"
+        },
+        {
+          "jugador": "MARTIN APOLO",
+          "entraPor": "EZEQUIEL BALESTRA"
+        },
+        {
+          "jugador": "MATIAS TRAYNOR",
+          "entraPor": "MAXIMILIANO SOLIVELLAS"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "IVAN IBAÑEZ",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "MANUEL ALTAMIRANO",
+          "tipo": "TRY",
+          "cantidad": 3
+        },
+        {
+          "jugador": "JOSE GRUBER",
+          "tipo": "TRY",
+          "cantidad": 2
+        },
+        {
+          "jugador": "PABLO FERREIRA",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "IGNACIO TORTORELLA",
+          "tipo": "TRY",
+          "cantidad": 4
+        },
+        {
+          "jugador": "MATIAS TRAYNOR",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "AGUSTIN DOMINGUEZ",
+          "tipo": "TRY",
+          "cantidad": 2
+        },
+        {
+          "jugador": "IGNACIO TORRES CIUTAT",
+          "tipo": "TRY",
+          "cantidad": 2
+        },
+        {
+          "jugador": "NICOLAS DOMINGUEZ",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "IVAN IBAÑEZ",
+          "tipo": "CONVERSION",
+          "cantidad": 12
+        }
+      ],
+      "tarjetas": [
+        {
+          "jugador": "RODRIGO GOMEZ",
+          "tipo": "AMARILLA"
+        }
+      ]
+    },
+    {
+      "fecha": "2015-05-01",
+      "fechaNota": null,
+      "rival": "LAS HERAS",
+      "condicion": "VISITANTE",
+      "resultadoPropio": 81,
+      "resultadoRival": 0,
+      "cancha": "LAS HERAS",
+      "clima": "NUBLADO",
+      "campoDeJuego": "REGULAR",
+      "referee": "DEISEL",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "JORGE SEIB"
+        },
+        {
+          "numero": 3,
+          "jugador": "PABLO FERREIRA"
+        },
+        {
+          "numero": 4,
+          "jugador": "EZEQUIEL BALESTRA"
+        },
+        {
+          "numero": 5,
+          "jugador": "MATIAS AGUERRONDO"
+        },
+        {
+          "numero": 6,
+          "jugador": "FRANCO CORSI"
+        },
+        {
+          "numero": 7,
+          "jugador": "AGUSTIN DOMINGUEZ"
+        },
+        {
+          "numero": 8,
+          "jugador": "IGNACIO TORTORELLA"
+        },
+        {
+          "numero": 9,
+          "jugador": "IVAN IBAÑEZ"
+        },
+        {
+          "numero": 10,
+          "jugador": "NICOLAS DOMINGUEZ"
+        },
+        {
+          "numero": 11,
+          "jugador": "MAXIMILIANO SOLIVELLAS"
+        },
+        {
+          "numero": 12,
+          "jugador": "AGUSTIN MARZIALI"
+        },
+        {
+          "numero": 13,
+          "jugador": "IGNACIO TORRES CIUTAT"
+        },
+        {
+          "numero": 14,
+          "jugador": "JOSE GRUBER"
+        },
+        {
+          "numero": 15,
+          "jugador": "MANUEL ALTAMIRANO"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "MATIAS TRAYNOR",
+          "entraPor": "RODRIGO GOMEZ"
+        },
+        {
+          "jugador": "NICOLAS ALTAMIRANO",
+          "entraPor": "AGUSTIN DOMINGUEZ"
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "entraPor": "NICOLAS DOMINGUEZ"
+        },
+        {
+          "jugador": "MARTIN APOLO",
+          "entraPor": "EZEQUIEL BALESTRA"
+        },
+        {
+          "jugador": "EZEQUIEL VAZQUEZ",
+          "entraPor": "FRANCO CORSI"
+        },
+        {
+          "jugador": "JUAN IGNACIO GONZALEZ",
+          "entraPor": "IGNACIO TORTORELLA"
+        },
+        {
+          "jugador": "JUAN GARGANO",
+          "entraPor": "IVAN IBAÑEZ"
+        },
+        {
+          "jugador": "FEDERICO PITTALA",
+          "entraPor": "JOSE GRUBER"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "MAXIMILIANO SOLIVELLAS",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "JUAN IGNACIO GONZALEZ",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "IGNACIO TORRES CIUTAT",
+          "tipo": "TRY",
+          "cantidad": 3
+        },
+        {
+          "jugador": "MATIAS AGUERRONDO",
+          "tipo": "TRY",
+          "cantidad": 2
+        },
+        {
+          "jugador": "IGNACIO TORTORELLA",
+          "tipo": "TRY",
+          "cantidad": 2
+        },
+        {
+          "jugador": "AGUSTIN MARZIALI",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "RODRIGO GOMEZ",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "JOSE GRUBER",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "IVAN IBAÑEZ",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "IVAN IBAÑEZ",
+          "tipo": "CONVERSION",
+          "cantidad": 7
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "tipo": "CONVERSION",
+          "cantidad": 1
+        }
+      ],
+      "tarjetas": []
+    },
+    {
+      "fecha": "2015-05-09",
+      "fechaNota": null,
+      "rival": "BERAZATEGUI",
+      "condicion": "LOCAL",
+      "resultadoPropio": 95,
+      "resultadoRival": 6,
+      "cancha": "VICENTINOS",
+      "clima": "BUENO",
+      "campoDeJuego": "MALO",
+      "referee": "BORUCHOWITZ",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "JORGE SEIB"
+        },
+        {
+          "numero": 3,
+          "jugador": "PABLO FERREIRA"
+        },
+        {
+          "numero": 4,
+          "jugador": "EZEQUIEL BALESTRA"
+        },
+        {
+          "numero": 5,
+          "jugador": "MATIAS AGUERRONDO"
+        },
+        {
+          "numero": 6,
+          "jugador": "FRANCO CORSI"
+        },
+        {
+          "numero": 7,
+          "jugador": "AGUSTIN DOMINGUEZ"
+        },
+        {
+          "numero": 8,
+          "jugador": "IGNACIO TORTORELLA"
+        },
+        {
+          "numero": 9,
+          "jugador": "IVAN IBAÑEZ"
+        },
+        {
+          "numero": 10,
+          "jugador": "NICOLAS DOMINGUEZ"
+        },
+        {
+          "numero": 11,
+          "jugador": "MAXIMILIANO SOLIVELLAS"
+        },
+        {
+          "numero": 12,
+          "jugador": "AGUSTIN MARZIALI"
+        },
+        {
+          "numero": 13,
+          "jugador": "IGNACIO TORRES CIUTAT"
+        },
+        {
+          "numero": 14,
+          "jugador": "JOSE GRUBER"
+        },
+        {
+          "numero": 15,
+          "jugador": "MANUEL ALTAMIRANO"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "EZEQUIEL VAZQUEZ",
+          "entraPor": "RODRIGO GOMEZ"
+        },
+        {
+          "jugador": "MATIAS TRAYNOR",
+          "entraPor": "JORGE SEIB"
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "entraPor": "NICOLAS DOMINGUEZ"
+        },
+        {
+          "jugador": "NICOLAS ALTAMIRANO",
+          "entraPor": "EZEQUIEL BALESTRA"
+        },
+        {
+          "jugador": "JUAN CANTEROS",
+          "entraPor": "JOSE GRUBER"
+        },
+        {
+          "jugador": "JUAN GARGANO",
+          "entraPor": "IVAN IBAÑEZ"
+        },
+        {
+          "jugador": "CHRISTIAN PAREDES",
+          "entraPor": "AGUSTIN DOMINGUEZ"
+        },
+        {
+          "jugador": "GONZALO GREGORIO",
+          "entraPor": "MAXIMILIANO SOLIVELLAS"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "EZEQUIEL BALESTRA",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "MANUEL ALTAMIRANO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "IGNACIO TORTORELLA",
+          "tipo": "TRY",
+          "cantidad": 3
+        },
+        {
+          "jugador": "MATIAS AGUERRONDO",
+          "tipo": "TRY",
+          "cantidad": 2
+        },
+        {
+          "jugador": "IGNACIO TORRES CIUTAT",
+          "tipo": "TRY",
+          "cantidad": 4
+        },
+        {
+          "jugador": "PABLO FERREIRA",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "RODRIGO GOMEZ",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "AGUSTIN DOMINGUEZ",
+          "tipo": "TRY",
+          "cantidad": 2
+        },
+        {
+          "jugador": "AGUSTIN MARZIALI",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "PENAL",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "IVAN IBAÑEZ",
+          "tipo": "CONVERSION",
+          "cantidad": 5
+        }
+      ],
+      "tarjetas": [
+        {
+          "jugador": "AGUSTIN DOMINGUEZ",
+          "tipo": "AMARILLA"
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "tipo": "AMARILLA"
+        }
+      ]
+    },
+    {
+      "fecha": "2015-05-16",
+      "fechaNota": null,
+      "rival": "ATLETICO SAN ANDRES",
+      "condicion": "VISITANTE",
+      "resultadoPropio": 88,
+      "resultadoRival": 11,
+      "cancha": "ASARC",
+      "clima": "BUENO",
+      "campoDeJuego": "MALO",
+      "referee": "PAREDES",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "JORGE SEIB"
+        },
+        {
+          "numero": 3,
+          "jugador": "PABLO FERREIRA"
+        },
+        {
+          "numero": 4,
+          "jugador": "EZEQUIEL BALESTRA"
+        },
+        {
+          "numero": 5,
+          "jugador": "NICOLAS ALTAMIRANO"
+        },
+        {
+          "numero": 6,
+          "jugador": "JOSE GRUBER"
+        },
+        {
+          "numero": 7,
+          "jugador": "AGUSTIN DOMINGUEZ"
+        },
+        {
+          "numero": 8,
+          "jugador": "IGNACIO TORTORELLA"
+        },
+        {
+          "numero": 9,
+          "jugador": "IVAN IBAÑEZ"
+        },
+        {
+          "numero": 10,
+          "jugador": "NICOLAS DOMINGUEZ"
+        },
+        {
+          "numero": 11,
+          "jugador": "MAXIMILIANO SOLIVELLAS"
+        },
+        {
+          "numero": 12,
+          "jugador": "AGUSTIN MARZIALI"
+        },
+        {
+          "numero": 13,
+          "jugador": "IGNACIO TORRES CIUTAT"
+        },
+        {
+          "numero": 14,
+          "jugador": "GONZALO GREGORIO"
+        },
+        {
+          "numero": 15,
+          "jugador": "MANUEL ALTAMIRANO"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "entraPor": "GONZALO GREGORIO"
+        },
+        {
+          "jugador": "MATIAS AGUERRONDO",
+          "entraPor": "JOSE GRUBER"
+        },
+        {
+          "jugador": "JUAN CANTEROS",
+          "entraPor": "MAXIMILIANO SOLIVELLAS"
+        },
+        {
+          "jugador": "EZEQUIEL VAZQUEZ",
+          "entraPor": "RODRIGO GOMEZ"
+        },
+        {
+          "jugador": "JUAN IGNACIO GONZALEZ",
+          "entraPor": "AGUSTIN DOMINGUEZ"
+        },
+        {
+          "jugador": "ALEJO BUSTAMANTE",
+          "entraPor": "NICOLAS DOMINGUEZ"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "IVAN IBAÑEZ",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "NICOLAS DOMINGUEZ",
+          "tipo": "TRY",
+          "cantidad": 2
+        },
+        {
+          "jugador": "IGNACIO TORTORELLA",
+          "tipo": "TRY",
+          "cantidad": 4
+        },
+        {
+          "jugador": "AGUSTIN MARZIALI",
+          "tipo": "TRY",
+          "cantidad": 2
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "MATIAS AGUERRONDO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "EZEQUIEL VAZQUEZ",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "IGNACIO TORRES CIUTAT",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "TRY SCRUM",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "IVAN IBAÑEZ",
+          "tipo": "CONVERSION",
+          "cantidad": 9
+        }
+      ],
+      "tarjetas": []
+    },
+    {
+      "fecha": "2015-05-23",
+      "fechaNota": null,
+      "rival": "PORTEÑO",
+      "condicion": "VISITANTE",
+      "resultadoPropio": 33,
+      "resultadoRival": 3,
+      "cancha": "PORTEÑO",
+      "clima": "BUENO",
+      "campoDeJuego": "MUY BUENO",
+      "referee": "CORNEJO",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "JORGE SEIB"
+        },
+        {
+          "numero": 3,
+          "jugador": "PABLO FERREIRA"
+        },
+        {
+          "numero": 4,
+          "jugador": "EZEQUIEL BALESTRA"
+        },
+        {
+          "numero": 5,
+          "jugador": "NICOLAS ALTAMIRANO"
+        },
+        {
+          "numero": 6,
+          "jugador": "EZEQUIEL VAZQUEZ"
+        },
+        {
+          "numero": 7,
+          "jugador": "AGUSTIN DOMINGUEZ"
+        },
+        {
+          "numero": 8,
+          "jugador": "IGNACIO TORTORELLA"
+        },
+        {
+          "numero": 9,
+          "jugador": "IVAN IBAÑEZ"
+        },
+        {
+          "numero": 10,
+          "jugador": "NICOLAS DOMINGUEZ"
+        },
+        {
+          "numero": 11,
+          "jugador": "MAXIMILIANO SOLIVELLAS"
+        },
+        {
+          "numero": 12,
+          "jugador": "AGUSTIN MARZIALI"
+        },
+        {
+          "numero": 13,
+          "jugador": "IGNACIO TORRES CIUTAT"
+        },
+        {
+          "numero": 14,
+          "jugador": "JOSE GRUBER"
+        },
+        {
+          "numero": 15,
+          "jugador": "MANUEL ALTAMIRANO"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "MATIAS AGUERRONDO",
+          "entraPor": "AGUSTIN DOMINGUEZ"
+        },
+        {
+          "jugador": "MATIAS BOCO",
+          "entraPor": "JORGE SEIB"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "MAXIMILIANO SOLIVELLAS",
+          "tipo": "TRY",
+          "cantidad": 2
+        },
+        {
+          "jugador": "MANUEL ALTAMIRANO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "IGNACIO TORTORELLA",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "IGNACIO TORRES CIUTAT",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "IVAN IBAÑEZ",
+          "tipo": "CONVERSION",
+          "cantidad": 4
+        }
+      ],
+      "tarjetas": [
+        {
+          "jugador": "EZEQUIEL VAZQUEZ",
+          "tipo": "AMARILLA"
+        }
+      ]
+    },
+    {
+      "fecha": "2015-05-30",
+      "fechaNota": null,
+      "rival": "MERCEDES",
+      "condicion": "LOCAL",
+      "resultadoPropio": 32,
+      "resultadoRival": 6,
+      "cancha": "VICENTINOS",
+      "clima": "NUBLADO",
+      "campoDeJuego": "BUENO",
+      "referee": "ACHAVAL",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "MATIAS BOCO"
+        },
+        {
+          "numero": 3,
+          "jugador": "PABLO FERREIRA"
+        },
+        {
+          "numero": 4,
+          "jugador": "EZEQUIEL BALESTRA"
+        },
+        {
+          "numero": 5,
+          "jugador": "NICOLAS ALTAMIRANO"
+        },
+        {
+          "numero": 6,
+          "jugador": "EZEQUIEL VAZQUEZ"
+        },
+        {
+          "numero": 7,
+          "jugador": "AGUSTIN DOMINGUEZ"
+        },
+        {
+          "numero": 8,
+          "jugador": "IGNACIO TORTORELLA"
+        },
+        {
+          "numero": 9,
+          "jugador": "IVAN IBAÑEZ"
+        },
+        {
+          "numero": 10,
+          "jugador": "NICOLAS DOMINGUEZ"
+        },
+        {
+          "numero": 11,
+          "jugador": "MAXIMILIANO SOLIVELLAS"
+        },
+        {
+          "numero": 12,
+          "jugador": "AGUSTIN MARZIALI"
+        },
+        {
+          "numero": 13,
+          "jugador": "IGNACIO TORRES CIUTAT"
+        },
+        {
+          "numero": 14,
+          "jugador": "JOSE GRUBER"
+        },
+        {
+          "numero": 15,
+          "jugador": "MANUEL ALTAMIRANO"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "MATIAS AGUERRONDO",
+          "entraPor": "IGNACIO TORTORELLA"
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "entraPor": "NICOLAS DOMINGUEZ"
+        },
+        {
+          "jugador": "JUAN CANTEROS",
+          "entraPor": "MAXIMILIANO SOLIVELLAS"
+        },
+        {
+          "jugador": "JUAN IGNACIO GONZALEZ",
+          "entraPor": "MATIAS BOCO"
+        },
+        {
+          "jugador": "TOMAS MURACA",
+          "entraPor": "AGUSTIN MARZIALI"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "IGNACIO TORTORELLA",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "MANUEL ALTAMIRANO",
+          "tipo": "TRY",
+          "cantidad": 2
+        },
+        {
+          "jugador": "IVAN IBAÑEZ",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "MAXIMILIANO SOLIVELLAS",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "IVAN IBAÑEZ",
+          "tipo": "PENAL",
+          "cantidad": 1
+        },
+        {
+          "jugador": "IVAN IBAÑEZ",
+          "tipo": "CONVERSION",
+          "cantidad": 2
+        }
+      ],
+      "tarjetas": [
+        {
+          "jugador": "AGUSTIN DOMINGUEZ",
+          "tipo": "AMARILLA"
+        }
+      ]
+    },
+    {
+      "fecha": "2015-06-06",
+      "fechaNota": null,
+      "rival": "LA SALLE",
+      "condicion": "LOCAL",
+      "resultadoPropio": 11,
+      "resultadoRival": 13,
+      "cancha": "VICENTINOS",
+      "clima": "NUBLADO",
+      "campoDeJuego": "BUENO",
+      "referee": "BUSTOS",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "MATIAS BOCO"
+        },
+        {
+          "numero": 3,
+          "jugador": "PABLO FERREIRA"
+        },
+        {
+          "numero": 4,
+          "jugador": "EZEQUIEL BALESTRA"
+        },
+        {
+          "numero": 5,
+          "jugador": "NICOLAS ALTAMIRANO"
+        },
+        {
+          "numero": 6,
+          "jugador": "EZEQUIEL VAZQUEZ"
+        },
+        {
+          "numero": 7,
+          "jugador": "AGUSTIN DOMINGUEZ"
+        },
+        {
+          "numero": 8,
+          "jugador": "IGNACIO TORTORELLA"
+        },
+        {
+          "numero": 9,
+          "jugador": "IVAN IBAÑEZ"
+        },
+        {
+          "numero": 10,
+          "jugador": "NICOLAS DOMINGUEZ"
+        },
+        {
+          "numero": 11,
+          "jugador": "MAXIMILIANO SOLIVELLAS"
+        },
+        {
+          "numero": 12,
+          "jugador": "AGUSTIN MARZIALI"
+        },
+        {
+          "numero": 13,
+          "jugador": "IGNACIO TORRES CIUTAT"
+        },
+        {
+          "numero": 14,
+          "jugador": "JOSE GRUBER"
+        },
+        {
+          "numero": 15,
+          "jugador": "MANUEL ALTAMIRANO"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "entraPor": "NICOLAS DOMINGUEZ"
+        },
+        {
+          "jugador": "MATIAS AGUERRONDO",
+          "entraPor": "EZEQUIEL VAZQUEZ"
+        },
+        {
+          "jugador": "GONZALO GREGORIO",
+          "entraPor": "MAXIMILIANO SOLIVELLAS"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "IVAN IBAÑEZ",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "IVAN IBAÑEZ",
+          "tipo": "PENAL",
+          "cantidad": 2
+        }
+      ],
+      "tarjetas": [
+        {
+          "jugador": "NICOLAS ALTAMIRANO",
+          "tipo": "AMARILLA"
+        },
+        {
+          "jugador": "PABLO FERREIRA",
+          "tipo": "AMARILLA"
+        },
+        {
+          "jugador": "RODRIGO GOMEZ",
+          "tipo": "AMARILLA"
+        }
+      ]
+    },
+    {
+      "fecha": "2015-06-13",
+      "fechaNota": null,
+      "rival": "ATLETICO CHASCOMUS",
+      "condicion": "VISITANTE",
+      "resultadoPropio": 13,
+      "resultadoRival": 20,
+      "cancha": "CHASCOMUS",
+      "clima": "BUENO",
+      "campoDeJuego": "MUY BUENO",
+      "referee": "ITURRALDE",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "MATIAS BOCO"
+        },
+        {
+          "numero": 3,
+          "jugador": "PABLO FERREIRA"
+        },
+        {
+          "numero": 4,
+          "jugador": "EZEQUIEL BALESTRA"
+        },
+        {
+          "numero": 5,
+          "jugador": "NICOLAS ALTAMIRANO"
+        },
+        {
+          "numero": 6,
+          "jugador": "EZEQUIEL VAZQUEZ"
+        },
+        {
+          "numero": 7,
+          "jugador": "IGNACIO TORTORELLA"
+        },
+        {
+          "numero": 8,
+          "jugador": "AGUSTIN DOMINGUEZ"
+        },
+        {
+          "numero": 9,
+          "jugador": "IVAN IBAÑEZ"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN PEDRO OCCHIUZZI"
+        },
+        {
+          "numero": 11,
+          "jugador": "MAXIMILIANO SOLIVELLAS"
+        },
+        {
+          "numero": 12,
+          "jugador": "AGUSTIN MARZIALI"
+        },
+        {
+          "numero": 13,
+          "jugador": "NICOLAS DOMINGUEZ"
+        },
+        {
+          "numero": 14,
+          "jugador": "JOSE GRUBER"
+        },
+        {
+          "numero": 15,
+          "jugador": "MANUEL ALTAMIRANO"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "JUAN CANTEROS",
+          "entraPor": "MANUEL ALTAMIRANO"
+        },
+        {
+          "jugador": "GONZALO GREGORIO",
+          "entraPor": "JOSE GRUBER"
+        },
+        {
+          "jugador": "TOMAS MURACA",
+          "entraPor": "MAXIMILIANO SOLIVELLAS"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "TRY PENAL",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "IVAN IBAÑEZ",
+          "tipo": "CONVERSION",
+          "cantidad": 1
+        },
+        {
+          "jugador": "IVAN IBAÑEZ",
+          "tipo": "PENAL",
+          "cantidad": 2
+        }
+      ],
+      "tarjetas": []
+    },
+    {
+      "fecha": "2015-06-27",
+      "fechaNota": null,
+      "rival": "SAN MARCOS",
+      "condicion": "LOCAL",
+      "resultadoPropio": 32,
+      "resultadoRival": 20,
+      "cancha": "VICENTINOS",
+      "clima": "LLUVIOSO",
+      "campoDeJuego": "BUENO",
+      "referee": "DEISEL",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "MATIAS BOCO"
+        },
+        {
+          "numero": 3,
+          "jugador": "PABLO FERREIRA"
+        },
+        {
+          "numero": 4,
+          "jugador": "EZEQUIEL BALESTRA"
+        },
+        {
+          "numero": 5,
+          "jugador": "NICOLAS ALTAMIRANO"
+        },
+        {
+          "numero": 6,
+          "jugador": "EZEQUIEL VAZQUEZ"
+        },
+        {
+          "numero": 7,
+          "jugador": "IGNACIO TORTORELLA"
+        },
+        {
+          "numero": 8,
+          "jugador": "AGUSTIN DOMINGUEZ"
+        },
+        {
+          "numero": 9,
+          "jugador": "IVAN IBAÑEZ"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN PEDRO OCCHIUZZI"
+        },
+        {
+          "numero": 11,
+          "jugador": "MAXIMILIANO SOLIVELLAS"
+        },
+        {
+          "numero": 12,
+          "jugador": "AGUSTIN MARZIALI"
+        },
+        {
+          "numero": 13,
+          "jugador": "NICOLAS DOMINGUEZ"
+        },
+        {
+          "numero": 14,
+          "jugador": "JOSE GRUBER"
+        },
+        {
+          "numero": 15,
+          "jugador": "GONZALO GREGORIO"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "MATIAS AGUERRONDO",
+          "entraPor": "EZEQUIEL VAZQUEZ"
+        },
+        {
+          "jugador": "SANTIAGO DIAZ",
+          "entraPor": "EZEQUIEL BALESTRA"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "AGUSTIN MARZIALI",
+          "tipo": "TRY",
+          "cantidad": 2
+        },
+        {
+          "jugador": "IGNACIO TORTORELLA",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "NICOLAS ALTAMIRANO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "IVAN IBAÑEZ",
+          "tipo": "CONVERSION",
+          "cantidad": 3
+        },
+        {
+          "jugador": "IVAN IBAÑEZ",
+          "tipo": "PENAL",
+          "cantidad": 2
+        }
+      ],
+      "tarjetas": [
+        {
+          "jugador": "IGNACIO TORTORELLA",
+          "tipo": "AMARILLA"
+        },
+        {
+          "jugador": "AGUSTIN DOMINGUEZ",
+          "tipo": "AMARILLA"
+        },
+        {
+          "jugador": "NICOLAS ALTAMIRANO",
+          "tipo": "AMARILLA"
+        },
+        {
+          "jugador": "PABLO FERREIRA",
+          "tipo": "AMARILLA"
+        }
+      ]
+    },
+    {
+      "fecha": "2015-07-04",
+      "fechaNota": null,
+      "rival": "CAMPANA",
+      "condicion": "VISITANTE",
+      "resultadoPropio": 40,
+      "resultadoRival": 6,
+      "cancha": "CAMPANA",
+      "clima": "BUENO",
+      "campoDeJuego": "BUENO",
+      "referee": "PERES",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "MATIAS BOCO"
+        },
+        {
+          "numero": 3,
+          "jugador": "PABLO FERREIRA"
+        },
+        {
+          "numero": 4,
+          "jugador": "EZEQUIEL BALESTRA"
+        },
+        {
+          "numero": 5,
+          "jugador": "NICOLAS ALTAMIRANO"
+        },
+        {
+          "numero": 6,
+          "jugador": "EZEQUIEL VAZQUEZ"
+        },
+        {
+          "numero": 7,
+          "jugador": "FRANCO CORSI"
+        },
+        {
+          "numero": 8,
+          "jugador": "AGUSTIN DOMINGUEZ"
+        },
+        {
+          "numero": 9,
+          "jugador": "IVAN IBAÑEZ"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN PEDRO OCCHIUZZI"
+        },
+        {
+          "numero": 11,
+          "jugador": "MAXIMILIANO SOLIVELLAS"
+        },
+        {
+          "numero": 12,
+          "jugador": "AGUSTIN MARZIALI"
+        },
+        {
+          "numero": 13,
+          "jugador": "NICOLAS DOMINGUEZ"
+        },
+        {
+          "numero": 14,
+          "jugador": "JOSE GRUBER"
+        },
+        {
+          "numero": 15,
+          "jugador": "GONZALO GREGORIO"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "SANTIAGO DIAZ",
+          "entraPor": "EZEQUIEL BALESTRA"
+        },
+        {
+          "jugador": "MATIAS AGUERRONDO",
+          "entraPor": "FRANCO CORSI"
+        },
+        {
+          "jugador": "JUAN CANTEROS",
+          "entraPor": "JOSE GRUBER"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "NICOLAS ALTAMIRANO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "JOSE GRUBER",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "PABLO FERREIRA",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "IVAN IBAÑEZ",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "TRY PENAL",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "IVAN IBAÑEZ",
+          "tipo": "CONVERSION",
+          "cantidad": 5
+        }
+      ],
+      "tarjetas": []
+    },
+    {
+      "fecha": "2015-07-11",
+      "fechaNota": null,
+      "rival": "LAS CAÑAS",
+      "condicion": "LOCAL",
+      "resultadoPropio": 56,
+      "resultadoRival": 17,
+      "cancha": "VICENTINOS",
+      "clima": "NUBLADO",
+      "campoDeJuego": "BUENO",
+      "referee": "BAECK",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "MATIAS BOCO"
+        },
+        {
+          "numero": 3,
+          "jugador": "PABLO FERREIRA"
+        },
+        {
+          "numero": 4,
+          "jugador": "EZEQUIEL BALESTRA"
+        },
+        {
+          "numero": 5,
+          "jugador": "NICOLAS ALTAMIRANO"
+        },
+        {
+          "numero": 6,
+          "jugador": "EZEQUIEL VAZQUEZ"
+        },
+        {
+          "numero": 7,
+          "jugador": "IGNACIO TORTORELLA"
+        },
+        {
+          "numero": 8,
+          "jugador": "AGUSTIN DOMINGUEZ"
+        },
+        {
+          "numero": 9,
+          "jugador": "IVAN IBAÑEZ"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN PEDRO OCCHIUZZI"
+        },
+        {
+          "numero": 11,
+          "jugador": "MAXIMILIANO SOLIVELLAS"
+        },
+        {
+          "numero": 12,
+          "jugador": "AGUSTIN MARZIALI"
+        },
+        {
+          "numero": 13,
+          "jugador": "NICOLAS DOMINGUEZ"
+        },
+        {
+          "numero": 14,
+          "jugador": "JOSE GRUBER"
+        },
+        {
+          "numero": 15,
+          "jugador": "GONZALO GREGORIO"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "MATIAS TRAYNOR",
+          "entraPor": "RODRIGO GOMEZ"
+        },
+        {
+          "jugador": "SANTIAGO DIAZ",
+          "entraPor": "EZEQUIEL BALESTRA"
+        },
+        {
+          "jugador": "FRANCO CORSI",
+          "entraPor": "EZEQUIEL VAZQUEZ"
+        },
+        {
+          "jugador": "TOMAS MURACA",
+          "entraPor": "JUAN PEDRO OCCHIUZZI"
+        },
+        {
+          "jugador": "JORGE SEIB",
+          "entraPor": "MATIAS BOCO"
+        },
+        {
+          "jugador": "ALEJO BUSTAMANTE",
+          "entraPor": "AGUSTIN DOMINGUEZ"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "TRY PENAL",
+          "tipo": "TRY",
+          "cantidad": 2
+        },
+        {
+          "jugador": "IVAN IBAÑEZ",
+          "tipo": "TRY",
+          "cantidad": 2
+        },
+        {
+          "jugador": "AGUSTIN MARZIALI",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "EZEQUIEL VAZQUEZ",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "IGNACIO TORTORELLA",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "JOSE GRUBER",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "IVAN IBAÑEZ",
+          "tipo": "CONVERSION",
+          "cantidad": 5
+        },
+        {
+          "jugador": "IVAN IBAÑEZ",
+          "tipo": "PENAL",
+          "cantidad": 2
+        }
+      ],
+      "tarjetas": [
+        {
+          "jugador": "GONZALO GREGORIO",
+          "tipo": "AMARILLA"
+        }
+      ]
+    },
+    {
+      "fecha": "2015-08-08",
+      "fechaNota": null,
+      "rival": "EL RETIRO",
+      "condicion": "VISITANTE",
+      "resultadoPropio": 15,
+      "resultadoRival": 12,
+      "cancha": "RETIRO",
+      "clima": "NUBLADO",
+      "campoDeJuego": "BARROSO",
+      "referee": "REINOSO",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "MATIAS BOCO"
+        },
+        {
+          "numero": 3,
+          "jugador": "PABLO FERREIRA"
+        },
+        {
+          "numero": 4,
+          "jugador": "MATIAS AGUERRONDO"
+        },
+        {
+          "numero": 5,
+          "jugador": "NICOLAS ALTAMIRANO"
+        },
+        {
+          "numero": 6,
+          "jugador": "EZEQUIEL VAZQUEZ"
+        },
+        {
+          "numero": 7,
+          "jugador": "FRANCO CORSI"
+        },
+        {
+          "numero": 8,
+          "jugador": "IGNACIO TORTORELLA"
+        },
+        {
+          "numero": 9,
+          "jugador": "IVAN IBAÑEZ"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN PEDRO OCCHIUZZI"
+        },
+        {
+          "numero": 11,
+          "jugador": "MAXIMILIANO SOLIVELLAS"
+        },
+        {
+          "numero": 12,
+          "jugador": "AGUSTIN MARZIALI"
+        },
+        {
+          "numero": 13,
+          "jugador": "NICOLAS DOMINGUEZ"
+        },
+        {
+          "numero": 14,
+          "jugador": "JOSE GRUBER"
+        },
+        {
+          "numero": 15,
+          "jugador": "MANUEL ALTAMIRANO"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "MARTIN APOLO",
+          "entraPor": "FRANCO CORSI"
+        },
+        {
+          "jugador": "GONZALO GREGORIO",
+          "entraPor": "JOSE GRUBER"
+        },
+        {
+          "jugador": "TOMAS MURACA",
+          "entraPor": "MAXIMILIANO SOLIVELLAS"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "MANUEL ALTAMIRANO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "IGNACIO TORTORELLA",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "IVAN IBAÑEZ",
+          "tipo": "CONVERSION",
+          "cantidad": 1
+        },
+        {
+          "jugador": "IVAN IBAÑEZ",
+          "tipo": "PENAL",
+          "cantidad": 1
+        }
+      ],
+      "tarjetas": [
+        {
+          "jugador": "MANUEL ALTAMIRANO",
+          "tipo": "AMARILLA"
+        }
+      ]
+    },
+    {
+      "fecha": "2015-08-16",
+      "fechaNota": null,
+      "rival": "VIRREYES",
+      "condicion": "LOCAL",
+      "resultadoPropio": 49,
+      "resultadoRival": 14,
+      "cancha": "VICENTINOS",
+      "clima": "BUENO",
+      "campoDeJuego": "REGULAR",
+      "referee": "BORUCHOWITZ",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "MATIAS BOCO"
+        },
+        {
+          "numero": 3,
+          "jugador": "PABLO FERREIRA"
+        },
+        {
+          "numero": 4,
+          "jugador": "MATIAS AGUERRONDO"
+        },
+        {
+          "numero": 5,
+          "jugador": "NICOLAS ALTAMIRANO"
+        },
+        {
+          "numero": 6,
+          "jugador": "EZEQUIEL VAZQUEZ"
+        },
+        {
+          "numero": 7,
+          "jugador": "FRANCO CORSI"
+        },
+        {
+          "numero": 8,
+          "jugador": "IGNACIO TORTORELLA"
+        },
+        {
+          "numero": 9,
+          "jugador": "IVAN IBAÑEZ"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN PEDRO OCCHIUZZI"
+        },
+        {
+          "numero": 11,
+          "jugador": "GONZALO GREGORIO"
+        },
+        {
+          "numero": 12,
+          "jugador": "AGUSTIN MARZIALI"
+        },
+        {
+          "numero": 13,
+          "jugador": "NICOLAS DOMINGUEZ"
+        },
+        {
+          "numero": 14,
+          "jugador": "JOSE GRUBER"
+        },
+        {
+          "numero": 15,
+          "jugador": "MANUEL ALTAMIRANO"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "MATIAS TRAYNOR",
+          "entraPor": "RODRIGO GOMEZ"
+        },
+        {
+          "jugador": "JUAN JOSE MONEA",
+          "entraPor": "PABLO FERREIRA"
+        },
+        {
+          "jugador": "MARTIN APOLO",
+          "entraPor": "FRANCO CORSI"
+        },
+        {
+          "jugador": "RODRIGO RIOS",
+          "entraPor": "EZEQUIEL VAZQUEZ"
+        },
+        {
+          "jugador": "TOMAS MURACA",
+          "entraPor": "AGUSTIN MARZIALI"
+        },
+        {
+          "jugador": "MAXIMILIANO SOLIVELLAS",
+          "entraPor": "GONZALO GREGORIO"
+        },
+        {
+          "jugador": "GONZALO MARTINEZ",
+          "entraPor": "IVAN IBAÑEZ"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "AGUSTIN MARZIALI",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "NICOLAS DOMINGUEZ",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "TRY PENAL",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "MATIAS BOCO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "GONZALO GREGORIO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "tipo": "TRY",
+          "cantidad": 2
+        },
+        {
+          "jugador": "IVAN IBAÑEZ",
+          "tipo": "CONVERSION",
+          "cantidad": 7
+        }
+      ],
+      "tarjetas": []
+    },
+    {
+      "fecha": "2015-08-29",
+      "fechaNota": null,
+      "rival": "BEROMAMA",
+      "condicion": "VISITANTE",
+      "resultadoPropio": 47,
+      "resultadoRival": 22,
+      "cancha": "BEROMAMA",
+      "clima": "BUENO",
+      "campoDeJuego": "BUENO",
+      "referee": "GERAGHTY",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "JORGE SEIB"
+        },
+        {
+          "numero": 3,
+          "jugador": "PABLO FERREIRA"
+        },
+        {
+          "numero": 4,
+          "jugador": "MATIAS AGUERRONDO"
+        },
+        {
+          "numero": 5,
+          "jugador": "NICOLAS ALTAMIRANO"
+        },
+        {
+          "numero": 6,
+          "jugador": "EZEQUIEL VAZQUEZ"
+        },
+        {
+          "numero": 7,
+          "jugador": "FRANCO CORSI"
+        },
+        {
+          "numero": 8,
+          "jugador": "IGNACIO TORTORELLA"
+        },
+        {
+          "numero": 9,
+          "jugador": "IVAN IBAÑEZ"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN PEDRO OCCHIUZZI"
+        },
+        {
+          "numero": 11,
+          "jugador": "GONZALO GREGORIO"
+        },
+        {
+          "numero": 12,
+          "jugador": "AGUSTIN MARZIALI"
+        },
+        {
+          "numero": 13,
+          "jugador": "NICOLAS DOMINGUEZ"
+        },
+        {
+          "numero": 14,
+          "jugador": "JOSE GRUBER"
+        },
+        {
+          "numero": 15,
+          "jugador": "MANUEL ALTAMIRANO"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "MARTIN APOLO",
+          "entraPor": "FRANCO CORSI"
+        },
+        {
+          "jugador": "ANDRES BIRELLO",
+          "entraPor": "EZEQUIEL VAZQUEZ"
+        },
+        {
+          "jugador": "HUGO PEDEMONTE",
+          "entraPor": "JORGE SEIB"
+        },
+        {
+          "jugador": "TOMAS MURACA",
+          "entraPor": "JOSE GRUBER"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "IVAN IBAÑEZ",
+          "tipo": "TRY",
+          "cantidad": 2
+        },
+        {
+          "jugador": "MATIAS AGUERRONDO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "GONZALO GREGORIO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "MANUEL ALTAMIRANO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "EZEQUIEL VAZQUEZ",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "TOMAS MURACA",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "IVAN IBAÑEZ",
+          "tipo": "CONVERSION",
+          "cantidad": 6
+        }
+      ],
+      "tarjetas": [
+        {
+          "jugador": "IGNACIO TORTORELLA",
+          "tipo": "AMARILLA"
+        }
+      ]
+    },
+    {
+      "fecha": "2015-09-05",
+      "fechaNota": null,
+      "rival": "TIGRE",
+      "condicion": "LOCAL",
+      "resultadoPropio": 39,
+      "resultadoRival": 20,
+      "cancha": "VICENTINOS",
+      "clima": "BUENO",
+      "campoDeJuego": "BUENO",
+      "referee": "BARBERO",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "MATIAS BOCO"
+        },
+        {
+          "numero": 3,
+          "jugador": "PABLO FERREIRA"
+        },
+        {
+          "numero": 4,
+          "jugador": "MATIAS AGUERRONDO"
+        },
+        {
+          "numero": 5,
+          "jugador": "NICOLAS ALTAMIRANO"
+        },
+        {
+          "numero": 6,
+          "jugador": "EZEQUIEL VAZQUEZ"
+        },
+        {
+          "numero": 7,
+          "jugador": "FRANCO CORSI"
+        },
+        {
+          "numero": 8,
+          "jugador": "IGNACIO TORTORELLA"
+        },
+        {
+          "numero": 9,
+          "jugador": "IVAN IBAÑEZ"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN PEDRO OCCHIUZZI"
+        },
+        {
+          "numero": 11,
+          "jugador": "GONZALO GREGORIO"
+        },
+        {
+          "numero": 12,
+          "jugador": "AGUSTIN MARZIALI"
+        },
+        {
+          "numero": 13,
+          "jugador": "NICOLAS DOMINGUEZ"
+        },
+        {
+          "numero": 14,
+          "jugador": "JOSE GRUBER"
+        },
+        {
+          "numero": 15,
+          "jugador": "MANUEL ALTAMIRANO"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "MARTIN APOLO",
+          "entraPor": "NICOLAS ALTAMIRANO"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "IGNACIO TORTORELLA",
+          "tipo": "TRY",
+          "cantidad": 2
+        },
+        {
+          "jugador": "MANUEL ALTAMIRANO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "JOSE GRUBER",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "MATIAS AGUERRONDO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "IVAN IBAÑEZ",
+          "tipo": "CONVERSION",
+          "cantidad": 4
+        },
+        {
+          "jugador": "IVAN IBAÑEZ",
+          "tipo": "PENAL",
+          "cantidad": 2
+        }
+      ],
+      "tarjetas": [
+        {
+          "jugador": "MATIAS BOCO",
+          "tipo": "AMARILLA"
+        },
+        {
+          "jugador": "MATIAS AGUERRONDO",
+          "tipo": "AMARILLA"
+        }
+      ]
+    },
+    {
+      "fecha": "2015-09-12",
+      "fechaNota": null,
+      "rival": "ZARATE",
+      "condicion": "VISITANTE",
+      "resultadoPropio": 69,
+      "resultadoRival": 27,
+      "cancha": "ZARATE",
+      "clima": "BUENO",
+      "campoDeJuego": "BUENO",
+      "referee": "ALBERRO",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "MATIAS BOCO"
+        },
+        {
+          "numero": 3,
+          "jugador": "PABLO FERREIRA"
+        },
+        {
+          "numero": 4,
+          "jugador": "MATIAS AGUERRONDO"
+        },
+        {
+          "numero": 5,
+          "jugador": "NICOLAS ALTAMIRANO"
+        },
+        {
+          "numero": 6,
+          "jugador": "EZEQUIEL VAZQUEZ"
+        },
+        {
+          "numero": 7,
+          "jugador": "FRANCO CORSI"
+        },
+        {
+          "numero": 8,
+          "jugador": "IGNACIO TORTORELLA"
+        },
+        {
+          "numero": 9,
+          "jugador": "IVAN IBAÑEZ"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN PEDRO OCCHIUZZI"
+        },
+        {
+          "numero": 11,
+          "jugador": "GONZALO GREGORIO"
+        },
+        {
+          "numero": 12,
+          "jugador": "AGUSTIN MARZIALI"
+        },
+        {
+          "numero": 13,
+          "jugador": "NICOLAS DOMINGUEZ"
+        },
+        {
+          "numero": 14,
+          "jugador": "JOSE GRUBER"
+        },
+        {
+          "numero": 15,
+          "jugador": "MANUEL ALTAMIRANO"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "MATIAS TRAYNOR",
+          "entraPor": "RODRIGO GOMEZ"
+        },
+        {
+          "jugador": "JORGE SEIB",
+          "entraPor": "MATIAS BOCO"
+        },
+        {
+          "jugador": "JUAN JOSE MONEA",
+          "entraPor": "PABLO FERREIRA"
+        },
+        {
+          "jugador": "MARTIN APOLO",
+          "entraPor": "FRANCO CORSI"
+        },
+        {
+          "jugador": "RODRIGO RIOS",
+          "entraPor": "NICOLAS ALTAMIRANO"
+        },
+        {
+          "jugador": "ALEJO BUSTAMANTE",
+          "entraPor": "EZEQUIEL VAZQUEZ"
+        },
+        {
+          "jugador": "FEDERICO PITTALA",
+          "entraPor": "IVAN IBAÑEZ"
+        },
+        {
+          "jugador": "TOMAS MURACA",
+          "entraPor": "MANUEL ALTAMIRANO"
+        },
+        {
+          "jugador": "GONZALO MARTINEZ",
+          "entraPor": "JUAN PEDRO OCCHIUZZI"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "TRY PENAL",
+          "tipo": "TRY",
+          "cantidad": 3
+        },
+        {
+          "jugador": "GONZALO GREGORIO",
+          "tipo": "TRY",
+          "cantidad": 3
+        },
+        {
+          "jugador": "MATIAS AGUERRONDO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "PABLO FERREIRA",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "JOSE GRUBER",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "AGUSTIN MARZIALI",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "FRANCO CORSI",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "IVAN IBAÑEZ",
+          "tipo": "CONVERSION",
+          "cantidad": 5
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "tipo": "CONVERSION",
+          "cantidad": 1
+        },
+        {
+          "jugador": "GONZALO MARTINEZ",
+          "tipo": "CONVERSION",
+          "cantidad": 1
+        }
+      ],
+      "tarjetas": []
+    },
+    {
+      "fecha": "2015-09-19",
+      "fechaNota": null,
+      "rival": "SAN MIGUEL",
+      "condicion": "LOCAL",
+      "resultadoPropio": 39,
+      "resultadoRival": 13,
+      "cancha": "VICENTINOS",
+      "clima": "BUENO",
+      "campoDeJuego": "BUENO",
+      "referee": "REINOSO",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "MATIAS BOCO"
+        },
+        {
+          "numero": 3,
+          "jugador": "PABLO FERREIRA"
+        },
+        {
+          "numero": 4,
+          "jugador": "MATIAS AGUERRONDO"
+        },
+        {
+          "numero": 5,
+          "jugador": "NICOLAS ALTAMIRANO"
+        },
+        {
+          "numero": 6,
+          "jugador": "EZEQUIEL VAZQUEZ"
+        },
+        {
+          "numero": 7,
+          "jugador": "FRANCO CORSI"
+        },
+        {
+          "numero": 8,
+          "jugador": "IGNACIO TORTORELLA"
+        },
+        {
+          "numero": 9,
+          "jugador": "IVAN IBAÑEZ"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN PEDRO OCCHIUZZI"
+        },
+        {
+          "numero": 11,
+          "jugador": "MAXIMILIANO SOLIVELLAS"
+        },
+        {
+          "numero": 12,
+          "jugador": "AGUSTIN MARZIALI"
+        },
+        {
+          "numero": 13,
+          "jugador": "NICOLAS DOMINGUEZ"
+        },
+        {
+          "numero": 14,
+          "jugador": "JOSE GRUBER"
+        },
+        {
+          "numero": 15,
+          "jugador": "GONZALO GREGORIO"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "ALEJO BUSTAMANTE",
+          "entraPor": "RODRIGO GOMEZ"
+        },
+        {
+          "jugador": "HUGO PEDEMONTE",
+          "entraPor": "MATIAS BOCO"
+        },
+        {
+          "jugador": "ANDRES BIRELLO",
+          "entraPor": "FRANCO CORSI"
+        },
+        {
+          "jugador": "PATRICIO TRAYNOR",
+          "entraPor": "JOSE GRUBER"
+        },
+        {
+          "jugador": "FEDERICO PITTALA",
+          "entraPor": "IVAN IBAÑEZ"
+        },
+        {
+          "jugador": "TOMAS MURACA",
+          "entraPor": "GONZALO GREGORIO"
+        },
+        {
+          "jugador": "MARTIN APOLO",
+          "entraPor": "IGNACIO TORTORELLA"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "IGNACIO TORTORELLA",
+          "tipo": "TRY",
+          "cantidad": 2
+        },
+        {
+          "jugador": "GONZALO GREGORIO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "MATIAS BOCO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "PABLO FERREIRA",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "NICOLAS DOMINGUEZ",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "FRANCO CORSI",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "IVAN IBAÑEZ",
+          "tipo": "CONVERSION",
+          "cantidad": 2
+        }
+      ],
+      "tarjetas": [
+        {
+          "jugador": "ANDRES BIRELLO",
+          "tipo": "AMARILLA"
+        }
+      ]
+    },
+    {
+      "fecha": "2015-09-26",
+      "fechaNota": null,
+      "rival": "TIRO FEDERAL SAN PEDRO",
+      "condicion": "VISITANTE",
+      "resultadoPropio": 35,
+      "resultadoRival": 19,
+      "cancha": "SAN PEDRO",
+      "clima": "BUENO",
+      "campoDeJuego": "REGULAR",
+      "referee": "SALA",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "MATIAS BOCO"
+        },
+        {
+          "numero": 3,
+          "jugador": "PABLO FERREIRA"
+        },
+        {
+          "numero": 4,
+          "jugador": "MATIAS AGUERRONDO"
+        },
+        {
+          "numero": 5,
+          "jugador": "NICOLAS ALTAMIRANO"
+        },
+        {
+          "numero": 6,
+          "jugador": "EZEQUIEL VAZQUEZ"
+        },
+        {
+          "numero": 7,
+          "jugador": "FRANCO CORSI"
+        },
+        {
+          "numero": 8,
+          "jugador": "IGNACIO TORTORELLA"
+        },
+        {
+          "numero": 9,
+          "jugador": "IVAN IBAÑEZ"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN PEDRO OCCHIUZZI"
+        },
+        {
+          "numero": 11,
+          "jugador": "MAXIMILIANO SOLIVELLAS"
+        },
+        {
+          "numero": 12,
+          "jugador": "AGUSTIN MARZIALI"
+        },
+        {
+          "numero": 13,
+          "jugador": "NICOLAS DOMINGUEZ"
+        },
+        {
+          "numero": 14,
+          "jugador": "JOSE GRUBER"
+        },
+        {
+          "numero": 15,
+          "jugador": "GONZALO GREGORIO"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "ALEJO BUSTAMANTE",
+          "entraPor": "RODRIGO GOMEZ"
+        },
+        {
+          "jugador": "HUGO PEDEMONTE",
+          "entraPor": "MATIAS BOCO"
+        },
+        {
+          "jugador": "ANDRES BIRELLO",
+          "entraPor": "FRANCO CORSI"
+        },
+        {
+          "jugador": "PATRICIO TRAYNOR",
+          "entraPor": "JOSE GRUBER"
+        },
+        {
+          "jugador": "FEDERICO PITTALA",
+          "entraPor": "IVAN IBAÑEZ"
+        },
+        {
+          "jugador": "TOMAS MURACA",
+          "entraPor": "GONZALO GREGORIO"
+        },
+        {
+          "jugador": "MARTIN APOLO",
+          "entraPor": "IGNACIO TORTORELLA"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "TRY PENAL",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "GONZALO GREGORIO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "AGUSTIN MARZIALI",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "PABLO FERREIRA",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "RODRIGO GOMEZ",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "IVAN IBAÑEZ",
+          "tipo": "PENAL",
+          "cantidad": 2
+        },
+        {
+          "jugador": "IVAN IBAÑEZ",
+          "tipo": "CONVERSION",
+          "cantidad": 2
+        }
+      ],
+      "tarjetas": [
+        {
+          "jugador": "RODRIGO GOMEZ",
+          "tipo": "AMARILLA"
+        }
+      ]
+    },
+    {
+      "fecha": "2015-10-11",
+      "fechaNota": null,
+      "rival": "VICENTE LOPEZ",
+      "condicion": "LOCAL",
+      "resultadoPropio": 52,
+      "resultadoRival": 19,
+      "cancha": "VICENTINOS",
+      "clima": "NUBLADO",
+      "campoDeJuego": "BUENO",
+      "referee": "MONTOVIA",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "MATIAS BOCO"
+        },
+        {
+          "numero": 2,
+          "jugador": "HUGO PEDEMONTE"
+        },
+        {
+          "numero": 3,
+          "jugador": "PABLO FERREIRA"
+        },
+        {
+          "numero": 4,
+          "jugador": "MATIAS AGUERRONDO"
+        },
+        {
+          "numero": 5,
+          "jugador": "NICOLAS ALTAMIRANO"
+        },
+        {
+          "numero": 6,
+          "jugador": "EZEQUIEL VAZQUEZ"
+        },
+        {
+          "numero": 7,
+          "jugador": "AGUSTIN DOMINGUEZ"
+        },
+        {
+          "numero": 8,
+          "jugador": "IGNACIO TORTORELLA"
+        },
+        {
+          "numero": 9,
+          "jugador": "IVAN IBAÑEZ"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN PEDRO OCCHIUZZI"
+        },
+        {
+          "numero": 11,
+          "jugador": "MANUEL ALTAMIRANO"
+        },
+        {
+          "numero": 12,
+          "jugador": "AGUSTIN MARZIALI"
+        },
+        {
+          "numero": 13,
+          "jugador": "NICOLAS DOMINGUEZ"
+        },
+        {
+          "numero": 14,
+          "jugador": "JOSE GRUBER"
+        },
+        {
+          "numero": 15,
+          "jugador": "GONZALO GREGORIO"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "ALEJO BUSTAMANTE",
+          "entraPor": "RODRIGO GOMEZ"
+        },
+        {
+          "jugador": "FRANCO CORSI",
+          "entraPor": "AGUSTIN DOMINGUEZ"
+        },
+        {
+          "jugador": "PATRICIO TRAYNOR",
+          "entraPor": "JOSE GRUBER"
+        },
+        {
+          "jugador": "FEDERICO PITTALA",
+          "entraPor": "IVAN IBAÑEZ"
+        },
+        {
+          "jugador": "TOMAS MURACA",
+          "entraPor": "GONZALO GREGORIO"
+        },
+        {
+          "jugador": "MARTIN APOLO",
+          "entraPor": "IGNACIO TORTORELLA"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "IVAN IBAÑEZ",
+          "tipo": "TRY",
+          "cantidad": 2
+        },
+        {
+          "jugador": "MANUEL ALTAMIRANO",
+          "tipo": "TRY",
+          "cantidad": 2
+        },
+        {
+          "jugador": "IGNACIO TORTORELLA",
+          "tipo": "TRY",
+          "cantidad": 2
+        },
+        {
+          "jugador": "EZEQUIEL VAZQUEZ",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "EZEQUIEL BALESTRA",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "IVAN IBAÑEZ",
+          "tipo": "CONVERSION",
+          "cantidad": 6
+        }
+      ],
+      "tarjetas": [
+        {
+          "jugador": "FRANCO CORSI",
+          "tipo": "AMARILLA"
+        }
+      ]
+    },
+    {
+      "fecha": "2015-10-17",
+      "fechaNota": null,
+      "rival": "LOS CEDROS",
+      "condicion": "VISITANTE",
+      "resultadoPropio": 16,
+      "resultadoRival": 8,
+      "cancha": "LOS CEDROS",
+      "clima": "BUENO",
+      "campoDeJuego": "BUENO",
+      "referee": "LENTINI",
+      "categoria": null,
+      "formacion": [
+        {
+          "numero": 1,
+          "jugador": "RODRIGO GOMEZ"
+        },
+        {
+          "numero": 2,
+          "jugador": "MATIAS BOCO"
+        },
+        {
+          "numero": 3,
+          "jugador": "PABLO FERREIRA"
+        },
+        {
+          "numero": 4,
+          "jugador": "MATIAS AGUERRONDO"
+        },
+        {
+          "numero": 5,
+          "jugador": "EZEQUIEL BALESTRA"
+        },
+        {
+          "numero": 6,
+          "jugador": "EZEQUIEL VAZQUEZ"
+        },
+        {
+          "numero": 7,
+          "jugador": "AGUSTIN DOMINGUEZ"
+        },
+        {
+          "numero": 8,
+          "jugador": "IGNACIO TORTORELLA"
+        },
+        {
+          "numero": 9,
+          "jugador": "IVAN IBAÑEZ"
+        },
+        {
+          "numero": 10,
+          "jugador": "JUAN PEDRO OCCHIUZZI"
+        },
+        {
+          "numero": 11,
+          "jugador": "MANUEL ALTAMIRANO"
+        },
+        {
+          "numero": 12,
+          "jugador": "AGUSTIN MARZIALI"
+        },
+        {
+          "numero": 13,
+          "jugador": "NICOLAS DOMINGUEZ"
+        },
+        {
+          "numero": 14,
+          "jugador": "JOSE GRUBER"
+        },
+        {
+          "numero": 15,
+          "jugador": "GONZALO GREGORIO"
+        }
+      ],
+      "cambios": [
+        {
+          "jugador": "NICOLAS ALTAMIRANO",
+          "entraPor": "EZEQUIEL BALESTRA"
+        },
+        {
+          "jugador": "FRANCO CORSI",
+          "entraPor": "AGUSTIN DOMINGUEZ"
+        },
+        {
+          "jugador": "TOMAS MURACA",
+          "entraPor": "MANUEL ALTAMIRANO"
+        }
+      ],
+      "puntos": [
+        {
+          "jugador": "MANUEL ALTAMIRANO",
+          "tipo": "TRY",
+          "cantidad": 1
+        },
+        {
+          "jugador": "IVAN IBAÑEZ",
+          "tipo": "CONVERSION",
+          "cantidad": 1
+        },
+        {
+          "jugador": "IVAN IBAÑEZ",
+          "tipo": "PENAL",
+          "cantidad": 3
+        }
+      ],
+      "tarjetas": [
+        {
+          "jugador": "EZEQUIEL VAZQUEZ",
+          "tipo": "AMARILLA"
+        },
+        {
+          "jugador": "JUAN PEDRO OCCHIUZZI",
+          "tipo": "AMARILLA"
+        }
+      ]
+    }
+  ]
+}

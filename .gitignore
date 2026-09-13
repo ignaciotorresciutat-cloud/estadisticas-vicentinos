@@ -17,3 +17,4 @@ next-env.d.ts
 /prisma/dev.db-journal
 .vercel
 .claude/settings.local.json
+prisma/dev.db.bak
