@@ -18,8 +18,6 @@ import { SeasonYearPicker } from "@/components/season-year-picker";
 import { TarjetaIcon } from "@/components/tarjeta-icon";
 import { formatNumero, formatDif } from "@/lib/format";
 
-export const dynamic = "force-dynamic";
-
 const NOMBRE_TIPO_PUNTO: Record<string, string> = {
   TRY: "Tries",
   CONVERSION: "Conversiones",
@@ -49,6 +47,13 @@ function formatFechaCorta(d: Date): string {
     .replace(/\.$/, "");
   const resto = new Date(d).toLocaleDateString("es-AR", { timeZone: "UTC", day: "2-digit", month: "2-digit" });
   return `${dia} ${resto}`;
+}
+
+// pre-genera una página por cada temporada jugada, así el sitio no depende
+// de que alguien la visite una vez para que quede estática.
+export async function generateStaticParams() {
+  const temporadas = await getTemporadasDisponibles();
+  return temporadas.map((y) => ({ year: String(y) }));
 }
 
 export async function generateMetadata({ params }: { params: Promise<{ year: string }> }): Promise<Metadata> {

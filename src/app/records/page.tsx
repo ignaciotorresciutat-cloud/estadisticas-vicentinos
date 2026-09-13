@@ -4,8 +4,6 @@ import { getRecords, getTemporadasInfo, getResumenClub } from "@/lib/queries";
 import { MobileBackHeader } from "@/components/mobile-back-header";
 import { formatNumero, formatDif } from "@/lib/format";
 
-export const dynamic = "force-dynamic";
-
 export async function generateMetadata(): Promise<Metadata> {
   const [records, temporadasInfo] = await Promise.all([getRecords(), getTemporadasInfo()]);
   const años = [...temporadasInfo.keys()];

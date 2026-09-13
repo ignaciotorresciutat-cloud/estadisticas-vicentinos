@@ -7,8 +7,6 @@ import { TarjetaIcon } from "@/components/tarjeta-icon";
 import { OrdenSelect } from "@/components/orden-select";
 import { formatNumero } from "@/lib/format";
 
-export const dynamic = "force-dynamic";
-
 export async function generateMetadata(): Promise<Metadata> {
   const club = await getResumenClub();
   const title = "Camadas · Club Vicentinos";

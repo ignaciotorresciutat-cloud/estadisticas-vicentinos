@@ -4,8 +4,6 @@ import { Header } from "@/components/header";
 import { Footer } from "@/components/footer";
 import { NavigationTracker } from "@/components/navigation-tracker";
 
-export const dynamic = "force-dynamic";
-
 // las imágenes de Open Graph se declaran con rutas relativas (ej.
 // "/escudo-vicentinos.jpg"); sin metadataBase, Next no puede convertirlas en
 // URLs absolutas y WhatsApp/Facebook no logran resolver la imagen al armar

@@ -3,6 +3,7 @@ import { notFound } from "next/navigation";
 import type { Metadata } from "next";
 import {
   getJugadorPerfil,
+  getListaJugadoresCompleta,
   getResumenClub,
   getTemporadasInfo,
   type FilaPartidoJugador,
@@ -14,8 +15,6 @@ import { CareerAccordion, type CareerRow } from "./career-accordion";
 import { RivalesCruces, type RivalCruce } from "./rivales-cruces";
 import { resultadoDe } from "./perfil-shared";
 import { cantidadConSustantivo } from "@/lib/format";
-
-export const dynamic = "force-dynamic";
 
 function Chevron({ className = "" }: { className?: string }) {
   return (
@@ -42,6 +41,14 @@ function joinConY(items: string[]): string {
   if (items.length === 0) return "";
   if (items.length === 1) return items[0];
   return `${items.slice(0, -1).join(", ")} y ${items[items.length - 1]}`;
+}
+
+// pre-genera una página por cada jugador que tiene al menos una presencia,
+// así el sitio no depende de que alguien la visite una vez para que quede
+// estática (ver README: la base sólo cambia con un deploy nuevo).
+export async function generateStaticParams() {
+  const jugadores = await getListaJugadoresCompleta();
+  return jugadores.map((j) => ({ id: String(j.id) }));
 }
 
 export async function generateMetadata({ params }: { params: Promise<{ id: string }> }): Promise<Metadata> {

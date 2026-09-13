@@ -9,8 +9,6 @@ import {
 } from "@/lib/queries";
 import { Buscador } from "./buscador";
 
-export const dynamic = "force-dynamic";
-
 export async function generateMetadata(): Promise<Metadata> {
   const club = await getResumenClub();
   const title = "Buscá en todo el archivo · Club Vicentinos";

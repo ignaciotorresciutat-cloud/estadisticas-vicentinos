@@ -13,8 +13,6 @@ import { LineaDeTiempoLista } from "@/components/linea-tiempo-lista";
 import { MobileMenu } from "@/components/mobile-menu";
 import { formatNumero, numeroEnPalabras } from "@/lib/format";
 
-export const dynamic = "force-dynamic";
-
 export async function generateMetadata(): Promise<Metadata> {
   const [club, temporadasInfo] = await Promise.all([getResumenClub(), getTemporadasInfo()]);
   let títulos = 0;

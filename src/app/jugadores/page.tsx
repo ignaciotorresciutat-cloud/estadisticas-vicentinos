@@ -7,8 +7,6 @@ import {
 } from "@/lib/queries";
 import { JugadoresLista } from "./jugadores-lista";
 
-export const dynamic = "force-dynamic";
-
 export async function generateMetadata(): Promise<Metadata> {
   const club = await getResumenClub();
   const title = "Jugadores · Club Vicentinos";

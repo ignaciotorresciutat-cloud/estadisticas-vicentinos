@@ -59,6 +59,22 @@ Quedan por trazabilidad; no se corren en el día a día.
 El repo está conectado a Vercel: **cada push a `main` dispara un deploy**.
 Lo que está publicado es siempre exactamente lo que está en `main`.
 
+## Generación estática
+
+Las páginas que no dependen de un filtro por URL (`/`, `/records`,
+`/referees`, cada `/jugadores/[id]` y cada `/temporadas/[year]`) se generan
+una sola vez **en el build**, no en cada visita: quedan como HTML ya armado,
+servido desde el CDN de Vercel sin tocar la base. Como la base sólo cambia
+con un deploy nuevo, no hace falta ningún `revalidate` — el próximo build ya
+es la próxima actualización.
+
+Las páginas con filtros por query string (`?orden=`, `?tab=`, `?temporada=`:
+los listados de jugadores/camadas/historial, los rankings, `/buscar`, y las
+fichas de `/camadas/[camada]` y `/historial/[clubId]`) siguen
+renderizándose por request, porque necesitan saber qué pidió esa URL
+puntual. No es un problema de configuración: es Next.js respondiendo a que
+esas páginas leen `searchParams`.
+
 ## Un detalle sobre los try penal
 
 En el dataset conviven dos formas de anotar el try penal: como un try solo

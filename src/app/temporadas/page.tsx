@@ -5,8 +5,6 @@ import { MobileBackHeader } from "@/components/mobile-back-header";
 import { CopaIcon } from "@/components/copa-icon";
 import { formatNumero, formatDif, numeroEnPalabras } from "@/lib/format";
 
-export const dynamic = "force-dynamic";
-
 export async function generateMetadata(): Promise<Metadata> {
   const [club, temporadasInfo] = await Promise.all([getResumenClub(), getTemporadasInfo()]);
   const title = "Todas las temporadas · Club Vicentinos";

@@ -4,8 +4,6 @@ import { getRankingPuntos, getTemporadasDisponibles, type FilaRankingPuntos } fr
 import { TemporadaTabs } from "@/components/temporada-tabs";
 import { JugadorLink } from "@/components/jugador-link";
 
-export const dynamic = "force-dynamic";
-
 export async function generateMetadata(): Promise<Metadata> {
   const filas = await getRankingPuntos();
   const lider = [...filas].sort((a, b) => b.puntos - a.puntos)[0];

@@ -16,8 +16,6 @@ import { TarjetaIcon } from "@/components/tarjeta-icon";
 import { OrdenSelect } from "@/components/orden-select";
 import { formatNumero, numeroEnPalabras } from "@/lib/format";
 
-export const dynamic = "force-dynamic";
-
 const SORT_DEFS = [
   { key: "titular", label: "Titular", unit: "Partidos como titular" },
   { key: "suplente", label: "Suplente", unit: "Partidos como suplente" },
@@ -77,6 +75,12 @@ function Copas({ n }: { n: number }) {
       ))}
     </span>
   );
+}
+
+// pre-genera una página por cada camada con al menos un jugador.
+export async function generateStaticParams() {
+  const camadas = await getCamadasResumenCompleta();
+  return camadas.map((c) => ({ camada: String(c.camada) }));
 }
 
 export async function generateMetadata({ params }: { params: Promise<{ camada: string }> }): Promise<Metadata> {

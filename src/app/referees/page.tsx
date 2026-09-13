@@ -1,8 +1,6 @@
 import type { Metadata } from "next";
 import { getRankingReferees } from "@/lib/queries";
 
-export const dynamic = "force-dynamic";
-
 export async function generateMetadata(): Promise<Metadata> {
   const filas = await getRankingReferees();
   const title = "Árbitros · Club Vicentinos";

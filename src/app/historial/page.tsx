@@ -2,8 +2,6 @@ import type { Metadata } from "next";
 import { getHistorialGeneral, getResumenClub } from "@/lib/queries";
 import { RivalesLista } from "./rivales-lista";
 
-export const dynamic = "force-dynamic";
-
 export async function generateMetadata(): Promise<Metadata> {
   const [club, filas] = await Promise.all([getResumenClub(), getHistorialGeneral()]);
   const totalPartidos = filas.reduce((acc, f) => acc + f.total.j, 0);

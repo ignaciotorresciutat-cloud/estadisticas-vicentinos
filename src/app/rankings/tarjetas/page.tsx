@@ -3,8 +3,6 @@ import { getRankingTarjetas, getTemporadasDisponibles } from "@/lib/queries";
 import { TemporadaTabs } from "@/components/temporada-tabs";
 import { JugadorLink } from "@/components/jugador-link";
 
-export const dynamic = "force-dynamic";
-
 export async function generateMetadata(): Promise<Metadata> {
   const filas = await getRankingTarjetas();
   const lider = [...filas].sort((a, b) => b.total - a.total)[0];

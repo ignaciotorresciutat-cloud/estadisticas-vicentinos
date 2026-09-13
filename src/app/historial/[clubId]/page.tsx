@@ -3,6 +3,7 @@ import { notFound } from "next/navigation";
 import type { Metadata } from "next";
 import {
   getClub,
+  getHistorialGeneral,
   getPartidosDetalleRival,
   getTemporadasInfo,
   getResumenClub,
@@ -13,7 +14,11 @@ import { BackLink } from "@/components/back-link";
 import { TarjetaIcon } from "@/components/tarjeta-icon";
 import { formatDif, numeroEnPalabras, cantidadConSustantivo } from "@/lib/format";
 
-export const dynamic = "force-dynamic";
+// pre-genera una página por cada rival contra el que se jugó al menos una vez.
+export async function generateStaticParams() {
+  const rivales = await getHistorialGeneral();
+  return rivales.map((r) => ({ clubId: String(r.clubId) }));
+}
 
 export async function generateMetadata({ params }: { params: Promise<{ clubId: string }> }): Promise<Metadata> {
   const { clubId: clubIdParam } = await params;
