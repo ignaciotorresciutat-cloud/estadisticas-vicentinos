@@ -18,3 +18,4 @@ next-env.d.ts
 .vercel
 .claude/settings.local.json
 prisma/dev.db.bak
+data/exportado.xlsx
