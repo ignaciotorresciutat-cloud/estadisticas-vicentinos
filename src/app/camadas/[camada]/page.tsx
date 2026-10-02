@@ -88,7 +88,7 @@ export async function generateMetadata({ params }: { params: Promise<{ camada: s
   const camada = Number(camadaParam);
   const camadasResumen = await getCamadasResumenCompleta();
   const resumen = camadasResumen.find((c) => c.camada === camada);
-  if (!resumen) return { title: `Camada ${camada} · Club Vicentinos` };
+  if (!resumen) return { title: "Camada no encontrada · Club Vicentinos" };
   const title = `Camada ${camada} · Club Vicentinos`;
   const description = `${resumen.jugadoresConCaps} jugadores, ${resumen.presencias} presencias y ${resumen.tries} tries.`;
   return { title, description, openGraph: { title, description } };

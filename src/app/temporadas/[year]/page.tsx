@@ -61,7 +61,7 @@ export async function generateMetadata({ params }: { params: Promise<{ year: str
   const temporada = Number(year);
   const [resumenes, info] = await Promise.all([getResumenTemporadas(), getTemporadaInfo(temporada)]);
   const resumen = resumenes.find((r) => r.temporada === temporada);
-  if (!resumen) return { title: `Temporada ${temporada} · Club Vicentinos` };
+  if (!resumen) return { title: "Temporada no encontrada · Club Vicentinos" };
   const title = info?.campeon
     ? `Campeón de ${info.torneo} ${temporada} · Club Vicentinos`
     : `Temporada ${temporada} · Club Vicentinos`;
