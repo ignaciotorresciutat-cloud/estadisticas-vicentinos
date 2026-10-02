@@ -125,14 +125,19 @@ export function EscaleraTemporadas({ temporadasInfo }: { temporadasInfo: Map<num
         <div className="flex gap-[3px]">
           {años.map((año) => {
             const info = temporadasInfo.get(año)!;
+            const clase = `flex-1 text-center font-mono text-xs font-semibold ${
+              info.campeon ? "text-orange-dark" : "text-navy-dark"
+            }`;
+            // sin torneo (2020) no hay página de temporada: el año se ve, pero sin link
+            if (!info.torneo) {
+              return (
+                <span key={año} className={clase}>
+                  {año}
+                </span>
+              );
+            }
             return (
-              <Link
-                key={año}
-                href={`/temporadas/${año}`}
-                className={`flex-1 text-center font-mono text-xs font-semibold ${
-                  info.campeon ? "text-orange-dark" : "text-navy-dark"
-                }`}
-              >
+              <Link key={año} href={`/temporadas/${año}`} className={clase}>
                 {año}
               </Link>
             );

@@ -76,8 +76,8 @@ export function LineaDeTiempoLista({
         const esActual = año === actual;
         const destacado = info.campeon || info.ascenso || info.descenso;
 
-        return (
-          <Link key={año} href={`/temporadas/${año}`} className="flex gap-3.5">
+        const contenido = (
+          <>
             <div className="w-[46px] flex-none pt-3.5 text-right">
               <div className="font-mono text-[13px] font-semibold text-navy tabular-nums">{año}</div>
             </div>
@@ -100,7 +100,7 @@ export function LineaDeTiempoLista({
                   <div className="font-mono text-[11px] text-ink tabular-nums">
                     {datos ? `${datos.ganados}—${datos.empatados}—${datos.perdidos}` : "—"}
                   </div>
-                  <Chevron />
+                  {info.torneo && <Chevron />}
                 </div>
               </div>
               {info.campeon && <Badge tipo="campeon" />}
@@ -112,6 +112,20 @@ export function LineaDeTiempoLista({
                 </div>
               )}
             </div>
+          </>
+        );
+
+        // sin torneo (2020) no hay página de temporada: la fila se ve, pero sin link
+        if (!info.torneo) {
+          return (
+            <div key={año} className="flex gap-3.5">
+              {contenido}
+            </div>
+          );
+        }
+        return (
+          <Link key={año} href={`/temporadas/${año}`} className="flex gap-3.5">
+            {contenido}
           </Link>
         );
       })}

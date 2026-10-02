@@ -265,16 +265,15 @@ export default async function TemporadasPage({
             const etiqueta = etiquetaDe(f);
             const activo = (k: OrdenKey) => (orden === k ? "600" : "400");
             const inkActivo = (k: OrdenKey) => (orden === k ? "#003868" : "#46658a");
-            return (
-              <Link
-                key={f.año}
-                href={`/temporadas/${f.año}`}
-                className="grid items-center gap-2.5 border-t border-navy/[.09] px-5 py-3.5"
-                style={{
-                  gridTemplateColumns: "48px 74px minmax(150px,1fr) 54px 92px 108px 66px 74px 74px 84px 66px",
-                  background: f.campeon ? "rgba(248,156,56,.07)" : "transparent",
-                }}
-              >
+            const propsFila = {
+              className: "grid items-center gap-2.5 border-t border-navy/[.09] px-5 py-3.5",
+              style: {
+                gridTemplateColumns: "48px 74px minmax(150px,1fr) 54px 92px 108px 66px 74px 74px 84px 66px",
+                background: f.campeon ? "rgba(248,156,56,.07)" : "transparent",
+              },
+            };
+            const contenido = (
+              <>
                 <div>
                   {etiqueta && (
                     <span
@@ -360,6 +359,20 @@ export default async function TemporadasPage({
                 >
                   {f.jugada ? f.jugadores : "—"}
                 </div>
+              </>
+            );
+
+            // sin jugar (2020) no hay página de temporada: la fila se ve, pero sin link
+            if (!f.jugada) {
+              return (
+                <div key={f.año} {...propsFila}>
+                  {contenido}
+                </div>
+              );
+            }
+            return (
+              <Link key={f.año} href={`/temporadas/${f.año}`} {...propsFila}>
+                {contenido}
               </Link>
             );
           })}
