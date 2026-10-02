@@ -6,6 +6,11 @@ récords del club.
 
 ## Empezar de cero
 
+> **Si trabajás con Claude Code en esta Mac, leé primero [CLAUDE.md](CLAUDE.md).**
+> El entorno tiene un sandbox y dos cuentas de GitHub, y el clone de abajo,
+> tal cual, no alcanza para poder hacer push: ahí están la URL correcta, dónde
+> clonar, los flags de `npm install` y cómo levantar el preview.
+
 Si esta carpeta no existe (el entorno de trabajo es una carpeta temporal que
 puede perderse entre sesiones):
 
@@ -102,7 +107,7 @@ En los dos casos suma 7 en la cancha. Por eso cualquier validación de
 
 ## Pendientes conocidos
 
-- **13 partidos cuya suma de anotadores no cierra** con ninguna de las dos
+- **12 partidos cuya suma de anotadores no cierra** con ninguna de las dos
   reglas de arriba (datos incompletos, probablemente falta cargar algún
   punto). Se dejó así a propósito el 12/09 para no tocar sin confirmar cada
   caso con el club. `npm run db:verificar` los lista siempre actualizados,
@@ -113,3 +118,5 @@ En los dos casos suma 7 en la cancha. Por eso cualquier validación de
 - **`public/temporadas/2025.jpg` pesa 5 MB** (foto de cámara sin comprimir,
   4284×5712). No afecta datos ni build, sólo el peso de esa página para el
   visitante. Pendiente de comprimir.
+- **`npm run lint` no corre**: `typescript-eslint` todavía no soporta
+  TypeScript 7.0. No afecta el build. Detalle en [CLAUDE.md](CLAUDE.md).
