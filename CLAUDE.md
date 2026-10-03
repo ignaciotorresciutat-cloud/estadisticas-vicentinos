@@ -104,6 +104,36 @@ push desde su terminal sale por SSH con la cuenta del trabajo y falla con
 GIT_CONFIG_GLOBAL=/dev/null git -C "$TMPDIR/ev" push https://github.com/ignaciotorresciutat-cloud/estadisticas-vicentinos.git main
 ```
 
+## Planilla de carga (Google Sheets) → sitio
+
+Desde octubre 2026 los partidos se cargan en una Google Sheet armada por
+[`planilla/Codigo.gs`](planilla/Codigo.gs) (Apps Script; ver
+[`planilla/README.md`](planilla/README.md)). La planilla es de Ignacio
+(`ignaciotorresciutat@gmail.com`) y la usa también quien recolecta los datos.
+
+Para pasar lo cargado al sitio:
+
+1. Ignacio exporta la planilla (Archivo → Descargar → Microsoft Excel) y la
+   copia a la carpeta del proyecto de la sesión (Claude no puede leer
+   `~/Downloads`: la administración de la Mac lo bloquea).
+2. `npm run importar-planilla -- <archivo.xlsx> --simular` → reporte de qué
+   cambia (partidos nuevos/corregidos, jugadores, clubes, N° de Vicentino).
+   Los partidos sin cambios no se tocan: compara por contenido.
+3. Sin `--simular` escribe `data/base/`. Después `db:build`, `db:verificar`,
+   `db:comparar` (tiene que mostrar sólo lo esperado), build, preview,
+   commit y push con el OK de Ignacio.
+
+Reglas de datos que aplica el importador (y la planilla):
+- **N° de Vicentino**: sólo para quien debuta de TITULAR, en orden de debut.
+  1..85 son históricos fijos; del 86 en adelante se recalcula siempre.
+- **Try penal**: vale 7 → se guarda como TRY + CONVERSION del anotador
+  `TRY PENAL`. El sitio cuenta como "tries" sólo los de jugadores reales.
+
+Para cambiar el script con la planilla en uso: pegar el código nuevo y
+correr `actualizarPlanilla` (no borra datos). `configurar` la rearma desde el
+repo y **pierde lo que no esté en el sitio**: correrlo sólo justo después de
+importar y publicar.
+
 ## Problemas conocidos del tooling
 
 - **`npm run lint` no corre**: `typescript-eslint` no soporta TypeScript 7.0,
