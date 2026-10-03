@@ -605,7 +605,7 @@
     "id": 1241,
     "nombre": "EMILIO CHAVES",
     "camada": 1999,
-    "vicentinoN": null,
+    "vicentinoN": 87,
     "esJugadorReal": true
   },
   {
@@ -654,7 +654,7 @@
     "id": 1248,
     "nombre": "MATÍAS COMPANYS",
     "camada": 2003,
-    "vicentinoN": null,
+    "vicentinoN": 86,
     "esJugadorReal": true
   },
   {
@@ -682,21 +682,21 @@
     "id": 1252,
     "nombre": "TOMÁS PARRA",
     "camada": 2004,
-    "vicentinoN": null,
+    "vicentinoN": 89,
     "esJugadorReal": true
   },
   {
     "id": 1253,
     "nombre": "JUAN PABLO OCCHIUZZI",
     "camada": 2006,
-    "vicentinoN": null,
+    "vicentinoN": 88,
     "esJugadorReal": true
   },
   {
     "id": 1254,
     "nombre": "AUGUSTO ROVETTA",
     "camada": 2004,
-    "vicentinoN": null,
+    "vicentinoN": 90,
     "esJugadorReal": true
   },
   {
