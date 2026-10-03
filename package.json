@@ -18,7 +18,8 @@
     "archivo:migrate-excel": "node --import tsx scripts/migrate.ts",
     "archivo:corregir-resultados": "node --import tsx scripts/aplicar-correcciones-resultado.ts",
     "archivo:corregir-participaciones": "node --import tsx scripts/aplicar-correcciones-participacion.ts",
-    "archivo:analizar-resultados": "node --import tsx scripts/analyze-resultados.ts"
+    "archivo:analizar-resultados": "node --import tsx scripts/analyze-resultados.ts",
+    "importar-planilla": "node --import tsx scripts/importar-planilla.ts"
   },
   "dependencies": {
     "@prisma/adapter-better-sqlite3": "^7.10.0",
