@@ -789,5 +789,19 @@
     "camada": null,
     "vicentinoN": null,
     "esJugadorReal": true
+  },
+  {
+    "id": 1268,
+    "nombre": "LUCIO DIAZ",
+    "camada": null,
+    "vicentinoN": null,
+    "esJugadorReal": true
+  },
+  {
+    "id": 1269,
+    "nombre": "FABRIZIO GAGGINI",
+    "camada": null,
+    "vicentinoN": null,
+    "esJugadorReal": true
   }
 ]
