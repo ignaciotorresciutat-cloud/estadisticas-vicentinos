@@ -2,12 +2,12 @@
   "temporada": 2026,
   "info": {
     "torneo": "Primera B",
-    "posicion": null,
+    "posicion": 14,
     "rankingUrba": null,
     "campeon": false,
     "ascenso": false,
-    "descenso": false,
-    "nota": "En curso"
+    "descenso": true,
+    "nota": null
   },
   "partidos": [
     {
