@@ -1,5 +1,6 @@
 import Link from "next/link";
 import type { InfoTemporada } from "@/lib/queries";
+import { temporadaEnCurso } from "@/lib/format";
 
 type FilaTemporada = { ganados: number; empatados: number; perdidos: number };
 
@@ -73,7 +74,7 @@ export function LineaDeTiempoLista({
       {años.map((año) => {
         const info = temporadasInfo.get(año)!;
         const datos = datosPorAño.get(año);
-        const esActual = año === actual;
+        const esActual = temporadaEnCurso(año, info.posicion, actual);
         const destacado = info.campeon || info.ascenso || info.descenso;
 
         const contenido = (

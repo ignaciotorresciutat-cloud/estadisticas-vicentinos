@@ -1,6 +1,7 @@
 import Link from "next/link";
 import type { InfoTemporada } from "@/lib/queries";
 import { CopaIcon } from "./copa-icon";
+import { temporadaEnCurso } from "@/lib/format";
 
 const NIVEL_TORNEO: Record<string, number> = {
   "Grupo IV": 0,
@@ -40,6 +41,7 @@ function MarcadorLogro({ info }: { info: InfoTemporada }) {
 export function EscaleraTemporadas({ temporadasInfo }: { temporadasInfo: Map<number, InfoTemporada> }) {
   const años = [...temporadasInfo.keys()].sort((a, b) => a - b);
   const actual = Math.max(...años);
+  const hayEnCurso = años.some((año) => temporadaEnCurso(año, temporadasInfo.get(año)!.posicion, actual));
 
   return (
     <div>
@@ -72,7 +74,7 @@ export function EscaleraTemporadas({ temporadasInfo }: { temporadasInfo: Map<num
           <div className="absolute inset-x-0 bottom-0 flex h-full items-end gap-[3px]">
             {años.map((año) => {
               const info = temporadasInfo.get(año)!;
-              const esActual = año === actual;
+              const esActual = temporadaEnCurso(año, info.posicion, actual);
               const nivel = info.torneo ? (NIVEL_TORNEO[info.torneo] ?? null) : null;
 
               if (nivel === null) {
@@ -161,10 +163,12 @@ export function EscaleraTemporadas({ temporadasInfo }: { temporadasInfo: Map<num
           <span className="flex h-4 w-4 items-center justify-center rounded-full bg-[#9c2b1f] text-[10px] text-white">↓</span>
           Descenso
         </span>
-        <span className="flex items-center gap-1.5">
-          <span className="h-4 w-4 rounded-[3px] bg-navy/55" />
-          Temporada en curso
-        </span>
+        {hayEnCurso && (
+          <span className="flex items-center gap-1.5">
+            <span className="h-4 w-4 rounded-[3px] bg-navy/55" />
+            Temporada en curso
+          </span>
+        )}
       </div>
     </div>
   );

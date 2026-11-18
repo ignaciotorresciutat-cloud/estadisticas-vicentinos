@@ -3,7 +3,7 @@ import type { Metadata } from "next";
 import { getResumenTemporadas, getTemporadasInfo, getResumenClub } from "@/lib/queries";
 import { MobileBackHeader } from "@/components/mobile-back-header";
 import { CopaIcon } from "@/components/copa-icon";
-import { formatNumero, formatDif, numeroEnPalabras } from "@/lib/format";
+import { formatNumero, formatDif, numeroEnPalabras, temporadaEnCurso } from "@/lib/format";
 
 export async function generateMetadata(): Promise<Metadata> {
   const [club, temporadasInfo] = await Promise.all([getResumenClub(), getTemporadasInfo()]);
@@ -114,7 +114,7 @@ export default async function TemporadasPage({
       campeon: info.campeon,
       ascenso: info.ascenso,
       descenso: info.descenso,
-      actual: año === añoActual,
+      actual: temporadaEnCurso(año, info.posicion, añoActual),
       pj: r?.partidosJugados ?? 0,
       g: r?.ganados ?? 0,
       e: r?.empatados ?? 0,

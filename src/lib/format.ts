@@ -51,3 +51,10 @@ export function formatDif(n: number): string {
   if (n < 0) return `−${formatNumero(Math.abs(n))}`;
   return formatNumero(n);
 }
+
+// Una temporada está "en curso" si es la última cargada y todavía no tiene
+// posición final. Así, cuando termina y se carga la posición, deja de
+// figurar en curso sin tocar código (y la siguiente pasa a estarlo sola).
+export function temporadaEnCurso(año: number, posicion: number | null, ultimoAño: number): boolean {
+  return año === ultimoAño && posicion === null;
+}
