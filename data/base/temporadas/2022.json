@@ -1475,6 +1475,11 @@
         },
         {
           "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "CONVERSION",
+          "cantidad": 2
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
           "tipo": "PENAL",
           "cantidad": 2
         }
@@ -1598,6 +1603,11 @@
           "jugador": "MARIANO LIVACHOFF",
           "tipo": "TRY",
           "cantidad": 1
+        },
+        {
+          "jugador": "SANTIAGO TRAYNOR",
+          "tipo": "CONVERSION",
+          "cantidad": 2
         },
         {
           "jugador": "SANTIAGO TRAYNOR",

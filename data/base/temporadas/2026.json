@@ -2007,7 +2007,7 @@
         {
           "jugador": "SANTIAGO TRAYNOR",
           "tipo": "CONVERSION",
-          "cantidad": 1
+          "cantidad": 2
         },
         {
           "jugador": "SANTIAGO TRAYNOR",
@@ -2129,7 +2129,7 @@
         {
           "jugador": "SANTIAGO TRAYNOR",
           "tipo": "PENAL",
-          "cantidad": 2
+          "cantidad": 3
         }
       ],
       "tarjetas": []

@@ -257,6 +257,11 @@
         },
         {
           "jugador": "IVAN IBAÑEZ",
+          "tipo": "CONVERSION",
+          "cantidad": 1
+        },
+        {
+          "jugador": "IVAN IBAÑEZ",
           "tipo": "PENAL",
           "cantidad": 4
         }
