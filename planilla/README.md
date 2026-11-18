@@ -22,7 +22,7 @@ la planilla en sí no se versiona, este script sí.
    - Si aparece "Google no verificó esta app": *Configuración avanzada →
      Ir a (nombre del proyecto)*. Es normal en scripts propios.
 5. Tarda uno o dos minutos. Al terminar, la planilla tiene todas las hojas y
-   los 287 partidos de 2014 a 2026.
+   el historial completo desde 2014 (293 partidos al 18/11/2026).
 
 Después de esto, quien cargue datos **no necesita autorizar nada**: las
 casillas GUARDAR / LIMPIAR / ABRIR funcionan con un disparador simple
@@ -31,8 +31,10 @@ casillas GUARDAR / LIMPIAR / ABRIR funcionan con un disparador simple
 ## Cambiar el script con la planilla en uso
 
 **`configurar` borra la planilla y la rearma desde el repo**: se pierden los
-partidos cargados en la planilla que todavía no estén en el sitio. Desde que
-la planilla tiene partidos reales (03/10/2026), los cambios se aplican así:
+partidos cargados en la planilla que todavía no estén en el sitio. La
+planilla se rearmó por última vez el 18/11/2026, al cerrar la temporada 2026
+(sin datos propios: todo estaba en el sitio). Apenas se cargue un partido
+nuevo, los cambios se aplican así:
 
 1. Pegar el `Codigo.gs` nuevo en Apps Script y guardar. Los cambios de
    comportamiento (lo que hacen las casillas y desplegables) ya funcionan.

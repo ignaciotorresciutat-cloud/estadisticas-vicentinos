@@ -115,14 +115,13 @@ En los dos casos suma 7 en la cancha. Por eso cualquier validación de
 
 ## Pendientes conocidos
 
-- **12 partidos cuya suma de anotadores no cierra** con ninguna de las dos
-  reglas de arriba (datos incompletos, probablemente falta cargar algún
-  punto). Se dejó así a propósito el 12/09 para no tocar sin confirmar cada
-  caso con el club. `npm run db:verificar` los lista siempre actualizados,
-  junto con cualquier otro que aparezca — no hace falta buscarlos a mano acá.
-- **3 fechas con dos partidos el mismo día** (típico typo de fecha en la
-  carga original): 2022-07-09, 2025-03-15, 2025-08-02. Mismo estado: sin
-  confirmar con el club todavía, aparecen en `db:verificar`.
+- **4 partidos cuya suma de anotadores no cierra** con ninguna de las dos
+  reglas de arriba: Beromama 2015, Los Cedros 2016, DAOM 2017 y GEBA 2022.
+  Ya venían así del Excel original y tienen más de una explicación posible,
+  así que se dejan como están (decisión del 18/11/2026) hasta que el
+  recolector los aclare. `npm run db:verificar` los lista siempre.
+  Los otros 8 que no cerraban y las 3 fechas repetidas se corrigieron el
+  18/11/2026 (ver `git log`).
 - **`public/temporadas/2025.jpg` pesa 5 MB** (foto de cámara sin comprimir,
   4284×5712). No afecta datos ni build, sólo el peso de esa página para el
   visitante. Pendiente de comprimir.

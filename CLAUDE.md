@@ -114,8 +114,10 @@ Desde octubre 2026 los partidos se cargan en una Google Sheet armada por
 Para pasar lo cargado al sitio:
 
 1. Ignacio exporta la planilla (Archivo → Descargar → Microsoft Excel) y la
-   copia a la carpeta del proyecto de la sesión (Claude no puede leer
-   `~/Downloads`: la administración de la Mac lo bloquea).
+   copia a la carpeta del proyecto de la sesión. Leer `~/Downloads` depende
+   de la sesión: las herramientas de archivos lo tienen bloqueado por la
+   administración de la Mac, pero el 18/11/2026 `node` desde Bash sí pudo
+   leer el Excel de ahí.
 2. `npm run importar-planilla -- <archivo.xlsx> --simular` → reporte de qué
    cambia (partidos nuevos/corregidos, jugadores, clubes, N° de Vicentino,
    ranking URBA del año).
@@ -138,6 +140,26 @@ Para cambiar el script con la planilla en uso: pegar el código nuevo y
 correr `actualizarPlanilla` (no borra datos). `configurar` la rearma desde el
 repo y **pierde lo que no esté en el sitio**: correrlo sólo justo después de
 importar y publicar.
+
+## Migración del Excel original (cerrada el 18/11/2026)
+
+Se revisó hoja por hoja el Excel del recolector ("Estadísticas V 2026") para
+no perder nada al pasar a la planilla nueva. Quedó así, con Ignacio:
+
+- **Migrado**: todos los partidos, y el Ranking URBA completo de cada año
+  (`data/base/ranking-urba/`, página `/ranking-urba`, hoja RANKING URBA).
+  Los tries por línea de juego de SCORERS se calculan solos ("Tries por
+  posición" en cada temporada).
+- **Descartado a propósito** (no volver a proponerlo): puntos de tabla por
+  partido (sólo en CAMPAÑA 2024), "partidos que no vi", el seguimiento del
+  referí Villalobos, formaciones de rivales, el Seven 2022 (tabla parcial,
+  un solo año) y las cuentas auxiliares de las hojas CAMPAÑA.
+- **Sin corregir a propósito**: los 4 partidos de anotadores que no suman
+  (ver Pendientes en el README).
+
+Ese mismo día se rearmó la planilla con `configurar` (293 partidos, sin
+datos propios). Desde el primer partido de 2027 cargado ahí, `configurar`
+ya no se puede correr: los cambios van por `actualizarPlanilla`.
 
 ## Problemas conocidos del tooling
 
