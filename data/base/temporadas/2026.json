@@ -3,7 +3,7 @@
   "info": {
     "torneo": "Primera B",
     "posicion": 14,
-    "rankingUrba": null,
+    "rankingUrba": 44,
     "campeon": false,
     "ascenso": false,
     "descenso": true,

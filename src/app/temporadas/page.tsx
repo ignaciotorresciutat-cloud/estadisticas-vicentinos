@@ -41,6 +41,7 @@ type FilaAño = {
   jugada: boolean;
   torneo: string | null;
   posicion: number | null;
+  rankingUrba: number | null;
   nota: string | null;
   campeon: boolean;
   ascenso: boolean;
@@ -110,6 +111,7 @@ export default async function TemporadasPage({
       jugada: !!r,
       torneo: info.torneo,
       posicion: info.posicion,
+      rankingUrba: info.rankingUrba,
       nota: info.nota,
       campeon: info.campeon,
       ascenso: info.ascenso,
@@ -180,6 +182,13 @@ export default async function TemporadasPage({
             {formatNumero(club.partidos)} partidos, {formatNumero(club.tries)} tries. Tocá una para abrir su
             detalle.
           </p>
+          <Link
+            href="/ranking-urba"
+            className="mt-4 inline-flex min-h-9 items-center rounded-full px-[14px] font-mono text-[11.5px] font-semibold tracking-[.03em] text-white"
+            style={{ border: "1px solid rgba(255,255,255,.3)" }}
+          >
+            Ranking URBA →
+          </Link>
         </div>
       </section>
 
@@ -191,7 +200,11 @@ export default async function TemporadasPage({
         <h1 className="mt-3 text-[44px] font-extrabold tracking-[-.03em] text-navy-dark">Todas las temporadas</h1>
         <p className="mt-3 max-w-[640px] text-[15.5px] leading-[1.55] text-ink">
           Las {numeroEnPalabras(temporadasInfo.size)} campañas con sus números lado a lado. Ordenalas por lo que
-          quieras comparar y abrí una para ver fecha por fecha.
+          quieras comparar y abrí una para ver fecha por fecha.{" "}
+          <Link href="/ranking-urba" className="font-semibold text-navy underline underline-offset-2">
+            Ver el ranking URBA de cada año
+          </Link>
+          .
         </p>
         <div className="mt-6 flex flex-wrap gap-2">
           {ORDEN_OPCIONES.map((o) => (
@@ -219,13 +232,14 @@ export default async function TemporadasPage({
           <div
             className="grid items-center gap-2.5 px-5 py-3"
             style={{
-              gridTemplateColumns: "48px 74px minmax(150px,1fr) 54px 92px 108px 66px 74px 74px 84px 66px",
+              gridTemplateColumns: "48px 74px minmax(150px,1fr) 60px 54px 92px 108px 66px 74px 74px 84px 66px",
               background: "rgba(0,56,104,.05)",
             }}
           >
             <div />
             <div className="font-mono text-[9px] font-semibold tracking-[.1em] text-ink uppercase">Año</div>
             <div className="font-mono text-[9px] font-semibold tracking-[.1em] text-ink uppercase">Torneo</div>
+            <div className="text-right font-mono text-[9px] font-semibold tracking-[.1em] text-ink uppercase">URBA</div>
             <div className="text-right font-mono text-[9px] font-semibold tracking-[.1em] text-ink uppercase">PJ</div>
             <div
               className="text-right font-mono text-[9px] font-semibold tracking-[.1em] uppercase"
@@ -268,7 +282,7 @@ export default async function TemporadasPage({
             const propsFila = {
               className: "grid items-center gap-2.5 border-t border-navy/[.09] px-5 py-3.5",
               style: {
-                gridTemplateColumns: "48px 74px minmax(150px,1fr) 54px 92px 108px 66px 74px 74px 84px 66px",
+                gridTemplateColumns: "48px 74px minmax(150px,1fr) 60px 54px 92px 108px 66px 74px 74px 84px 66px",
                 background: f.campeon ? "rgba(248,156,56,.07)" : "transparent",
               },
             };
@@ -315,6 +329,9 @@ export default async function TemporadasPage({
                       {{ campeon: "Campeón", descenso: "Descenso", ascenso: "Ascenso", actual: "En curso" }[etiqueta]}
                     </span>
                   )}
+                </div>
+                <div className="text-right font-mono text-[13.5px] text-ink tabular-nums">
+                  {f.rankingUrba ? `${f.rankingUrba}°` : "—"}
                 </div>
                 <div className="text-right font-mono text-[13.5px] text-ink tabular-nums">{f.jugada ? f.pj : "—"}</div>
                 <div
@@ -380,7 +397,7 @@ export default async function TemporadasPage({
           <div
             className="grid items-center gap-2.5 px-5 py-3.5"
             style={{
-              gridTemplateColumns: "48px 74px minmax(150px,1fr) 54px 92px 108px 66px 74px 74px 84px 66px",
+              gridTemplateColumns: "48px 74px minmax(150px,1fr) 60px 54px 92px 108px 66px 74px 74px 84px 66px",
               borderTop: "2px solid rgba(0,56,104,.18)",
               background: "rgba(0,56,104,.04)",
             }}
@@ -388,6 +405,7 @@ export default async function TemporadasPage({
             <div />
             <div className="font-mono text-[9px] tracking-[.1em] text-ink uppercase">Total</div>
             <div className="font-mono text-[11px] text-ink">{jugadas.length} campañas</div>
+            <div />
             <div className="text-right font-mono text-[13.5px] font-semibold text-navy-dark tabular-nums">
               {formatNumero(totales.pj)}
             </div>
@@ -411,7 +429,8 @@ export default async function TemporadasPage({
           </div>
         </div>
         <p className="mt-4 font-mono text-[10.5px] leading-[1.6]" style={{ color: "rgba(0,56,104,.45)" }}>
-          Los totales excluyen 2020, sin torneo por la pandemia. Cada fila abre la temporada fecha por fecha.
+          Los totales excluyen 2020, sin torneo por la pandemia. Cada fila abre la temporada fecha por fecha. URBA:
+          puesto en el ranking de clubes de la URBA al terminar el año.
         </p>
       </div>
     </main>
@@ -454,6 +473,7 @@ function TarjetaTemporada({ f }: { f: FilaAño }) {
           <div className="mt-2 text-sm font-semibold text-ink">
             {f.torneo}
             {f.posicion ? ` · ${f.posicion}º` : ""}
+            {f.rankingUrba ? ` · URBA ${f.rankingUrba}°` : ""}
           </div>
         </div>
         <div className="flex flex-none items-center gap-2.5 pt-1.5">

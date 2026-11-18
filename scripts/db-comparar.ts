@@ -12,6 +12,9 @@ const a = new Database(pathA, { readonly: true });
 const b = new Database(pathB, { readonly: true });
 
 function filas(db: Database.Database, sql: string): string[] {
+  // una tabla nueva todavía no existe en la base anterior: cuenta como vacía
+  const tabla = sql.match(/from\s+(\w+)/i)?.[1];
+  if (tabla && !db.prepare(`select 1 from sqlite_master where type = 'table' and name = ?`).get(tabla)) return [];
   return (db.prepare(sql).all() as Record<string, unknown>[])
     .map((r) => JSON.stringify(r))
     .sort();
@@ -21,6 +24,7 @@ function filas(db: Database.Database, sql: string): string[] {
 const CONSULTAS: Record<string, string> = {
   Club: `select id, nombreCanonico from Club`,
   Jugador: `select id, nombreCanonico, vicentinoN, camada, esJugadorReal from Jugador`,
+  RankingUrba: `select temporada, posicion, club, variacion from RankingUrba`,
   TemporadaInfo: `select temporada, torneo, posicion, rankingUrba, campeon, ascenso, descenso, nota from TemporadaInfo`,
   // los ids de Partido/Participacion/etc no se exponen en ninguna URL, así que
   // se compara el contenido identificando cada partido por temporada+fecha+rival.

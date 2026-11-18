@@ -1851,3 +1851,67 @@ export async function getPosicionesJugador(jugadorId: number): Promise<FilaPosic
     (f) => f.partidos > 0
   );
 }
+
+// ---------- ranking URBA ----------
+
+// el nombre del club propio en la tabla de la URBA
+export const CLUB_PROPIO_RANKING = "VICENTINOS";
+
+export type FilaRankingUrba = {
+  posicion: number;
+  club: string;
+  variacion: number | null;
+  // id del club si alguna vez fue rival (para linkear a su historial)
+  clubId: number | null;
+  propio: boolean;
+};
+
+export type PuntoRankingUrba = {
+  temporada: number;
+  posicion: number;
+  variacion: number | null;
+  clubes: number;
+  torneo: string | null;
+};
+
+export async function getTemporadasRankingUrba(): Promise<number[]> {
+  const filas = await prisma.rankingUrba.findMany({
+    select: { temporada: true },
+    distinct: ["temporada"],
+    orderBy: { temporada: "desc" },
+  });
+  return filas.map((f) => f.temporada);
+}
+
+export async function getRankingUrba(temporada: number): Promise<FilaRankingUrba[]> {
+  const [filas, clubes] = await Promise.all([
+    prisma.rankingUrba.findMany({ where: { temporada }, orderBy: { posicion: "asc" } }),
+    prisma.club.findMany({ select: { id: true, nombreCanonico: true } }),
+  ]);
+  const idPorNombre = new Map(clubes.map((c) => [c.nombreCanonico, c.id]));
+  return filas.map((f) => ({
+    posicion: f.posicion,
+    club: f.club,
+    variacion: f.variacion,
+    clubId: idPorNombre.get(f.club) ?? null,
+    propio: f.club === CLUB_PROPIO_RANKING,
+  }));
+}
+
+// la posición de Vicentinos año por año, con cuántos clubes tenía la tabla
+export async function getEvolucionRankingUrba(): Promise<PuntoRankingUrba[]> {
+  const [propias, totales, infos] = await Promise.all([
+    prisma.rankingUrba.findMany({ where: { club: CLUB_PROPIO_RANKING }, orderBy: { temporada: "asc" } }),
+    prisma.rankingUrba.groupBy({ by: ["temporada"], _count: { _all: true } }),
+    prisma.temporadaInfo.findMany({ select: { temporada: true, torneo: true } }),
+  ]);
+  const clubesPorAño = new Map(totales.map((t) => [t.temporada, t._count._all]));
+  const torneoPorAño = new Map(infos.map((i) => [i.temporada, i.torneo]));
+  return propias.map((p) => ({
+    temporada: p.temporada,
+    posicion: p.posicion,
+    variacion: p.variacion,
+    clubes: clubesPorAño.get(p.temporada) ?? 0,
+    torneo: torneoPorAño.get(p.temporada) ?? null,
+  }));
+}

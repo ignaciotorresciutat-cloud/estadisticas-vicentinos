@@ -11,13 +11,19 @@
  *
  * También sincroniza jugadores y clubes nuevos (con ids nuevos), la camada de
  * los jugadores, los datos de torneo de cada temporada, y recalcula el N° de
- * Vicentino con la regla del club (ver numerarVicentinos).
+ * Vicentino con la regla del club (ver numerarVicentinos), y el ranking URBA
+ * de cada año (hoja RANKING URBA), del que sale también el puesto de
+ * Vicentinos de cada temporada.
  *
  * Con --simular muestra el reporte sin escribir nada.
  */
 import { readFileSync, writeFileSync, existsSync, readdirSync } from "node:fs";
 import { fileURLToPath } from "node:url";
 import * as XLSX from "xlsx";
+import {
+  escribirRanking, leerRankingsUrba, normalizadorDeClubes, problemasRanking, serializarRanking,
+  NOMBRE_PROPIO, type RankingUrba,
+} from "./ranking-urba";
 
 const BASE_DIR = fileURLToPath(new URL("../data/base/", import.meta.url));
 const TEMPORADAS_DIR = `${BASE_DIR}temporadas/`;
@@ -224,6 +230,43 @@ function main() {
     }
   }
 
+  // ---------- ranking URBA (hoja RANKING URBA: temporada, posición, club, variación) ----------
+  const rankingsNuevos: RankingUrba[] = [];
+  const shRanking = wb.Sheets["RANKING URBA"];
+  if (shRanking) {
+    const previos = leerRankingsUrba();
+    const normalizar = normalizadorDeClubes(clubes.map((c) => c.nombre), previos);
+    const porAnio = new Map<number, RankingUrba>();
+    for (const f of XLSX.utils.sheet_to_json<Fila>(shRanking, { header: 1, raw: true, defval: "" }).slice(1)) {
+      const anio = numero(f[0]), posicion = numero(f[1]), club = texto(f[2]);
+      if (!anio || !posicion || !club) continue;
+      if (!porAnio.has(anio)) porAnio.set(anio, { temporada: anio, posiciones: [] });
+      porAnio.get(anio)!.posiciones.push({ posicion, club: normalizar(club), variacion: numero(f[3]) });
+    }
+    for (const r of [...porAnio.values()].sort((a, b) => a.temporada - b.temporada)) {
+      r.posiciones.sort((a, b) => a.posicion - b.posicion);
+      const problemas = problemasRanking(r);
+      if (problemas.length) {
+        reporte.push(`❌ Ranking URBA ${r.temporada} NO se importa: ${problemas.join("; ")}`);
+        continue;
+      }
+      const anterior = previos.find((p) => p.temporada === r.temporada);
+      if (!anterior || serializarRanking(anterior) !== serializarRanking(r)) {
+        reporte.push(`Ranking URBA ${r.temporada}: ${anterior ? "corregido" : "nuevo"} (${r.posiciones.length} clubes)`);
+        rankingsNuevos.push(r);
+      }
+      // el puesto de Vicentinos de la temporada sale de la tabla
+      const puesto = r.posiciones.find((p) => p.club === NOMBRE_PROPIO)!.posicion;
+      const t = temporadas.get(r.temporada);
+      if (!t) reporte.push(`⚠️ Ranking URBA ${r.temporada}: no hay partidos de esa temporada, no se guarda el puesto`);
+      else if (t.info && t.info.rankingUrba !== puesto) {
+        reporte.push(`Ranking URBA de Vicentinos ${r.temporada}: ${t.info.rankingUrba ?? "sin dato"} → ${puesto}`);
+        t.info = { ...t.info, rankingUrba: puesto };
+        tocadas.add(r.temporada);
+      }
+    }
+  }
+
   // ---------- N° de Vicentino ----------
   for (const cambio of numerarVicentinos(jugadores, temporadas)) {
     reporte.push(cambio);
@@ -237,11 +280,12 @@ function main() {
     return;
   }
   for (const anio of [...tocadas].sort()) escribirJSON(`${TEMPORADAS_DIR}${anio}.json`, temporadas.get(anio));
+  rankingsNuevos.forEach(escribirRanking);
   if (catalogos) {
     escribirJSON(`${BASE_DIR}jugadores.json`, jugadores);
     escribirJSON(`${BASE_DIR}clubes.json`, clubes);
   }
-  if (tocadas.size || catalogos) console.log("\nEscrito en data/base/. Siguiente paso: npm run db:build && npm run db:verificar && npm run db:comparar");
+  if (tocadas.size || catalogos || rankingsNuevos.length) console.log("\nEscrito en data/base/. Siguiente paso: npm run db:build && npm run db:verificar && npm run db:comparar");
 }
 
 /**

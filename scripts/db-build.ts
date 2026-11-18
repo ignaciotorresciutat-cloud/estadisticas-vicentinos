@@ -12,6 +12,7 @@
 import Database from "better-sqlite3";
 import { readFileSync, readdirSync, existsSync, renameSync, copyFileSync, unlinkSync } from "node:fs";
 import { fileURLToPath } from "node:url";
+import { leerRankingsUrba } from "./ranking-urba";
 
 const BASE_DIR = fileURLToPath(new URL("../data/base/", import.meta.url));
 const TEMPORADAS_DIR = `${BASE_DIR}temporadas/`;
@@ -98,6 +99,10 @@ function main() {
     return id ?? null;
   };
 
+  const insRanking = db.prepare(`INSERT INTO RankingUrba (temporada, posicion, club, variacion) VALUES (?, ?, ?, ?)`);
+  const rankings = leerRankingsUrba();
+  let nRanking = 0;
+
   let nPartidos = 0;
   let nParticipaciones = 0;
   let nPuntos = 0;
@@ -172,6 +177,14 @@ function main() {
   });
 
   cargar();
+  db.transaction(() => {
+    for (const r of rankings) {
+      for (const p of r.posiciones) {
+        insRanking.run(r.temporada, p.posicion, p.club, p.variacion);
+        nRanking++;
+      }
+    }
+  })();
   db.pragma("foreign_keys = ON");
   const fk = db.pragma("foreign_key_check") as unknown[];
   db.close();
@@ -197,6 +210,7 @@ function main() {
   console.log(`✅ Base reconstruida desde data/base/`);
   console.log(`   ${clubes.length} clubes, ${jugadores.length} jugadores`);
   console.log(`   ${nPartidos} partidos, ${nParticipaciones} participaciones, ${nPuntos} puntos, ${nTarjetas} tarjetas`);
+  console.log(`   ranking URBA: ${rankings.length} años, ${nRanking} posiciones`);
   if (existsSync(BAK_PATH)) console.log(`   (la base anterior quedó en prisma/dev.db.bak)`);
 }
 

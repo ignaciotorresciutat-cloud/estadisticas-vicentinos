@@ -94,3 +94,17 @@ model TemporadaInfo {
   descenso    Boolean @default(false)
   nota        String?
 }
+
+// ranking URBA de fin de temporada: la tabla completa de clubes de cada año
+// (data/base/ranking-urba/AAAA.json). "club" es texto y no una relación: la
+// mayoría de los clubes del ranking nunca fueron rivales; los que sí, usan el
+// mismo nombre que Club.nombreCanonico y el sitio los linkea a su historial.
+model RankingUrba {
+  id        Int    @id @default(autoincrement())
+  temporada Int
+  posicion  Int
+  club      String
+  variacion Int?
+
+  @@unique([temporada, posicion])
+}

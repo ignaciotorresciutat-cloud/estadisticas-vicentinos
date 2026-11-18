@@ -16,6 +16,7 @@
     "prisma:migrate": "prisma migrate dev",
     "prisma:studio": "prisma studio",
     "archivo:migrate-excel": "node --import tsx scripts/migrate.ts",
+    "archivo:migrate-ranking-urba": "node --import tsx scripts/migrate-ranking-urba.ts",
     "archivo:corregir-resultados": "node --import tsx scripts/aplicar-correcciones-resultado.ts",
     "archivo:corregir-participaciones": "node --import tsx scripts/aplicar-correcciones-participacion.ts",
     "archivo:analizar-resultados": "node --import tsx scripts/analyze-resultados.ts",

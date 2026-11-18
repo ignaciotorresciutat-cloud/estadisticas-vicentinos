@@ -117,7 +117,8 @@ Para pasar lo cargado al sitio:
    copia a la carpeta del proyecto de la sesión (Claude no puede leer
    `~/Downloads`: la administración de la Mac lo bloquea).
 2. `npm run importar-planilla -- <archivo.xlsx> --simular` → reporte de qué
-   cambia (partidos nuevos/corregidos, jugadores, clubes, N° de Vicentino).
+   cambia (partidos nuevos/corregidos, jugadores, clubes, N° de Vicentino,
+   ranking URBA del año).
    Los partidos sin cambios no se tocan: compara por contenido.
 3. Sin `--simular` escribe `data/base/`. Después `db:build`, `db:verificar`,
    `db:comparar` (tiene que mostrar sólo lo esperado), build, preview,
@@ -126,6 +127,10 @@ Para pasar lo cargado al sitio:
 Reglas de datos que aplica el importador (y la planilla):
 - **N° de Vicentino**: sólo para quien debuta de TITULAR, en orden de debut.
   1..85 son históricos fijos; del 86 en adelante se recalcula siempre.
+- **Ranking URBA**: hoja RANKING URBA (temporada, posición, club,
+  variación), se pega una vez por año. Un año con puestos repetidos o
+  salteados, o sin VICENTINOS, no se importa. El puesto de Vicentinos pasa
+  solo a `info.rankingUrba`.
 - **Try penal**: vale 7 → se guarda como TRY + CONVERSION del anotador
   `TRY PENAL`. El sitio cuenta como "tries" sólo los de jugadores reales.
 

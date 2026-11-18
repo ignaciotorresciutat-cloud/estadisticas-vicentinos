@@ -44,6 +44,9 @@ la planilla tiene partidos reales (03/10/2026), los cambios se aplican así:
 Si un cambio de diseño no entra en `actualizarPlanilla`, hay que agregarlo
 ahí (no correr `configurar`).
 
+La hoja RANKING URBA (noviembre 2026) no la agrega `actualizarPlanilla`: llega
+con el próximo `configurar`, que se corre justo después de importar y publicar.
+
 ## Hojas
 
 | Hoja | Qué es |
@@ -54,7 +57,8 @@ ahí (no correr `configurar`).
 | CORREGIR PARTIDO | Misma ficha, para corregir un partido ya cargado (pestaña roja, al final: casi no se usa) |
 | PARTIDOS | Un partido por fila. Columna *Estado* con lo que no cierra |
 | VER PARTIDO | Muestra un partido completo, sólo lectura |
-| TEMPORADAS · RANKING JUGADORES · RIVALES · REFEREES | Resúmenes automáticos, con filtro por temporada |
+| TEMPORADAS · RANKING JUGADORES · RIVALES · REFEREES | Resúmenes automáticos, con filtro por temporada. En TEMPORADAS, la tabla de torneos (O:V) se edita a mano, salvo *Ranking URBA*, que sale sola |
+| RANKING URBA | El ranking de clubes de la URBA de cada año (una fila por club). Se pega una vez por año, al terminar la temporada; a la derecha, el puesto de Vicentinos año por año |
 | JUGADORES · CLUBES | Catálogos: de acá salen los desplegables |
 | LISTAS | Referees, canchas, clima, campo, anotadores especiales y listas calculadas |
 | BASE FORMACIONES · BASE PUNTOS · BASE TARJETAS | Los datos de cada partido en tablas (de acá va a leer el sitio) |

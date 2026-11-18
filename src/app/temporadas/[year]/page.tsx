@@ -141,6 +141,15 @@ export default async function TemporadaPage({
             </div>
           )}
           <p className="mt-3.5 text-[13.5px] leading-[1.5] text-white/78">{seasonMeta}</p>
+          {info?.rankingUrba && (
+            <Link
+              href={`/ranking-urba?temporada=${temporada}`}
+              className="mt-3 inline-flex min-h-8 items-center gap-1.5 rounded-full px-3 font-mono text-[11px] font-semibold tracking-[.04em] text-white"
+              style={{ border: "1px solid rgba(255,255,255,.3)" }}
+            >
+              <span className="text-orange">Ranking URBA</span> {info.rankingUrba}° →
+            </Link>
+          )}
         </div>
       </section>
 
@@ -188,6 +197,15 @@ export default async function TemporadaPage({
               )}
             </div>
             <div className="mt-3.5 text-[16.5px] text-white/75">{seasonMeta}</div>
+          {info?.rankingUrba && (
+            <Link
+              href={`/ranking-urba?temporada=${temporada}`}
+              className="mt-3 inline-flex min-h-8 items-center gap-1.5 rounded-full px-3 font-mono text-[11px] font-semibold tracking-[.04em] text-white"
+              style={{ border: "1px solid rgba(255,255,255,.3)" }}
+            >
+              <span className="text-orange">Ranking URBA</span> {info.rankingUrba}° →
+            </Link>
+          )}
           </div>
           <div className="grid grid-cols-4 gap-px overflow-hidden rounded-[14px]" style={{ background: "rgba(255,255,255,.18)" }}>
             <HeroRecordCell value={resumen.ganados} label="Ganados" />

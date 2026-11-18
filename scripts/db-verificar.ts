@@ -7,6 +7,7 @@
  */
 import { readFileSync, readdirSync } from "node:fs";
 import { fileURLToPath } from "node:url";
+import { leerRankingsUrba, problemasRanking, NOMBRE_PROPIO } from "./ranking-urba";
 
 const BASE_DIR = fileURLToPath(new URL("../data/base/", import.meta.url));
 const TEMPORADAS_DIR = `${BASE_DIR}temporadas/`;
@@ -46,9 +47,11 @@ for (const j of jugadores) {
 // --- partidos ---
 let totalPartidos = 0;
 const fechasVistas = new Map<string, string[]>();
+const rankingUrbaDeTemporada = new Map<number, number | null>();
 
 for (const archivo of readdirSync(TEMPORADAS_DIR).filter((f) => f.endsWith(".json")).sort()) {
   const t = leer<any>(`${TEMPORADAS_DIR}${archivo}`);
+  rankingUrbaDeTemporada.set(t.temporada, t.info?.rankingUrba ?? null);
 
   for (const p of t.partidos ?? []) {
     totalPartidos++;
@@ -110,6 +113,19 @@ for (const [clave, rivales] of fechasVistas) {
     const [temporada, fecha] = clave.split("|");
     avisos.push(`${temporada}: dos partidos el mismo día (${fecha}) — contra ${rivales.join(" y ")}`);
   }
+}
+
+// --- ranking URBA: tablas sanas y la posición de Vicentinos igual a la de la temporada ---
+const rankings = leerRankingsUrba();
+for (const r of rankings) {
+  problemasRanking(r).forEach((e) => errores.push(`ranking URBA ${e}`));
+  const propia = r.posiciones.find((p) => p.club === NOMBRE_PROPIO)?.posicion ?? null;
+  const info = rankingUrbaDeTemporada.get(r.temporada);
+  if (info === undefined) errores.push(`ranking URBA ${r.temporada}: no hay temporada ${r.temporada} en data/base/temporadas/`);
+  else if (info !== propia) errores.push(`ranking URBA ${r.temporada}: la tabla dice ${propia}° y la temporada dice ${info ?? "sin ranking"}`);
+}
+for (const [temporada, puesto] of rankingUrbaDeTemporada) {
+  if (puesto !== null && !rankings.some((r) => r.temporada === temporada)) avisos.push(`${temporada}: tiene ranking URBA ${puesto}° pero no la tabla completa`);
 }
 
 // --- salida ---

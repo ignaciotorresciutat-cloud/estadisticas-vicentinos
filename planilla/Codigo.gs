@@ -22,6 +22,7 @@ const H = {
   PARTIDOS: 'PARTIDOS',
   VER: 'VER PARTIDO',
   TEMP: 'TEMPORADAS',
+  RURBA: 'RANKING URBA',
   RANK: 'RANKING JUGADORES',
   RIV: 'RIVALES',
   REF: 'REFEREES',
@@ -46,6 +47,8 @@ const NORMALIZAR_ANOTADOR = { SCRUM: 'TRY SCRUM', PENAL: 'TRY PENAL' };
 const CLIMAS = ['BUENO', 'NUBLADO', 'LLOVIZNA', 'LLUVIOSO', 'VENTOSO', 'MUY VENTOSO', 'FRÍO', 'INESTABLE'];
 const CAMPOS = ['MUY BUENO', 'BUENO', 'REGULAR', 'PESADO', 'BARROSO', 'MALO', 'ANEGADO'];
 const CANCHA_LOCAL = 'VICENTINOS';
+// cómo figura el club en el ranking URBA
+const NOMBRE_PROPIO = 'VICENTINOS';
 // último N° de Vicentino verificado del historial (MIGUEL ALMIRÓN, debut 10/05/2025).
 // Del siguiente en adelante, la planilla los calcula por orden de debut como titular.
 const ULTIMO_N_HISTORICO = 85;
@@ -674,7 +677,7 @@ function configurar() {
   const tmp = ss.insertSheet('_tmp_' + Date.now());
   ss.getSheets().forEach((s) => { if (s.getSheetId() !== tmp.getSheetId()) ss.deleteSheet(s); });
   ss.getNamedRanges().forEach((n) => n.remove());
-  const orden = [H.INICIO, H.CARGA, H.FIX, H.PARTIDOS, H.VER, H.TEMP, H.RANK, H.RIV, H.REF,
+  const orden = [H.INICIO, H.CARGA, H.FIX, H.PARTIDOS, H.VER, H.TEMP, H.RURBA, H.RANK, H.RIV, H.REF,
     H.JUG, H.CLUB, H.LIST, H.CORR, H.FORM, H.PTS, H.TARJ];
   const hojas = {};
   orden.forEach((nombre, i) => { hojas[nombre] = ss.insertSheet(nombre, i); });
@@ -690,6 +693,7 @@ function configurar() {
   escribirTabla_(hojas[H.PTS], ['ID partido', 'Temporada', 'Orden', 'Anotador', 'Tries', 'Conv.', 'Penales', 'Drops'], datos.puntos);
   escribirTabla_(hojas[H.TARJ], ['ID partido', 'Temporada', 'Orden', 'Jugador', 'Tipo'], datos.tarjetas);
   escribirTabla_(hojas[H.FIX], ['Temporada', 'Fecha N°', 'Fecha', 'Rival', 'Condición', 'Cancha'], datos.fixture);
+  escribirTabla_(hojas[H.RURBA], ['Temporada', 'Posición', 'Club', 'Variación'], datos.rankingUrba);
   hojas[H.PARTIDOS].getRange('B2:B').setNumberFormat('dd/mm/yyyy');
   armarListas_(hojas[H.LIST], datos);
 
@@ -703,6 +707,7 @@ function configurar() {
   armarFicha_(ss, hojas[H.CORR], 'C', true);
   armarVer_(hojas[H.VER], datos.ultimaTemporada);
   armarTemporadas_(hojas[H.TEMP], datos.infoTemporadas);
+  armarRankingUrba_(hojas[H.RURBA]);
   armarRanking_(hojas[H.RANK]);
   armarRivales_(hojas[H.RIV]);
   armarReferees_(hojas[H.REF]);
@@ -716,7 +721,7 @@ function configurar() {
     if (selectores[n]) prot.setUnprotectedRanges(selectores[n].map((a1) => hojas[n].getRange(a1)));
   });
 
-  const colores = { [H.CARGA]: '#f89c38', [H.FIX]: '#f89c38', [H.PARTIDOS]: NAVY, [H.VER]: NAVY, [H.CORR]: ROJO };
+  const colores = { [H.CARGA]: '#f89c38', [H.FIX]: '#f89c38', [H.RURBA]: '#f89c38', [H.PARTIDOS]: NAVY, [H.VER]: NAVY, [H.CORR]: ROJO };
   Object.entries(colores).forEach(([n, c]) => hojas[n].setTabColor(c));
   [H.FORM, H.PTS, H.TARJ].forEach((n) => hojas[n].setTabColor('#9aa9b8'));
 
@@ -733,12 +738,15 @@ function descargarBase_() {
     return r.getResponseCode() === 200 ? JSON.parse(r.getContentText()) : null;
   };
   const temporadas = [];
+  const rankingUrba = [];
   const hasta = new Date().getFullYear();
   for (let anio = PRIMERA_TEMPORADA; anio <= hasta; anio++) {
     const t = bajar(`temporadas/${anio}.json`);
     if (t) temporadas.push(t);
+    const r = bajar(`ranking-urba/${anio}.json`);
+    if (r) rankingUrba.push(r);
   }
-  return { clubes: bajar('clubes.json'), jugadores: bajar('jugadores.json'), temporadas };
+  return { clubes: bajar('clubes.json'), jugadores: bajar('jugadores.json'), temporadas, rankingUrba };
 }
 
 /** número de serie de fecha (días desde 30/12/1899), sin hora: igual que una fecha cargada a mano */
@@ -805,8 +813,12 @@ function construirDatos_(base) {
   const fixture = FIXTURE_INICIAL.map(([temp, n, iso, rival, cond, cancha]) => [temp, n, serieFecha_(iso), rival, cond,
     cancha || (cond === 'LOCAL' ? CANCHA_LOCAL : ultimaCanchaVisitante(rival))]);
 
+  // ranking URBA: una fila por club y año, como lo publica la URBA
+  const rankingUrba = (base.rankingUrba || []).flatMap((r) =>
+    r.posiciones.map((p) => [r.temporada, p.posicion, p.club, p.variacion === null ? '' : p.variacion]));
+
   return {
-    jugadores, clubes, partidos, formaciones, puntos, tarjetas, infoTemporadas, fixture,
+    jugadores, clubes, partidos, formaciones, puntos, tarjetas, infoTemporadas, fixture, rankingUrba,
     referees: [...referees].sort(), canchas: [...canchas].sort(),
     ultimaTemporada: Math.max(...base.temporadas.map((t) => t.temporada)),
   };
@@ -1292,8 +1304,40 @@ function armarTemporadas_(sh, info) {
   const encInfo = ['Temporada', 'Torneo', 'Posición', 'Ranking URBA', 'Campeón', 'Ascenso', 'Descenso', 'Nota'];
   sh.getRange(2, 15, 1, encInfo.length).setValues([encInfo]); estiloEncabezado_(sh.getRange(2, 15, 1, encInfo.length));
   if (info.length) sh.getRange(3, 15, info.length, encInfo.length).setValues(info).setBackground(AMARILLO);
+  // el puesto de Vicentinos sale solo de la hoja RANKING URBA (no se carga dos veces)
+  sh.getRange('R3:R').clearContent().setBackground(AUTO);
+  sh.getRange('R3').setFormula(`=MAP(O3:O,LAMBDA(anio,IF(anio="","",IFERROR(INDEX(FILTER('${H.RURBA}'!B2:B,` +
+    `'${H.RURBA}'!A2:A=anio,'${H.RURBA}'!C2:C="${NOMBRE_PROPIO}"),1),""))))`);
+  sh.getRange('R2').setNote(`Se completa solo desde la hoja ${H.RURBA}.`);
   sh.setFrozenRows(2);
   sh.setColumnWidth(2, 130); sh.setColumnWidth(16, 130); sh.setColumnWidth(22, 260);
+}
+
+function armarRankingUrba_(sh) {
+  sh.getRange('A:A').setHorizontalAlignment('center');
+  sh.getRange('A2:D').setBackground(AMARILLO);
+  sh.setColumnWidth(3, 220);
+
+  // a la derecha, el puesto de Vicentinos año por año (se calcula solo)
+  titulo_(sh, 'F1', 'Vicentinos por año');
+  const enc = ['Temporada', 'Puesto', 'Clubes'];
+  sh.getRange(2, 6, 1, enc.length).setValues([enc]); estiloEncabezado_(sh.getRange(2, 6, 1, enc.length));
+  sh.getRange('F3').setFormula('=IFERROR(LET(anios,SORT(UNIQUE(FILTER(A2:A,A2:A<>"")),1,FALSE),' +
+    `HSTACK(anios,MAP(anios,LAMBDA(a,IFERROR(INDEX(FILTER(B2:B,A2:A=a,C2:C="${NOMBRE_PROPIO}"),1),"❌ falta ${NOMBRE_PROPIO}"))),` +
+    'MAP(anios,LAMBDA(a,COUNTIF(A2:A,a))))),"")');
+
+  const ayuda = [
+    ['Cómo se carga (una vez por año)'],
+    ['Al terminar la temporada, la URBA publica el ranking de clubes.'],
+    ['1. Pegá la tabla debajo de la última fila, en las columnas B, C y D (Posición, Club, Variación).'],
+    ['2. Completá la Temporada (columna A) en todas esas filas.'],
+    [`3. Vicentinos tiene que figurar como ${NOMBRE_PROPIO}.`],
+    ['Variación: puestos que subió (positivo) o bajó (negativo) respecto del año anterior.'],
+    ['El puesto de Vicentinos pasa solo a la hoja TEMPORADAS y al sitio.'],
+  ];
+  sh.getRange(1, 10, ayuda.length, 1).setValues(ayuda);
+  sh.getRange('J1').setFontWeight('bold').setFontColor('#8a5a12');
+  sh.setColumnWidth(10, 520);
 }
 
 function armarRanking_(sh) {
@@ -1384,6 +1428,9 @@ function armarInicio_(sh) {
     ['Jugador nuevo: agregalo al final de la hoja JUGADORES (nombre y camada). El N° de Vicentino se asigna solo cuando debuta.', ''],
     ['Club nuevo: agregalo al final de la hoja CLUBES.', ''],
     ['Referee o cancha nuevos: escribilos directamente en la ficha; se suman a LISTAS al guardar.', ''],
+    ['', ''],
+    ['Ranking URBA (una vez por año)', 'sub'],
+    ['Al terminar la temporada, pegá en la hoja RANKING URBA la tabla de clubes que publica la URBA (posición, club, variación) y completá el año. El puesto de Vicentinos pasa solo a TEMPORADAS y al sitio.', ''],
     ['', ''],
     ['Qué se completa solo (no hace falta tocarlo)', 'sub'],
     ['PARTIDOS: la lista de todos los partidos, con una columna Estado que marca los que tienen algo raro.', ''],

@@ -44,7 +44,15 @@ data/base/
   clubes.json                 catálogo de rivales (con su id, que está en /historial/[clubId])
   jugadores.json              catálogo de jugadores (con su id, que está en /jugadores/[id])
   temporadas/2014.json ...    un archivo por temporada, con sus partidos completos
+  ranking-urba/2014.json ...  el ranking URBA de clubes de ese año, completo (una fila por club)
 ```
+
+El ranking URBA se completa una vez por año, al terminar la temporada. El
+puesto de Vicentinos queda también en `info.rankingUrba` de la temporada, y
+`db:verificar` controla que coincidan. Los clubes del ranking que fueron
+rivales se guardan con el mismo nombre que en `clubes.json` (así
+`/ranking-urba` los linkea a su historial); los demás, como los publica la
+URBA, unificados año a año (`scripts/ranking-urba.ts`).
 
 Cada partido es un bloque legible: resultado, cancha, clima, árbitro,
 formación, cambios, anotadores y tarjetas. Corregir un dato es editar una
