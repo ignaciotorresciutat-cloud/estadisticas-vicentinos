@@ -1915,3 +1915,86 @@ export async function getEvolucionRankingUrba(): Promise<PuntoRankingUrba[]> {
     torneo: torneoPorAño.get(p.temporada) ?? null,
   }));
 }
+
+// ---------- tries por línea de juego ----------
+
+export const LINEAS = ["1ras líneas", "2das líneas", "3ras líneas", "Medios", "Centros", "Wings y fullback"] as const;
+export type Linea = (typeof LINEAS)[number];
+
+export function lineaDeCamiseta(numero: number): Linea | null {
+  if (numero >= 1 && numero <= 3) return "1ras líneas";
+  if (numero <= 5) return "2das líneas";
+  if (numero <= 8) return "3ras líneas";
+  if (numero <= 10) return "Medios";
+  if (numero === 12 || numero === 13) return "Centros";
+  if (numero === 11 || numero === 14 || numero === 15) return "Wings y fullback";
+  return null;
+}
+
+export type FilaTriesPorLinea = {
+  linea: Linea;
+  tries: number;
+  anotadores: { jugadorId: number; nombre: string; tries: number }[];
+};
+
+export type TriesPorLinea = {
+  lineas: FilaTriesPorLinea[];
+  // tries penales y de scrum: no son de un jugador
+  especiales: number;
+  // tries de jugadores cuyo puesto no se puede saber (suplente sin "ingresa por")
+  sinPuesto: number;
+};
+
+// cada try cuenta en la línea de la camiseta que el anotador tenía ESE
+// partido; el que entró desde el banco hereda la camiseta del que reemplazó
+// (siguiendo la cadena si reemplazó a otro suplente)
+export async function getTriesPorLinea(temporada?: number): Promise<TriesPorLinea> {
+  const where = temporada ? { partido: { temporada } } : {};
+  const [tries, participaciones] = await Promise.all([
+    prisma.puntuacion.findMany({
+      where: { ...where, tipo: "TRY" },
+      select: { partidoId: true, cantidad: true, jugador: { select: { id: true, nombreCanonico: true, esJugadorReal: true } } },
+    }),
+    prisma.participacion.findMany({
+      where,
+      select: { partidoId: true, jugadorId: true, numeroCamiseta: true, rol: true, ingresoPorId: true },
+    }),
+  ]);
+
+  const porPartido = new Map<number, typeof participaciones>();
+  for (const p of participaciones) porPartido.set(p.partidoId, [...(porPartido.get(p.partidoId) ?? []), p]);
+  const camiseta = (partidoId: number, jugadorId: number): number | null => {
+    const del = porPartido.get(partidoId) ?? [];
+    let actual = del.find((p) => p.jugadorId === jugadorId);
+    for (let saltos = 0; actual && saltos < 10; saltos++) {
+      if (actual.rol === "TITULAR") return actual.numeroCamiseta;
+      if (!actual.ingresoPorId) return null;
+      const reemplazado = actual.ingresoPorId;
+      actual = del.find((p) => p.jugadorId === reemplazado);
+    }
+    return null;
+  };
+
+  const filas = new Map<Linea, FilaTriesPorLinea>(LINEAS.map((l) => [l, { linea: l, tries: 0, anotadores: [] }]));
+  let especiales = 0;
+  let sinPuesto = 0;
+  for (const t of tries) {
+    if (!t.jugador.esJugadorReal) {
+      especiales += t.cantidad;
+      continue;
+    }
+    const numero = camiseta(t.partidoId, t.jugador.id);
+    const linea = numero === null ? null : lineaDeCamiseta(numero);
+    if (!linea) {
+      sinPuesto += t.cantidad;
+      continue;
+    }
+    const fila = filas.get(linea)!;
+    fila.tries += t.cantidad;
+    const a = fila.anotadores.find((x) => x.jugadorId === t.jugador.id);
+    if (a) a.tries += t.cantidad;
+    else fila.anotadores.push({ jugadorId: t.jugador.id, nombre: t.jugador.nombreCanonico, tries: t.cantidad });
+  }
+  for (const f of filas.values()) f.anotadores.sort((a, b) => b.tries - a.tries || a.nombre.localeCompare(b.nombre));
+  return { lineas: [...filas.values()], especiales, sinPuesto };
+}

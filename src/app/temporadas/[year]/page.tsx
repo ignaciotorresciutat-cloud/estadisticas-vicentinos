@@ -12,7 +12,9 @@ import {
   getDebutantesTemporada,
   getResumenClub,
   type PartidoDetalle,
+  getTriesPorLinea,
 } from "@/lib/queries";
+import { TriesPorLineaBloque } from "@/components/tries-por-linea";
 import { MobileBackHeader } from "@/components/mobile-back-header";
 import { SeasonYearPicker } from "@/components/season-year-picker";
 import { TarjetaIcon } from "@/components/tarjeta-icon";
@@ -77,13 +79,14 @@ export default async function TemporadaPage({
   const { year } = await params;
   const temporada = Number(year);
 
-  const [resumenes, partidos, temporadasDisponibles, info, debutantes, club] = await Promise.all([
+  const [resumenes, partidos, temporadasDisponibles, info, debutantes, club, triesPorLinea] = await Promise.all([
     getResumenTemporadas(),
     getPartidosDetalleTemporada(temporada),
     getTemporadasDisponibles(),
     getTemporadaInfo(temporada),
     getDebutantesTemporada(temporada),
     getResumenClub(),
+    getTriesPorLinea(temporada),
   ]);
   const resumen = resumenes.find((r) => r.temporada === temporada);
   if (!resumen) notFound();
@@ -321,6 +324,10 @@ export default async function TemporadaPage({
           </div>
         )}
 
+        <div className="px-5 pt-[30px]">
+          <TriesPorLineaBloque datos={triesPorLinea} />
+        </div>
+
         <div className="px-5 pt-8">
           <h2 className="text-[19px] font-extrabold tracking-[-.02em] text-navy-dark">Partidos</h2>
           <div className="mt-[11px] flex items-center gap-3.5">
@@ -433,6 +440,10 @@ export default async function TemporadaPage({
               </div>
             </div>
           )}
+
+          <div className="rounded-[14px] border border-navy/[.13] p-[22px]">
+            <TriesPorLineaBloque datos={triesPorLinea} />
+          </div>
         </div>
       </div>
     </main>
