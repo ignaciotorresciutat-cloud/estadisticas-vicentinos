@@ -26,6 +26,7 @@ const ITEMS: NavItem[] = [
   { href: "/historial", label: "Rivales" },
   { href: "/camadas", label: "Camadas" },
   { href: "/records", label: "Récords" },
+  { href: "/ranking-urba", label: "Ranking URBA" },
 ];
 
 // nav horizontal de escritorio; en mobile cada pantalla usa <MobileMenu />

@@ -44,6 +44,7 @@ export function MobileMenu({
     { href: "/historial", label: "Rivales", meta: `${clubesCount} clubes` },
     { href: "/camadas", label: "Camadas", meta: `${camadasCount} camadas` },
     { href: "/records", label: "Récords" },
+    { href: "/ranking-urba", label: "Ranking URBA", meta: "Entre los clubes de la URBA, año por año" },
   ];
 
   return (
